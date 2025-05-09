@@ -27,15 +27,15 @@
 0027 ; Zo en zo :/ ; Έτσι κι έτσι :/
 0028 ; Afschuwelijk! ; Χάλια!
 0029 ; Heel slecht! ; Πολύ άσχημα!
-0030 ; Jij ook? ; Κι εσύ;
+0030 ; En jij? ; Κι εσύ;
 0031 ; Gefeliciteerd! ; Χρόνια πολλά!
 0032 ; Leve lang! ; Να τα εκατοστίσεις!
 0033 ; Voici! (Hier heb je); Ορίστε!
 0034 ; Alsjeblieft; Παρακαλώ
-0035 ; Pronto; ; Εμπρός;
+0035 ; Pronto; Εμπρός
 0036 ; Spreek!, Zeg maar! ; Λέγετε!
 0037 ; alfabet ; αλφάβητο
-0038 ; de namen
+0038 ; de namen ;
 0039 ; wie ben je /pjos íesè/ ; Ποιος είσαι; /pjos íesè/
 0040 ; wie ben je /pja íesè/ ; Ποια είσαι; /pja íesè/
 0041 ; Wat is je naam? ; Πώς σε λένε;
@@ -98,7 +98,7 @@
 0098 ; daar ; εκεί 
 0099 ; ook ik ; κεγώ
 0100 ; ook ; επίσης 
-0101 ; Ja; ; Ναι;
+0101 ; Ja; Ναι
 0102 ; papier ; χαρτί 
 0103 ; kaart ; κάρτα 
 0104 ; papier ; χάρτης 
@@ -377,7 +377,7 @@
 0377 ; in Madrid ; στην Μαδρίτη
 0378 ; Kent u Grieks? ; Ξέρεις ελληνικά;
 0379 ; Nee, ik weet het niet, maar ik begrijp het een beetje! ; Όχι, δεν ξέρω, μα καταλαβαίνω λίγο!
-0380 ; frans ; γαλλικά
+0380 ; Frans ; γαλλικά
 0381 ; Engels ; αγγλικά
 0382 ; Duits /jermaniká/ ; γερμανικά /jermaniká/
 0383 ; Vlaams ; φλαμανδικά 
@@ -392,7 +392,7 @@
 0392 ; Ik wacht op Vangelis. ; Περιμένω τον Βαγγέλη.
 0393 ; het kind ; το παιδί
 0394 ; het meisje ; το κορίτσι 
-0395 ; wat wil je ; Τι θέλεις;
+0395 ; Wat wil je? ; Τι θέλεις;
 0396 ; Ik wil koffie. ; Θέλω έναν καφέ.
 0397 ; een frappé ; έναν φραπέ
 0398 ; een melk ; ένα γάλα
@@ -400,47 +400,46 @@
 0400 ; een thee ; ένα τσάι 
 0401 ; een limonade ; μια λεμονάδα
 0402 ; een ijsje ; ένα παγωτό
-0403 ; een cheesecake ; μια τυρόπιτα
-0404 ; een baklava ; έναν μπακλαβά
+0403 ; een fètagebak ; μια τυρόπιτα
+0404 ; een baklavas ; έναν μπακλαβά
 0405 ; een sinaasappelsap ; έναν χυμό πορτοκάλι
 0406 ; Heeft u een probleem? ; Έχεις πρόβλημα;
 0407 ; auto ; αυτοκίνητο
 0408 ; mobiel ; κινητό
 0409 ; telefoon ; τηλέφωνο 
 0410 ; krant ; εφημερίδα
-0411 ; Ouzo ; ούζο
-0412 ; Kego ; κεγώ 
-0413 ; Geen stress! ; Όχι άγχος!
+0411 ; ouzo ; ούζο
+0412 ; ik ook ; κεγώ 
+0413 ; No stress! ; Όχι άγχος!
 0414 ; Ik ga uit /vjéno/ ; βγαίνω /vjéno/
-0415 ; ei ; αύγο
-0416 ; ei ; αβγό
+0415 ; ei ; αύγο, αβγό
 0417 ; schip /plíejo/ ; πλοίο /plíejo/
-0418 ; Eerst ; πρώτος
-0419 ; seconde ; δεύτερος
+0418 ; eerst ; πρώτος
+0419 ; tweede ; δεύτερος
 0420 ; les ; μάθημα 
-0421 ; één - één, één, één ; ένα -- ένας, μία, ένα
-0422 ; d�� ; δύ��
-0423 ; drie-drie, drie, drie ; τρία -- τρεις, τρεις, τρία 
-0424 ; vier - vier, vier vier ; τέσσερα -- τέσσερις, τέσσερις τέσσερα
+0421 ; één ; ένας, μία, ένα
+0422 ; twee ; δύο
+0423 ; drie; τρεις, τρεις, τρία 
+0424 ; vier ; τέσσερις, τέσσερις τέσσερα
 0425 ; vijf ; πέντε
 0426 ; zes ; έξι
 0427 ; zeven ; επτά
-0428 ; OK ; οκ��ώ
+0428 ; acht ; οκ��ώ
 0429 ; negen ; εννέα
 0430 ; tien ; δέκα
 0431 ; Hoe laat is het ; Τι ώρα είναι;
 0432 ; de tijd ; η ώρα
-0433 ; de minuut, de minuten ; το λεπτό, τα λεπτά 
+0433 ; minuut, minuten; το λεπτό, τα λεπτά 
 0434 ; de tweede ; το δευτερόλεπτο
 0435 ; de vierde ; το τέταρτο
 0436 ; het halfuur ; η μησή ώρα
-0437 ; de helft, de helft, de helft ; μισός, μισή, μισό
+0437 ; de helft ; μισός, μισή, μισό
 0438 ; Het is kwart over tien. ; Έιναι δέκα και τέταρτο.
-0439 ; Het is twee over tien. ; Είναι δύο παρά δέκα.
-0440 ; Het is precies drie uur! ; Έιναι τρεις η ώρα ακριβώς!
-0441 ; 01:30 Het is half één. ; 01:30 Είναι μία και μισή.
-0442 ; 02:40 drie over twintig ; 02:40 τρεις παρά είκοσι
-0443 ; 03:45 kwart over vier ; 03:45 τέσσερις παρά τέταρτο
+0439 ; Het is twee voor tien. ; Είναι δύο παρά δέκα.
+0440 ; Het is precies drie uur. ; Έιναι τρεις η ώρα ακριβώς.
+0441 ; 01:30 ; 01:30 Είναι μία και μισή.
+0442 ; 02:40 ; 02:40 τρεις παρά είκοσι
+0443 ; 03:45 ; 03:45 τέσσερις παρά τέταρτο
 0444 ; zesenvijftig kilometer ; πενήντα έξι χιλιόμετρα 
 0445 ; Eretria ; Ερέτρια 
 0446 ; Thebe /tiva/ ; Θήβα /tiva/
@@ -646,11 +645,11 @@
 0646 ; student ; φοιτητής 
 0647 ; student ; φοιτήτρια
 0648 ; in het Vlaams ; στα φλαμανδικά
-0649 ; De naam van mijn zoon is Michali. ; Το γιο μου τον λένε Μιχάλη.
+0649 ; Mijn zoon heet Michaël. ; Το γιο μου τον λένε Μιχάλη.
 0650 ; priester ; παπάς
-0651 ; per dag ; καθ' ημέρα 
+0651 ; elke dag, dagelijks ; καθ' ημέρα 
 0652 ; in de Griekse les ; στην τάξη Ελληνικών
-0653 ; natuurlijk ; φυσικά
+0653 ; Natuurlijk! ; φυσικά!
 0654 ; vrij ; ελεύθερος
 0655 ; zonder ; χωρίς
 0656 ; gescheiden ; χωρισμένη
@@ -1010,7 +1009,7 @@
 1010 ; zo veel ; τόσο
 1011 ; intelligent ; ευφυή
 1012 ; artiest ; καλλιτέχνη
-1013 ; Wat betreft werk ; Όσο για την εργασία
+1013 ; Wat betreft het werk ; Όσο για την εργασία
 1014 ; weinig ; ελάχιστες
 1015 ; observaties ; παρατηρήσεις
 1016 ; dienovereenkomstig corrigeren? ; να διορθώσεις ανάλογα;
@@ -1111,11 +1110,11 @@
 1111 ; rechte lijn ; ευθεία(ν)
 1112 ; Meneer ; κύριε
 1113 ; dame ; κυρία 
-1114 ; Is het…? ; Μήπως … ;
+1114 ; Is het misschien … ? ; Μήπως … ;
 1115 ; een paar minuten ; λίγα λεπτά 
 1116 ; Wel wel, u komt van ver! ; Πωπω, μένετε μακριά!
 1117 ; Ik denk dat… ; νομίζω πως/ότι …
 1118 ; Vrolijk Kerstfeest! ; Καλά Χριστούγεννα!
 1119 ; Gelukkig nieuwjaar! ; Ευτυχισμένος ο καινούργιος χρόνος!
 1120 ; Gezondheid, liefde en vreugde in 2025! ; Υγεία, αγάπη και χαρά το 2025!
-1121 ; Ik heb het gisteravond gemaakt ; έφτιαξα χθες το βράδυ 
+1121 ; Ik heb het gisteravond gemaakt. ; έφτιαξα χθες το βράδυ 
