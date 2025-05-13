@@ -1,0 +1,1860 @@
+0001 ; ; begroetingen ; χαιρετισμοί ;  znw. (mv.)
+0002 ; ; Welkom! ; Καλώς ορίσατε! ; uitdr.
+0003 ; ; Goedemorgen! ; Καλημέρα! ; uitdr.
+0004 ; ; Goedeavond! ; Καλησπέρα! ; uitdr.
+0005 ; ; Welterusten! ; Καληνύχτα! ; uitdr.
+0006 ; ; Goedeavond! ; Καλό βράδυ! ; uitdr.
+0007 ; ; Succes! ; Καλή συνέχεια! ; uitdr.
+0008 ; ; Goede maand! ; Καλό μήνα! ; uitdr.
+0009 ; ; Fijne week! ; Καλή εβδομάδα! ; uitdr.
+0010 ; ; Hallo! (formeel); Χαίρετε! ; uitdr.
+0011 ; ; Hoi! ; Γεια! ; uitdr.
+0012 ; ; Hallo! ; Γεια σου! ; uitdr.
+0013 ; ; Hallo! ; Γεια σας! ; uitdr.
+0014 ; ; Santé! ; Γεια μας! ; uitdr.
+0015 ; ; Op uw gezondheid! ; Στην υγειά σας! ; uitdr.
+0016 ; ; Op onze gezondheid! ; Στην υγειά μας! ; uitdr.
+0017 ; ; Gezondheidjes! ; Γείτσες! (wanneer iemand niest) ; uitdr.
+0018 ; ; Hoe maak je het? ; Τι κάνεις; ; vraagzin
+0019 ; ; Hoe maakt u het?; Τι κάνετε; ; vraagzin
+0020 ; ; Hoe is het? ; Πώς είσαι; ; vraagzin
+0021 ; ; Hoe is het met je? ; Πώς (τα) πας; ; vraagzin
+0022 ; ; Prima! ; Μια χαρά! ; uitdr.
+0023 ; ; Fantastisch! ; Θαύμα! ; uitdr.
+0024 ; ; Heel goed! ; Πολύ καλά! ; uitdr.
+0025 ; ; goed ; καλά  ; adverb/adjective
+0026 ; ; çava'kes ; καλούτσικα ; adverb/diminutive
+0027 ; ; Zo en zo :/ ; Έτσι κι έτσι :/ ; phrase/expression
+0028 ; ; Afschuwelijk! ; Χάλια! ; uitdr.
+0029 ; ; Heel slecht! ; Πολύ άσχημα! ; uitdr.
+0030 ; ; En jij? ; Κι εσύ; ; vraagzin
+0031 ; ; Gefeliciteerd! ; Χρόνια πολλά! ; uitdr.
+0032 ; ; Leve lang! ; Να τα εκατοστίσεις! ; uitdr.
+0033 ; ; Voici! (Hier heb je); Ορίστε! ; uitdr.
+0034 ; ; Alsjeblieft; Παρακαλώ ; uitdr.
+0035 ; ; Pronto; Εμπρός ; uitdr.
+0036 ; ; Spreek!, Zeg maar! ; Λέγετε! ; uitdr.
+0037 ; ; alfabet ; αλφάβητο ; znw.
+0038 ; ; de namen ;  ;  znw. (mv.)
+0039 ; ; wie ben je ; Ποιος είσαι; /pjos íesè/ ; vraagzin
+0040 ; ; wie ben je ; Ποια είσαι; /pja íesè/ ; vraagzin
+0041 ; ; Wat is je naam? ; Πώς σε λένε; ; vraagzin
+0042 ; ; Ik ben Johannes. ; Είμαι ο Γιάννης. ; zin
+0043 ; ; Mijn naam is Yanni. ; Με λένε Γιάννι. ; zin
+0044 ; ; Mijn naam is Johannes. ; Λέγομαι Γιάννης. ; zin
+0045 ; ; Achilles ; Αχιλλέας ; eigennaam
+0046 ; ; Michaël ; Μιχάλης  ; eigennaam
+0047 ; ; Anastasia ; Αναστασία ; eigennaam
+0048 ; ; Andreas ; Αντρέας ; eigennaam
+0049 ; ; Asteria ; Αστερία ; eigennaam
+0050 ; ; Calliope ; Καλλιόπη ; eigennaam
+0051 ; ; Christine ; Χριστίνα ; eigennaam
+0052 ; ; Daphne ; Δάφνη ; eigennaam
+0053 ; ; Dimitris ; Δημήτρης ; eigennaam
+0054 ; ; George ; Γιώργος  ; eigennaam
+0055 ; ; Helena ; Ελένη ; eigennaam
+0056 ; ; Hermelien ; Ερμιόνη  ; eigennaam
+0057 ; ; Iliana ; Ηλιάνα ; eigennaam
+0058 ; ; Ilias ; Ηλίας ; eigennaam
+0059 ; ; Iphigeneia ; Ιφιγένεια  ; eigennaam
+0060 ; ; Kostas ; Κώστας ; eigennaam
+0061 ; ; Kyriaki ; Κυριακή ; eigennaam
+0062 ; ; Lucas ; Λούκας ; eigennaam
+0063 ; ; Margaretha ; Μάργκαρετ ; eigennaam
+0064 ; ; Maria ; Μαρία  ; eigennaam
+0065 ; ; Marry ; Μαίρη /Mérri/ ; eigennaam
+0066 ; ; Matina ; Ματίνα  ; eigennaam
+0067 ; ; Michaël ; Μιχάλης ; eigennaam
+0068 ; ; Moskou ; Μόσχα ; plaatsnaam
+0069 ; ; Nikos ; Νίκος  ; eigennaam
+0070 ; ; Penelope ; Πηνελόπη ; eigennaam
+0071 ; ; Petrus ; Πέτρος ; eigennaam
+0072 ; ; Phoebe ; Φοίβη ; eigennaam
+0073 ; ; Sophia ; Σοφία ; eigennaam
+0074 ; ; Theodorus ; Θοδωρος ; eigennaam
+0075 ; ; kind, kinderen ; παιδί, παιδιά  ; znw. (ev./mv.)
+0076 ; ; geest ; πνεύμα  ; znw.
+0077 ; ; de koffie ; ο καφές  ; znw.
+0078 ; ; de frappes ; ο φραπές ; znw.
+0079 ; ; gehaktballetjes, gehaktballetjes ; ο κεφτές, οι κεφτέδες ; znw. (ev./mv.)
+0080 ; ; gieterijen ; λιεζές ;  znw. (mv.)
+0081 ; ; voorgerechten ; μεζέδες  ;  znw. (mv.)
+0082 ; ; vrije tijd ; σχολή ; znw.
+0083 ; ; opmerking ; σχολίο ; znw.
+0084 ; ; opmerking ; σχολία ;  znw. (mv.)
+0085 ; ; opmerkingen ; σχóλια ;  znw. (mv.)
+0086 ; ; school ; σχολείο ; znw.
+0087 ; ; van ; από ; voorz.
+0088 ; ; in ; σε ; voorz.
+0089 ; ; met ; με ; voorz.
+0090 ; ; Waarom; γιατί; ; adverb/vraagw.
+0091 ; ; in de buurt van ; κοντά ; bijw.
+0092 ; ; hier ; εδώ ; bijw.
+0093 ; ; maar ; μα ; voegw.
+0094 ; ; maar ; αλλά  ; voegw.
+0095 ; ; Griek ; Έλληνας, Έλληνες ; znw. (ev./mv.)
+0096 ; ; Griekse ; Ελληνίδα, Ελληνίδας ; noun (feminine, singular, plural)
+0097 ; ; één één één ; ένας μια ένα ; vnw. (masc, fem, neut)
+0098 ; ; daar ; εκεί  ; bijw.
+0099 ; ; ook ik ; κεγώ ; vnw./phrase
+0100 ; ; ook ; επίσης  ; adverb 
+0101 ; ; Ja; Ναι ; uitdr.
+0102 ; ; papier ; χαρτί ; znw.
+0103 ; ; kaart ; κάρτα ; znw.
+0104 ; ; papier ; χάρτης ; znw.
+0105 ; ; vriend ; φίλος ; znw.
+0106 ; ; arts ; ιάτρος ; znw.
+0107 ; ; les ; μάθημα ; znw.
+0108 ; ; mijn les ; το μάθημά μου ; znw. groep
+0109 ; ; mijn leraar ; η καθηγήτριά μου ; znw. groep
+0110 ; ; je telefoon ; το τηλέφωνό σου ; znw. groep
+0111 ; ; doen ; κάνω ; ww.
+0112 ; ; jij wel ; κάνεις ; verb (2nd person)
+0113 ; ; doet ; κάνει ; verb (3rd person)
+0114 ; ; wij doen ; κάνουμε ; verb (1st person plural)
+0115 ; ; jij wel ; κάνετε ; verb (2nd person plural)
+0116 ; ; dat doen ze ; κάνουν(ε) ; verb (3rd person plural)
+0117 ; ; gaan ; πάω ; ww.
+0118 ; ; jij gaat ; πάς ; verb (2nd person)
+0119 ; ; gaat ; πάει ; verb (3rd person)
+0120 ; ; laten we gaan ; πάμε ; ww./idioom
+0121 ; ; jij gaat ; πάμετε ; verb (2nd person plural)
+0122 ; ; ze gaan ; πάνε ; verb (3rd person plural)
+0123 ; ; zeg ik ; λέω ; ww.
+0124 ; ; jij zegt woorden ; λέεις λέξεις ; ww. groep
+0125 ; ; zegt hij ; λέει ; verb (3rd person)
+0126 ; ; zeg jij ; λέτε? ; verb (2nd person plural, question)
+0127 ; ; ze zeggen (hoe heet je?) ; λένε (Πώς σε λένε;) ; ww. groep
+0128 ; ; Tot snel! ; Τα λέμε! ; uitdr.
+0129 ; ; Wat wil je doen? ; Τι θέλεις να κάνεις; ; vraagzin
+0130 ; ; Ik wil dat je dat doet! ; Θέλω να κάνεις! ; zin
+0131 ; ; Hoe ; Πως ; adverb/vraagw.
+0132 ; ; Hoe ; Πώς ; adverb/vraagw.
+0133 ; ; Wat is je naam? ; Πως σας λένε; ; vraagzin
+0134 ; ; Waar kom je vandaan ; Από που είσαστε; ; vraagzin
+0135 ; ; waar ; που ; adverb/vraagw.
+0136 ; ; waar ; πού ; adverb/vraagw.
+0137 ; ; Bent u getrouwd of alleenstaand? ; Είστε παντρεμένη ή ελεύθερη; ; vraagzin
+0138 ; ; Hoeveel verdien je? ; Hoeveel verdien je? ; vraagzin
+0139 ; ; Graag gedaan! ; Παρακαλώ Graag gedaan! ; uitdr.
+0140 ; ; Om iets te doen! ? ; Να κάνει τίποτα! ? ; phrase/expression
+0141 ; ; Ik vind Ariana echt leuk ; Μου αρέσει πολύ η Αριάννα ; zin
+0142 ; ; Ik hou van Grieks ; Μου αρέσουν τα ελληνικά ; zin
+0143 ; ; boos ?? vergeten ; σκηνθυμος ?? vergissen ; phrase/unclear
+0144 ; ;  ;  ; 
+0145 ; ; OK ; εντάξει ; uitdr.
+0146 ; ; maan ; φεγγάρι ; znw.
+0147 ; ; Goed gedaan! ; Μπράβο! ; uitdr.
+0148 ; ; kroeshaar ; σγουρός ; bnw.
+0149 ; ; Dat is het! ; Αυτά! ; uitdr.
+0150 ; ; Erg leuk! ; Πολύ ωραίο! ; uitdr.
+0151 ; ; bus ; λεωφορείο ; znw.
+0152 ; ; nul ; μηδέν ; noun/numeral
+0153 ; ; Voorkant! ; Εμπρός! ; uitdr.
+0154 ; ; kaas ; τυρί ; znw.
+0155 ; ; kaas taart ; τυρόπιτα ; compound noun
+0156 ; ; groenten ; χορτόιτα ;  znw. (mv.)
+0157 ; ; universiteit ; πανεπιστήμιο ; znw.
+0158 ; ; universiteiten ; πανεπιστήμια ;  znw. (mv.)
+0159 ; ; wijn ; κρασί ; znw.
+0160 ; ; wit ; άσπρο ; bnw.
+0161 ; ; melk, de ; γάλα, το ; znw.
+0162 ; ; woud ; δάσος ; znw.
+0163 ; ; idee ; ιδέα ; znw.
+0164 ; ; geschiedenis ; ιστορία ; znw.
+0165 ; ; groot ; μεγάλος ; bnw.
+0166 ; ; vriend ; φίλος ; znw.
+0167 ; ; gisteren ; χθες ; bijw.
+0168 ; ; vis ; ψάρι ; znw.
+0169 ; ; tzatziki ; τζατζίκι ; znw.
+0170 ; ; vreugde ; χαρά ; znw.
+0171 ; ; bouzouki ; μπουζούκι ; znw.
+0172 ; ; retsina ; ρετσίνα ; znw.
+0173 ; ; klok ; ρολόι ; znw.
+0174 ; ; Moussaka ; μουσακάς ; znw.
+0175 ; ; Ouzo ; ούζο ; znw.
+0176 ; ; chocolaatjes ; σοκολατάκια ;  znw. (mv.)
+0177 ; ; afta ; αφτά ; vnw./demonstrative
+0178 ; ; deze ; αυτά ; vnw./demonstrative
+0179 ; ; de grootmoeder met bril ; η γιαγιά με γυαλιά ; znw. groep
+0180 ; ; opnieuw ; πάλι ; bijw.
+0181 ; ; neerzetten ; βάζω ; ww.
+0182 ; ; schrijven ; γράφω ; ww.
+0183 ; ; oude man ; γέρος ; znw. groep
+0184 ; ; Komen ; έλα ; verb (imperative)
+0185 ; ; suiker ; ζάχαρη ; znw.
+0186 ; ; appel ; μήλο ; znw.
+0187 ; ; wil ; θέλω ; ww.
+0188 ; ; klein ; μικρός ; bnw.
+0189 ; ; honderd ; εκατό ; numeral
+0190 ; ; woord ; λέξη ; znw.
+0191 ; ; Baby ; μωρό ; znw.
+0192 ; ; water ; νερό ; znw.
+0193 ; ; buitenlands ; ξένος ; bnw.
+0194 ; ; deur ; πόρτα ; znw.
+0195 ; ; radio ; ραδιόφωνο ; znw.
+0196 ; ; radio ; ράδιο ; znw.
+0197 ; ; ernstig ; σοβαρά ; adverb/adjective
+0198 ; ; zet uit ; σβήνω ; ww.
+0199 ; ; nu ; τώρα ; bijw.
+0200 ; ; nacht ; νύχτα ; znw.
+0201 ; ; frapé ; φραπές ; znw.
+0202 ; ; kleur ; χρώμα ; znw.
+0203 ; ; leugen ; ψέμα ; znw.
+0204 ; ; tijd ; ώρα ; znw.
+0205 ; ; tweeklank klinkers ; δίψηφα φωνήεντα ; noun phrase (plural)
+0206 ; ; tweecijferige medeklinkers ; δίψηφα σύμφωνα ; noun phrase (plural)
+0207 ; ; de combinaties ; οι συνδυασμοί ; noun phrase (plural)
+0208 ; ; de medeklinkers vrolijk ; τα σύμφωνα ηχαρά ; noun phrase (plural)
+0209 ; ; de medeklinkers zijn stemloos ; τα σύμφωνα άηχα ; noun phrase (plural)
+0210 ; ; klinker of stemhebbende medeklinker ; φωνήεν ή ηχηρό σύμφωνι ; znw. groep
+0211 ; ; stemloze medeklinker ; άηχο σύμφωνο ; znw. groep
+0212 ; ; uitspraak ; προφορά ; znw.
+0213 ; ; interpunctie ; στίξη ; znw.
+0214 ; ; punt ; τελεία ; znw.
+0215 ; ; puntkomma ; άνω τελεία ; znw.
+0216 ; ; feest ; κόμμα ; znw.
+0217 ; ; vraagteken ; ερωτηματικό ; znw.
+0218 ; ; uitroepteken ; θαυμαστικό ; znw.
+0219 ; ; dubbele punt ; διπλή τελεία ; znw. groep
+0220 ; ; haakje ; παρένθεση ; znw.
+0221 ; ; aanhalingstekens ; εισαγωγικά ;  znw. (mv.)
+0222 ; ; streepje ; παύλα ; znw.
+0223 ; ; stippen ; αποσιωπητικά ;  znw. (mv.)
+0224 ; ; neutrale ; ουδέτερο ; adjective/noun
+0225 ; ; hemel ; ουρανός ; znw.
+0226 ; ; berg ; βουνό ; znw.
+0227 ; ; bloem ; λουλούδι ; znw.
+0228 ; ; muze ; μούσα ; znw.
+0229 ; ; en ; και ; voegw.
+0230 ; ; ja ; ναι ; uitdr.
+0231 ; ; kamer ; αίθουσα ; znw.
+0232 ; ; weer ; καιρός ; znw.
+0233 ; ; nemen ; παίρνω ; ww.
+0234 ; ; ga naar buiten ; βγαίνω ; ww./idioom
+0235 ; ; ik ben ; είμαι ; verb (1st person)
+0236 ; ; afbeelding ; εικόνα ; znw.
+0237 ; ; vrede ; ειρήνη ; znw.
+0238 ; ; show ; δείχνω ; ww.
+0239 ; ; koppigheid ; πείσμα ; znw.
+0240 ; ; Dat ; εκείνος ; vnw./demonstrative
+0241 ; ; economie ; οικονομία ; znw.
+0242 ; ; familie ; οικογένεια ; znw.
+0243 ; ; Goed ; λοιπόν ; adverb/set expression
+0244 ; ; muur ; τοίχος ; znw.
+0245 ; ; ei ; αυγό ; znw.
+0246 ; ; morgen ; αύριο ; bijw.
+0247 ; ; pauze ; παύω ; ww.
+0248 ; ; concert ; συναυλία ; znw.
+0249 ; ; toename ; αυξάνω ; ww.
+0250 ; ; Oostenrijk ; Αυστρία ; plaatsnaam
+0251 ; ; streng ; αυστηρός ; bnw.
+0252 ; ; Europa ; Ευρώπη ; plaatsnaam
+0253 ; ; euzone ; εύζωνας ; znw.
+0254 ; ; reis ; ταξιδεύω ; ww.
+0255 ; ; geest ; πνεύμα ; znw.
+0256 ; ; Bedankt ; ευχαριστώ ; set expression/verb
+0257 ; ; mogelijkheid ; ευκαιρία ; znw.
+0258 ; ; direct ; ευθύς ; adverb/adjective
+0259 ; ; gelukkig ; ευτυχώς ; bijw.
+0260 ; ; zaterdag ; Σάββατο ; znw.
+0261 ; ; kerk ; εκκλησία ; znw.
+0262 ; ; ander ; άλλος ; vnw./adjective
+0263 ; ; indirect ; έμμεσος ; bnw.
+0264 ; ; wolk ; σύννεφο ; znw.
+0265 ; ; opa ; παππούς ; znw.
+0266 ; ; ziek ; άρρωστος ; bnw.
+0267 ; ; zee ; θάλασσα ; znw.
+0268 ; ; maan ; φεγγάρι ; znw.
+0269 ; ; engel ; άγγελος ; znw.
+0270 ; ; relatief ; συγγενής ; bnw.
+0271 ; ; diftong ; δίφθογγος ; znw.
+0272 ; ; kruidenier ; μπακάλης ; znw.
+0273 ; ; broers ; μπρος ;  znw. (mv.)
+0274 ; ; harder ; μπαρμπούνι ; znw.
+0275 ; ; beton ; μπετόν ; znw.
+0276 ; ; wijnstok ; αμπέλι ; znw.
+0277 ; ; lambo ; λάμπα ; znw.
+0278 ; ; koopman ; μπόρος ; znw.
+0279 ; ; belemmeren ; εμποδίζω ; ww.
+0280 ; ; aankleden ; ντύνομαι ; ww.
+0281 ; ; tomaat ; ντομάτα ; znw.
+0282 ; ; oppas ; νταντά ; znw.
+0283 ; ; ; φίλντισι ; znw.
+0284 ; ; levend ; ζωντανός ; bnw.
+0285 ; ; altijd ; πάντοτε ; bijw.
+0286 ; ; vijf ; πέντε ; numeral
+0287 ; ; insect ; έντομο ; znw.
+0288 ; ; Mickey Mouse ; Μίκυ Ποντίκι ; eigennaam
+0289 ; ; gas geven ; γκάζι ; noun/phrase
+0290 ; ; klif ; γκρεμός ; znw.
+0291 ; ; Joegoslavië ; Γιουγκοσλαβία ; plaatsnaam
+0292 ; ; garage ; γκαράζι ; znw.
+0293 ; ; anker ; άγκυρα ; znw.
+0294 ; ; nodig ; ανάγκη ; znw.
+0295 ; ; transport ; συγκοινωνία ; znw.
+0296 ; ; verzamelen ; συγκεντρώνω ; ww.
+0297 ; ; sigaret ; τσιγάρο ; znw.
+0298 ; ; Dus ; έτσι ; conjunction/adverb
+0299 ; ; thee ; τσάι ; znw.
+0300 ; ; sok ; κάλτσα ; znw.
+0301 ; ; cicaden ; τζίτζικας ; znw.
+0302 ; ; open haard ; τζάκι ; znw.
+0303 ; ; glas ; τζάμι ; znw.
+0304 ; ; tzatziki ; τζατζίκι ; znw.
+0305 ; ; operatie ; εγχείριση ; znw.
+0306 ; ; binnenlands ; εγχώριος ; bnw.
+0307 ; ; blussen ; σβήνω ; ww.
+0308 ; ; kroeshaar ; σγουρός ; bnw.
+0309 ; ; bang ; φοβισμένος ; bnw.
+0310 ; ; . punt ; . τελεία ; znw. groep
+0311 ; ; puntkomma ; άνω τελεία ; znw. groep
+0312 ; ; komma ; κόμμα ; znw.
+0313 ; ; vraagteken ; ερωτηματικό ; znw.
+0314 ; ; uitroepteken ; θαυμαστικό ; znw.
+0315 ; ; dubbele punt ; διπλή τελεία ; znw. groep
+0316 ; ; tussen haakjes ; παρένθεση ; znw. groep
+0317 ; ; citaten ; εισαγωγικά ;  znw. (mv.)
+0318 ; ; streepje ; παύλα ; znw.
+0319 ; ; rustig ; αποσιωπητικά ; adverb/noun
+0320 ; ; wij zijn eerlijk ; έτιμοι είμαστε ; zin
+0321 ; ; Dus laten we gaan! ; Πάμε λοιπόν! ; uitdr.
+0322 ; ; Parijs ; το Παρίσι ; plaatsnaam
+0323 ; ; in Madrid ; στη Μαδρίτη ; plaatsnaam/phrase
+0324 ; ; Hij houdt niet van ouzo. ; Δεν του αρέσει το ούζο. ; zin
+0325 ; ; Australië ; την Αυστραλία ; plaatsnaam
+0326 ; ; misschien? ; μήπως; ; adverb/vraagw.
+0327 ; ; paraplu ; ομπρέλα ; znw.
+0328 ; ; spiegel ; καθρέφτης ; znw.
+0329 ; ; goedkoop ; φτηνός ; bnw.
+0330 ; ; Mijn naam is Theodore ; Με λένε Θόδωρε ; zin
+0331 ; ; Hallo, Dimitris! ; Γεια σου, Δημήτρη! ; uitdr.
+0332 ; ; Hallo, Stati! ; Γεια σου, Στάθη! ; uitdr.
+0333 ; ; Hallo, Alexis! ; Γεια σου, Αλέξη! ; uitdr.
+0334 ; ; Hallo Spyro! ; Γεια σου, Σπύρο! ; uitdr.
+0335 ; ; Hoe ; πώς; ; adverb/vraagw.
+0336 ; ; waar ; πού; ; adverb/vraagw.
+0337 ; ; of ; ή ; voegw.
+0338 ; ; waar ben je ; Πού είσαι; ; vraagzin
+0339 ; ; Ik ben thuis. ; Είμαι στο σπίτι. ; zin
+0340 ; ; op school ; στο σχολείο ; zin
+0341 ; ; in de taverne ; στην ταβέρνα ; zin
+0342 ; ; bij de bank ; στην τράπεζα ; zin
+0343 ; ; naar de dokter ; στον γιατρό ; zin
+0344 ; ; op de luchthaven ; στο αεροδρόμιο ; zin
+0345 ; ; in Plaka ; στην Πλάκα ; plaatsnaam/phrase
+0346 ; ; in Athene ; στην Αθήνα ; plaatsnaam/phrase
+0347 ; ; in Kolonaki ; στο Κολωνάκι ; plaatsnaam/phrase
+0348 ; ; in Bertem ; στο Bertem ; plaatsnaam/phrase
+0349 ; ; in Canada ; στον Καναδά ; plaatsnaam/phrase
+0350 ; ; op Kreta ; στην Κρήτη ; plaatsnaam/phrase
+0351 ; ; op de Akropolis ; στην Ακρόπολη ; plaatsnaam/phrase
+0352 ; ; in Brussel ; στις Βρυξέλλες ; plaatsnaam/phrase
+0353 ; ; Waar kom je vandaan ; Από πού είσαι; ; vraagzin
+0354 ; ; Ik kom uit België. ; Είμαι απο το Βέλγιο. ; zin
+0355 ; ; uit Griekenland ; από την Ελλάδα ; plaatsnaam/phrase
+0356 ; ; uit Frankrijk ; από την Γαλλία ; plaatsnaam/phrase
+0357 ; ; uit Duitsland ; από την Γερμανία ; plaatsnaam/phrase
+0358 ; ; uit Engeland ; από την Αγγλία ; plaatsnaam/phrase
+0359 ; ; uit Spanje ; από την Ισπανία ; plaatsnaam/phrase
+0360 ; ; uit China ; από την Κίνα ; plaatsnaam/phrase
+0361 ; ; uit Amerika ; από την Αμερική ; plaatsnaam/phrase
+0362 ; ; uit Nederland ; από την Ολλανδία ; plaatsnaam/phrase
+0363 ; ; uit Denemarken ; από την Δανία ; plaatsnaam/phrase
+0364 ; ; uit Canada ; από τον Καναδά ; plaatsnaam/phrase
+0365 ; ; uit Mexico ; από το Μεξικό ; plaatsnaam/phrase
+0366 ; ; uit Hongarije ; από την Ουγγαρία ; plaatsnaam/phrase
+0367 ; ; uit Ierland ; από την Ιρλανδία ; plaatsnaam/phrase
+0368 ; ; Verheug u, meneer Dallara! Hoe is het ; Χαίρετε, κυρίε Νταλάρα! Πώς είσαστε; ; zin
+0369 ; ; waar woon je ; Που μένεις; ; vraagzin
+0370 ; ; Ik woon in België, in Leuven. ; Μένω στο Βέλγιο, στο Λοβάνι. ; zin
+0371 ; ; in Antwerpen ; στην Αντβέρπια ; plaatsnaam/phrase
+0372 ; ; in Antwerpen ; στο Antwerpen ; plaatsnaam/phrase
+0373 ; ; in Thessaloniki ; στην Θεσσαλονίκη ; plaatsnaam/phrase
+0374 ; ; in Nafplio ; στο Ναύπλιο ; plaatsnaam/phrase
+0375 ; ; in Volos ; στον Βόλο ; plaatsnaam/phrase
+0376 ; ; in Rome ; στην Ρώμη ; plaatsnaam/phrase
+0377 ; ; in Madrid ; στην Μαδρίτη ; plaatsnaam/phrase
+0378 ; ; Kent u Grieks? ; Ξέρεις ελληνικά; ; vraagzin
+0379 ; ; Nee, ik weet het niet, maar ik begrijp het een beetje! ; Όχι, δεν ξέρω, μα καταλαβαίνω λίγο! ; zin
+0380 ; ; Frans ; γαλλικά ; noun (language)
+0381 ; ; Engels ; αγγλικά ; noun (language)
+0382 ; ; Duits ; γερμανικά ; noun (language)
+0383 ; ; Vlaams ; φλαμανδικά ; noun (language)
+0384 ; ; Nederlands ; ολλανδικά ; noun (language)
+0385 ; ; Spaans ; ισπανικά ; noun (language)
+0386 ; ; Italiaans ; ιταλικά ; noun (language)
+0387 ; ; Russisch ; ρωσικά ; noun (language)
+0388 ; ; Chinese ; κινέζικα ; noun (language)
+0389 ; ; Arabisch ; αραβικά ; noun (language)
+0390 ; ; ; Ολλα ? καθαρά; ; unclear
+0391 ; ; Op wie wacht je? ; Ποιον περιμένεις; ; vraagzin
+0392 ; ; Ik wacht op Vangelis. ; Περιμένω τον Βαγγέλη. ; zin
+0393 ; ; het kind ; το παιδί ; znw. groep
+0394 ; ; het meisje ; το κορίτσι ; znw. groep
+0395 ; ; Wat wil je? ; Τι θέλεις; ; vraagzin
+0396 ; ; Ik wil koffie. ; Θέλω έναν καφέ. ; zin
+0397 ; ; een frappé ; έναν φραπέ ; znw. groep
+0398 ; ; een melk ; ένα γάλα ; znw. groep
+0399 ; ; een watertje ; ένα νερό ; znw. groep
+0400 ; ; een thee ; ένα τσάι ; znw. groep
+0401 ; ; een limonade ; μια λεμονάδα ; znw.
+0402 ; ; een ijsje ; ένα παγωτό ; znw.
+0403 ; ; een fètagebak ; μια τυρόπιτα ; znw.
+0404 ; ; een baklavas ; έναν μπακλαβά ; znw.
+0405 ; ; een sinaasappelsap ; έναν χυμό πορτοκάλι ; znw.
+0406 ; ; Heeft u een probleem? ; Έχεις πρόβλημα; ; vraagzin
+0407 ; ; auto ; αυτοκίνητο ; znw.
+0408 ; ; mobiel ; κινητό ; znw.
+0409 ; ; telefoon ; τηλέφωνο ; znw.
+0410 ; ; krant ; εφημερίδα ; znw.
+0411 ; ; ouzo ; ούζο ; znw.
+0412 ; ; ik ook ; κεγώ ; vnw./phrase
+0413 ; ; No stress! ; Όχι άγχος! ; uitdr.
+0414 ; ; Ik ga uit ; βγαίνω ; ww./idioom
+0415 ; ; ei ; αύγο, αβγό ; znw.
+0417 ; ; schip ; πλοίο ; znw.
+0418 ; ; eerst ; πρώτος ; adjective/numeral
+0419 ; ; tweede ; δεύτερος ; adjective/numeral
+0420 ; ; les ; μάθημα ; znw.
+0421 ; ; één ; ένας, μία, ένα ; numeral/vnw.
+0422 ; ; twee ; δύο ; numeral
+0423 ; ; drie ; τρεις, τρεις, τρία ; numeral
+0424 ; ; vier ; τέσσερις, τέσσερις τέσσερα ; numeral
+0425 ; ; vijf ; πέντε ; numeral
+0426 ; ; zes ; έξι ; numeral
+0427 ; ; zeven ; επτά ; numeral
+0428 ; ; acht ; οκτώ ; numeral
+0429 ; ; negen ; εννέα ; numeral
+0430 ; ; tien ; δέκα ; numeral
+0431 ; ; Hoe laat is het ; Τι ώρα είναι; ; vraagzin
+0432 ; ; de tijd ; η ώρα ; znw.
+0433 ; ; minuut, minuten ; το λεπτό, τα λεπτά ; znw.
+0434 ; ; de tweede ; το δευτερόλεπτο ; znw.
+0435 ; ; de vierde ; το τέταρτο ; znw.
+0436 ; ; het halfuur ; η μησή ώρα ; znw.
+0437 ; ; de helft ; μισός, μισή, μισό ; bnw.
+0438 ; ; Het is kwart over tien. ; Έιναι δέκα και τέταρτο. ; zin
+0439 ; ; Het is twee voor tien. ; Είναι δύο παρά δέκα. ; zin
+0440 ; ; Het is precies drie uur. ; Έιναι τρεις η ώρα ακριβώς. ; zin
+0441 ; ; 01:30 ; 01:30 Είναι μία και μισή. ; zin
+0442 ; ; 02:40 ; 02:40 τρεις παρά είκοσι ; zin
+0443 ; ; 03:45 ; 03:45 τέσσερις παρά τέταρτο ; zin
+0444 ; ; zesenvijftig kilometer ; πενήντα έξι χιλιόμετρα ; numeral phrase
+0445 ; ; Eretria ; Ερέτρια ; plaatsnaam
+0446 ; ; Thebe ; Θήβα ; plaatsnaam
+0447 ; ; Gehoornd ; Κερατέα ; plaatsnaam
+0448 ; ; Kineta ; Κινέτα ; plaatsnaam
+0449 ; ; Megara ; Μέγαρα ; plaatsnaam
+0450 ; ; Boyati ; Μπογιάτι ; plaatsnaam
+0451 ; ; Ik werd meegenomen ; Πάρτθηνα ; ww./idioom
+0452 ; ; Piraeus ; Πειραιάς ; plaatsnaam
+0453 ; ; Naaister ; Ραφήνα ; plaatsnaam
+0454 ; ; Koninklijk ; Βασιλικά ; plaatsnaam
+0455 ; ; Berria ; Βέρροια ; plaatsnaam
+0456 ; ; Opbrengst ; Επανωμή ; plaatsnaam
+0457 ; ; Kilki's ; Κιλκίς ; plaatsnaam
+0458 ; ; Naoussa ; Νάουσα ; plaatsnaam
+0459 ; ; Serres ; Σέρρες ; plaatsnaam
+0460 ; ; de kilometerafstanden ; τις χιλιομετρικές αποστάσεις ; znw.
+0461 ; ; bibliotheek ; βιβλιοθήκη ; znw.
+0462 ; ; bioscoop ; σινεμά ; znw.
+0463 ; ; Briljant! ; Λαμπρά! ; uitdr.
+0464 ; ; banketbakkerij ; ζαχαροπλαστεία ; znw.
+0465 ; ; professor ; καθηγητής ; znw.
+0466 ; ; professor ; καθηγήτρια ; znw.
+0467 ; ; de studenten ; οι μαθητές ;  znw. (mv.)
+0468 ; ; directeur ; διευθυντής ; znw.
+0469 ; ; slavernij ; δουλειά ; znw.
+0470 ; ; Hoeveel; πόσα; ; adverb/vraagw.
+0471 ; ; op zondag ; τη Κυριακή ; znw.
+0472 ; ; op maandag ; τη Δευτέρα ; znw.
+0473 ; ; op zaterdag ; τον Σάββατο ; znw.
+0474 ; ; voorbeeld ; παράδειγμα ; znw.
+0475 ; ; het werkwoord ; το ρήμα ; znw.
+0476 ; ; supplementen ; συμπληρώματα ;  znw. (mv.)
+0477 ; ; Ik ben het ermee eens ; συμπλυρώνω ; ww./idioom
+0478 ; ; kiezen ; διαλέγω ; ww.
+0479 ; ; de juiste ; το σωστό ; znw.
+0480 ; ; de tafel ; ο πίνακας ; znw.
+0481 ; ; de klokken ; τα ρολόγια ;  znw. (mv.)
+0482 ; ; Kijk ; κοιτάξτε ; verb (imperative)
+0483 ; ; vragen ; ρωτήστε ; verb (imperative)
+0484 ; ; spreek op ; μιλήστε ; verb (imperative)
+0485 ; ; met je buurman ; με τον διπλανό σας ; zin
+0486 ; ; de woorden ; τις λέξεις ;  znw. (mv.)
+0487 ; ; sleutels ; κλειδιά ;  znw. (mv.)
+0488 ; ; fout ; λάθος ; znw./bnw.
+0489 ; ; wachten ; περιμένω ; ww.
+0490 ; ; onze ouders ; οι γονείς μας ;  znw. (mv.)
+0491 ; ; onze grootvader ; ο παππούς μας ; znw.
+0492 ; ; je grootmoeder ; η γιαγιά σας ; znw.
+0493 ; ; mijn vader ; ο πατέρας μου ; znw.
+0494 ; ; je moeder ; η μητέρα σου ; znw.
+0495 ; ; zijn zus ; η αδελφή του ; znw.
+0496 ; ; haar broer ; ο αδελφός της ; znw.
+0497 ; ; mijn man ; ο σύζυγος μου ; znw.
+0498 ; ; mijn vrouw ; η γυναίκα μου ; znw.
+0499 ; ; haar echtgenoot ; ο άνδρας της ; znw.
+0500 ; ; misschien ; μήπως ; adverb/vraagw.
+0501 ; ; ik ben ; εγώ είμαι ; vnw./verb phrase
+0502 ; ; jij bent ; εσύ είσαι ; vnw./verb phrase
+0503 ; ; zij is ; αυτή είναι ; vnw./verb phrase
+0504 ; ; wij zijn ; εμείς είμαστε ; vnw./verb phrase
+0505 ; ; jij bent ; εσείς είσ(ασ)τε ; vnw./verb phrase
+0506 ; ; dit zijn ; αυτές είναι ; vnw./verb phrase
+0507 ; ; hebben ; έχω ; ww.
+0508 ; ; je hebt ; έχεις ; ww.
+0509 ; ; heeft ; έχει ; ww.
+0510 ; ; wij hebben ; έχουμε ; ww.
+0511 ; ; je hebt ; έχετε ; ww.
+0512 ; ; zij hebben ; έχουν(ε) ; ww.
+0513 ; ; ik blijf ; μένω ; ww.
+0514 ; ; weten ; ξέρω ; ww.
+0515 ; ; gaan ; πηγαίνω ; ww.
+0516 ; ; begrijpen ; καταλαβαίνω ; ww.
+0517 ; ; lezen ; διαβάστε ; verb (imperative)
+0518 ; ; leren ; μαθαίνω ; ww.
+0519 ; ; drankje ; πίνω ; ww.
+0520 ; ; Londen ; το Λονδίνο ; plaatsnaam
+0521 ; ; Madrid ; η Μαδρίτη ; plaatsnaam
+0522 ; ; naar Caïro ; το Κάιρο ; plaatsnaam
+0523 ; ; Mexico ; Μεξικό ; plaatsnaam
+0524 ; ; Italië ; Ιταλία ; plaatsnaam
+0525 ; ; België ; Βέλγιο ; plaatsnaam
+0526 ; ; Iran ; Ιράν ; plaatsnaam
+0527 ; ; China ; Κίνα ; plaatsnaam
+0528 ; ; Egypte ; η Αίγυπτος ; plaatsnaam
+0529 ; ; Tokio ligt in Japan ; το Τόκιο είναι στην Ιαπωνία ; zin
+0530 ; ; Boedapest ligt in Hongarije ; η Βουδαπέστη είναι στην Ουγγαρία ; zin
+0531 ; ; Moskou ligt in Rusland ; η Μόσχα είναι στην Ρωσία ; zin
+0532 ; ; Calcutta ligt in India in Azië ; η Καλκούτα είναι στην Ινδία στην Ασία ; zin
+0533 ; ; in Europa ; στην Ευρώπη ; plaatsnaam/phrase
+0534 ; ; Japanse ; γιαπωνέζικα ; noun (language)
+0535 ; ; Peking in China ; το Πεκίνο στην Κίνα ; plaatsnaam/phrase
+0536 ; ; Marseille in Frankrijk ; Μασσαλία στην Γαλλία ; plaatsnaam/phrase
+0537 ; ; landkaart de kaart ; landkaart ο χάρτης ; znw.
+0538 ; ; Jordanië ; η Ιορδανία ; plaatsnaam
+0539 ; ; Canada ; ο Καναδάς ; plaatsnaam
+0540 ; ; Griekenland ; η Ελλάδα ; plaatsnaam
+0541 ; ; Libanon ; ο Λίβανος ; plaatsnaam
+0542 ; ; Syrië ; η Συρία ; plaatsnaam
+0543 ; ; Roemenië ; η Ρουμανία ; plaatsnaam
+0544 ; ; Zwitserland ; η Ελβετία ; plaatsnaam
+0545 ; ; Mexico ; το Μεξικό ; plaatsnaam
+0546 ; ; Argentinië ; η Αργεντινή ; plaatsnaam
+0547 ; ; Australië ; η Αυστραλία ; plaatsnaam
+0548 ; ; Portugal ; η Πορτογαλία ; plaatsnaam
+0549 ; ; Egypte ; η Αίγυπτος ; plaatsnaam
+0550 ; ; Cyprus ; η Κύπρος ; plaatsnaam
+0551 ; ; Rhodos ; η Ρόδος ; plaatsnaam
+0552 ; ; Delos ; η Δήλος ; plaatsnaam
+0553 ; ; Samos ; η Σάμος ; plaatsnaam
+0554 ; ; Paros ; η Πάρος ; plaatsnaam
+0555 ; ; de Poros ; ο Πόρος ; plaatsnaam
+0556 ; ; de Verenigde Staten (van Amerika) (VS) ; τις Ηνωμένες Πολιτείες (της Αμερικής) (ΗΠΑ) ; plaatsnaam (plural)
+0557 ; ; Hoeveel is het? ; Παρακαλώ, ποσο κάνει; ; vraagzin
+0558 ; ; luchthaven ; αεροδρόμιο ; znw.
+0559 ; ; vliegtuig ; αεροπλάνο ; znw.
+0560 ; ; Welkom, Theodore! ; Καλώς όρισες, Θόδωρο! ; uitdr.
+0561 ; ; Christina is er klaar voor. ; Χριστίνα είναι έτοιμη. ; zin
+0562 ; ; Wie is er aan de telefoon? ; Ποιος είναι στο τηλέφωνο; ; vraagzin
+0563 ; ; Ik wil een wijn! ; Θέλω ένα κρασί! ; zin
+0564 ; ; Waar gaat Andreas heen? ; Πού πάει ο Αντρέας; ; vraagzin
+0565 ; ; zeg jij ; λες ; ww.
+0566 ; ; zegt hij ; λέει ; ww.
+0567 ; ; wij zeggen ; λέμε ; ww.
+0568 ; ; zeg jij ; λέτε ; ww.
+0569 ; ; zeggen ze ; λένε ; ww.
+0570 ; ; jij gaat ; πας ; ww.
+0571 ; ; gaat ; πάει ; ww.
+0572 ; ; mama ; μάμε ; znw.
+0573 ; ; gaan ze ; πάουν ; ww.
+0574 ; ; studie ; σπουδάζω ; ww.
+0575 ; ; werk ; δουλεύω ; ww.
+0576 ; ; Ik ga, ik ga ; πηγαίνω, πάω ; ww.
+0577 ; ; Ik wacht op een taxi ; περιμένω ταξί ; zin
+0578 ; ; Ik ook ; κι εγώ ; zin
+0579 ; ; het bier ; η μπίρα ; znw.
+0580 ; ; kip ; κοτόπουλο ; znw.
+0581 ; ; Mars ; Άρης ; eigennaam
+0582 ; ; Alice ; Αλίκη ; eigennaam
+0583 ; ; Andreotis ; Αντρεότις ; eigennaam
+0584 ; ; Dhr ; κύριος ; noun/title
+0585 ; ; dame ; κύρια ; noun/title
+0586 ; ; Missen ; δεσποινίς ; noun/title
+0587 ; ; mama ; μαμά ; znw.
+0588 ; ; de Grondwet ; το Σύνταγμα ; znw.
+0589 ; ; prima ; μια χαρά ; uitdr.
+0590 ; ; rechter ; δικαστής ; znw.
+0591 ; ; advocaat ; δικηγόρος ; znw.
+0592 ; ; Spreek van uw buurman! ; Μιλήστε από την διπλανή σας! ; zin
+0593 ; ; Pardon mevrouw, bent u getrouwd? ; Συγνώμι δεσποινί, είσαστε παντρεμένη; ; vraagzin
+0594 ; ; Nee, ik ben vrij, maar gescheiden. ; Όχι, είμι ελεύθερη, αλλά χωρισμένη. ; zin
+0595 ; ; Wauw, ik ben een snotaap, geen varken… ; Πω πω, είμαι χύρος, καί όχι γοιρος… ; zin
+0596 ; ; Har/aangenaam ; Χαρ/aangenaam ; uitdr.
+0597 ; ; Maar ik heb een vriend ; Μα έχω φίλο, ; zin
+0598 ; ; vakgenoot ; σύντροφος ; znw.
+0599 ; ; duur ; ακριβός ; bnw.
+0600 ; ; precies ; ακριβώς ; bijw.
+0601 ; ; varken ; χοίρος ; znw.
+0602 ; ; Leuk ; ωραίος ; bnw.
+0603 ; ; mooi ; όμορφη ; bnw.
+0604 ; ; lelijk ; άσχημος ; bnw.
+0605 ; ; goed ; καλός ; bnw.
+0606 ; ; slecht ; κακός ; bnw.
+0607 ; ; mannelijk ; αρσενικός ; bnw.
+0608 ; ; vrouwelijk ; θηλυκός ; bnw.
+0609 ; ; okee, in orde ; εντάξει ; uitdr.
+0610 ; ; in de taxi; στην τάξη ; zin
+0611 ; ; in de klas; στην τάξη ; zin
+0612 ; ; ze is gestorven ; ze is gestorven ; zin
+0613 ; ; Ik was ; ik was ; zin
+0614 ; ; Ik had ; ik had ; zin
+0615 ; ; Munja ; μούντζα ; znw.
+0616 ; ; gruwel ; ανάθεμα ; znw.
+0617 ; ; oom ; θείος ; znw.
+0618 ; ; tante ; θεία ; znw.
+0619 ; ; zoon ; γιός ; znw.
+0620 ; ; dochter ; κόρη ; znw.
+0621 ; ; En hoe lang is hij hier al? ; Και πόσον καιρό είσει εδώ; ; vraagzin
+0622 ; ; het weer weer, tijd, le temps ; το καιρός weer, tijd, le temps ; znw. groep
+0623 ; ; de dag ; η μέρα ; znw.
+0624 ; ; de week ; η εβδομάδα ; znw.
+0625 ; ; de maand ; ο μήνας ; znw.
+0626 ; ; de tijd ; ο χρόνος ; znw.
+0627 ; ; Werk of studeer je? ; Δουλεύεις ή σπουδάζεις; ; vraagzin
+0628 ; ; met + acc ; με + acc ; preposition phrase
+0629 ; ; in + acc ; σε + acc ; preposition phrase
+0630 ; ; voor + acc ; για + acc ; preposition phrase
+0631 ; ; ik was te laat ; άργησα ; zin
+0632 ; ; je bent laat ; άργησες ; zin
+0633 ; ; Zeg, zeg! ; Πω, πω! ; uitdr.
+0634 ; ; Waarom ; γιατί ; adverb/vraagw.
+0635 ; ; professor ; καθηγήτρια ; znw.
+0636 ; ; de dokter ; ο/η γιατρός ; znw.
+0637 ; ; de advocaat ; ο/η δικηγόρος ; znw.
+0638 ; ; hotel ; ξενοδοχείο ; znw.
+0639 ; ; Mijn naam is George. Jij ook? ; Με λένε Γιώργο. Κι εσένα; ; zin
+0640 ; ; directeur ; διευθυντής ; znw.
+0641 ; ; directeur; διευθήτρια? ; znw.
+0642 ; ; arbeider ; εργάτης ; znw.
+0643 ; ; arbeider ; εργάτρια ; znw.
+0644 ; ; leerling ; μαθητής ; znw.
+0645 ; ; schoolmeisje ; μαθήτρια ; znw.
+0646 ; ; student ; φοιτητής ; znw.
+0647 ; ; student ; φοιτήτρια ; znw.
+0648 ; ; in het Vlaams ; στα φλαμανδικά ; zin
+0649 ; ; Mijn zoon heet Michaël. ; Το γιο μου τον λένε Μιχάλη. ; zin
+0650 ; ; priester ; παπάς ; znw.
+0651 ; ; elke dag, dagelijks ; καθ' ημέρα ; bw./idioom
+0652 ; ; in de Griekse les ; στην τάξη Ελληνικών ; zin
+0653 ; ; Natuurlijk! ; φυσικά! ; uitdr.
+0654 ; ; vrij ; ελεύθερος ; bnw.
+0655 ; ; zonder ; χωρίς ; voorz.
+0656 ; ; gescheiden ; χωρισμένη ; bnw.
+0657 ; ; getrouwd ; παντρεμένη ; bnw.
+0658 ; ; derde ; τρίτος ; numeral/adjective
+0659 ; ; vierde ; τέταρτος ; numeral/adjective
+0660 ; ; hij leeft niet ; δεν ζει ; zin
+0661 ; ; tweeling ; δίδυμο ; znw.
+0662 ; ; Vandaag ; σήμερα ; bijw.
+0663 ; ; werk ; δουλεύω ; ww.
+0664 ; ; sinds mijn vader stierf ; από τότε που πέθανε ο πατέρας μου ; zin
+0665 ; ; voor ; πριν από ; voorz.
+0666 ; ; ik was ; ήμουν ; ww.
+0667 ; ; docent ; δάσκαλος ; znw.
+0668 ; ; academisch ; ακαδημαϊκός ; bnw.
+0669 ; ; software-ingenieur ; μηχανικός λογισμικού ; znw. groep
+0670 ; ; zakenman ; επιχειρηματίας ; znw.
+0671 ; ; ik studeerde ; σπούδασα ; ww.
+0672 ; ; Ik schrijf gedichten ; γράφω ποιήματα ; zin
+0673 ; ; Ik maak tafels ; φτιάχνο πίνακες ; zin
+0674 ; ; ik speel muziek ; παίζω μουσική ; zin
+0675 ; ; ik teken letters ; σχεδιάζω γράμματα ; zin
+0676 ; ; ik maak wijn ; κάνω κρασί ; zin
+0677 ; ; van allerlei aard ; όλων των ειδών ; zin
+0678 ; ; kleuren en schaduwen ; τα χρόματα και οι σκιές ; noun phrase (plural)
+0679 ; ; in het Vlaams ; στα φλαμανδικά ; zin
+0680 ; ; van dichtbij ; από κοντά ; bw./idioom
+0681 ; ; vlakbij Leuven ; κοντά στο Λέουβεν ; zin
+0682 ; ; in de Griekse les ; στην τάξη ελληνικών ; zin
+0683 ; ; Helaas ; δυστυχώς ; bijw.
+0684 ; ; vierde ; τέταρτος ; numeral/adjective
+0685 ; ; tweelingen, tweelingen ; δίδυμα, δίδυμοι ;  znw. (mv.)
+0686 ; ; tweelingbroer ; δίδυμος αδερφός ; znw. groep
+0687 ; ; sindsdien ; από τότε που ; bw./idioom
+0688 ; ; ziek ; άρρωστος ; bnw.
+0689 ; ; daarvoor ; πριν από αυτό ; bw./idioom
+0690 ; ; ik was ; ήμουν ; ww.
+0691 ; ; docent ; δάσκαλος ; znw.
+0692 ; ; mechanisch ; μηχανικός ; bnw.
+0693 ; ; zakenman ; επιχειρηματίας ; znw.
+0694 ; ; ik studeerde ; σπούδασα ; ww.
+0695 ; ; Ik schrijf gedichten ; γράφω ποιήματα ; zin
+0696 ; ; Ik maak schilderijen ; φτιάχνω πίνακες ; zin
+0697 ; ; op een dag ; κάθε μέρα ; zin
+0698 ; ; van allerlei aard ; όλων των ειδών ; zin
+0699 ; ; Hoed! hoedje af ; Καπέλο! hoedje af ; uitdr.
+0700 ; ; de partner ; ο/η σύντροφος ; znw.
+0701 ; ; de echtgenoot ; ο/η σύζυγος ; znw.
+0702 ; ; kindjes ; παιδάκια ;  znw. (mv.)
+0703 ; ; ribben ; παϊδάκια ;  znw. (mv.)
+0704 ; ; souvlaki ; σουβλάκι ; znw.
+0705 ; ; shirtaki ; σιρτάκι ; znw.
+0706 ; ; chocoladereep ; σοκολατάκι ; znw.
+0707 ; ; Goed. ; Καλά. ; uitdr.
+0708 ; ; niet goed :( ; Όχι καλά :( ; uitdr.
+0709 ; ; laten we naar het café gaan ; πάμε στο καφενείο ; zin
+0710 ; ; Welke koffie wil je? ; Τι καφέ θέλετε; ; vraagzin
+0711 ; ; een puur Griekse koffie ; έναν καφέ ελληνικό σκέτο ; znw. groep
+0712 ; ; een bruine Franse grande met melk ; έναν καφέ γαλλικό μεγάλο με γάλα ; znw. groep
+0713 ; ; een bruinfilter ; έναν καφέ φίλτρο ; znw. groep
+0714 ; ; een Ness ; έναν Νες ; znw.
+0715 ; ; een frappé ; έναν φραπέ ; znw.
+0716 ; ; Hoe drink je het? ; Πώς τον πίνετε; ; vraagzin
+0717 ; ; puur, medium, zoet, zwaar zoet ; σκέτο, μέτριο, γλυκό, βαρύ γλυκό ; adjective phrase
+0718 ; ; citroen thee ; το τσάι με λεμόνι ; znw. groep
+0719 ; ; thee met honing ; το τσάι με μέλι ; znw. groep
+0720 ; ; de tai met suiker ; το ταάι με ζάχαρη ; znw. groep
+0721 ; ; Is het…? Est-ce que … ? ; Μήπως … ; Est-ce que … ? ; vraagzin
+0722 ; ; Zo is het. Zo is het. ; Έτσι είναι. Zo is het. ; uitdr.
+0723 ; ; het geld geld ; τα λεφτά ;  znw. (mv.)
+0724 ; ; kleingeld de verandering ; τα ψιλά ;  znw. (mv.)
+0725 ; ; wisselgeld de wijziging ; τα ρέστα ;  znw. (mv.)
+0726 ; ; Deze voor jou! ; Αυτό/ά για σας! ; uitdr.
+0727 ; ; set + nominatief ; ορίστε + nominatief ; zin
+0728 ; ; Bedankt ; ευχαριστώ ; set expression/verb
+0729 ; ; alsjeblieft Je vous enprie. ; παρακαλώ Je vous enprie. ; uitdr.
+0730 ; ; Het gaat goed! ; Να 'σαι καλά! ; uitdr.
+0731 ; ; Het gaat goed! ; Να 'στε καλά! ; uitdr.
+0732 ; ; Niets! De Rien. ; Τίποτα! De rien. ; uitdr.
+0733 ; ; Het maakt niet uit. ; Δεν πειράζει. ; uitdr.
+0734 ; ; de euro ; το ευρώ ; znw.
+0735 ; ; de minuut ; το λεπτό ; znw.
+0736 ; ; betalen ; πληρώνω ; ww.
+0737 ; ; Hoeveel levert het op? ; Πόσο κάνει; ; vraagzin
+0738 ; ; Hoeveel verdienen ze? ; Πόσο κάνουν; ; vraagzin
+0739 ; ; Uitgang ; έξοδος ; znw.
+0740 ; ; binnenkomst ; είσοδος ; znw.
+0741 ; ; ticket ; εισιτήριο ; znw.
+0742 ; ; ontslag ontslag kort ; εξιτήριο ; znw.
+0743 ; ; importeren ; εισαγωγή ; znw.
+0744 ; ; exporteren ; εξαγωγή ; znw.
+0745 ; ; allemaal samen ; όλα μαζί ; zin
+0746 ; ; zonder ; χώρις ; voorz.
+0747 ; ; uit elkaar ; χώρια ; bijw.
+0748 ; ; Ik ben jaloers op Ik benijd u (positief). ; ζηλεύω ; ww./idioom
+0749 ; ; Welkom! bw. ; Καλώς όρισες! ; set expression/adverb
+0750 ; ; Welkom! laat. Gij zijt welkom. ; Καλώς ορίσατε! ; uitdr.
+0751 ; ; verwelkom hem/haar ; καλώς τον/την ; zin
+0752 ; ; goed bijv. ; καλός ; bnw.
+0753 ; ; we zijn goed We zijn goed(e mensen) ; είμαστε καλοί ; zin
+0754 ; ; we zijn goed. We maken het goed ; είμαστε καλά ; zin
+0755 ; ; goed gebruikt als bw. maar onz.mv ; καλά ; bijw.
+0756 ; ; allemaal duidelijk ; όλα καθαρά ; zin
+0757 ; ; erg leuk ; πολύ ωραία ; zin
+0758 ; ; slecht ; άσχημα ; bijw.
+0759 ; ; het hokje ; το περίπτερο ; znw.
+0760 ; ; de kiosk ; ο περιπτεράς ; znw.
+0761 ; ; De rekening graag ; το λογαριασμό παρακαλώ ; zin
+0762 ; ; het rekenkantoor ; το λογιστήριο ; znw.
+0763 ; ; kopen ; αγοράζω ; ww.
+0764 ; ; betalen ; πληρώνω ; ww.
+0765 ; ; krant ; εφημερίδα ; znw.
+0766 ; ; tijdschrift ; περιοδικό ; znw.
+0767 ; ; rook ; καπνίζω ; ww.
+0768 ; ; een pakje sigaretten ; ένα πακέτο τσιγάρα ; znw. groep
+0769 ; ; een doosje lucifers ; ένα κουτί σπίρτα ; znw. groep
+0770 ; ; lichter ; αναπτήρας ; znw.
+0771 ; ; stempel ; γραμματόσημο ; znw.
+0772 ; ; potlood ; μολύβι ; znw.
+0773 ; ; de kourabiedes ; οι κουραμπιέδες ;  znw. (mv.)
+0774 ; ; de melomakaroni ; τα μελομακάρονα ;  znw. (mv.)
+0775 ; ; de koekjes ; τα μπισκότα ;  znw. (mv.)
+0776 ; ; open ; ανοιχτός ; bnw.
+0777 ; ; lente ; άνοιξη ; znw.
+0778 ; ; dichtbij ; κλειστός ; bnw.
+0779 ; ; claustrofobie ; κλειστοφοβία ; znw.
+0780 ; ; ja ; ναι ; uitdr.
+0781 ; ; ja, eigenlijk wel ; μάλιστα ; uitdr.
+0782 ; ; natuurlijk zeker ; βέβαια ; uitdr.
+0783 ; ; zeker zeer zeker ; βεβαίως ; uitdr.
+0784 ; ; natuurlijk natuurlijk ; φυσικά ; uitdr.
+0785 ; ; geven ; δίνω ; ww.
+0786 ; ; het postkantoor Post, de snelle weg ; το ταχυδρομείο ; znw.
+0787 ; ; denken ; νομίζω ; ww.
+0788 ; ; Ik denk niet dat het open is. ; Δεν νομίζω πως είναι ανοιχτό. ; zin
+0789 ; ; Ik denk het niet ; Δεν νομίζω ότι ; zin
+0790 ; ; Ik weet niet hoe laat het is. ; Δεν ξέρω τι ώρα είναι. ; zin
+0791 ; ; Ik weet niet waar ik van je hou. ; Δεν ξέρω που σ' αγαπώ. ; zin
+0792 ; ; Ben je moe? ; Μήπως είστε κουρασμένοι; ; vraagzin
+0793 ; ; één euro onz. ; ένα Ευρώ ; znw.
+0794 ; ; Akis ; Άκης ; eigennaam
+0795 ; ; vriendelijke vriendschappelijk, informeel ; φιλικός ; bnw.
+0796 ; ; typisch formeel ; τυπικός ; bnw.
+0797 ; ; dialoog ; διάλογος ; znw.
+0798 ; ; vreemden of vrienden ; ξένοι ή φίλοι ; noun phrase (plural)
+0799 ; ; render (< vanaf hier) lett. langs hier? stem ; αποδώ ; ww./idioom
+0800 ; ; het meervoud ; ο πληθυντικός ; znw.
+0801 ; ; in wezen zelst.nw. ; ουσιαστικά zelfst.nw. ; znw. groep
+0802 ; ; man mannelijk ; αρσενικός mannelijk ; znw. groep
+0803 ; ; vrouwelijk ; θηλυκή vrouwelijk ; znw. groep
+0804 ; ; neutraal onzijdig ; ουδέτερο onzijdig ; znw. groep
+0805 ; ; mens, mannen ; άντρας, άντρες ; znw. (ev./mv.)
+0806 ; ; student, studenten ; μαθήτης, μαθητές ; znw. (ev./mv.)
+0807 ; ; vriend, vrienden ; φίλος, φίλοι ; znw. (ev./mv.)
+0808 ; ; voorgerechten, voorgerechten ; μέζες, μεζέδες ; znw. (ev./mv.)
+0809 ; ; gehaktballetjes, gehaktballetjes ; κεφτές, κεφτέδες ; znw. (ev./mv.)
+0810 ; ; koffie, koffie ; καφές, καφέδες ; znw. (ev./mv.)
+0811 ; ; vrouw, vrouwen ; γυναίκα, γυναίκες ; znw. (ev./mv.)
+0812 ; ; dochter, dochters ; κόρη, κόρες ; znw. (ev./mv.)
+0813 ; ; boek, boeken ; βιβλίο, βιβλία ; znw. (ev./mv.)
+0814 ; ; huis, huizen ; σπίτι, σπίτια ; znw. (ev./mv.)
+0815 ; ; brief, brieven ; γράμμα, γράμματα ; znw. (ev./mv.)
+0816 ; ; les, lessen ; μάθημα, μαθήματα ; znw. (ev./mv.)
+0817 ; ; probleem, problemen ; πρόβλημα, προβλήματα ; znw. (ev./mv.)
+0818 ; ; begrip van gesproken taal ; κατανόηση προφορικού λόγου ; znw. groep
+0819 ; ; Welk nieuws? Welk nieuws? ; Τι νέα; Wat nieuws? ; vraagzin
+0820 ; ; Hetzelfde. ; Τα ίδια. ; uitdr.
+0821 ; ; Ik ook. ; Κι εγώ τα ίδια. ; uitdr.
+0822 ; ; de portemonnee ; το πορτοφόλι ; znw.
+0823 ; ; de auto ; το αυτοκίνητο ; znw.
+0824 ; ; het eten ; το φαγητό ; znw.
+0825 ; ; de moussaka ; ο μουσακάς ; znw.
+0826 ; ; het voetbal ; το ποδόσφαιρο ; znw.
+0827 ; ; de retsina ; η ρετσίνα ; znw.
+0828 ; ; de muziek ; η μουσική ; znw.
+0829 ; ; de bijvoeglijke naamwoorden bijvoeglijk naamwoord ; τα επίθετα adjectieven ; noun phrase (plural)
+0830 ; ; de taverne ; η ταβέρνα ; znw.
+0831 ; ; klaar ; έτοιμος ; bnw.
+0832 ; ; lelijk ; άσχημος ; bnw.
+0833 ; ; mooi ; όμορφος ; bnw.
+0834 ; ; het hotel ; το ξενοδοχείο ; znw.
+0835 ; ; de broer ; ο αδερφός ; znw.
+0836 ; ; de zuster ; η αδερφή ; znw.
+0837 ; ; Vertalen! Verticaal! ; Να μεταφράσετε! Vertaalt! ; verb (imperative)
+0838 ; ; Hartelijk dank! Aangenaam kennis! ; Χάρι πολύ! Aangename kennismaking! ; uitdr.
+0839 ; ; Geweldig! allen bij afscheid ; Χάρικα! alleen bij afscheid ; uitdr.
+0840 ; ; Vandaag ; σήμερα ; bijw.
+0841 ; ; Hoe zeg je dit in het Grieks? ; Πώ το λένε αυτό στα ελληνικά; ; vraagzin
+0842 ; ; God zij dank! ; Δόξα τω Θεώ! ; uitdr.
+0843 ; ; Ik wacht op een taxi ; περιμένω ταξί ; zin
+0844 ; ; Vul de ontbrekende woorden in. ; Συμπληρώστε τις λέξεις που λείπουν. ; zin
+0845 ; ; Beantwoord de vragen. ; Απαντήστε στις ερωτήσεις. ; zin
+0846 ; ; Ik vraag hoeveel het oplevert? ; Ρωτάω πόσο κάνει; ; zin
+0847 ; ; de journalist ; ο/η δημοσιογράφος ; znw.
+0848 ; ; in Athene, in Pagrati ; στην Αθήνα, στο Παγκράτι ; plaatsnaam/phrase
+0849 ; ; naar Pagrati ; προς Παγκράτι ; plaatsnaam/phrase
+0850 ; ; het brood ; το ψωμί ; znw.
+0851 ; ; het sap, de sappen ; ο χυμός, οι χυμοί ; znw. (ev./mv.)
+0852 ; ; kauwgom, kauwgom ; τσίχλα, τσίχλες ; znw. (ev./mv.)
+0853 ; ; yoghurt, yoghurt ; γιαούρτι, γιαούρτια ; znw. (ev./mv.)
+0854 ; ; snoep, snoepjes ; καραμέλα, καραμέλες ; znw. (ev./mv.)
+0855 ; ; pretzels, pretzels ; κουλούρι, κουλούρια ; znw. (ev./mv.)
+0856 ; ; kaastaart, kaastaart ; τυρόπιτα, τυρόπιτες ; znw. (ev./mv.)
+0857 ; ; spinazie taart ; σπανακόπιτα ; znw.
+0858 ; ; het water, de wateren ; το νερό, τα νερά ; znw. (ev./mv.)
+0859 ; ; bier, bieren ; μπίρα, μπίρες ; znw. (ev./mv.)
+0860 ; ; Ik ga naar de bakker en koop: ; Πηγαίνω στον φούρνο και αγοράζω: ; zin
+0861 ; ; een bruin brood ; ένα μαύρο ψωμί ; znw. groep
+0862 ; ; een croissantje ; ένα κρουασάν ; znw.
+0863 ; ; een broodje ; ένα σάντουιτς ; znw.
+0864 ; ; een halve kilo lettdips. dingen om te soppen ; μισό κιλό βουτήματα lett. dingen om te sopppen ; znw. groep
+0865 ; ; een boerenbrood ; ένα χωριάτικο ψωμί ; znw. groep
+0866 ; ; het dorp ; το χωριό ; znw.
+0867 ; ; rustiek ; χωριάτης ; bnw.
+0868 ; ; een boerensalade ; μια χωριάτικα σαλάτα ; znw. groep
+0869 ; ; Wil je nog iets anders? ; Θέλετε τίποτα άλλο; ; vraagzin
+0870 ; ; rechts ; σωστός ; bnw.
+0871 ; ; het weer ; ο καιρός ; znw.
+0872 ; ; de kou ; το κρύο ; znw.
+0873 ; ; middag ; απόγευμα ; znw.
+0874 ; ; gebruikelijk ; συνήθως ; bijw.
+0875 ; ; horen ; ακούω ; ww.
+0876 ; ; zomer ; καλοκαίρι ; znw.
+0877 ; ; zelden ; σπάνια ; bijw.
+0878 ; ; laat ; αργά ; bijw.
+0879 ; ; nacht ; βράδυ ; znw.
+0880 ; ; Wanneer ; ποτέ ; adverb/vraagw.
+0881 ; ; Wanneer ; πότε ; adverb/vraagw.
+0882 ; ; ontbijt ; πρωινό ; znw.
+0883 ; ; diner ; βραδινό ; znw.
+0884 ; ; het is heet ; κάνει ζέστη ; zin
+0885 ; ; ik eet ; τρώω ; ww.
+0886 ; ; ik doe vroeg ; κάνω νωρίς ; zin
+0887 ; ; muziek wakker worden ; ξυπνάω μουσική ; zin
+0888 ; ; Ik zie om te winkelen ; βλέπω για ψώνια ; zin
+0889 ; ; Ik ga naar de televisie ; πάω τηλεόραση ; zin
+0890 ; ; in januari ; τον Ιανουάριο ; zin
+0891 ; ; op maandag ; την Δευτέρα ; zin
+0892 ; ; op dinsdag ; την Τρίτη ; zin
+0893 ; ; op zaterdagavond ; το Σάββατο το βράδυ ; zin
+0894 ; ; ik ga naar buiten, ga naar buiten ; βγαίνω έξω uitgaan ; zin
+0895 ; ; een keer per maand ; μια φορά τον μήνα ; zin
+0896 ; ; hoe veel ; πόσον ; adverb/vraagw.
+0897 ; ; in het weekend ; τον Σαββατοκύριακο ; zin
+0898 ; ; Ik vind de zinnen en zet de toon ; βρίσκω τις φράσεις και βάζω τόνο ; zin
+0899 ; ; 12.00 uur twaalf uur ; 12:00 δώδεκα η ώρα ; zin
+0900 ; ; 13:15 kwart over ; 13:15 μια και τέταρτο ; zin
+0902 ; ; de bank ; η τράπεζα ; znw.
+0903 ; ; Ik wacht op een bus ; περιμένω λεωφορείο ; zin
+0904 ; ; het eiland ; το νησί ; znw.
+0905 ; ; kwaad moreel slecht ; κάκος moreel slecht; bnw./idioom
+0906 ; ; lelijk slecht ; άσχημος slecht; bnw./idioom
+0907 ; ; scheef weer ; skecht weer ; zin
+0908 ; ; wit ; άσπρος ; bnw.
+0909 ; ; beer ; αρκούδα ; znw.
+0910 ; ; sneeuw ; χιόνι ; znw.
+0911 ; ; uitschelden ; μαλώνω ; ww.
+0912 ; ; Wat ga je worden? ; Τι θα γίνεις; ; vraagzin
+0913 ; ; analfabeet ; αγράμματος ; znw./bnw.
+0914 ; ; Ik word ziek ; αρρωσταίνω ; phrase/verb
+0915 ; ; Ik zal het niet uithouden ; δε θ'αντέξω ; zin
+0916 ; ; ga wild ; αγριέψω ; ww./idioom
+0917 ; ; zoals ; όπως ; voegw.
+0918 ; ; to ziehier, hier heb je, voici ; να ziehier, hier heb je, voici ; uitdr.
+0919 ; ; Hier is Johannes ; να ο Γιάννης ; zin
+0920 ; ; wees goed ; νά 'σαι καλά ; uitdr.
+0921 ; ; wees goed ; νά 'στε καλά ; uitdr.
+0922 ; ; Ik begrijp wat je zegt ; καταλαβαίνω τι λες ; zin
+0923 ; ; Ik begrijp hoe het is ; καταλαβαίνω πως είναι ; zin
+0924 ; ; Ik begrijp dat dat zo is ; καταλαβαίνω ότι είναι ; zin
+0925 ; ; de journalist ; ο δημοσιογράφος ; znw.
+0926 ; ; en zij zij ook ; κι αυτή zij ook ; zin
+0927 ; ; de twee zij tweeën ; οι δύο zij tweeën ; znw. groep
+0928 ; ; in het centrum ; στο κέντρο ; zin
+0929 ; ; de boom in het midden ; το δέντρο στο κέντρο ; znw. groep
+0930 ; ; waar waar ; waar πού ; adverb/vraagw.
+0931 ; ; daar daar ; daar εκεί ; bijw.
+0932 ; ; hier hier ; hier εδώ ; bijw.
+0933 ; ; dichtbij dichtbij ; dichtbij κοντά ; bijw.
+0934 ; ; ver (weg) weg ; ver (weg) μακριά ; bijw.
+0935 ; ; rechts rechts ; rechts δεξιά ; bijw.
+0936 ; ; links links ; links αριστερά ; bijw.
+0937 ; ; gaan ; πηγαίνω ; ww.
+0938 ; ; het hotel ; το ξενοδοχείο ; znw.
+0939 ; ; Is het… ; Μήπως … ; vraagzin
+0940 ; ; Bent u een buitenlander? ; Είστε ξένος; ; vraagzin
+0941 ; ; Waar precies? ; Πού ακριβώς; ; vraagzin
+0942 ; ; Zeker ; βέβαια ; bijw.
+0943 ; ; Natuurlijk ; βεβαίως ; bijw.
+0944 ; ; Zeker ; βέβαιος ; bnw.
+0945 ; ; straat (in de straatnaam) de straat ; straat (in de straatnaam) η οδός ; znw.
+0946 ; ; weg, straat de weg ; weg, straat ο δρόμος ; znw.
+0947 ; ; (bij (straat)) Ermou ; (στην (οδό)) Ερμού ; znw. groep
+0948 ; ; de eenheid ; η ομόνοια ; znw.
+0949 ; ; Wil je iets? ; Θέλεις τίποτα; ; vraagzin
+0950 ; ; Nee, ik wil niets. ; Όχι, δεν θέλω τίποτα. ; zin
+0951 ; ; Nee, niets. ; Όχι, τίποτα. ; zin
+0952 ; ; iets alleen bevestigend gebruikt ; κάτι alleen affirmatief gebruikt ; bw./idioom
+0953 ; ; Ja, ik wil iets. ; Ναι, θέλω κάτι. ; zin
+0954 ; ; Ga jij wel eens naar de bioscoop? ; Πας ποτέ στο σινεμά; ; vraagzin
+0955 ; ; Ik ga nooit. ; Δεν πάω ποτέ. ; zin
+0956 ; ; Wanneer. ; Ποτέ. ; bijw.
+0957 ; ; Ik ga een keer. ; Πάω κάποτε. ; zin
+0958 ; ; Wanneer? Wanneer? ; Πότε; ; vraagzin
+0959 ; ; Weet iemand hoe laat het is? ; Ξέρει κανένας τι ώρα είναι; ; vraagzin
+0960 ; ; Niemand weet het ; Δεν ξέρει κανένας ; zin
+0961 ; ; geen ; κανένας ; vnw.
+0962 ; ; Ja, iemand weet het. ; Ναι, ξέρει κάποιος. ; zin
+0963 ; ; Ik ben nergens bang voor ; Δεν φοβάμαι τίποτα ; zin
+0964 ; ; Ik hoop niets ; δεν ελπίζω τίποτα ; zin
+0965 ; ; ik ben vrij ; είμαι ελεύθερος ; zin
+0966 ; ; 15.30 half drie ; 15:30 τρεις και μισή ; zin
+0967 ; ; Hoe laat ga je naar je werk? ; Τι ώρα πας στη δουλειά σου? /doeljásoe/ ; vraagzin
+0968 ; ; om negen uur om negen uur ; om negen uur στις εννέα η ώρα ; zin
+0969 ; ; om één uur precies op het hele uur precies ; om één uur precies στην μια η ώρα ακριβώς ; zin
+0970 ; ; uur de tijd (verandert niet, alleen op het volle uur gebruikt) ; o'clock η ώρα (verandert niet, alleen op το volle uur gebruikt) ; znw. groep
+0971 ; ; om half acht ; στις οκτώ και μισή ; zin
+0972 ; ; de mobiele telefoon ; το κινητό ; znw.
+0973 ; ; de kerstboom ; το χριστουγεννιάτικο δέντρο ; znw.
+0974 ; ; pop de pop ; pop η κούκλα ; znw.
+0975 ; ; de champagne ; η σαμπάνια ; znw.
+0976 ; ; de zoete taart, gebak, dessert, zoetigheid ; το γλυκό taart, gebak, dessert, zoetigheid ; znw.
+0977 ; ; grijs ; γκρίζος ; bnw.
+0978 ; ; ezel ezel ; γάιδαρος ; znw.
+0979 ; ; blaft ; γκαρίζει ; ww.
+0980 ; ; rondom ; γύρω ; bijw.
+0981 ; ; dwalen ; τριγυρίζω ; ww.
+0982 ; ; bril ; γυαλιά ;  znw. (mv.)
+0983 ; ; vest ; γιλέκο ; znw.
+0984 ; ; kruidnagel in revers ; γαρίφαλο στο πέτο ; znw. groep
+0985 ; ; overschoenen ~ overschoenen ; γαλότσες ~ galoches ;  znw. (mv.)
+0986 ; ; stropdas ; γραβάτα ; znw.
+0987 ; ; de kat ; η γάτα ; znw.
+0988 ; ; draait zich om ; γυρεύει ; ww.
+0989 ; ; haar te kraagen ; να τη βάλει για γιακά ; zin
+0990 ; ; de vacht ; η γούνα ; znw.
+0991 ; ; kietelen ; γαργαλά ; ww.
+0992 ; ; de kat spint ; η γάτα γουργουρίζει ; zin
+0993 ; ; lachen ; να γελά ; ww.
+0994 ; ; blaffen ; να γκαρίζει ; ww.
+0995 ; ; Wanneer ; πότε ; bijw.
+0996 ; ; Wanneer ; ποτέ ; bijw.
+0997 ; ; Vandaag hebben we les in de klas ; Σήμερα κάνουμε μάθημα στην τάξη ; zin
+0998 ; ; Tot snel! ; Τα λέμε σε λίγο! ; uitdr.
+0999 ; ; verbazingwekkend ; καταπληκτική ; bnw.
+1000 ; ; het werk ; η εργασία ; znw.
+1001 ; ; Ik was onder de indruk ; Εντυπωσιάστηκα ; zin
+1002 ; ; Tegelijkertijd ; Συγχρόνως ; bijw.
+1003 ; ; Het spijt me ; λυπήθηκα ; zin
+1004 ; ; Ook ; επίσης ; bijw.
+1005 ; ; gebracht ; φέρθηκε ; ww.
+1006 ; ; al ; ήδη ; bijw.
+1007 ; ; moeilijk ; σκληρά ; adverb/adjective
+1008 ; ; Genieten ; Χαίρομαι ; ww.
+1009 ; ; Echter ; όμως ; conjunction/adverb
+1010 ; ; zo veel ; τόσο ; bijw.
+1011 ; ; intelligent ; ευφυή ; bnw.
+1012 ; ; artiest ; καλλιτέχνη ; znw.
+1013 ; ; Wat betreft het werk ; Όσο για την εργασία ; zin
+1014 ; ; weinig ; ελάχιστες ; bnw.
+1015 ; ; observaties ; παρατηρήσεις ;  znw. (mv.)
+1016 ; ; dienovereenkomstig corrigeren? ; να διορθώσεις ανάλογα; ; vraagzin
+1017 ; ; jij bent blij ; χαίρεσαι ; ww.
+1018 ; ; ik wist het ; ήξερα ; ww./idioom
+1019 ; ; Tot morgen in persoon! ; Τα λέμε αύριο από κοντά! ; uitdr.
+1020 ; ; Fijne week ; Καλή εβδομάδα ; uitdr.
+1021 ; ; goede maand ; καλό μήνα ; uitdr.
+1022 ; ; Ik wou dat ik dat was ; θα ήθελα να ήμουν ; zin
+1023 ; ; kleine vogel ; πουλάκι ; noun/diminutive
+1024 ; ; ik was aan het luisteren ; άκουγα ; ww./idioom
+1025 ; ; Ik was erg blij! ; χάρηκα πάρα πολύ! ; zin
+1026 ; ; postzegelverzameling ; συλλογή γραμματοσήμων ; znw.
+1027 ; ; stempel ; γραμματόσημο ; znw.
+1028 ; ; het land ; η χώρα ; znw.
+1029 ; ; onderstaand ; παρακάτω ; bijw.
+1030 ; ; de grote meerderheid ; το μεγάλο πλειο ; znw. groep
+1031 ; ; de vrucht, de vruchten ; το φρούτο, τα φρούτα ; znw. (ev./mv.)
+1032 ; ; de banaan ; η μπανάνα ; znw.
+1033 ; ; de kokosnoot ; η καρύδα ; znw.
+1034 ; ; de kersen ; τα κεράσια ;  znw. (mv.)
+1035 ; ; de pruim ; το δαμάσκηνο ; znw.
+1036 ; ; de peer ; το αχλάδι ; znw.
+1037 ; ; de appel ; το μήλο ; znw.
+1038 ; ; (citroen)geel ; κίτρινος -η -ον ; bnw.
+1039 ; ; groen, het wezen ; πράσινος -η -ον ; bnw.
+1040 ; ; rood, het wezen ; κόκκινος -η -ον ; bnw.
+1041 ; ; prei ; πράσο ; znw.
+1042 ; ; paars, paars ; μοβ, μωβ ; bnw.
+1043 ; ; beige ; μπεζ ; bnw.
+1044 ; ; roze ; ροζ ; bnw.
+1045 ; ; oranje ; πορτοκαλί ; bnw.
+1046 ; ; koffie ; καφέ ; znw.
+1047 ; ; kastanjes ; κάστανα ;  znw. (mv.)
+1048 ; ; blauw ; μπλε ; bnw.
+1049 ; ; blauw, een, wezen ; γαλάζιος -α -ον ; bnw.
+1050 ; ; grijs ; γκρι ; bnw.
+1051 ; ; grijs, een, wezen ; γκρίζος -α -ον ; bnw.
+1052 ; ; leuk, een, wezen ; ωραίος -α -ον ; bnw.
+1053 ; ; jong, nieuw, neon ; νέος -α -ον ; bnw.
+1054 ; ; beestje, kapoentjes ; το ζουζούνι, τα ζουζούνια ; znw. (ev./mv.)
+1055 ; ; het insect ; το έντομο ; znw.
+1056 ; ; de dennenboom ; το έλατο ; znw.
+1057 ; ; de takken ; τα κλαδιά ;  znw. (mv.)
+1058 ; ; de bladeren ; τα φύλλα ;  znw. (mv.)
+1059 ; ; het geschenk ; το δώρο ; znw.
+1060 ; ; in de zomer ; το καλοκαίρι ; noun (time)
+1061 ; ; de sneeuw ; το χιονιά ; znw.
+1062 ; ; avond ; εσπέραν ; znw.
+1063 ; ; de koning ; ο βασιλεύς ; znw.
+1064 ; ; de dichter ; ο ποιητής ; znw.
+1065 ; ; heren ; άρχοντες ;  znw. (mv.)
+1066 ; ; herenhuis ; αρχοντικό ; znw.
+1067 ; ; definitie ; ορισμός ; znw.
+1068 ; ; Christus de goddelijke geboorte ; Χριστού η Θεία γέννηση ; znw. groep
+1069 ; ; ze kwamen ; ήρθαν ; ww.
+1070 ; ; met Kerstmis ; τα Χριστούγεννα ; noun (plural, holiday)
+1071 ; ; het nieuwe jaar ; η Πρωτοχρονιά ; znw.
+1072 ; ; de kerstliederen ; τα κάλαντα ;  znw. (mv.)
+1073 ; ; of driehoeken ; η τρίγωνα ; znw.
+1074 ; ; Christus is vandaag geboren ; Χριστός γεννάται σήμερον ; zin
+1075 ; ; Christus is waarlijk verrezen ; Χριστός ανέστη αληθώς ; zin
+1076 ; ; de lucht ; οι ουρανοί ;  znw. (mv.)
+1077 ; ; de natuur ; η φύσις ; znw.
+1078 ; ; zij verheugen zich ; αγάλλονται ; ww.
+1079 ; ; hij is blij ; χαίρεται ; ww.
+1080 ; ; het tikt ; τίκτεται ; ww.
+1081 ; ; spelonkachtig ; σπηλαίος ; bnw.
+1082 ; ; de kribbe ; η φάτνη ; znw.
+1083 ; ; het paard ; το άλογο ; znw.
+1084 ; ; verwijderen ; βγάζω ; ww.
+1085 ; ; ik draag ; φοράω ; ww.
+1086 ; ; de druiven ; τα σταφύλια ;  znw. (mv.)
+1087 ; ; oranje is oranje ; το πορτοκάλι είναι πορτοκαλί ; zin
+1088 ; ; koffie is koffie ; ο καφές είναι καφέ ; zin
+1089 ; ; ze verspreidden zich overal ; σκόρπισαν παντού ; zin
+1090 ; ; elk ; κάθε ; vnw./adjective
+1091 ; ; het nest ; η φωλιά ; znw.
+1092 ; ; in de buurt ; μέσα στη γειτονιά ; zin
+1093 ; ; het heldere ; το φωτεινό ; adjective/noun
+1094 ; ; feestelijk ; γιορτινό ; bnw.
+1095 ; ; bericht ; μήνυμα ; znw.
+1096 ; ; loop ; τρέχω ; ww.
+1097 ; ; voer ; τρέφω ; ww.
+1098 ; ; de stilte ; η σιγαλιά ; znw.
+1099 ; ; de omhelzing gaat open ; ανοίγει η αγκαλιά ; zin
+1100 ; ; liefde maakte van het hart een nest ; έκανε η αγάπη την καρδιά φωλιά ; zin
+1101 ; ; Iets langzamer, alstublieft. ; Λίγο πιο αργά, παρακαλώ. ; verzoekzin
+1102 ; ; Afrodite ; η Αφροδίτη ; eigennaam
+1103 ; ; ze zijn aan het praten ; αυτοί κάνουν κουβέντα ; zin
+1104 ; ; ze praten ; μιλάνε ; verb (3rd person plural)
+1105 ; ; het ziekenhuis ; το νοσοκομείο ; znw.
+1106 ; ; Kom, kom! ; Έλα, έλα! ; uitdr.
+1107 ; ; Kom voor koffie! ; Έλα για καφέ! ; uitdr.
+1108 ; ; Zullen we koffie gaan drinken? ; Πάμε για καφέ; ; vraagzin
+1109 ; ; Vertrouw je mij niet? ; Δεν με επιστεύεσαι; ; vraagzin
+1110 ; ; rechte lijn ; ευθεία(ν) ; znw.
+1111 ; ; Meneer ; κύριε ; noun/vocative
+1112 ; ; dame ; κυρία ; noun/vocative
+1113 ; ; Is het misschien … ? ; Μήπως … ; vraagzin
+1114 ; ; een paar minuten ; λίγα λεπτά ;  znw. (mv.)
+1115 ; ; Wel wel, u komt van ver! ; Πωπω, μένετε μακριά! ; zin
+1116 ; ; Ik denk dat… ; νομίζω πως/ότι … ; phrase/verb
+1117 ; ; Vrolijk Kerstfeest! ; Καλά Χριστούγεννα! ; uitdr.
+1118 ; ; Gelukkig nieuwjaar! ; Ευτυχισμένος ο καινούργιος χρόνος! ; uitdr.
+1119 ; ; Gezondheid, liefde en vreugde in 2025! ; Υγεία, αγάπη και χαρά το 2025! ; uitdr.
+1120 ; ; Ik heb het gisteravond gemaakt. ; Έφτιαξα χθες το βράδυ. ; zin
+1121 ; 02-04 ; zoeken ; ψάχνω ; ww.
+1122 ; 02-04 ; persoon ; το άτομο ; znw.
+1123 ; 02-04 ; kledij ; τα ρούχα (το ρούχο) ;  znw. (mv.)
+1124 ; 02-04 ; kostuum ; ένα κοστούμι ; znw.
+1125 ; 02-04 ; sjaal ; το κασκόλ ; znw.
+1126 ; 02-04 ; trui ; το πουλόβερ ; znw.
+1127 ; 02-04 ; broek ; το παντελόνι ; znw.
+1128 ; 02-04 ; tas ; η τσάντα ; znw.
+1129 ; 02-04 ; hoed ; το καπέλο ; znw.
+1130 ; 02-04 ; handschoenen ; τα γάντια (το γάντι) ;  znw. (mv.)
+1131 ; 02-04 ; paar handschoenen ; ένα ζευγάρι γάντια ; znw. groep
+1132 ; 02-04 ; riem ; η ζώνη ; znw.
+1133 ; 02-04 ; sok ; η κάλτσα ; znw.
+1134 ; 02-04 ; paar sokken ; ένα ζευγάρι κάλτσες ; znw. groep
+1135 ; 02-04 ; T-shirt ; μπλουζάκι ; znw.
+1136 ; 02-04 ; laars ; μπότα ; znw.
+1137 ; 02-04 ; paar laarzen ; ένα ζευγάρι μπότες ; znw. groep
+1138 ; 02-04 ; shirt ; το πουκάμισο ; znw.
+1139 ; 02-04 ; schoen ; το παπούτσι ; znw.
+1140 ; 02-04 ; paar schoenen ; ένα ζευγάρι παπούτσια ; znw. groep
+1141 ; 02-04 ; kleine schoenen ; παπουτιάκια ; noun (diminutive, plural)
+1142 ; 02-04 ; jas ; το μπουφάν ; znw.
+1143 ; 02-04 ; bril ; τα γυαλιά ;  znw. (mv.)
+1144 ; 02-04 ; rok ; η φούστα ; znw.
+1145 ; 02-04 ; jurk ; το φόρεμα ; znw.
+1146 ; 02-04 ; jurk ; το φουστάνι ; znw.
+1147 ; 02-04 ; jas ; το παλτό ; znw.
+1148 ; 02-04 ; stropdas ; η γραβάτα ; znw.
+1149 ; 02-04 ; jas ; το σακάκι ; znw.
+1150 ; 02-04 ; klok ; το ρολόι ; znw.
+1151 ; 02-04 ; knop ; το κουμπί ; znw.
+1152 ; 02-11 ;  ; βρε ; interjection
+1153 ; 02-11 ; oefening ; η άσκηση ; znw.
+1154 ; 02-11 ; weekend ; το Σαββατοκύριακο ; znw.
+1155 ; 02-11 ; eenpersoonskamer ; το μονόκλινο ; znw.
+1156 ; 02-11 ; dubbele ; το δίκλινο ; znw.
+1157 ; 02-11 ; verdieping ; όροφος ; znw.
+1158 ; 02-11 ; koelkast ; το ψυγείο ; znw.
+1159 ; 02-11 ; hitte ; η ζέστη ; znw.
+1160 ; 02-11 ; heet ; ζεστός -ή -ό ; bnw.
+1161 ; 02-11 ; ontbijt ; το πρωινό ; znw.
+1162 ; 02-11 ; sleutel ; το κλειδί ; znw.
+1163 ; 02-11 ; lift ; το ασανσέρ ; znw.
+1164 ; 02-11 ; bed ; το κρεβάτι ; znw.
+1165 ; 02-11 ; badkamer ; το μπάνιο ; znw.
+1166 ; 02-11 ; Maar jij bent jong! ; Μα είστε νέα! ; zin
+1167 ; 02-11 ; eerst ; πρώτος -η -ο ; bnw.
+1168 ; 02-11 ; tweede ; δεύτερος -η -ο ; bnw.
+1169 ; 02-11 ; derde ; τρίτος -η -ο ; bnw.
+1170 ; 02-11 ; vierde ; τέταρτος -η -ο ; bnw.
+1171 ; 02-11 ; vijfde ; πέμπτος -η -ο ; bnw.
+1172 ; 02-11 ; man ; ο άνθρωπος ; znw.
+1173 ; 02-11 ; uitzicht ; η θέα ; znw.
+1174 ; 02-11 ; Japan ; η Ιαπονιά ; plaatsnaam
+1175 ; 02-11 ; Japanner ; ο Γιαπωνέζος ; znw.
+1176 ; 02-11 ; Japanse ; η Γιαπωνέζα ; znw.
+1177 ; 02-11 ; Duitsland ; η Γερμανία ; plaatsnaam
+1178 ; 02-11 ; Duitser ; ο Γερμανός ; znw.
+1179 ; 02-11 ; Duitse ; η Γερμανίδα ; znw.
+1180 ; 02-11 ; Frankrijk ; η Γαλλία ; plaatsnaam
+1181 ; 02-11 ; Fransman ; ο Γάλλος ; znw.
+1182 ; 02-11 ; Française ; η Γαλλίδα ; znw.
+1183 ; 02-11 ; Italië ; η Ιταλία ; plaatsnaam
+1184 ; 02-11 ; Italiaan ; ο Ιταλός ; znw.
+1185 ; 02-11 ; Italiaanse ; η Ιταλίδα ; znw.
+1186 ; 02-11 ; Nederland ; η Ολλανδία ; plaatsnaam
+1187 ; 02-11 ; Nederlander ; ο Ολλανδός ; znw.
+1188 ; 02-11 ; Nederlandse ; η Ολλανδέζα ; znw.
+1189 ; 02-11 ; Engeland ; η Αγγλία ; plaatsnaam
+1190 ; 02-11 ; Engelsman ; ο Άγγλος ; znw.
+1191 ; 02-11 ; Engelse ; η Αγγλίδα ; znw.
+1192 ; 02-11 ; Spanje ; η Ισπανία ; plaatsnaam
+1193 ; 02-11 ; Spanjaard ; ο Ισπανός ; znw.
+1194 ; 02-11 ; Spaanse ; η Ισπανίδα ; znw.
+1195 ; 02-11 ; België ; το Βέλγιο ; plaatsnaam
+1196 ; 02-11 ; Belg ; ο Βέλγος ; znw.
+1197 ; 02-11 ; België ; η Βελγίδα ; znw.
+1198 ; 02-11 ; dag ; η ήμερα, η μέρα ; znw.
+1199 ; 02-11 ; zondag ; η Κυριακή ; znw.
+1200 ; 02-11 ; maandag ; η Δευτέρα ; znw.
+1201 ; 02-11 ; dinsdag ; η Τρίτη ; znw.
+1202 ; 02-11 ; woensdag ; η Τετάρτη ; znw.
+1203 ; 02-11 ; donderdag ; η Πέμπτη ; znw.
+1204 ; 02-11 ; vrijdag ; η Παρασκευή ; znw.
+1205 ; 02-11 ; op zaterdag ; το Σάββατο ; znw.
+1206 ; 02-11 ; zevende dag ; η έβδομη η μέρα ; znw. groep
+1207 ; 02-11 ; met ontbijt ; με πρωινό ; zin
+1208 ; 02-11 ; met zicht op zee ; με θέα στην θάλασσα ; zin
+1209 ; 02-11 ; eerst ; πρώτος -η -ο ; bnw.
+1210 ; 02-11 ; tweede ; δεύτερος -η -ο ; bnw.
+1211 ; 02-11 ; derde ; τρίτο -η -ο ; bnw.
+1212 ; 02-11 ; vierde ; τέταρτο -η -ο ; bnw.
+1213 ; 02-11 ; vijfde ; πέμπτος -η -ο ; bnw.
+1214 ; 02-11 ; zesde ; έκτο -η -ο ; bnw.
+1215 ; 02-11 ; zevende ; έβδομος -η -ο ; bnw.
+1216 ; 02-11 ; week ; εβδομάς ; znw.
+1217 ; 02-11 ; zeventig ; εβδομήντα ; numeral
+1218 ; 02-11 ; medelijden ; οίκτο ή την οίκτο ; znw.
+1219 ; 02-11 ; (de) douche ; (το) ντους ; znw.
+1220 ; 02-11 ; juiste artikel ; το σωστό άρθρο ; znw. groep
+1221 ; 02-11 ; precies ; ακριβώς -ή -ό ; bnw.
+1222 ; 02-11 ; nieuw ; καινούργιος -η -ο ; bnw.
+1223 ; 02-11 ; lang ; ψηλός -ή -ό ; bnw.
+1224 ; 02-11 ; rijk ; πλούσιος -η -ο ; bnw.
+1225 ; 02-11 ; handwerk ; χερίοργος -α -ο ; znw.
+1226 ; 02-11 ; paraplu ; η ομπρέλα ; znw.
+1227 ; 02-11 ; euro ; το ευρώ ; znw.
+1228 ; 02-11 ; dollar ; το δολάριο ; znw.
+1229 ; 02-11 ; pond ; η λίρα ; znw.
+1230 ; 02-11 ; Hoe lang nog? ; Για πόσον καιρό; ; vraagzin
+1231 ; 02-11 ; Welke wil je? ; Ποιο θέλετε; ; vraagzin
+1232 ; 02-11 ; Welke kant kijkt uit op de zee? ; Ποιο βλέπει στην θάλασσα; ; vraagzin
+1233 ; 02-11 ; Op welke verdieping woon jij? ; Σε ποιον όροφο μένετε; ; vraagzin
+1234 ; 02-11 ; Welke kamer wilt u? ; Τι δωμάτιο θέλετε; ; vraagzin
+1235 ; 02-11 ; koud ; κρύος -η -ο ; bnw.
+1236 ; 02-11 ; grappig ; αστείος -α -ο ; bnw.
+1237 ; 02-11 ; oud ; αρχαίος -α -ο ; bnw.
+1238 ; 02-11 ; lang ; ψηλός -ή -ό ; bnw.
+1239 ; 02-11 ; kort ; κοντός -ή -ό ; bnw.
+1240 ; 02-11 ; slim ; έξυπνος -η -ο ; bnw.
+1241 ; 02-11 ; ei ; (το) αυγό, (το) αβγό ; znw.
+1242 ; 02-11 ; deze man ; αυτός ο άνδρας ; znw. groep
+1243 ; 02-11 ; deze ; αυτή η γυναίκα ; znw. groep
+1244 ; 02-11 ; dit boek ; αυτό το βιβλίο ; znw. groep
+1245 ; 02-11 ; beminnen ; αγαπάω ; ww.
+1246 ; 02-11 ; wie ; πιος, ποιον ; vnw./vraagw.
+1247 ; 02-11 ; nu ; πια, πια ; bijw.
+1248 ; 02-11 ; welke, welke ; ποιο, ποιο ; vnw./vraagw.
+1249 ; 02-11 ; horen ; ακούω ; ww.
+1250 ; 02-11 ; toneelstuk ; παίζω ; ww.
+1251 ; 02-11 ; eensgelijks, ook ; επίσης ; bijw.
+1252 ; 02-11 ; gitaar spelen ; παίζω τη κιθάρα ; ww. groep
+1253 ; 02-11 ; piano spelen ; παίζω το πιάνο ; ww. groep
+1254 ; 02-11 ; dammen ; παίζω το τάβλι ; ww. groep
+1255 ; 02-11 ; kaarten ; παίζω χαρτιά ; ww. groep
+1256 ; 02-11 ; toneelspelen ; παίζω θέατρο ; ww. groep
+1257 ; 02-11 ; complex ; το συγκρότημα ; znw.
+1258 ; 02-11 ; Waarom niet? ; Γιατί όχι; ; vraagzin
+1259 ; 02-11 ; meisje ; η κοπέλα ; znw.
+1260 ; 02-11 ; ’s ochtends ; το πρωί ; noun (time)
+1261 ; 02-11 ; ’s middags ; το μεσημέρι ; noun (time)
+1262 ; 02-11 ; ’s namiddags ; το απόγευμα ; noun (time)
+1263 ; 02-11 ; ’s avonds ; το βράδυ ; noun (time)
+1264 ; 02-11 ; nacht ; η νύχτα ; znw.
+1265 ; 02-11 ; op dinsdag ; την Τρίτη ; noun (time)
+1266 ; 02-11 ; Griekse les ; μάθημα ελληνικών ; znw. groep
+1267 ; 02-11 ; gelijkvloers ; το ισόγειο ; znw.
+1268 ; 02-11 ; appartement ; το διαμέρισμα ; znw.
+1269 ; 02-11 ; appartementsgebouw ; η πολυκατοικία ; znw.
+1270 ; 02-11 ; Ik woon in een huis. ; μένω σε σπίτι ; zin
+1271 ; 02-11 ; Wie wil je? ; Ποιον θέλετε; ; vraagzin
+1272 ; 02-11 ; Wat wil je van hem? ; Τι τον θέλετε; ; vraagzin
+1273 ; 02-18 ; Prettig verblijf! ; Καλή διαμονή! ; uitdr.
+1274 ; 02-18 ; Veel plezier! ; Καλά να περάσετε! ; uitdr.
+1275 ; 02-18 ; groot ; μεγάλος -η -ο ; bnw.
+1276 ; 02-18 ; klein ; μικρός -η -ο ; bnw.
+1277 ; 02-18 ; nieuw ; νέος -α -ο ; bnw.
+1278 ; 02-18 ; nieuw ; καινούργιος ; bnw.
+1279 ; 02-18 ; oud ; παλιός ; bnw.
+1280 ; 02-18 ; oud ; αρχαίος ; bnw.
+1281 ; 02-18 ; met ontbijt ; με πρωινό ; zin
+1282 ; 02-18 ; zonder ontbijt ; χωρίς πρωινό ; zin
+1283 ; 02-18 ; Welke kamer wilt u? Dubbel of enkel? ; Τι δωμάτιο θέλετε; Δίκλινο ή μονόκλινο; ; vraagzin
+1284 ; 02-18 ; met de trein ; με το τρένο ; zin
+1285 ; 02-18 ; binnenin ; μέσα ; bijw.
+1286 ; 02-18 ; uit ; έξω ; bijw.
+1287 ; 02-18 ; twee-drie ; δύο-τρία ; numeral
+1288 ; 02-18 ; in de stad ; εις την Πόλη ; zin
+1289 ; 02-18 ; Σου πάει το ρος! ; Σου πάει το ρος! ; uitdr.
+1290 ; 02-18 ; kruispunt ; η διασταύρωση ; znw.
+1291 ; 02-18 ; kruis ; ο σταύρος ; znw.
+1292 ; 02-18 ; kruiswoordpuzzel ; το σταυρόλεξο ; znw.
+1293 ; 02-18 ; stoplicht ; το φανάρι ; znw.
+1294 ; 02-18 ; Is er een dokter? ; Υπάρχει κανένας γιατρός; ; vraagzin
+1295 ; 02-18 ; Is er een taverne? ; Υπάρχει καμία ταβέρνα; ; vraagzin
+1296 ; 02-18 ; Is er iemand die … ? ; Υπάρχει κάποιον που … ; ; vraagzin
+1297 ; 02-18 ; Is er een apotheek? ; Υπάρχει κανένα φαρμακείο; ; vraagzin
+1298 ; 02-18 ; wij zijn op de Nikisstraat ; είμαστε στην οδό Νίκης ; zin
+1299 ; 02-18 ; laan ; η λεωφόρος ; znw.
+1300 ; 02-18 ; op de Vredes-Avenue ; στην λεωφόρο Ειρήνης ; zin
+1301 ; 02-18 ; de weg uitleggen ;  ; zin
+1302 ; 02-18 ; Waar is … , alstublieft? ; Παρακαλώ, που είναι … ; ; vraagzin
+1303 ; 02-18 ; twee of drie hoeken ; δύο-τρία τετράγωνα ; znw. groep
+1304 ; 02-18 ; onderstaand ; παρακάτω ; bijw.
+1305 ; 02-18 ; na ; μετά ; voorz.
+1306 ; 02-18 ; ga recht naar beneden ; πηγαίνετε ευθεία κάτω ; zin
+1307 ; 02-18 ; en op de tweede weg ; και στον δεύτερο δρόμο ; zin
+1308 ; 02-18 ; links/rechts afslaan ; στρίβετε αριστερά/δεξιά ; zin
+1309 ; 02-18 ; daar, tegenover het museum ; εκεί, απέναντι από το μουσείο ; zin
+1310 ; 02-18 ; -winkel, waar men iets koopt ; -πωλείο ; noun (suffix)
+1311 ; 02-18 ; boekenwinkel ; ένα βιβλιοπωλείο ; znw.
+1312 ; 02-18 ; bloemenwinkel ; ένα ανθοπωλείο ; znw.
+1313 ; 02-18 ; naast ; δίπλα σε + acc ; voorz.
+1314 ; 02-18 ; naast ; δίπλα από + acc ; voorz.
+1315 ; 02-18 ; tegenover ; απέναντι σε + acc ; voorz.
+1316 ; 02-18 ; tegenover ; απέναντι από + acc ; voorz.
+1317 ; 02-18 ; tegenover de oven ; απέναντι στον φούρνο ; zin
+1318 ; 02-18 ; naast de herberg ; δίπλα στην ταβέρνα ; zin
+1319 ; 02-18 ; tegenover de apotheek ; απέναντι στο φαρμακείο ; zin
+1320 ; 02-18 ; naast de murlos ; δίπλα από τον μουρλό ; zin
+1321 ; 02-18 ; naast de herberg ; δίπλα από την ταβέρνα ; zin
+1322 ; 02-18 ; naast de apotheek ; δίπλα από το φαρμακείο ; zin
+1323 ; 02-18 ; parkeerplaats ; το πάρκινγκ ; znw.
+1324 ; 02-18 ; stomerij, droogkuis ; το καθαριστήριο ; znw.
+1325 ; 02-18 ; loodgieter ; ο υδραυλικός ; znw.
+1326 ; 02-18 ; bioscoop ; ο κινηματογράφος ; znw.
+1327 ; 02-18 ; pizzeria ; η πιτσαρία ; znw.
+1328 ; 02-18 ; banketbakkerij ; το ζαχαροπλαστείο ; znw.
+1329 ; 02-18 ; nationale bank ; η εθνική τράπεζα ; znw.
+1330 ; 02-18 ; T-shirt ; το φανελάκι ; znw.
+1331 ; 02-18 ; ondergoed ; τα εσώρουχα ;  znw. (mv.)
+1332 ; 02-18 ; pantoffels ; τα παντόφλες ;  znw. (mv.)
+1333 ; 02-18 ;  ; το πέδιλα ; znw.
+1334 ; 02-18 ; korte broek ; το σορτς ; znw.
+1335 ; 02-18 ; panty ; το καλσόν ; znw.
+1336 ; 02-18 ; omhoog gaan ; ανεβαίνω ; ww.
+1337 ; 02-18 ; uitstappen ; κατεβαίνω ; ww.
+1338 ; 02-18 ; weglopen ; βγαίνω έξω ; ww./idioom
+1339 ; 02-18 ; draai ; στρίβω ; ww.
+1340 ; 02-18 ; grommen ; γκρινιάζω ; ww.
+1341 ; 02-18 ; Ik stop. ; κάνω στάση ; zin
+1342 ; 02-18 ; omhoog ; (ε)πάνω ; bijw.
+1343 ; 02-18 ; omlaag ; κάτω ; bijw.
+1344 ; 02-18 ; omdat ; γιατί ; voegw.
+1345 ; 02-18 ; weg ; μακριά ; bijw.
+1346 ; 02-18 ; onderstaand ; παρακάτω ; bijw.
+1347 ; 02-18 ; precies ; ακριβώς ; bijw.
+1348 ; 02-18 ; direct ; ευθεία ; bijw.
+1349 ; 02-18 ; tegen ; απέναντι σε ; voorz.
+1350 ; 02-18 ; na ; μετά ; voorz.
+1351 ; 02-18 ; snel ; γρήγορα ; bijw.
+1352 ; 02-18 ; opnieuw ; πάλι ; bijw.
+1353 ; 02-18 ;  ; όμως ; voegw.
+1354 ; 02-18 ; vandaag ; σήμερα ; bijw.
+1355 ; 02-18 ; Hier … ! ; Να … ! ; zin
+1356 ; 02-18 ; straat ; η οδός ; znw.
+1357 ; 02-18 ; weg ; ο δρόμος ; znw.
+1358 ; 02-18 ; hoek ; η γωνία ; znw.
+1359 ; 02-18 ; plein ; το τετράγωνο ; znw.
+1360 ; 02-18 ; supermarkt ; το σουπερμάρκετ ; znw.
+1361 ; 02-18 ; blij ; ευχαριστημένος -η -ο ; bnw.
+1362 ; 02-18 ; moe ; κουρασμένος -η -ο ; bnw.
+1363 ; 02-18 ; klaar ; έτοιμος -η -ο ; bnw.
+1364 ; 02-18 ; in de buurt van ; κοντά ; bijw.
+1365 ; 02-18 ; weg ; μακριά ; bijw.
+1366 ; 02-18 ; uit ; έξω ; bijw.
+1367 ; 02-18 ; binnenin ; μέσα ; bijw.
+1368 ; 02-18 ; uitgaan ; βγαίνω ; ww.
+1369 ; 02-18 ; binnenkomen ; μπαίνω ; ww.
+1370 ; 02-18 ; omhoog gaan ; ανεβαίνω ; ww.
+1371 ; 02-18 ; uitstappen ; κατεβαίνω ; ww.
+1372 ; 02-18 ; rechts ; δεξιά ; bijw.
+1373 ; 02-18 ; links ; αριστερά ; bijw.
+1374 ; 02-18 ; omhoog gaan ; ανεβαίνω επάνω ; ww. groep
+1375 ; 02-18 ; weglopen ; βγαίνω έξω ; ww. groep
+1376 ; 02-18 ; binnen gaan, binnenkomen ; μπαίνω μέσα ; ww. groep
+1377 ; 02-18 ; ga linksaf ; στρίβω αριστερά ; ww. groep
+1378 ; 02-18 ;  ; Χοιρινή μοιάζω πολύ ; zin
+1379 ; 02-18 ; veraf wonen ; μένω μακριά ; ww. groep
+1380 ; 02-18 ; direct ; ευθεία ; bijw.
+1381 ; 02-18 ; onderstaand ; κάτω ; bijw.
+1382 ; 02-18 ; hoek ; η γωνία ; znw.
+1383 ; 02-18 ; dan ; τότε ; bijw.
+1384 ; 02-18 ; Kyr-, Kyrelias = Meneer Elias, Kyrimaria = Mevrouw Maria ; Κυρ-, Κυρηλίας = κύριέ Ηλίας, Κυριμαρία = κυρία Μαρία ; zin
+1385 ; 02-25 ; kleren, kledij ; τα ρούχα ;  znw. (mv.)
+1386 ; 02-25 ; broek ; το παντελόνι ; znw.
+1387 ; 02-25 ; een paar schoenen ; ένα ζευγάρι παπούτσια ; znw. groep
+1388 ; 02-25 ; blouse ; μπλούζα ; znw.
+1389 ; 02-25 ; hoed ; το καπέλο ; znw.
+1390 ; 02-25 ; jas ; το σακάκι ; znw.
+1391 ; 02-25 ; rok ; η φούστα ; znw.
+1392 ; 02-25 ; jurken ; τα φόρεμα ;  znw. (mv.)
+1393 ; 02-25 ; sandalen ; τα πέδιλα ;  znw. (mv.)
+1394 ; 02-25 ; korte broek ; το σορτς ; znw.
+1395 ; 02-25 ; pak ; το κοστούμι ; znw.
+1396 ; 02-25 ; sportschoenen ; τα αθλητικά παπούτσια ;  znw. (mv.)
+1397 ; 02-25 ; sokken ; οι κάλτσες ;  znw. (mv.)
+1398 ; 02-25 ; T-shirt ; το μπλουζάκι ; znw.
+1399 ; 02-25 ; sjaal ; το κασκόλ ; znw.
+1400 ; 02-25 ; handschoenen ; τα γάντια ;  znw. (mv.)
+1401 ; 02-25 ; bril ; τα γυαλιά ;  znw. (mv.)
+1402 ; 02-25 ; jas ; το παλτό ; znw.
+1403 ; 02-25 ; tas ; η τσάντα ; znw.
+1404 ; 02-25 ; laarzen ; οι μπότες ;  znw. (mv.)
+1405 ; 02-25 ; bouvan ; το μπουβάν ; znw.
+1406 ; 02-25 ; badpak ; το μαγιό ; znw.
+1407 ; 02-25 ; pantoffels ; οι παντόφλες ;  znw. (mv.)
+1408 ; 02-25 ; beeld ; η εικόνα ; znw.
+1409 ; 02-25 ; Roodkapje ; η Κοκκινοσκουφίτσα ; eigennaam
+1410 ; 02-25 ; atletisch ; αθλητικός -ή -ό ; bnw.
+1411 ; 02-25 ; alledaags ; καθημεριννός -ή -ό ; bnw.
+1412 ; 02-25 ; zomer ; καλοκαιρινός -ή -ό ; bnw.
+1413 ; 02-25 ; avond ; βραδινός -ή -ό ; bnw.
+1414 ; 02-25 ; modern ; μοντέρνος -α -ο ; bnw.
+1415 ; 02-25 ; klassiek ; κλασικός -ή -ό ; bnw.
+1416 ; 02-25 ; smal ; στενός -ή -ό ; bnw.
+1417 ; 02-25 ; nemen ; παίρνω ; ww.
+1418 ; 02-25 ; bijvoeglijk naamwoord ; το επίθετο ; znw.
+1419 ; 02-25 ; tafel ; ο πίνακας ; znw.
+1420 ; 02-25 ; hakken ; οι γόβες ;  znw. (mv.)
+1421 ; 02-25 ; schoon ; καθαρός -ή -ό ; bnw.
+1422 ; 02-25 ; vuil ; βρώμικος -η -ο ; bnw.
+1423 ; 02-25 ; dik ; χοντρός -ή -ό ; bnw.
+1424 ; 02-25 ; dun ; λεπτός -ή -ό ; bnw.
+1425 ; 02-25 ; wit ; λευκός -ή -ό, άσπρος -η -ο ; bnw.
+1426 ; 02-25 ; witte wijn ; ένα λευκό κρασί = ένα άσπρο κρασί ; znw. groep
+1427 ; 02-25 ; rode wijn ; ένα μαύρο κρασί = ένα κόκκινο κρασί ; znw. groep
+1428 ; 02-25 ; zwart ; μαύρος ; bnw.
+1429 ; 02-25 ; rood ; κόκκινος ; bnw.
+1430 ; 02-25 ; Wereld, huh! ; Κόσμος, ε! ; phrase/expression
+1431 ; 02-25 ; station ; ο σταθμός ; znw.
+1432 ; 02-25 ; vliegtuig ; το αεροπλάνο ; znw.
+1433 ; 02-25 ; met het vliegtuig ; με το αεροπλάνο ; zin
+1434 ; 02-25 ; luchthaven ; το αεροδρόμιο ; znw.
+1435 ; 02-25 ; schip ; το πλοίο ; znw.
+1436 ; 02-25 ; per schip ; με το πλοίο ; zin
+1437 ; 02-25 ; haven ; το λιμάνι ; znw.
+1438 ; 02-25 ; trein ; το τρένο ; znw.
+1439 ; 02-25 ; met de trein ; με το τρένο ; zin
+1440 ; 02-25 ; auto ; το αυτοκίνητο ; znw.
+1441 ; 02-25 ; fiets ; το ποδήλατο ; znw.
+1442 ; 02-25 ; machine ; η μηχανή ; znw.
+1443 ; 02-25 ; te voet ; με τα πόδια ; zin
+1444 ; 02-25 ; een eiland ; ένα νησί ; znw. groep
+1445 ; 02-25 ; totdat, totdat ; ως, μέχρι ; voegw.
+1446 ; 02-25 ; aankomen ; φτάνω ; ww.
+1447 ; 02-25 ; vertrekken ; φεύγω ; ww.
+1448 ; 02-25 ; reis ; ταξιδεύω ; ww.
+1449 ; 02-25 ; nemen ; παίρνω ; ww.
+1450 ; 02-25 ; gaan ; πάω ; ww.
+1451 ; 02-25 ; eten ; τρώω ; ww.
+1452 ; 02-25 ; horen ; ακούω ; ww.
+1453 ; 02-25 ; huilen ; κλαίω ; ww.
+1454 ; 02-25 ; schuldig zijn ; φταίω ; ww.
+1455 ; 02-25 ; praten ; μιλάω, μιλώ ; ww.
+1456 ; 02-25 ; beminnen ; αγαπάω, αγαπώ ; ww.
+1457 ; 02-25 ; honger hebben ; πεινάω, πεινώ ; ww. groep
+1458 ; 02-25 ; dorst hebben ; διψάω, διψώ ; ww. groep
+1459 ; 02-25 ; stoppen ; σταματάω, σταματώ ; ww.
+1460 ; 02-25 ; zingen ; τραγουδάω, τραγουδώ ; ww.
+1461 ; 02-25 ; beginnen ; ξεκινάω, ξεκινώ ; ww.
+1462 ; 02-25 ; passeren ; περνάω, περννώ ; ww.
+1463 ; 02-25 ; verkiezen, de voorkeur geven aan ; προτιμάω, προτιμώ ; ww. groep
+1464 ; 02-25 ; wandelen, stappen ; περπατάω, περπατώ ; ww. groep
+1465 ; 02-25 ; wakker worden ; ξυπνάω, ξυπνώ ; ww. groep
+1466 ; 02-25 ; kunnen ; μπορώ ; ww.
+1467 ; 02-25 ; (te) laat zijn ; αργώ ; ww. groep
+1468 ; 02-25 ; mee eens zijn, instemmen ; συμφωνώ ; ww. groep
+1469 ; 02-25 ; bedanken ; ευχαριστώ ; ww.
+1470 ; 02-25 ; zich zorgen maken ; ανησυχώ ; ww. groep
+1471 ; 02-25 ; vergeven ; συγχωρώ ; ww.
+1472 ; 02-25 ; gids ; οδηγώ ; ww.
+1473 ; 02-25 ; telefoon ; τηλεφωνώ ; ww.
+1474 ; 02-25 ; leven ; ζω ζεις ζει ζούμε ζητεί ζουν ; ww.
+1475 ; 02-25 ; Ik ben te laat door de trein! ; Άργησα φταίει το τρένο! ; zin
+1476 ; 02-25 ; lied ; το τραγούδι ; znw.
+1477 ; 02-25 ; jeugd ; το νιάτα ; znw.
+1478 ; 02-25 ; vuur ; η φωτιά ; znw.
+1479 ; 02-25 ; alsof, zoals ; σαν ; voegw.
+1480 ; 03-11 ; goed ; καλός -ή -ό ; bnw.
+1481 ; 03-11 ; reizen ; ταξιδεύω ταξιδεύεις ταξιδεύει ταξιδεύουμε ταξιδεύετε ταξιδεύουν ; ww.
+1482 ; 03-11 ; motorfiets ; το μηχανάκι ; znw.
+1483 ; 03-11 ; eendje ; το παπάκι ; znw.
+1484 ; 03-11 ; dag ; η μέρα ; znw.
+1485 ; 03-11 ; ’s ochtends ; το πρωί ; noun (time)
+1486 ; 03-11 ; ’s middags ; το μεσημέρι ; noun (time)
+1487 ; 03-11 ; ’s namiddaags ; το απόγευμα ; noun (time)
+1488 ; 03-11 ; ’s avonds ; το βράδυ ; noun (time)
+1489 ; 03-11 ; nacht ; η νύχτα ; znw.
+1490 ; 03-11 ; om middernacht ; τα μεσάνυχτα ; noun (time)
+1491 ; 03-11 ; tram ; το τρόλει ; znw.
+1492 ; 03-11 ; elektricien ; ο ηλεκτρικός ; znw.
+1493 ; 03-11 ; elektrisch ; ηλεκτρικός -ή -ό ; bnw.
+1494 ; 03-11 ; metro ; το μετρό ; znw.
+1495 ; 03-11 ; de hond uitlaten ; βγάζω βόλτα τον σκύλο ; ww. groep
+1496 ; 03-11 ; een toertje maken, wandelen ; βγάζω βόλτα ; ww. groep
+1497 ; 03-11 ; wandeling, toertje ; η βόλτα ; znw.
+1498 ; 03-11 ; beginnen ; ξεκινάω ; ww.
+1499 ; 03-11 ; vertrekken ; φεύγω ; ww.
+1500 ; 03-11 ; kaartje, ticket ; το εισιτήριο ; znw.
+1501 ; 03-11 ; ticket enkel reis ; το εισιτήριο απλό ; znw. groep
+1502 ; 03-11 ; retourticket ; το εισιτήριο με επιστροφή ; znw. groep
+1503 ; 03-11 ; eerste klasse ; πρώτη θέση ; znw. groep
+1504 ; 03-11 ; economieklasse ; τουριστική θέση ; znw. groep
+1505 ; 03-11 ; over ; περίπου ; bijw.
+1506 ; 03-11 ; bij de kiosk ; στο περίπτερο ; zin
+1507 ; 03-11 ; poëzie ; η ποίηση ; znw.
+1508 ; 03-11 ; eenvoudig ; απλός -ή -ό ; bnw.
+1509 ; 03-11 ; waardig ; άξιος -η -ο ; bnw.
+1510 ; 03-11 ; belachelijk ; γελοίος -η -ο ; bnw.
+1511 ; 03-11 ;  ; -ποιω ; suffix/verb
+1512 ; 03-11 ;  ; χρησιποιώ ; ww.
+1513 ; 03-11 ; gebruiken ; χρησιμοποιώ ; ww.
+1514 ; 03-11 ; nieuw ; νέος -α -ο ; bnw.
+1515 ; 03-11 ; oud ; παλιός ; bnw.
+1516 ; 03-11 ; goed ; καλός -ή -ό ; bnw.
+1517 ; 03-11 ; slecht ; κακός -ή -ό ; bnw.
+1518 ; 03-11 ; gemakkelijk ; εύκολος -η -ο ; bnw.
+1519 ; 03-11 ; moeilijk ; δύσκολος -η -ο ; bnw.
+1520 ; 03-11 ; warmte ; ζέστος -η -ο ; znw./bnw.
+1521 ; 03-11 ; koud ; κρύος -α -ο ; bnw.
+1522 ; 03-11 ; vuil ; βρώμικος -η -ο ; bnw.
+1523 ; 03-11 ; schoon, proper ; καθαρός -ή -ό ; bnw.
+1524 ; 03-11 ; groot ; μεγάλος -η -ο ; bnw.
+1525 ; 03-11 ; klein ; μικρός -ή -ό ; bnw.
+1526 ; 03-11 ; goedkoop ; φτηνός -ή -ό ; bnw.
+1527 ; 03-11 ; duur ; ακριβός -ή -ό ; bnw.
+1528 ; 03-11 ; lang ; ψηλός -ή -ό ; bnw.
+1529 ; 03-11 ; kort ; κοντός -ή -ό ; bnw.
+1530 ; 03-11 ; mooi ; ωραίος -α -ο ; bnw.
+1531 ; 03-11 ; lelijk ; άσχημος -η -ο ; bnw.
+1532 ; 03-11 ; gemakkelijk ; εύκολος -η -ο ; bnw.
+1533 ; 03-11 ; moeilijk ; δύσκολος -η -ο ; bnw.
+1534 ; 03-11 ; Maar nee! Oef! ; Μπα! ; interjection
+1535 ; 03-11 ; liever ; μάλλον ; bijw.
+1536 ; 03-11 ; bekend ; γνωστός -ή -ό ; bnw.
+1537 ; 03-11 ; merk ; η μάρκα ; znw.
+1538 ; 03-11 ; reisbureau ; το ταξιδιωτικό ; znw.
+1539 ; 03-11 ; gouden gids ; η χρυσή αγγελία ; znw. groep
+1540 ; 03-11 ; morgen ; αύριο ; bijw.
+1541 ; 03-11 ; lam ; το αρνάκι ; znw.
+1542 ; 03-11 ; bij ons ; μαζί μας ; zin
+1543 ; 03-11 ; altijd dragen ; φοράω πάντα ; ww. groep
+1544 ; 03-11 ; vallen ; πέφτω ; ww.
+1545 ; 03-11 ; de bus vertrekt ; το λεωφορείο φεύγει ; zin
+1546 ; 03-11 ; Wacht je een secondje? ; Περιμένεις ένα λεπτό; ; vraagzin
+1547 ; 03-11 ; Ik hou heel veel van je! ; Σε αγαπάω πολύ!, Σ'αγαπνώ πολύ! ; zin
+1548 ; 03-11 ; Gaat u via het postkantoor? ; Μήπως περνάτε από το ταχυδρομείο; ; vraagzin
+1549 ; 03-11 ; Hij wil kip, een Griekse salade en wijn. ; θέλει κοτόπουλο, μία ελληνική σαλάτα και κρασί. ; zin
+1550 ; 03-11 ; Drink jij ’s ochtends geen koffie? ; Δεν πίνεις καφέ το πρωί; ; vraagzin
+1551 ; 03-11 ; we hebben erg honger ; πεινάμε πολύ ; zin
+1552 ; 03-11 ; Ik houd van lamsvlees ; μου αρέσει το αρνάκι ; zin
+1553 ; 03-11 ; Kom op, Niko! ; Έλα Νίκο! ; uitdr.
+1554 ; 03-11 ; eten is klaar ; το φαγητό είναι έτοιμο ; zin
+1555 ; 03-11 ; Wie betaalt de rekening? ; Ποιός πληρώνει τον λογαρισμό; ; vraagzin
+1556 ; 03-11 ; beminnen ; αγαπάω ; ww.
+1557 ; 03-11 ; honger hebben ; πεινάω ; ww. groep
+1558 ; 03-11 ; dorst hebben ; διψάω ; ww. groep
+1559 ; 03-11 ; stoppen ; σταματάω ; ww.
+1560 ; 03-11 ; spreken ; μιλάω ; ww.
+1561 ; 03-11 ; vragen ; ρωτάω ; ww.
+1562 ; 03-11 ; antwoorden ; απαντάω ; ww.
+1563 ; 03-11 ; kunnen ; μπορώ ; ww.
+1564 ; 03-11 ; mee eens zijn, instemmen ; συμφωνώ ; ww. groep
+1565 ; 03-11 ; (in)studeren, blokken ; μελετάω ; ww.
+1566 ; 03-11 ; baan, job, werk ; η δουλειά ; znw.
+1567 ; 03-11 ; rondom, omstreeks ; γύρω ; bijw.
+1568 ; 03-11 ; rond drie uur ; γύρω στις τρεις ; zin
+1569 ; 03-11 ; onderzoeken ; εξετάζω ; ww.
+1570 ; 03-11 ; langs (voorbij) … komen, passeren aan ; περνάω από ; ww. groep
+1571 ; 03-11 ; de witte toren ; ο λευκός πύργος ; znw. groep
+1572 ; 03-11 ; toren ; ο πύργος ; znw.
+1573 ; 03-11 ; er ontbreekt iets ; κάτι λείπει ; zin
+1574 ; 03-11 ; hoe dan ook ; πάντως ; bijw.
+1575 ; 03-11 ; vrij goedkoop ; μάλλον φτηνός ; zin
+1576 ; 03-11 ; meer ; πια ; bijw.
+1577 ; 03-18 ; afhankelijk ; εξαρτάτα ; bnw.
+1578 ; 03-18 ; opstaan ; σηκώνομαι ; ww.
+1579 ; 03-18 ;  ; κουμάμαι ; ww.
+1580 ; 03-18 ;  ; αρχίζω ; ww.
+1581 ; 03-18 ; serie ; η σειρά ; znw.
+1582 ; 03-18 ; gebruikelijk, gewoonlijk ; συνήθως ; bijw.
+1583 ; 03-18 ; nieuws ; τα νέα ;  znw. (mv.)
+1584 ; 03-18 ; vaak ; συχνά ; bijw.
+1585 ; 03-18 ; zelden ; σπάνια ; bijw.
+1586 ; 03-18 ; na ; μετά ; voorz.
+1587 ; 03-18 ; voor ; πριν ; voorz.
+1588 ; 03-18 ; vroeg ; νωρίς ; bijw.
+1589 ; 03-18 ; laat ; αργά ; bijw.
+1590 ; 03-18 ; tram ; το τρόλει ; znw.
+1591 ; 03-18 ; vraag ; η ερώτηση, τις ερωτήσεις ; znw. (ev./mv.)
+1592 ; 03-18 ; oefening ; η άσκηση, τις ασκήσεις ; znw. (ev./mv.)
+1593 ; 03-18 ; langs komen ; περνάω από ; ww. groep
+1594 ; 03-18 ; een toertje maken, waggelen, boemelen ; πάω βόλτα ; ww. groep
+1595 ; 03-18 ; Zullen we (gaan) … ? ; Πάμε … ; ; vraagzin
+1596 ; 03-18 ; Zullen we naar het theater gaan? ; Πάμε στο θέατρο; ; vraagzin
+1597 ; 03-18 ; Laten we naar de taverne gaan! ; Πάμε στην ταβέρνα! ; zin
+1598 ; 03-18 ; Zullen we naar het Plein gaan? ; Πάμε στην Πλατεία; ; vraagzin
+1599 ; 03-18 ; Laten we naar het museum gaan! ; Πάμε στο μουσείο! ; zin
+1600 ; 03-18 ; Zullen we naar de zee gaan? ; Πάμε στη θάλασσα; ; vraagzin
+1601 ; 03-18 ; Zullen we koffie gaan drinken? ; Πάμε για καφέ; ; vraagzin
+1602 ; 03-18 ; Laten we wijn gaan drinken! ; Πάμε για κρασί! ; zin
+1603 ; 03-18 ; Wat wil je om te eten? ; Τι φαγητό έχετε; ; vraagzin
+1604 ; 03-18 ; Wij eten kip en aardappelen. ; Έχουμε κοτόπουλο με πατάτες. ; zin
+1605 ; 03-18 ; Wij eten lamsfricassee. ; Έχουμε αρνάκι φρικασέ. ; zin
+1606 ; 03-18 ; Wij eten gebakken eieren en worstjes. ; Έχουμε αυγά τηγανιτά και λουκάνικα. ; zin
+1607 ; 03-18 ; gebakken ; τηγανητός -ή -ό ; bnw.
+1608 ; 03-18 ; worst ; το λουκάνικο ; znw.
+1609 ; 03-18 ; (Griekse) salade ; η χωριάτικη (σαλάτα) ; znw.
+1610 ; 03-18 ; gevulde tomaten ; οι ντομάτες γεμιστές ;  znw. (mv.)
+1611 ; 03-18 ; raam ; το παράθυρο ; znw.
+1612 ; 03-18 ; versturen ; στέλνω ; ww.
+1613 ; 03-18 ; vogel ; το πουλί ; znw.
+1614 ; 03-18 ; kus ; το φιλί ; znw.
+1615 ; 03-18 ; lunchen ; τρώω μεσημεριανό ; ww. groep
+1616 ; 03-18 ; muziek luisteren ; ακούω μουσική ; ww. groep
+1617 ; 03-18 ; koffie drinken ; πίνω καφέ ; ww. groep
+1618 ; 03-18 ; de krant lezen ; διαβάζω εφημερίδα ; ww. groep
+1619 ; 03-18 ; televisie kijken ; βλέπω τηλεόραση ; ww. groep
+1620 ; 03-18 ; naar de bioscoop gaan ; πάω σινεμά ; ww. groep
+1621 ; 03-18 ; lunch ; το μεσημεριανό ; znw.
+1622 ; 03-18 ; Hoe breng je je dag door? ; Πως περνάτε την μέρα σας; ; vraagzin
+1623 ; 03-18 ; Is de volgende te laat? ; Αργεί το επόμενο; ; vraagzin
+1624 ; 03-18 ; Ik begrijp het! ; Κατάλαβα! ; zin
+1625 ; 03-18 ; Daar gaat de tram! ; Πάει το τρόλεΐ! ; zin
+1626 ; 03-18 ; Zeker! ; Σίγουρα! ; uitdr.
+1627 ; 03-18 ; wanneer ; ποτέ ; bijw.
+1628 ; 03-18 ; dans ; χορεύω ; ww.
+1629 ; 03-18 ; vroeg ; νωρίς ; bijw.
+1630 ; 03-18 ; laat ; αργά ; bijw.
+1631 ; 03-18 ; afhalen ; βγάζω + obj. (acc) ; ww. groep
+1632 ; 03-18 ;  ; Γεια στα χέρια σου! ; uitdr.
+1633 ; 03-18 ; juffrouw ; η δεσποινίς ; znw.
+1634 ; 03-18 ; te laat zijn ; αργώ ; ww. groep
+1635 ; 03-18 ; volgende ; επόμενος -η -ο ; bnw.
+1636 ; 03-18 ; centrum ; το κέντρο ; znw.
+1637 ; 03-18 ; in Parijs ; στο Παρίσι ; zin
+1638 ; 03-18 ; nooit op zondag ; ποτέ την Κυριακή ; zin
+1639 ; 03-18 ; godin ; η θεά ; znw.
+1640 ; 03-18 ; uitzicht ; η θέα ; znw.
+1641 ; 03-18 ; generaal ; η γενική ; znw.
+1642 ; 03-18 ; Kostas, Kostas' ; ο Κώστας, του Κώστα ; noun (singular, genitive)
+1643 ; 03-18 ; Jan, Jans ; ο Γιάννης, του Γιάννη ; noun (singular, genitive)
+1644 ; 03-18 ; Nikos, Nikos' ; ο Νίκος, του Νίκου ; noun (singular, genitive)
+1645 ; 03-18 ; Moscha, Moscha's ; η Μόσχα, της Μόσχας ; noun (singular, genitive)
+1646 ; 03-18 ; Helena, van Helena's ; η Ελένη, της Ελένης ; noun (singular, genitive)
+1647 ; 03-25 ; Gefeliciteerd! ; Χρόνια πολλά! ; uitdr.
+1648 ; 03-25 ; lijn ; η γραμμή ; znw.
+1649 ; 03-25 ; nationale feestdag (25 maart 1821) ; η Εθνική Γιορτή (1821-03-25) ; znw. groep
+1650 ; 03-25 ; Maria-Boodschap ; ο Ευαγγελισμός της Θεοτόκου ; znw. groep
+1651 ; 03-25 ; of telefonisch ; η τηλεφωνικά ; znw.
+1652 ; 03-25 ;  ; ο χαλβάς ; znw.
+1653 ; 03-25 ; restaurant ; το εστιατόριο ; znw.
+1654 ; 03-25 ; herberg ; η ταβέρνα ; znw.
+1655 ; 03-25 ; kantoor ; ο γραφείος ; znw.
+1656 ; 03-25 ; voorgerecht ; ο μεζές ; znw.
+1657 ; 03-25 ; Wanneer? ; Ποτέ; ; adverb/vraagw.
+1658 ; 03-25 ; wanneer (voegw.) ; όταν ; voegw.
+1659 ; 03-25 ; dag ; την μέρα ; znw.
+1660 ; 03-25 ; volgorde ; παραγγέλλω ; ww.
+1661 ; 03-25 ; soms soms ; κάπου κάπου ; bijw.
+1662 ; 03-25 ; niet vaak ; όχι συχνά ; bijw.
+1663 ; 03-25 ; Hij is een echte vriend! ; Είναι πολύ φίλος μου! ; zin
+1664 ; 03-25 ; Ziehier, hier heb je … ! ; Ορίστε (+ nom.) ! ; uitdr.
+1665 ; 03-25 ; Alsjeblieft, de rekening ; ορίστε ο λογαριασμός ; zin
+1666 ; 03-25 ; Hier is je salade. ; ορίστε η σαλάτα ; zin
+1667 ; 03-25 ; hier, het boek ; ορίστε το βιβλίο ; zin
+1668 ; 03-25 ; bord ; το πιάτο ; znw.
+1669 ; 03-25 ; glas, drinkbeker ; το ποτήρι ; znw.
+1670 ; 03-25 ; mes ; το μαχαίρι ; znw.
+1671 ; 03-25 ; lepel ; το κουτάλι ; znw.
+1672 ; 03-25 ; vork ; το πιρούνι ; znw.
+1673 ; 03-25 ; zout ; το αλάτι ; znw.
+1674 ; 03-25 ; peper ; το πιπέρι ; znw.
+1675 ; 03-25 ; ei ; το αυγό ; znw.
+1676 ; 03-25 ; brood ; το ψωμί ; znw.
+1677 ; 03-25 ; kaas ; το τυρί ; znw.
+1678 ; 03-25 ; water ; το νερό ; znw.
+1679 ; 03-25 ; vrucht ; το φρούτο ; znw.
+1680 ; 03-25 ; aardappelen ; οι πατάτες ;  znw. (mv.)
+1681 ; 03-25 ; Gouda ; γκούντα ; znw.
+1682 ; 03-25 ; de tafel dekken ; στρώνω το τραπέζι ; ww. groep
+1683 ; 03-25 ; de tafel dekken ; Βάζω τον τραπέζι ; ww. groep
+1684 ; 03-25 ; neerzetten ; βάζω ; ww.
+1685 ; 03-25 ; verwijderen ; βγάζω ; ww.
+1686 ; 03-25 ; vloer ; το πάτωμα ; znw.
+1687 ; 03-25 ; keuken ; η κουζίνα ; znw.
+1688 ; 03-25 ; juist ; σωστό ; bnw.
+1689 ; 03-25 ; fout ; λάθος ; znw./bnw.
+1690 ; 03-25 ; vlucht ; η πτήση ; znw.
+1691 ; 03-25 ; Hoe laat vertrekt de vlucht vanaf …? ; Τι ώρα φταίνε η πτήση από τον/την … ; ; vraagzin
+1692 ; 03-25 ; vlucht vertrekt vanaf … om … ; Η πτήση φταίνε από τον/την … στις … ; zin
+1693 ; 03-25 ; Hoe laat vertrekt de vlucht naar …? ; Τι ώρα φεύγει η πτήση για το(ν)/την … ; ; vraagzin
+1694 ; 03-25 ; vlucht naar … vertrekt om … ; Η πτήση για το(ν)/την … φεύγει στις … ; zin
+1695 ; 03-25 ; saté ; το σουβλάκι ; znw.
+1696 ; 03-25 ; moussaka ; ο μουσακάς ; znw.
+1697 ; 03-25 ; tzatziki ; το τζατζίκι ; znw.
+1698 ; 03-25 ; gehaktballen, frikadellen ; οι κεφτέδες ;  znw. (mv.)
+1699 ; 03-25 ; kaastaart ; η τυρόπιτα ; znw.
+1700 ; 03-25 ;  ; οι κουραμπιέδες ;  znw. (mv.)
+1801 ; 04-01 ; Hoe is het weer vandaag? ; Τι καιρό κάνει σήμερα; ; vraagzin
+1802 ; 04-01 ; het is koud ; κάνει κρύο ; zin
+1803 ; 04-01 ; het is warm ; κάνει ζέστη ; zin
+1804 ; 04-01 ;  ; έχει δροσιά ; zin
+1805 ; 04-01 ; het is winderig ; έχει αέρα ; zin
+1806 ; 04-01 ; het regent ; βρέχει ; ww./idioom
+1807 ; 04-01 ; er is een warme wind ; κάνει ζέστη αέρα ; zin
+1808 ; 04-01 ; het is winderig ; έχει αέρα ; zin
+1809 ; 04-01 ; het is zonnig ; έχει ήλιο ; zin
+1810 ; 04-01 ; is bewolkt ; έχει συννεφιά ; zin
+1811 ; 04-01 ; sneeuwt ; χιονίζει ; ww./idioom
+1812 ; 04-01 ; waait ; φυσάει ; ww./idioom
+1813 ; 04-01 ; is nog vroeg in de avond. ; είναι νωρίς νύχτα ; zin
+1814 ; 04-01 ; werd al vroeg donker. ; η νύχτα κατεβαινε νωρίς ; zin
+1815 ; 04-01 ; Vrolijk Pasen! ; Καλό Πάσχα! ; uitdr.
+1816 ; 04-01 ; Christus is verrezen! ; Χριστός ανέστη! ; uitdr.
+1817 ; 04-01 ; Hij is waarlijk verrezen! ; Αληθώς ανέστη! ; uitdr.
+1818 ; 04-01 ; Heilige Week ; η Μεγάλη Εβδομάδα ; znw.
+1819 ; 04-01 ; Goede Vrijdag ; η Μεγάλη Παρασκευή ; znw.
+1820 ; 04-01 ;  ; Καθαρά Δευτέρα ; znw.
+1821 ; 04-01 ; Ik laat een vlieger op. ; πετάω χαρταετό ; ww. groep
+1822 ; 04-01 ; Het is lente, want er zijn vlinders. ; Είναι άνοιξη γιατί έχουν πεταλουδια. ; zin
+1823 ; 04-01 ; Het is herfst omdat het regent. ; Είναι φθινόπωρο γιατί βρέχει. ; zin
+1824 ; 04-01 ; Het is oktober, want de bladeren vallen. ; Είναι Οκτώβριο γιατί πέφτουν τα φύλλα. ; zin
+1825 ; 04-22 ; vos ; η αλεπού ; znw.
+1826 ; 04-22 ; aarde ; η γη ; znw.
+1827 ; 04-22 ; zoals ; όπως ; voegw.
+1828 ; 04-22 ; gras ; η χόρτα ;  znw. (mv.)
+1829 ; 04-22 ; nog steeds ; ακόμα, ακόμη ; bijw.
+1830 ; 04-22 ; al ; ήδη ; bijw.
+1831 ; 04-22 ;  ; κιόλας ; bijw.
+1832 ; 04-22 ; laatst ; τελευταίος ; bnw.
+1833 ; 04-22 ; eindigen ; τελειώνω ; ww.
+1834 ; 04-22 ; nemen ; παίρνω ; ww.
+1835 ; 04-22 ; passeren ; περνάω ; ww.
+1836 ; 04-22 ; voetballen ; παίζω ποδόσφαιρο ; ww. groep
+1837 ; 04-22 ; familie ; τα οικογένεια ;  znw. (mv.)
+1838 ; 04-22 ; Goede Vrijdag ; ο Επιτάφιος, η Μεγάλη Παρασκευή ; znw. groep
+1839 ; 04-22 ; Paasdag, Pasen ; η Αγάπη, η Ανάσταση ; znw. groep
+1840 ; 04-22 ;  ; Σηκώνεις τους γονείς ; zin
+1841 ; 04-22 ; aubergine ; η μελιτζάνα ; znw.
+1842 ; 04-22 ; wanneer ; ποτέ ; bijw.
+1843 ; 04-22 ; eiland ; το νησί ; znw.
+1844 ; 04-22 ; pistachenootjes ; τα φυστίκια ;  znw. (mv.)
+1845 ; 04-22 ; een bad nemen ; κάνω μπάνιο ; ww. groep
+1846 ; 04-22 ; zonnebaden ; κάνω ηλιοθεραπεία ; ww. groep
+1847 ; 04-22 ; mijn vriendenkring ; η παρέα μου ; znw. groep
+1848 ; 04-22 ; vis ; το ψάρι ; znw.
+1849 ; 04-22 ; octopus ; το χταποδάκι ; znw.
+1850 ; 04-22 ; inktvis ; το καλαμαράκια ;  znw. (mv.)
+1851 ; 04-22 ; gebraden ; ψητός ; bnw.
+1852 ; 04-22 ; wanneer ; όταν ; voegw.
+1853 ; 04-22 ; hier en daar ; κάπου-κάπου ; bw./idioom
+1854 ; 04-22 ; alle ; όλος ; vnw.
+1855 ; 04-22 ; alle koffie ; όλος ο καφές ; znw. groep
+1856 ; 04-22 ; alle chocolade ; όλη η σοκολάτα ; znw. groep
+1857 ; 04-22 ; hele broodje ; όλο το τσουρέκι ; znw. groep
+1858 ; 04-22 ; ze zingen een liedje ; λένε ένα τραγούδι ; zin
+1859 ; 04-22 ; telefoons ; τηλεφωνών ;  znw. (mv.)
+1860 ; 04-22 ; gisteren ; χθες ; bijw.
+1861 ; 04-22 ; eergisteren ; προχθές ; bijw.
+1862 ; 04-22 ; vorig jaar ; πέρσι ; bijw.
+1863 ; 04-22 ; jaar voor vorig jaar ; πρόπερσι ; bijw.
+1864 ; 04-22 ; dit jaar ; φέτος ; bijw.
+1865 ; 04-22 ; verleden ; περασμένος ; bnw.
+1866 ; 04-22 ; tijd ; ο χρόνος ; znw.
+1867 ; 04-22 ; jaren ; τα χρόνια ;  znw. (mv.)
+1868 ; 04-22 ; vijf jaar geleden ; πριν πέντε χρόνια ; bw./idioom
+1869 ; 04-22 ; Fijne maand! ; Κάλο μήνα! ; uitdr.
+1870 ; 04-29 ; concert ; η συναυλία ; znw.
+1871 ; 04-29 ; Ik ging naar de voetbalwedstrijd van mijn zoon. ; Πήγα στο ποδόσφαιρο του γιο μου. ; zin
+1872 ; 04-29 ; met mensen ; με τους ανθρώπους ; zin
+1873 ; 04-29 ; buurt ; η γειτονιά ; znw.
+1874 ; 04-29 ; buurman ; ο γείτονας ; znw.
+1875 ; 04-29 ; mijn ouders ; οι γονείς μου ; znw. groep
+1876 ; 04-29 ; Aegina ; η Αίγινα ; plaatsnaam
+1877 ; 04-29 ; baby ; το μωρό ; znw.
+1878 ; 04-29 ; mijn baby ; το μωρό μου ; znw. groep
+1879 ; 04-29 ; (volks)markt ; η λαϊκή (αγορά) ; znw. groep
+1880 ; 04-29 ; Ik speel tennis ; παίζω τένις ; ww. groep
+1881 ; 04-29 ; fruit ; τα φρούτα ;  znw. (mv.)
+1882 ; 04-29 ; groenten ; τα λαχανικά ;  znw. (mv.)
+1883 ; 04-29 ; sla ; το μαρούλι ; znw.
+1884 ; 04-29 ; aubergine ; η μελιτζάνα ; znw.
+1885 ; 04-29 ; ui ; το κρεμμύδι ; znw.
+1886 ; 04-29 ; olijf ; η ελία ; znw.
+1887 ; 04-29 ; komkommer ; το αγγούρι ; znw.
+1888 ; 04-29 ; knoflook ; το σκόρδο ; znw.
+1889 ; 04-29 ; inderdaad = ja ; μάλιστα = ναι ; uitdr.
+1890 ; 04-29 ; We hebben en zeggen … (aan het begin van een opsomming) ; Έχουμε και λέμε … ; zin
+1891 ; 04-29 ; aankomen, arriveren ; φτάιω ; ww.
+1892 ; 04-29 ; (zich) het hoofd schudden ; κουνάω το κεφάλι ; ww. groep
+1893 ; 04-29 ; Zeg me eens … ; Δε μου λες … ; zin
+1894 ; 04-29 ; groenteboer ; ο μανάβης ; znw.
+1895 ; 04-29 ; kip ; η κότα ; znw.
+1896 ; 04-29 ; haan ; ο κόκορας ; znw.
+1897 ; 04-29 ; haan ; ο πετεινός ; znw.
+1898 ; 04-29 ; Neem!, Neemt! ; Πάρε!, Πάρτε! ; zin
+1899 ; 04-29 ; tomaten voor salade ; ντομάτες για σαλάτα ; znw. groep
+1900 ; 04-29 ; Dat ze goed zijn! ; Αλλά να είναι καλές! ; zin
+1901 ; 05-06 ; zich bevinden ; βρίσκομαι ; ww.
+1902 ; 05-06 ; vinden ; βρίσκω ; ww.
+1903 ; 05-06 ; opstaan ; σηκώνομαι ; ww.
+1904 ; 05-06 ; optillen ; σηκώνκω ; ww.
+1905 ; 05-06 ; zich wassen ; πλένομαι ; ww.
+1906 ; 05-06 ; wassen ; πλένω ; ww.
+1907 ; 05-06 ; zich kleden ; ντύνομαι ; ww.
+1908 ; 05-06 ; kleden ; ντύνω ; ww.
+1909 ; 05-06 ; zich opmaken, schminken ; βάφομαι ; ww.
+1910 ; 05-06 ; schilderen, verven ; βάφω ; ww.
+1911 ; 05-06 ; zich scheren ; ξυρίζομαι ; ww.
+1912 ; 05-06 ; scheren ; ξυρίζω ; ww.
+1913 ; 05-06 ;  ; κουμάμαι ; ww.
+1914 ; 05-06 ; zich herinneren ; θυμάμαι ; ww.
+1915 ; 05-06 ; spijt hebben, spijt me ; λυπάμαι ; ww./idioom
+1916 ; 05-06 ; bang hebben, vrezen ; φοβάμαι ; ww./idioom
+1917 ; 05-06 ; zich kammen ; χτενίζομαι ; ww.
+1918 ; 05-06 ; komen ; έρχομαι ; ww.
+1919 ; 05-06 ; zitten ; κάθομαι ; ww.
+1920 ; 05-06 ; denken ; σκέφτομαι ; ww.
+1921 ; 05-06 ; voelen ; αισθάνομαι ; ww.
+1922 ; 05-06 ; nodig hebben ; χρειάζομαι ; ww. groep
+1923 ; 05-06 ; moe worden ; κουράζομαι ; ww. groep
+1924 ; 05-06 ; warm worden ; ζεστάνουμαι ; ww. groep
+1925 ; 05-06 ; de toekomst, toekomstige tijd, futurum ; ο μέλλοντας ; znw.
+1926 ; 05-06 ; vandaag ; σήμερα ; bijw.
+1927 ; 05-06 ; avond ; απόψε ; znw.
+1928 ; 05-06 ; morgen ; αύριο ; bijw.
+1929 ; 05-06 ; overmorgen ; μεθαύριο ; bijw.
+1930 ; 05-06 ; dit jaar ; φέτος ; bijw.
+1931 ; 05-06 ; tijd ; του χρόνου ; znw.
+1932 ; 05-06 ; over twee jaar ; σε δύο χρόνια ; bw./idioom
+1933 ; 05-06 ; ander ; άλλος ; vnw./adjective
+1934 ; 05-06 ; komst ; ερχόμενος ; znw.
+1935 ; 05-06 ; ander ; άλλος ; vnw./adjective
+1936 ; 05-06 ; per vliegtuig ; αεροπορικώς ; bijw.
+1937 ; 05-06 ; pasta ; η πάστα ; znw.
+1938 ; 05-06 ; film ; η ταινία ; znw.
+1939 ; 05-06 ; project ; το έργο ; znw.
+1940 ; 05-06 ; film ; το φιλμ ; znw.
+1941 ; 05-06 ; vroeg ; νωρίς ; bijw.
+1942 ; 05-06 ; laat ; αργά ; bijw.
+1943 ; 05-06 ; zelden ; σπάνια ; bijw.
+1944 ; 05-06 ; vaak ; συχνά ; bijw.
+1945 ; 05-06 ; Ik werk niet meer. ; δεν δουλεύω πια ; zin
+1946 ; 05-06 ; collega ; ο/η συνάδελφος ; znw.
+1947 ; 05-06 ; licht en ; το φως και ; znw. groep
+1948 ; 05-06 ; mijn familie ; η οικογένειά μου ; znw. groep
+1949 ; 05-06 ;  ; Μπουρ τα δεξιά από ; zin
+1950 ; 05-06 ; bloemenwinkel ; το ανθοπωλείο ; znw.
+1951 ; 05-06 ; Op onze gezondheid! ; (Στην υ)γεία μας! ; uitdr.
+1952 ; 05-06 ; Op je gezondheid! ; (Στην υ)γεία σου! ; uitdr.
+1953 ; 05-06 ; voor ons ; για μας ; zin
+1954 ; 05-06 ; gezondheid ; υγεία ; znw.
+1955 ; 05-06 ; WK (week-end) ; ΣΚ (σουκου) ; znw. (afk.)
+1956 ; 05-06 ; 1:30, anderhalf ; μιάμιση ; telw.
+1957 ; 05-06 ; 2:30, twee en een half ; δυόμιση ; telw.
+1958 ; 05-06 ; 3:30, drie en een half ; τρεισήμισι ; telw.
+1959 ; 05-06 ; Ik was een wafel, de wafels zijn hallo, in jouw handen, heerlijk, tijd om ze te eten ; Ήμου βάφλες οι βάφλες γεια στα χέρια σου πεντανόστιμος τα φορά ; zin
+1960 ; 05-06 ; pauze, vakantie ; η διακοπή, οι διακοπές ; znw. (ev./mv.)
+1961 ; 05-06 ; bericht, berichtje ; το μήνυμα, τα μηνύματα ; znw. (ev./mv.)
+

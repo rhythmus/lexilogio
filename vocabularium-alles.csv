@@ -198,7 +198,7 @@
 0198 ; ; zet uit ; σβήνω ; /zvíno/
 0199 ; ; nu ; τώρα
 0200 ; ; nacht ; νύχτα
-0201 ; ; vallen ; φραπές
+0201 ; ; frapé ; φραπές
 0202 ; ; kleur ; χρώμα
 0203 ; ; leugen ; ψέμα
 0204 ; ; tijd ; ώρα
@@ -226,8 +226,8 @@
 0226 ; ; berg ; βουνό
 0227 ; ; bloem ; λουλούδι
 0228 ; ; muze ; μούσα
-0229 ; ; En ; και
-0230 ; ; Ja ; ναι
+0229 ; ; en ; και
+0230 ; ; ja ; ναι
 0231 ; ; kamer ; αίθουσα
 0232 ; ; weer ; καιρός 
 0233 ; ; nemen ; παίρνω
@@ -1118,3 +1118,844 @@
 1119 ; ; Gelukkig nieuwjaar! ; Ευτυχισμένος ο καινούργιος χρόνος!
 1120 ; ; Gezondheid, liefde en vreugde in 2025! ; Υγεία, αγάπη και χαρά το 2025!
 1121 ; ; Ik heb het gisteravond gemaakt. ; Έφτιαξα χθες το βράδυ.
+; 02-04; zoeken; ψάχνω 
+; 02-04; persoon; το άτομο 
+; 02-04; kledij; τα ρούχα (το ρούχο) 
+; 02-04; kostuum; ένα κοστούμι 
+; 02-04; sjaal; το κασκόλ 
+; 02-04; trui; το πουλόβερ 
+; 02-04; broek; το παντελόνι 
+; 02-04; tas; η τσάντα 
+; 02-04; hoed; το καπέλο 
+; 02-04; handschoenen; τα γάντια (το γάντι) 
+; 02-04; paar handschoenen; ένα ζευγάρι γάντια  
+; 02-04; riem; η ζώνη 
+; 02-04; sok; η κάλτσα 
+; 02-04; paar sokken; ένα ζευγάρι κάλτσες 
+; 02-04; T-shirt; μπλουζάκι 
+; 02-04; laars; μπότα 
+; 02-04; paar laarzen; ένα ζευγάρι μπότες 
+; 02-04; shirt; το πουκάμισο 
+; 02-04; schoen; το παπούτσι 
+; 02-04; paar schoenen; ένα ζευγάρι παπούτσια 
+; 02-04; kleine schoenen; παπουτιάκια 
+; 02-04; jas ; το μπουφάν 
+; 02-04; bril; τα γυαλιά 
+; 02-04; rok; η φούστα 
+; 02-04; jurk; το φόρεμα 
+; 02-04; jurk; το φουστάνι 
+; 02-04; jas; το παλτό 
+; 02-04; stropdas; η γραβάτα 
+; 02-04; jas; το σακάκι 
+; 02-04; klok; το ρολόι 
+; 02-04; knop; το κουμπί 
+; 02-11; ; βρε 
+; 02-11; oefening; η άσκηση 
+; 02-11; weekend; το Σαββατοκύριακο 
+; 02-11; eenpersoonskamer; το μονόκλινο 
+; 02-11; dubbele; το δίκλινο 
+; 02-11; verdieping; όροφος 
+; 02-11; koelkast; το ψυγείο 
+; 02-11; hitte; η ζέστη 
+; 02-11; heet; ζεστός -ή -ό 
+; 02-11; ontbijt; το πρωινό 
+; 02-11; sleutel; το κλειδί 
+; 02-11; lift; το ασανσέρ 
+; 02-11; bed; το κρεβάτι 
+; 02-11; badkamer; το μπάνιο 
+; 02-11; Maar jij bent jong! ; Μα είστε νέα! 
+; 02-11; eerst; πρώτος -η -ο 
+; 02-11; tweede; δεύτερος -η -ο 
+; 02-11; derde; τρίτος -η -ο 
+; 02-11; vierde; τέταρτος -η -ο 
+; 02-11; vijfde; πέμπτος -η -ο 
+; 02-11; man; ο άνθρωπος 
+; 02-11; uitzicht; η θέα 
+; 02-11; Japan; η Ιαπονιά 
+; 02-11; Japanner; ο Γιαπωνέζος 
+; 02-11; Japanse; η Γιαπωνέζα 
+; 02-11; Duitsland; η Γερμανία 
+; 02-11; Duitser; ο Γερμανός 
+; 02-11; Duitse; η Γερμανίδα 
+; 02-11; Frankrijk; η Γαλλία 
+; 02-11; Fransman; ο Γάλλος 
+; 02-11; Française; η Γαλλίδα 
+; 02-11; Italië; η Ιταλία 
+; 02-11; Italiaan; ο Ιταλός 
+; 02-11; Italiaanse; η Ιταλίδα 
+; 02-11; Nederland; η Ολλανδία 
+; 02-11; Nederlander; ο Ολλανδός 
+; 02-11; Nederlandse; η Ολλανδέζα 
+; 02-11; Engeland; η Αγγλία 
+; 02-11; Engelsman; ο Άγγλος 
+; 02-11; Engelse; η Αγγλίδα 
+; 02-11; Spanje; η Ισπανία 
+; 02-11; Spanjaard; ο Ισπανός 
+; 02-11; Spaanse; η Ισπανίδα 
+; 02-11; België; το Βέλγιο 
+; 02-11; Belg; ο Βέλγος 
+; 02-11; België; η Βελγίδα 
+; 02-11 ; dag; η ήμερα, η μέρα 
+; 02-11 ; zondag; η Κυριακή 
+; 02-11 ; maandag; η Δευτέρα 
+; 02-11 ; dinsdag; η Τρίτη 
+; 02-11 ; woensdag; η Τετάρτη 
+; 02-11 ; donderdag; η Πέμπτη 
+; 02-11 ; vrijdag; η Παρασκευή 
+; 02-11 ; op zaterdag; το Σάββατο 
+; 02-11 ; zevende dag; η έβδομη η μέρα 
+; 02-11 ; met ontbijt; με πρωινό 
+; 02-11 ; met zicht op zee; με θέα στην θάλασσα 
+; 02-11 ; eerst; πρώτος -η -ο 
+; 02-11 ; tweede; δεύτερος -η -ο  
+; 02-11 ; derde; τρίτο -η -ο  
+; 02-11 ; vierde; τέταρτο -η -ο  
+; 02-11 ; vijfde; πέμπτος -η -ο  
+; 02-11 ; zesde; έκτο -η -ο  
+; 02-11 ; zevende; έβδομος -η -ο 
+; 02-11 ; week; εβδομάς 
+; 02-11 ; zeventig; εβδομήντα 
+; 02-11 ; medelijden; οίκτο ή την οίκτο  
+; 02-11 ; (de) douche; (το) ντους 
+; 02-11 ; juiste artikel; το σωστό άρθρο 
+; 02-11 ; precies; ακριβώς -ή -ό 
+; 02-11 ; nieuw; καινούργιος -η -ο 
+; 02-11 ; lang; ψηλός -ή -ό 
+; 02-11 ; rijk; πλούσιος -η -ο 
+; 02-11 ; handwerk; χερίοργος -α -ο 
+; 02-11 ; paraplu; η ομπρέλα 
+; 02-11 ; euro; το ευρώ  
+; 02-11 ; dollar; το δολάριο 
+; 02-11 ; pond; η λίρα 
+; 02-11 ; Hoe lang nog?; Για πόσον καιρό; 
+; 02-11 ; Welke wil je?; Ποιο θέλετε; 
+; 02-11 ; Welke kant kijkt uit op de zee?; Ποιο βλέπει στην θάλασσα; 
+; 02-11 ; Op welke verdieping woon jij?; Σε ποιον όροφο μένετε; 
+; 02-11 ; Welke kamer wilt u?; Τι δωμάτιο θέλετε; 
+; 02-11 ; koud; κρύος -η -ο 
+; 02-11 ; grappig; αστείος -α -ο 
+; 02-11 ; oud; αρχαίος -α -ο 
+; 02-11 ; lang; ψηλός -ή -ό 
+; 02-11 ; kort; κοντός -ή -ό 
+; 02-11 ; slim; έξυπνος -η -ο 
+; 02-11 ; ei; (το) αυγό, (το) αβγό  
+; 02-11 ; deze man; αυτός ο άνδρας  
+; 02-11 ; deze; αυτή η γυναίκα  
+; 02-11 ; dit boek; αυτό το βιβλίο 
+; 02-11 ; beminnen; αγαπάω  
+; 02-11 ; wie; πιος, ποιον 
+; 02-11 ; nu; πια, πια 
+; 02-11 ; welke, welke; ποιο, ποιο 
+; 02-11 ; horen; ακούω 
+; 02-11 ; toneelstuk; παίζω  
+; 02-11 ; eensgelijks, ook; επίσης 
+; 02-11 ; gitaar spelen; παίζω τη κιθάρα 
+; 02-11 ; piano spelen; παίζω το πιάνο 
+; 02-11 ; dammen; παίζω το τάβλι 
+; 02-11 ; kaarten; παίζω χαρτιά 
+; 02-11 ; toneelspelen; παίζω θέατρο 
+; 02-11 ; complex; το συγκρότημα 
+; 02-11 ; Waarom niet?; Γιατί όχι; 
+; 02-11 ; meisje; η κοπέλα 
+; 02-11 ; ’s ochtends; το πρωί 
+; 02-11 ; ’s middags; το μεσημέρι 
+; 02-11 ; ’s namiddags; το απόγευμα 
+; 02-11 ; ’s avonds; το βράδυ 
+; 02-11 ; nacht; η νύχτα 
+; 02-11 ; op dinsdag; την Τρίτη 
+; 02-11 ; Griekse les; μάθημα ελληνικών 
+; 02-11 ; gelijkvloers; το ισόγειο 
+; 02-11 ; appartement; το διαμέρισμα 
+; 02-11 ; appartementsgebouw; η πολυκατοικία 
+; 02-11 ; Ik woon in een huis. ; μένω σε σπίτι 
+; 02-11 ; Wie wil je? ; Ποιον θέλετε; 
+; 02-11 ; Wat wil je van hem?; Τι τον θέλετε; 
+; 02-18; Prettig verblijf!; Καλή διαμονή! 
+; 02-18; Veel plezier!; Καλά να περάσετε! 
+; 02-18; groot; μεγάλος -η -ο 
+; 02-18; klein; μικρός -η -ο 
+; 02-18; nieuw; νέος -α -ο 
+; 02-18; nieuw; καινούργιος 
+; 02-18; oud; παλιός 
+; 02-18; oud; αρχαίος 
+; 02-18; met ontbijt; με πρωινό 
+; 02-18; zonder ontbijt; χωρίς πρωινό 
+; 02-18; Welke kamer wilt u? Dubbel of enkel?; Τι δωμάτιο θέλετε; Δίκλινο ή μονόκλινο; 
+; 02-18; met de trein; με το τρένο 
+; 02-18; binnenin; μέσα 
+; 02-18; uit; έξω 
+; 02-18; twee-drie; δύο-τρία 
+; 02-18; in de stad; εις την Πόλη  
+; 02-18;; Σου πάει το ρος! 
+; 02-18; kruispunt; η διασταύρωση 
+; 02-18; kruis; ο σταύρος 
+; 02-18; kruiswoordpuzzel; το σταυρόλεξο 
+; 02-18; stoplicht; το φανάρι 
+; 02-18; Is er een dokter?; Υπάρχει κανένας γιατρός; 
+; 02-18; Is er een taverne?; Υπάρχει καμία ταβέρνα; 
+; 02-18; Is er iemand die … ?; Υπάρχει κάποιον που … ; 
+; 02-18; Is er een apotheek?; Υπάρχει κανένα φαρμακείο; 
+; 02-18; wij zijn op de Nikisstraat; είμαστε στην οδό Νίκης 
+; 02-18; laan; η λεωφόρος 
+; 02-18; op de Vredes-Avenue; στην λεωφόρο Ειρήνης 
+; 02-18; de weg uitleggen; 
+; 02-18; Waar is … , alstublieft?; Παρακαλώ, που είναι … ; 
+; 02-18; twee of drie hoeken; δύο-τρία τετράγωνα 
+; 02-18; onderstaand; παρακάτω 
+; 02-18; na; μετά 
+; 02-18; ga recht naar beneden; πηγαίνετε ευθεία κάτω 
+; 02-18; en op de tweede weg; και στον δεύτερο δρόμο 
+; 02-18; links/rechts afslaan; στρίβετε αριστερά/δεξιά 
+; 02-18; daar, tegenover het museum; εκεί, απέναντι από το μουσείο 
+; 02-18; -winkel, waar men iets koopt; -πωλείο 
+; 02-18; boekenwinkel; ένα βιβλιοπωλείο 
+; 02-18;bloemenwinkel; ένα ανθοπωλείο 
+; 02-18; naast; δίπλα σε + acc 
+; 02-18; naast; δίπλα από + acc 
+; 02-18; tegenover; απέναντι σε + acc 
+; 02-18; tegenover; απέναντι από + acc 
+; 02-18; tegenover de oven; απέναντι στον φούρνο 
+; 02-18; naast de herberg; δίπλα στην ταβέρνα 
+; 02-18; tegenover de apotheek; απέναντι στο φαρμακείο 
+; 02-18; naast de murlos; δίπλα από τον μουρλό 
+; 02-18; naast de herberg; δίπλα από την ταβέρνα 
+; 02-18; naast de apotheek; δίπλα από το φαρμακείο 
+; 02-18; parkeerplaats; το πάρκινγκ 
+; 02-18; stomerij, droogkuis; το καθαριστήριο 
+; 02-18; loodgieter; ο υδραυλικός 
+; 02-18; bioscoop; ο κινηματογράφος 
+; 02-18; pizzeria; η πιτσαρία 
+; 02-18; banketbakkerij; το ζαχαροπλαστείο 
+; 02-18; nationale bank; η εθνική τράπεζα 
+; 02-18; T-shirt; το φανελάκι 
+; 02-18; ondergoed; τα εσώρουχα 
+; 02-18; pantoffels; τα παντόφλες 
+; 02-18; ; το πέδιλα 
+; 02-18; korte broek; το σορτς 
+; 02-18; panty; το καλσόν 
+; 02-18; omhoog gaan; ανεβαίνω 
+; 02-18; uitstappen; κατεβαίνω 
+; 02-18; weglopen; βγαίνω έξω 
+; 02-18; draai; στρίβω 
+; 02-18; grommen; γκρινιάζω 
+; 02-18; Ik stop.; κάνω στάση 
+; 02-18; omhoog; (ε)πάνω 
+; 02-18; omlaag; κάτω 
+; 02-18; omdat; γιατί 
+; 02-18; weg; μακριά 
+; 02-18; onderstaand; παρακάτω 
+; 02-18; precies; ακριβώς 
+; 02-18; direct; ευθεία 
+; 02-18; tegen; απέναντι σε 
+; 02-18; na; μετά 
+; 02-18; snel; γρήγορα 
+; 02-18; opnieuw; πάλι 
+; 02-18; ; όμως 
+; 02-18; vandaag; σήμερα 
+; 02-18; Hier … !; Να … ! 
+; 02-18; straat; η οδός 
+; 02-18; weg; ο δρόμος 
+; 02-18; hoek; η γωνία 
+; 02-18; plein; το τετράγωνο 
+; 02-18; supermarkt; το σουπερμάρκετ 
+; 02-18; blij; ευχαριστημένος -η -ο 
+; 02-18; moe; κουρασμένος -η -ο 
+; 02-18; klaar; έτοιμος -η -ο 
+; 02-18; in de buurt van; κοντά 
+; 02-18; weg; μακριά 
+; 02-18; uit; έξω 
+; 02-18; binnenin; μέσα 
+; 02-18; uitgaan; βγαίνω 
+; 02-18; binnenkomen; μπαίνω 
+; 02-18; omhoog gaan; ανεβαίνω 
+; 02-18; uitstappen; κατεβαίνω 
+; 02-18; rechts; δεξιά 
+; 02-18; links; αριστερά 
+; 02-18; omhoog gaan; ανεβαίνω επάνω 
+; 02-18; weglopen; βγαίνω έξω 
+; 02-18; binnen gaan, binnenkomen; μπαίνω μέσα 
+; 02-18; ga linksaf; στρίβω αριστερά 
+; 02-18; ; Χοιρινή μοιάζω πολύ 
+; 02-18; veraf wonen; μένω μακριά 
+; 02-18; direct; ευθεία 
+; 02-18; onderstaand; κάτω 
+; 02-18; hoek; η γωνία 
+; 02-18; dan; τότε 
+; 02-18; Kyr-, Kyrelias = Meneer Elias, Kyrimaria = Mevrouw Maria; Κυρ-, Κυρηλίας = κύριέ Ηλίας, Κυριμαρία = κυρία Μαρία 
+; 02-25; kleren, kledij; τα ρούχα 
+; 02-25; broek; το παντελόνι 
+; 02-25; een paar schoenen; ένα ζευγάρι παπούτσια 
+; 02-25; blouse; μπλούζα 
+; 02-25; hoed; το καπέλο 
+; 02-25; jas; το σακάκι 
+; 02-25; rok; η φούστα 
+; 02-25; jurken; τα φόρεμα 
+; 02-25; sandalen; τα πέδιλα 
+; 02-25; korte broek; το σορτς 
+; 02-25; pak; το κοστούμι 
+; 02-25; sportschoenen; τα αθλητικά παπούτσια 
+; 02-25; sokken; οι κάλτσες 
+; 02-25; T-shirt; το μπλουζάκι 
+; 02-25; sjaal; το κασκόλ 
+; 02-25; handschoenen; τα γάντια 
+; 02-25; bril; τα γυαλιά 
+; 02-25; jas; το παλτό 
+; 02-25; tas; η τσάντα 
+; 02-25; laarzen; οι μπότες 
+; 02-25; bouvan; το μπουβάν 
+; 02-25; badpak; το μαγιό 
+; 02-25; pantoffels; οι παντόφλες 
+; 02-25; beeld; η εικόνα 
+; 02-25; Roodkapje; η Κοκκινοσκουφίτσα 
+; 02-25; atletisch; αθλητικός -ή -ό 
+; 02-25; alledaags; καθημεριννός -ή -ό 
+; 02-25; zomer; καλοκαιρινός -ή -ό 
+; 02-25; avond; βραδινός -ή -ό 
+; 02-25; modern; μοντέρνος -α -ο 
+; 02-25; klassiek; κλασικός -ή -ό 
+; 02-25; smal; στενός -ή -ό 
+; 02-25; nemen; παίρνω 
+; 02-25; bijvoeglijk naamwoord; το επίθετο 
+; 02-25; tafel; ο πίνακας 
+; 02-25; hakken; οι γόβες 
+; 02-25; schoon; καθαρός -ή -ό 
+; 02-25; vuil; βρώμικος -η -ο 
+; 02-25; dik; χοντρός -ή -ό 
+; 02-25; dun; λεπτός -ή -ό 
+; 02-25; wit; λευκός -ή -ό, άσπρος -η -ο 
+; 02-25; witte wijn; ένα λευκό κρασί = ένα άσπρο κρασί 
+; 02-25; rode wijn; ένα μαύρο κρασί = ένα κόκκινο κρασί 
+; 02-25; zwart; μαύρος 
+; 02-25; rood; κόκκινος 
+; 02-25; Wereld, huh!; Κόσμος, ε! 
+; 02-25; station; ο σταθμός 
+; 02-25; vliegtuig; το αεροπλάνο 
+; 02-25; met het vliegtuig; με το αεροπλάνο 
+; 02-25; luchthaven; το αεροδρόμιο 
+; 02-25; schip; το πλοίο 
+; 02-25; per schip; με το πλοίο 
+; 02-25; haven; το λιμάνι 
+; 02-25; trein; το τρένο 
+; 02-25; met de trein; με το τρένο 
+; 02-25; auto; το αυτοκίνητο 
+; 02-25; fiets; το ποδήλατο 
+; 02-25; machine; η μηχανή 
+; 02-25; te voet; με τα πόδια 
+; 02-25; een eiland; ένα νησί 
+; 02-25; totdat, totdat; ως, μέχρι 
+; 02-25; aankomen; φτάνω 
+; 02-25; vertrekken; φεύγω 
+; 02-25; reis; ταξιδεύω 
+; 02-25; nemen; παίρνω 
+; 02-25; gaan; πάω 
+; 02-25;eten; τρώω 
+; 02-25; horen; ακούω 
+; 02-25; huilen; κλαίω 
+; 02-25; schuldig zijn; φταίω 
+; 02-25; praten; μιλάω, μιλώ 
+; 02-25; beminnen; αγαπάω, αγαπώ 
+; 02-25; honger hebben; πεινάω, πεινώ 
+; 02-25; dorst hebben; διψάω, διψώ 
+; 02-25; stoppen; σταματάω, σταματώ 
+; 02-25; zingen; τραγουδάω, τραγουδώ 
+; 02-25; beginnen; ξεκινάω, ξεκινώ 
+; 02-25; passeren; περνάω, περννώ 
+; 02-25; verkiezen, de voorkeur geven aan; προτιμάω, προτιμώ 
+; 02-25; wandelen, stappen; περπατάω, περπατώ 
+; 02-25; wakker worden; ξυπνάω, ξυπνώ 
+; 02-25; kunnen; μπορώ 
+; 02-25; (te) laat zijn; αργώ 
+; 02-25; mee eens zijn, instemmen; συμφωνώ 
+; 02-25; bedanken; ευχαριστώ 
+; 02-25; zich zorgen maken; ανησυχώ 
+; 02-25; vergeven; συγχωρώ 
+; 02-25; gids; οδηγώ 
+; 02-25; telefoon; τηλεφωνώ 
+; 02-25; leven; ζω ζεις ζει ζούμε ζητεί ζουν 
+; 02-25; Ik ben te laat door de trein!; Άργησα φταίει το τρένο! 
+; 02-25; lied; το τραγούδι 
+; 02-25; jeugd; το νιάτα 
+; 02-25; vuur; η φωτιά 
+; 02-25; alsof, zoals; σαν 
+; 03-11; goed; καλός -ή -ό 
+; 03-11; reizen; ταξιδεύω ταξιδεύεις ταξιδεύει ταξιδεύουμε ταξιδεύετε ταξιδεύουν 
+; 03-11; motorfiets; το μηχανάκι 
+; 03-11; eendje; το παπάκι 
+; 03-11; dag; η μέρα 
+; 03-11; ’s ochtends; το πρωί 
+; 03-11; ’s middags; το μεσημέρι 
+; 03-11; ’s namiddaags; το απόγευμα 
+; 03-11; ’s avonds; το βράδυ 
+; 03-11; nacht; η νύχτα 
+; 03-11; om middernacht; τα μεσάνυχτα 
+; 03-11; tram; το τρόλει 
+; 03-11; elektricien; ο ηλεκτρικός 
+; 03-11; elektrisch; ηλεκτρικός -ή -ό 
+; 03-11; metro; το μετρό 
+; 03-11; de hond uitlaten; βγάζω βόλτα τον σκύλο 
+; 03-11; een toertje maken, wandelen; βγάζω βόλτα 
+; 03-11; wandeling, toertje; η βόλτα 
+; 03-11; beginnen; ξεκινάω 
+; 03-11; vertrekken; φεύγω 
+; 03-11; kaartje, ticket; το εισιτήριο 
+; 03-11; ticket enkel reis; το εισιτήριο απλό 
+; 03-11; retourticket; το εισιτήριο με επιστροφή 
+; 03-11; eerste klasse; πρώτη θέση 
+; 03-11; economieklasse; τουριστική θέση 
+; 03-11; over; περίπου 
+; 03-11; bij de kiosk; στο περίπτερο 
+; 03-11; poëzie; η ποίηση 
+; 03-11; eenvoudig; απλός -ή -ό 
+; 03-11; waardig; άξιος -η -ο 
+; 03-11; belachelijk; γελοίος -η -ο 
+; 03-11; ; -ποιω 
+; 03-11; ; χρησιποιώ 
+; 03-11; gebruiken; χρησιμοποιώ 
+; 03-11; nieuw; νέος -α -ο 
+; 03-11; oud; παλιός 
+; 03-11; goed; καλός -ή -ό 
+; 03-11; slecht; κακός -ή -ό 
+; 03-11; gemakkelijk; εύκολος -η -ο 
+; 03-11; moeilijk; δύσκολος -η -ο 
+; 03-11; warmte; ζέστος -η -ο 
+; 03-11; koud; κρύος -α -ο 
+; 03-11; vuil; βρώμικος -η -ο 
+; 03-11; schoon, proper; καθαρός -ή -ό 
+; 03-11; groot; μεγάλος -η -ο 
+; 03-11; klein; μικρός -ή -ό 
+; 03-11; goedkoop; φτηνός -ή -ό 
+; 03-11; duur; ακριβός -ή -ό 
+; 03-11; lang; ψηλός -ή -ό 
+; 03-11; kort; κοντός -ή -ό 
+; 03-11; mooi; ωραίος -α -ο 
+; 03-11; lelijk; άσχημος -η -ο 
+; 03-11; gemakkelijk; εύκολος -η -ο 
+; 03-11; moeilijk; δύσκολος -η -ο 
+; 03-11; Maar nee! Oef!; Μπα! 
+; 03-11; liever; μάλλον 
+; 03-11; bekend; γνωστός -ή -ό 
+; 03-11; merk; η μάρκα 
+; 03-11; reisbureau; το ταξιδιωτικό 
+; 03-11; gouden gids; η χρυσή αγγελία 
+; 03-11; morgen; αύριο 
+; 03-11; lam; το αρνάκι 
+; 03-11; bij ons; μαζί μας 
+; 03-11; altijd dragen; φοράω πάντα 
+; 03-11; vallen; πέφτω 
+; 03-11; de bus vertrekt; το λεωφορείο φεύγει 
+; 03-11; Wacht je een secondje?; Περιμένεις ένα λεπτό; 
+; 03-11; Ik hou heel veel van je!; Σε αγαπάω πολύ!, Σ'αγαπνώ πολύ! 
+; 03-11; Gaat u via het postkantoor?; Μήπως περνάτε από το ταχυδρομείο; 
+; 03-11; Hij wil kip, een Griekse salade en wijn.; θέλει κοτόπουλο, μία ελληνική σαλάτα και κρασί. 
+; 03-11; Drink jij ’s ochtends geen koffie?; Δεν πίνεις καφέ το πρωί; 
+; 03-11; we hebben erg honger; πεινάμε πολύ 
+; 03-11; Ik houd van lamsvlees; μου αρέσει το αρνάκι 
+; 03-11; Kom op, Niko!; Έλα Νίκο! 
+; 03-11; eten is klaar; το φαγητό είναι έτοιμο 
+; 03-11; Wie betaalt de rekening?; Ποιός πληρώνει τον λογαρισμό; 
+; 03-11; beminnen; αγαπάω 
+; 03-11; honger hebben; πεινάω 
+; 03-11; dorst hebben; διψάω 
+; 03-11; stoppen; σταματάω 
+; 03-11; spreken; μιλάω 
+; 03-11; vragen; ρωτάω 
+; 03-11; antwoorden; απαντάω 
+; 03-11; kunnen; μπορώ 
+; 03-11; mee eens zijn, instemmen; συμφωνώ 
+; 03-11; (in)studeren, blokken; μελετάω 
+; 03-11; baan, job, werk; η δουλειά 
+; 03-11; rondom, omstreeks; γύρω 
+; 03-11; rond drie uur; γύρω στις τρεις 
+; 03-11; onderzoeken; εξετάζω 
+; 03-11; langs (voorbij) … komen, passeren aan; περνάω από 
+; 03-11; de witte toren; ο λευκός πύργος 
+; 03-11; toren; ο πύργος 
+; 03-11; er ontbreekt iets; κάτι λείπει 
+; 03-11; hoe dan ook; πάντως 
+; 03-11; vrij goedkoop; μάλλον φτηνός 
+; 03-11; meer; πια 
+; 03-18; afhankelijk; εξαρτάτα 
+; 03-18; opstaan; σηκώνομαι 
+; 03-18; ; κουμάμαι 
+; 03-18; ; αρχίζω 
+; 03-18; serie; η σειρά 
+; 03-18; gebruikelijk, gewoonlijk; συνήθως 
+; 03-18; nieuws; τα νέα 
+; 03-18; vaak; συχνά 
+; 03-18; zelden; σπάνια 
+; 03-18; na; μετά 
+; 03-18; voor; πριν 
+; 03-18; vroeg; νωρίς 
+; 03-18; laat; αργά 
+; 03-18; tram; το τρόλει 
+; 03-18; vraag; η ερώτηση, τις ερωτήσεις 
+; 03-18; oefening; η άσκηση, τις ασκήσεις 
+; 03-18; langs komen; περνάω από 
+; 03-18; een toertje maken, waggelen, boemelen; πάω βόλτα 
+; 03-18; Zullen we (gaan) … ?; Πάμε … ; 
+; 03-18; Zullen we naar het theater gaan? ; Πάμε στο θέατρο; 
+; 03-18; Laten we naar de taverne gaan! ; Πάμε στην ταβέρνα! 
+; 03-18; Zullen we naar het Plein gaan?; Πάμε στην Πλατεία; 
+; 03-18; Laten we naar het museum gaan! ; Πάμε στο μουσείο! 
+; 03-18; Zullen we naar de zee gaan?; Πάμε στη θάλασσα; 
+; 03-18; Zullen we koffie gaan drinken? ; Πάμε για καφέ; 
+; 03-18; Laten we wijn gaan drinken! ; Πάμε για κρασί! 
+; 03-18; Wat wil je om te eten?; Τι φαγητό έχετε; 
+; 03-18; Wij eten kip en aardappelen. ; Έχουμε κοτόπουλο με πατάτες. 
+; 03-18; Wij eten lamsfricassee.; Έχουμε αρνάκι φρικασέ. 
+; 03-18; Wij eten gebakken eieren en worstjes.; Έχουμε αυγά τηγανιτά και λουκάνικα. 
+; 03-18; gebakken; τηγανητός -ή -ό 
+; 03-18; worst; το λουκάνικο 
+; 03-18; (Griekse) salade; η χωριάτικη (σαλάτα) 
+; 03-18; gevulde tomaten; οι ντομάτες γεμιστές 
+; 03-18; raam; το παράθυρο 
+; 03-18; versturen; στέλνω 
+; 03-18; vogel; το πουλί 
+; 03-18; kus; το φιλί 
+; 03-18; lunchen; τρώω μεσημεριανό 
+; 03-18; muziek luisteren; ακούω μουσική 
+; 03-18; koffie drinken; πίνω καφέ 
+; 03-18; de krant lezen; διαβάζω εφημερίδα 
+; 03-18; televisie kijken; βλέπω τηλεόραση 
+; 03-18; naar de bioscoop gaan; πάω σινεμά 
+; 03-18; lunch; το μεσημεριανό 
+; 03-18; Hoe breng je je dag door? ; Πως περνάτε την μέρα σας; 
+; 03-18; Is de volgende te laat? ; Αργεί το επόμενο; 
+; 03-18; Ik begrijp het!; Κατάλαβα! 
+; 03-18; Daar gaat de tram!; Πάει το τρόλεΐ! 
+; 03-18; Zeker!; Σίγουρα! 
+; 03-18; wanneer; ποτέ 
+; 03-18; dans; χορεύω 
+; 03-18; vroeg; νωρίς 
+; 03-18; laat; αργά 
+; 03-18; afhalen; βγάζω + obj. (acc) 
+; 03-18; ; Γεια στα χέρια σου! 
+; 03-18; juffrouw; η δεσποινίς 
+; 03-18; te laat zijn; αργώ 
+; 03-18; volgende; επόμενος -η -ο 
+; 03-18; centrum; το κέντρο 
+; 03-18; in Parijs; στο Παρίσι 
+; 03-18; nooit op zondag; ποτέ την Κυριακή 
+; 03-18; godin; η θεά 
+; 03-18; uitzicht; η θέα 
+; 03-18; generaal; η γενική 
+; 03-18; Kostas, Kostas’; ο Κώστας, του Κώστα 
+; 03-18; Jan, Jans; ο Γιάννης, του Γιάννη 
+; 03-18; Nikos, Nikos’; ο Νίκος, του Νίκου 
+; 03-18; Moscha, Moscha’s; η Μόσχα, της Μόσχας 
+; 03-18; Helena, van Helena’s; η Ελένη, της Ελένης 
+; 03-25; Gefeliciteerd! ; Χρόνια πολλά! 
+; 03-25; lijn; η γραμμή 
+; 03-25; nationale feestdag (25 maart 1821); η Εθνική Γιορτή (1821-03-25) 
+; 03-25; Maria-Boodschap; ο Ευαγγελισμός της Θεοτόκου 
+; 03-25; of telefonisch; η τηλεφωνικά 
+; 03-25; ; ο χαλβάς 
+; 03-25; restaurant; το εστιατόριο 
+; 03-25; herberg; η ταβέρνα 
+; 03-25; kantoor; ο γραφείος 
+; 03-25; voorgerecht; ο μεζές 
+; 03-25; Wanneer?; Ποτέ; 
+; 03-25; wanneer (voegw.); όταν 
+; 03-25; dag; την μέρα 
+; 03-25; volgorde; παραγγέλλω 
+; 03-25; soms soms; κάπου κάπου 
+; 03-25; niet vaak; όχι συχνά 
+; 03-25; Hij is een echte vriend! ; Είναι πολύ φίλος μου! 
+; 03-25; Ziehier, hier heb je … ! ; Ορίστε (+ nom.) ! 
+; 03-25; Alsjeblieft, de rekening; ορίστε ο λογαριασμός 
+; 03-25; Hier is je salade.; ορίστε η σαλάτα 
+; 03-25; hier, het boek; ορίστε το βιβλίο 
+; 03-25; bord; το πιάτο 
+; 03-25; glas, drinkbeker; το ποτήρι 
+; 03-25; mes; το μαχαίρι 
+; 03-25; lepel; το κουτάλι 
+; 03-25; vork; το πιρούνι 
+; 03-25; zout; το αλάτι 
+; 03-25; peper; το πιπέρι 
+; 03-25; ei; το αυγό 
+; 03-25; brood; το ψωμί 
+; 03-25; kaas; το τυρί 
+; 03-25; water; το νερό 
+; 03-25; vrucht; το φρούτο 
+; 03-25; aardappelen; οι πατάτες 
+; 03-25; Gouda; γκούντα 
+; 03-25; de tafel dekken; στρώνω το τραπέζι 
+; 03-25; de tafel dekken; Βάζω τον τραπέζι 
+; 03-25; neerzetten; βάζω 
+; 03-25; verwijderen; βγάζω 
+; 03-25; vloer; το πάτωμα 
+; 03-25; keuken; η κουζίνα 
+; 03-25; juist; σωστό 
+; 03-25; fout; λάθος 
+; 03-25; vlucht; η πτήση 
+; 03-25; Hoe laat vertrekt de vlucht vanaf …?; Τι ώρα φταίνε η πτήση από τον/την … ; 
+; 03-25; vlucht vertrekt vanaf … om …; Η πτήση φταίνε από τον/την … στις … 
+; 03-25; Hoe laat vertrekt de vlucht naar …?; Τι ώρα φεύγει η πτήση για το(ν)/την … ; 
+; 03-25; vlucht naar … vertrekt om …; Η πτήση για το(ν)/την … φεύγει στις … 
+; 03-25; saté; το σουβλάκι 
+; 03-25; moussaka; ο μουσακάς 
+; 03-25; tzatziki; το τζατζίκι 
+; 03-25; gehaktballen, frikadellen; οι κεφτέδες 
+; 03-25; kaastaart; η τυρόπιτα 
+; 03-25; ; οι κουραμπιέδες 
+; 03-25; ; το γουβέτσι 
+; 03-25; pastitsio; το παστίτσιο 
+; 03-25; gevulde; τα γεμιστά 
+; 03-25; groenten; τα χόρτα 
+; 03-25; afgronden; τα βεβύθια 
+; 03-25; linzen; οι φακές 
+; 03-25; ham; το ζαμπόν 
+; 03-25; spek; το μπέικον 
+; 03-25; pasta; τα ζυμαρικά 
+; 03-25; alleen; μόνος -η -ο 
+; 03-25; ik blijf; μένω 
+; 03-25; alleen, op mezelf; μόνος/μόνη μου 
+; 03-25; mijn (eigen); δικός μου 
+; 03-25; alleen wonen; μένω μόνος/μόνη μου 
+; 03-25; bestuurder; ο οδηγός 
+; 03-25; eretitel; το φιλότιμο 
+; 03-25; Ik heb honger als een wolf.; πεινάω σαν λύκος 
+; 03-25; wolf; ο λύκος 
+; 03-25; lijst; ο κατάλογος 
+; 03-25; bevroren; παγωμένος -η -ο 
+; 03-25; helemaal niet; δεν καθόλου 
+; 03-25; er is niemand; δεν υπάρχει κανένας 
+; 03-25; Zijn er geen?; δεν υπάρχει καμία/καμιά? 
+; 03-25; er is geen; δεν υπάρχει κανένα 
+; 03-25; dier; το ζώο 
+; 03-25; spin; η αράχνη 
+; 03-25; beker; το φλυτζάνι 
+; 03-25; Hier zijn mijn notities! ; Να οι σημειώσεις μου! 
+; 03-25; nota, notitie, aantekening; το σημείωνα 
+; 04-01; verbazingwekkend, fantastisch; καταπληκτικός -ή -ό 
+; 04-01; gek; τρελόςος -η -ο 
+; 04-01; blij; λαχαρήος -η -ο 
+; 04-01; Wat betekent … ?; Τι σημαίνει … ; 
+; 04-01; gedicht; η ποίημα 
+; 04-01; de seizoenen en het weer; οι εποχές και ο καιρός 
+; 04-01; seizoen; η εποχή 
+; 04-01; tijdperk; η εποχή 
+; 04-01; weer; ο καιρός 
+; 04-01; winter; ο χειμώνας 
+; 04-01; lente; η άνοιξη 
+; 04-01; in de zomer; το καλοκαίρι 
+; 04-01; in de herfst; το φθινόπωρο 
+; 04-01; het is koud; κάνει κρύο 
+; 04-01; het is heet; κάνει ζέστη 
+; 04-01; ; έχει δροσιά 
+; 04-01; het is winderig; έχει αέρα 
+; 04-01; het waait; φυσάει 
+; 04-01; ; δηλαδεί 
+; 04-01; het is zonnig; έχει ήλιο 
+; 04-01; het is bewolkt; έχει συννεφιά 
+; 04-01; het is mooi weer; έχει ωραίο καιρό 
+; 04-01; het is slecht weer; έχει άσχημο καιρό 
+; 04-01; het regent; βρέχει 
+; 04-01; het sneeuwt; χιωνήζει 
+; 04-01; het waait; φυσάει 
+; 04-01; blazen; φυσάω 
+; 04-01; blad; το φύλλο, τα φύλλα 
+; 04-01; boom; το δέντρο, τα δέντρα 
+; 04-01; De bladeren vallen van de bomen.; Τα φύλλα πέφτουν από τα δέντρα. 
+; 04-01;het hoedje gaat vliegen; το καπέλο φεύγει 
+; 04-01; het waait erg hard; φυσάει πολύ 
+; 04-01; de wind neemt de hoed mee; ο άερας παίρνει το καπέλο 
+; 04-01; bestek; τα μαχαιροπίρουνα 
+; 04-01; vis; το ψάρι 
+; 04-01; de tafel dekken; βάζω το τραπέζι 
+; 04-01; kok; ο μάγειρας 
+; 04-01; retsina (witte harswijn); η ρετσίνα 
+; 04-01; dienen; σερβίρω 
+; 04-01; blijven; κρατάω 
+; 04-01; paraplu dragen; κρατάω μία ομπρέλα 
+; 04-01; Waar ben je in augustus?; Που θα είσαι τον Αύγουστο; 
+; 04-01; januari, in januari; ο Ιαννουάριος, τον Ιανουάριο 
+; 04-01; februari, in februari; ο Φεβρουάριος, τον Φεβρουάριο 
+; 04-01; maart, in maart; ο Μάρτιος, τον Μάρτιο 
+; 04-01; april, in april; ο Απρίλιος, τον Απρίλιο 
+; 04-01; mei, in mei; ο Μάιο, τον Μάιο 
+; 04-01; juni, in juni; ο Ιούνιος, τον Ιούνιο 
+; 04-01; juli, in juli; ο Ιούλιος, τον Ιούλιο 
+; 04-01; augustus, in augustus; ο Αύγουστος, τον Αύγουστο 
+; 04-01; september, in september; ο Σεπτέμβριος, τον Σεπτέμβριο 
+; 04-01; oktober, oktober; ο Οκτώβριος, το Οκτώβριο 
+; 04-01; november, november; ο Νοέμβριος, το Νοέμβριo 
+; 04-01; december, december; ο Δεκέμβριος, το Δεκέμβριo 
+; 04-01; Wanneer is jouw verjaardag?; Πότε έχεις τα γενέθλια σου; 
+; 04-01; In mei, in de lente!; Τον Μάιο, την άνοιξη! 
+; 04-01; Pasen; το Πάσχα 
+; 04-01; lieveheersbeestje; η πασχαλίτσα 
+; 04-01; kaars; το κερί 
+; 04-01; Paaskaars; η λαμπάδα 
+; 04-01; zwarte bril, de zonnebril; τα μαύρα γυαλιά, τα γυαλιά ηλίου 
+; 04-01; sneeuwt; το χιώνη? ;
+; 04-01; sneeuwpop; ο χιονάνθρωπος 
+; 04-01; Ik maak; φτιάχνω 
+; 04-01; Ik speel een sneeuwballengevecht.; παίζω χιονοπόλεμο 
+; 04-01; Ik ben aan het skiën.; κάνω σκι 
+; 04-01; Ik hou van de zon.; μου αρέσει ο ήλιος 
+; 04-01; Ik vind het ook leuk!; Κι εμένα μου αρέσει! 
+; 04-01; bloesem; ανθίζω 
+; 04-01; alle; όλα 
+; 04-01; open; ανοίγω 
+; 04-01; Hoe is het weer vandaag?; Τι καιρό κάνει σήμερα; 
+; 04-01; het is koud; κάνει κρύο 
+; 04-01; het is warm; κάνει ζέστη 
+; 04-01;; έχει δροσιά 
+; 04-01; het is winderig; έχει αέρα 
+; 04-01; het regent; βρέχει 
+; 04-01; er is een warme wind; κάνει ζέστη αέρα 
+; 04-01; het is winderig; έχει αέρα 
+; 04-01; het is zonnig; έχει ήλιο 
+; 04-01; is bewolkt; έχει συννεφιά 
+; 04-01; sneeuwt; χιονίζει 
+; 04-01; waait; φυσάει 
+; 04-01; is nog vroeg in de avond.; είναι νωρίς νύχτα 
+; 04-01; werd al vroeg donker.; η νύχτα κατεβαινε νωρίς 
+; 04-01; Vrolijk Pasen!; Καλό Πάσχα! 
+; 04-01; Christus is verrezen!; Χριστός ανέστη! 
+; 04-01; Hij is waarlijk verrezen!; Αληθώς ανέστη! 
+; 04-01; Heilige Week; η Μεγάλη Εβδομάδα 
+; 04-01; Goede Vrijdag; η Μεγάλη Παρασκευή 
+; 04-01; ; Καθαρά Δευτέρα 
+; 04-01; Ik laat een vlieger op.; πετάω χαρταετό 
+; 04-01; Het is lente, want er zijn vlinders.; Είναι άνοιξη γιατί έχουν πεταλουδια. 
+; 04-01; Het is herfst omdat het regent.; Είναι φθινόπωρο γιατί βρέχει. 
+; 04-01; Het is oktober, want de bladeren vallen.; Είναι Οκτώβριο γιατί πέφτουν τα φύλλα. 
+; 04-22; vos; η αλεπού 
+; 04-22; aarde; η γη 
+; 04-22; zoals; όπως 
+; 04-22; gras; η χόρτα 
+; 04-22; nog steeds; ακόμα, ακόμη 
+; 04-22; al; ήδη 
+; 04-22;; κιόλας 
+; 04-22; laatst; τελευταίος 
+; 04-22; eindigen; τελειώνω 
+; 04-22; nemen; παίρνω 
+; 04-22; passeren; περνάω 
+; 04-22; voetballen; παίζω ποδόσφαιρο 
+; 04-22; familie; τα οικογένεια 
+; 04-22; Goede Vrijdag; ο Επιτάφιος, η Μεγάλη Παρασκευή 
+; 04-22; Paasdag, Pasen; η Αγάπη, η Ανάσταση 
+; 04-22; ; Σηκώνεις τους γονείς
+; 04-22; aubergine; η μελιτζάνα 
+; 04-22; wanneer; ποτέ 
+; 04-22; eiland; το νησί 
+; 04-22; pistachenootjes; τα φυστίκια 
+; 04-22; een bad nemen; κάνω μπάνιο 
+; 04-22; zonnebaden; κάνω ηλιοθεραπεία 
+; 04-22; mijn vriendenkring; η παρέα μου 
+; 04-22; vis; το ψάρι 
+; 04-22; octopus; το χταποδάκι 
+; 04-22; inktvis; το καλαμαράκια 
+; 04-22; gebraden; ψητός 
+; 04-22; wanneer; όταν 
+; 04-22; hier en daar; κάπου-κάπου 
+; 04-22; alle; όλος 
+; 04-22; alle koffie; όλος ο καφές 
+; 04-22; alle chocolade; όλη η σοκολάτα 
+; 04-22; hele broodje; όλο το τσουρέκι 
+; 04-22; ze zingen een liedje; λένε ένα τραγούδι 
+; 04-22; telefoons; τηλεφωνών 
+; 04-22; gisteren; χθες 
+; 04-22; eergisteren; προχθές 
+; 04-22; vorig jaar; πέρσι 
+; 04-22; jaar voor vorig jaar; πρόπερσι 
+; 04-22; dit jaar; φέτος 
+; 04-22; verleden; περασμένος 
+; 04-22; tijd; ο χρόνος 
+; 04-22; jaren; τα χρόνια 
+; 04-22; vijf jaar geleden; πριν πέντε χρόνια 
+; 04-22; Fijne maand!; Κάλο μήνα! 
+; 04-29; concert; η συναυλία 
+; 04-29; Ik ging naar de voetbalwedstrijd van mijn zoon.; Πήγα στο ποδόσφαιρο του γιο μου. 
+; 04-29; met mensen; με τους ανθρώπους 
+; 04-29; buurt; η γειτονιά 
+; 04-29; buurman; ο γείτονας 
+; 04-29; mijn ouders; οι γονείς μου 
+; 04-29; Aegina; η Αίγινα 
+; 04-29; baby; το μωρό 
+; 04-29; mijn baby; το μωρό μου 
+; 04-29; (volks)markt; η λαϊκή (αγορά) 
+; 04-29; Ik speel tennis; παίζω τένις 
+; 04-29; fruit; τα φρούτα 
+; 04-29; groenten; τα λαχανικά 
+; 04-29; sla; το μαρούλι 
+; 04-29; aubergine; η μελιτζάνα 
+; 04-29; ui; το κρεμμύδι 
+; 04-29; olijf; η ελία 
+; 04-29; komkommer; το αγγούρι 
+; 04-29; knoflook; το σκόρδο 
+; 04-29; inderdaad = ja; μάλιστα = ναι 
+; 04-29; We hebben en zeggen … (aan het begin van een opsomming); Έχουμε και λέμε … 
+; 04-29; aankomen, arriveren; φτάιω 
+; 04-29; (zich) het hoofd schudden; κουνάω το κεφάλι 
+; 04-29; Zeg me eens …; Δε μου λες … 
+; 04-29; groenteboer; ο μανάβης 
+; 04-29; kip; η κότα 
+; 04-29; haan; ο κόκορας 
+; 04-29; haan; ο πετεινός 
+; 04-29; Neem!, Neemt!; Πάρε!, Πάρτε! 
+; 04-29; tomaten voor salade; ντομάτες για σαλάτα 
+; 04-29; Dat ze goed zijn!; Αλλά να είναι καλές! 
+; 05-06; zich bevinden; βρίσκομαι 
+; 05-06; vinden; βρίσκω 
+; 05-06; opstaan; σηκώνομαι 
+; 05-06; optillen; σηκώνκω 
+; 05-06; zich wassen; πλένομαι 
+; 05-06; wassen; πλένω 
+; 05-06; zich kleden; ντύνομαι 
+; 05-06; kleden; ντύνω 
+; 05-06; zich opmaken, schminken; βάφομαι 
+; 05-06; schilderen, verven; βάφω 
+; 05-06; zich scheren; ξυρίζομαι 
+; 05-06; scheren; ξυρίζω 
+; 05-06;; κουμάμαι 
+; 05-06; zich herinneren; θυμάμαι 
+; 05-06; spijt hebben, spijt me; λυπάμαι 
+; 05-06; bang hebben, vrezen; φοβάμαι 
+; 05-06;  zich kammen; χτενίζομαι 
+; 05-06; komen; έρχομαι 
+; 05-06; zitten; κάθομαι 
+; 05-06; denken; σκέφτομαι 
+; 05-06; voelen; αισθάνομαι 
+; 05-06; nodig hebben; χρειάζομαι 
+; 05-06; moe worden; κουράζομαι 
+; 05-06; warm worden; ζεστάνουμαι 
+; 05-06; de toekomst, toekomstige tijd, futurum; ο μέλλοντας 
+; 05-06; vandaag; σήμερα 
+; 05-06; avond; απόψε 
+; 05-06; morgen; αύριο 
+; 05-06; overmorgen; μεθαύριο 
+; 05-06; dit jaar; φέτος 
+; 05-06; tijd; του χρόνου 
+; 05-06; over twee jaar; σε δύο χρόνια 
+; 05-06; ander; άλλος 
+; 05-06; komst; ερχόμενος 
+; 05-06; ander; άλλος 
+; 05-06; per vliegtuig; αεροπορικώς 
+; 05-06; pasta; η πάστα 
+; 05-06; film; η ταινία 
+; 05-06; project; το έργο 
+; 05-06; film; το φιλμ 
+; 05-06; vroeg; νωρίς 
+; 05-06; laat; αργά 
+; 05-06; zelden; σπάνια 
+; 05-06; vaak; συχνά 
+; 05-06; Ik werk niet meer.; δεν δουλεύω πια 
+; 05-06; collega; ο/η συνάδελφος 
+; 05-06; licht en; το φως και 
+; 05-06; mijn familie; η οικογένειά μου 
+; 05-06; ; Μπουρ τα δεξιά από 
+; 05-06; bloemenwinkel; το ανθοπωλείο 
+; 05-06; Op onze gezondheid! ; (Στην υ)γεία μας! 
+; 05-06; Op je gezondheid! ; (Στην υ)γεία σου! 
+; 05-06; voor ons ; για μας 
+; 05-06; gezondheid; υγεία 
+; 05-06; WK (week-end); ΣΚ (σουκου) 
+; 05-06; 1:30, anderhalf; μιάμιση 
+; 05-06; 2:30, twee en een half; δυόμιση 
+; 05-06; 3:30, drie en een half; τρεισήμισι 
+; 05-06; Ik was een wafel, de wafels zijn hallo, in jouw handen, heerlijk, tijd om ze te eten; Ήμου βάφλες οι βάφλες γεια στα χέρια σου πεντανόστιμος τα φορά 
+; 05-06; pauze, vakantie; η διακοπή, οι διακοπές 
+; 05-06; bericht, berichtje; το μήνυμα, τα μηνύματα 
