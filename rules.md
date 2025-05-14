@@ -13,10 +13,9 @@ Here are the rules for each column
 ### 3. **Dutch**
 - The main Dutch entry, cleaned and standardized:
   - **Capitalization:**  
-    - Sentences, questions, expressions, and proper nouns/place names: Capitalized.
-    - All other entries: Lowercase.
-  - **Punctuation:**  
-    - Synchronized with the Greek column (question mark, exclamation mark, period, etc.).
+    - Sentences, questions, expressions: Capitalized and proper sentence punctuation (. ! ? … )
+    - Proper nouns/place names: Capitalized
+    - All other entries: lowercase
   - **Deduplication/Simplification:**  
     - Remove unnecessary articles and plurals unless contextually required.
     - Only the core translation is kept; extra info is moved to the comment column.
@@ -26,18 +25,20 @@ Here are the rules for each column
 ### 4. **Greek**
 - The main Greek entry, cleaned and standardized:
   - **Capitalization:**  
-    - Sentences, questions, expressions, and proper nouns/place names: Capitalized.
-    - All other entries: Lowercase.
-  - **Punctuation:**  
-    - Synchronized with the Dutch column.
+    - Sentences, questions, expressions: Capitalized and proper sentence punctuation (. ! ; … )
+    - Proper nouns/place names: Capitalized
+    - All other entries: lowercase
   - **Articles:**  
-    - Proper articles are ensured for proper names and abstract nouns.
+    - proper names, abstract nouns and philosophical concepts that in Greek always require the definite article must be prepended with "ο ", "η ", "το ", "οι ", "τα ", etc.
+    - all other nouns must also be prepended with the article, but in-between parentheses, e.g. "(ο) "
+    - nouns that can be both masculine and feminine must have "(ο/η) " or "ο/η "
+    - after the singular main entry, the plural, if applicable, must be given, e.g. "(η) διακοπή, (οι) διακοπές"
   - **Adjectives:**  
-    - Grammatical endings are added as needed.
+    - are given in nominative masculine singular, but with grammatical endings added as needed, e.g. "βρώμικος -η -ο", "χοντρός -ή -ό"
   - **Prepositions:**  
-    - Case requirements are specified if relevant.
-  - **Expressions:**  
-    - Greek expressions are matched in style and punctuation to the Dutch.
+    - Case requirements are specified if relevant, e.g. "από + acc."
+  - **Synonyms:**
+    - synonyms are listed alphabetically, and separated with a comma, e.g. "άσπρος -η -ο, λευκός -ή -ό"
 
 ### 5. **PoS** (Part of Speech)
 - Standardized using Dutch abbreviations:
@@ -50,6 +51,7 @@ Here are the rules for each column
   - vz. = voorzetsel (preposition)
   - vw. = voegwoord (conjunction)
   - uitdr. = uitdrukking (expression)
+  - eigennaam
   - vraagzin = question
   - zin = sentence
   - groep = group (for grouped words/phrases)
