@@ -1,22 +1,22 @@
 nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0001;;begroetingen;(οι) χαιρετισμοί;znw.;;communicatie
-0002;;Welkom!;Καλώς ορίσατε!;uitdr.;;communicatie
-0003;;Goedemorgen!;Καλημέρα!;uitdr.;;communicatie
-0004;;Goedeavond!;Καλησπέρα!;uitdr.;;communicatie
-0005;;Welterusten!;Καληνύχτα!;uitdr.;;communicatie
-0006;;Goedeavond!;Καλό βράδυ!;uitdr.;;communicatie
-0007;;Succes!;Καλή συνέχεια!;uitdr.;;communicatie
-0008;;Goede maand!;Καλό μήνα!;uitdr.;;kalender
-0009;;Fijne week!;Καλή εβδομάδα!;uitdr.;;kalender
-0010;;Hallo!;Χαίρετε!;uitdr.;formeel;communicatie
+0002;;Welkom!;Καλώς ορίσατε!;uitdr.;;wensen
+0003;;Goedemorgen!;Καλημέρα!;uitdr.;;wensen
+0004;;Goedeavond!;Καλησπέρα!;uitdr.;;wensen
+0005;;Welterusten!;Καληνύχτα!;uitdr.;;wensen
+0006;;Goedeavond!;Καλό βράδυ!;uitdr.;;wensen
+0007;;Succes!;Καλή συνέχεια!;uitdr.;;wensen
+0008;;Goede maand!;Καλό μήνα!;uitdr.;;wensen
+0009;;Fijne week!;Καλή εβδομάδα!;uitdr.;;wensen
+0010;;Hallo!;Χαίρετε!;uitdr.;formeel;kennismaken
 0011;;Hoi!;Γεια!;uitdr.;;communicatie
 0012;;Hallo!;Γεια σου! (ev.) Γεια σας! (mv.);uitdr.;;communicatie
 0014;;Santé!;Γεια μας!;uitdr.;;communicatie
-0015;;Op uw gezondheid!;Στην υγειά σας!;uitdr.;;communicatie
-0016;;Op onze gezondheid!;Στην υγειά μας!;uitdr.;;communicatie
-0017;;Gezondheidjes!;Γείτσες!;uitdr.;wanneer iemand niest;communicatie
-0018;;Hoe maak je het?;Τι κάνεις;zin;vraagzin;communicatie
-0019;;Hoe maakt u het?;Τι κάνετε;zin;vraagzin;communicatie
+0015;;Op uw gezondheid!;Στην υγειά σας!;uitdr.;;wensen
+0016;;Op onze gezondheid!;Στην υγειά μας!;uitdr.;;wensen
+0017;;Gezondheidjes!;Γείτσες!;uitdr.;wanneer iemand niest;wensen
+0018;;Hoe maak je het?;Τι κάνεις;zin;vraagzin;kennismaken
+0019;;Hoe maakt u het?;Τι κάνετε;zin;vraagzin;kennismaken
 0020;;Hoe is het?;Πώς είσαι;zin;vraagzin;communicatie
 0021;;Hoe is het met je?;Πώς (τα) πας;zin;vraagzin;communicatie
 0022;;Prima!;Μια χαρά!;uitdr.;;communicatie
@@ -29,49 +29,49 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0029;;Heel slecht!;Πολύ άσχημα!;uitdr.;;emoties
 0030;;En jij?;Κι εσύ;zin;vraagzin;communicatie
 0031;;Gefeliciteerd!;Χρόνια πολλά!;uitdr.;;communicatie
-0032;;Leve lang!;Να τα εκατοστίσεις!;uitdr.;;communicatie
+0032;;Leve lang!;Να τα εκατοστίσεις!;uitdr.;;wensen
 0033;;Voici!;Ορίστε!;uitdr.;Hier heb je;communicatie
 0034;;alsjeblieft;Παρακαλώ;uitdr.;;communicatie
 0035;;Pronto!;Εμπρός!;uitdr.;;communicatie
 0036;;Spreek!;Λέγετε!;uitdr.;Zeg maar!;communicatie
 0037;;alfabet;(το) αλφάβητο;znw.;;school & werk
 0038;;namen;;znw.;;persoonlijk & familie
-0039;;Wie ben je?;Ποιος είσαι;vraagzin;/pjos íesè/;communicatie
-0040;;Wie ben je?;Ποια είσαι;vraagzin;/pja íesè/;communicatie
-0041;;Wat is je naam?;Πώς σε λένε;vraagzin;;communicatie
-0042;;Ik ben Jan.;Είμαι ο Γιάννης.;zin;;persoonlijk & familie
-0043;;Mijn naam is Jan.;Με λένε Γιάννι.;zin;;persoonlijk & familie
-0044;;Mijn naam is Jan.;Λέγομαι Γιάννης.;zin;;persoonlijk & familie
-0045;;Achilles;ο Αχιλλέας;eigennaam;;persoonlijk & familie
-0046;;Michaël;ο Μιχάλης;eigennaam;;persoonlijk & familie
-0047;;Anastasia;η Αναστασία;eigennaam;;persoonlijk & familie
-0048;;Andreas;ο Αντρέας;eigennaam;;persoonlijk & familie
-0049;;Asteria;η Αστερία;eigennaam;;persoonlijk & familie
-0050;;Calliope;η Καλλιόπη;eigennaam;;persoonlijk & familie
-0051;;Christine;η Χριστίνα;eigennaam;;persoonlijk & familie
-0052;;Daphne;η Δάφνη;eigennaam;;persoonlijk & familie
-0053;;Dimitris;ο Δημήτρης;eigennaam;;persoonlijk & familie
-0054;;George;ο Γιώργος;eigennaam;;persoonlijk & familie
-0055;;Helena;η Ελένη;eigennaam;;persoonlijk & familie
-0056;;Hermelien;η Ερμιόνη;eigennaam;;persoonlijk & familie
-0057;;Iliana;η Ηλιάνα;eigennaam;;persoonlijk & familie
-0058;;Ilias;ο Ηλίας;eigennaam;;persoonlijk & familie
-0059;;Iphigeneia;η Ιφιγένεια;eigennaam;;persoonlijk & familie
-0060;;Kostas;ο Κώστας;eigennaam;;persoonlijk & familie
-0061;;Kyriaki;η Κυριακή;eigennaam;;persoonlijk & familie
-0062;;Lucas;ο Λούκας;eigennaam;;persoonlijk & familie
-0063;;Margaretha;η Μάργκαρετ;eigennaam;;persoonlijk & familie
-0064;;Maria;η Μαρία;eigennaam;;persoonlijk & familie
-0065;;Marry;η Μαίρη;eigennaam;/i Mérri/;persoonlijk & familie
-0066;;Matina;η Ματίνα;eigennaam;;persoonlijk & familie
-0067;;Michaël;ο Μιχάλης;eigennaam;;persoonlijk & familie
-0068;;Moskou;Μόσχα;plaatsnaam;;geografie
-0069;;Nikos;ο Νίκος;eigennaam;;persoonlijk & familie
-0070;;Penelope;η Πηνελόπη;eigennaam;;persoonlijk & familie
-0071;;Petrus;ο Πέτρος;eigennaam;;persoonlijk & familie
-0072;;Phoebe;η Φοίβη;eigennaam;;persoonlijk & familie
-0073;;Sophia;η Σοφία;eigennaam;;persoonlijk & familie
-0074;;Theodorus;ο Θοδωρος;eigennaam;;persoonlijk & familie
+0039;;Wie ben je?;Ποιος είσαι;vraagzin;/pjos íesè/;kennismaken
+0040;;Wie ben je?;Ποια είσαι;vraagzin;/pja íesè/;kennismaken
+0041;;Wat is je naam?;Πώς σε λένε;vraagzin;;kennismaken
+0042;;Ik ben Jan.;Είμαι ο Γιάννης.;zin;;kennismaken
+0043;;Mijn naam is Jan.;Με λένε Γιάννι.;zin;;kennismaken
+0044;;Mijn naam is Jan.;Λέγομαι Γιάννης.;zin;;kennismaken
+0045;;Achilles;ο Αχιλλέας;eigennaam;;kennismaken
+0046;;Michaël;ο Μιχάλης;eigennaam;;kennismaken
+0047;;Anastasia;η Αναστασία;eigennaam;;kennismaken
+0048;;Andreas;ο Αντρέας;eigennaam;;kennismaken
+0049;;Asteria;η Αστερία;eigennaam;;kennismaken
+0050;;Calliope;η Καλλιόπη;eigennaam;;kennismaken
+0051;;Christine;η Χριστίνα;eigennaam;;kennismaken
+0052;;Daphne;η Δάφνη;eigennaam;;kennismaken
+0053;;Dimitris;ο Δημήτρης;eigennaam;;kennismaken
+0054;;George;ο Γιώργος;eigennaam;;kennismaken
+0055;;Helena;η Ελένη;eigennaam;;kennismaken
+0056;;Hermelien;η Ερμιόνη;eigennaam;;kennismaken
+0057;;Iliana;η Ηλιάνα;eigennaam;;kennismaken
+0058;;Ilias;ο Ηλίας;eigennaam;;kennismaken
+0059;;Iphigeneia;η Ιφιγένεια;eigennaam;;kennismaken
+0060;;Kostas;ο Κώστας;eigennaam;;kennismaken
+0061;;Kyriaki;η Κυριακή;eigennaam;;kennismaken
+0062;;Lucas;ο Λούκας;eigennaam;;kennismaken
+0063;;Margaretha;η Μάργκαρετ;eigennaam;;kennismaken
+0064;;Maria;η Μαρία;eigennaam;;kennismaken
+0065;;Marry;η Μαίρη;eigennaam;/i Mérri/;kennismaken
+0066;;Matina;η Ματίνα;eigennaam;;kennismaken
+0067;;Michaël;ο Μιχάλης;eigennaam;;kennismaken
+0068;;Moscha;Μόσχα;plaatsnaam;;geografie
+0069;;Nikos;ο Νίκος;eigennaam;;kennismaken
+0070;;Penelope;η Πηνελόπη;eigennaam;;kennismaken
+0071;;Petrus;ο Πέτρος;eigennaam;;kennismaken
+0072;;Phoebe;η Φοίβη;eigennaam;;kennismaken
+0073;;Sophia;η Σοφία;eigennaam;;kennismaken
+0074;;Theodoor;ο Θοδωρος;eigennaam;;kennismaken
 0075;;kind;(το) παιδί, (τα) παιδιά;znw.;;persoonlijk & familie
 0076;;geest;(το) πνεύμα;znw.;;varia
 0077;;koffie;(ο) καφές;znw.;;voedsel
@@ -170,7 +170,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0174;;moussaka;(ο) μουσακάς;znw.;;voedsel
 0175;;ouzo;(το) ούζο;znw.;;voedsel
 0176;;chocolaatjes;(τα) σοκολατάκια;znw.;meervoud;voedsel
-0177;;Klaar!;Αυτά!;vnw.;;communicatie
+0177;;Klaar!, Dat is het!;Αυτά!;vnw.;;communicatie
 0179;;grootmoeder met bril;η γιαγιά με γυαλιά;znw. groep;;persoonlijk & familie
 0180;;opnieuw;πάλι;bijw.;;communicatie
 0181;;neerzetten;βάζω;ww.;;varia
@@ -197,11 +197,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0202;;kleur;(το) χρώμα;znw.;;varia
 0203;;leugen;(το) ψέμα;znw.;;emoties
 0204;;tijd;(η) ώρα;znw.;;kalender
-0205;;tweeklank klinkers;(τα) δίψηφα φωνήεντα;znw.;;taalkunde
-0206;;tweecijferige medeklinkers;(τα) δίψηφα σύμφωνα;znw.;;taalkunde
+0205;;tweeklanken;(τα) δίψηφα φωνήεντα;znw.;;taalkunde
+0206;;digrafen;(τα) δίψηφα σύμφωνα;znw.;;taalkunde
 0207;;combinaties;(οι) συνδυασμοί;znw.;;taalkunde
-0208;;medeklinkers vrolijk;(τα) σύμφωνα ηχαρά;znw.;;taalkunde
-0209;;medeklinkers zijn stemloos;(τα) σύμφωνα άηχα;znw.;;taalkunde
+0208;;stemhebbende medeklinkers;(τα) σύμφωνα ηχαρά;znw.;;taalkunde
+0209;;stemloze medeklinkers;(τα) σύμφωνα άηχα;znw.;;taalkunde
 0210;;klinker of stemhebbende medeklinker;(το) φωνήεν ή (το) ηχηρό σύμφωνι;znw. groep;;taalkunde
 0211;;stemloze medeklinker;(το) άηχο σύμφωνο;znw. groep;;taalkunde
 0212;;uitspraak;(η) προφορά;znw.;;taalkunde
@@ -757,13 +757,13 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0764;;betalen;πληρώνω;ww.;;communicatie
 0765;;krant;(η) εφημερίδα;znw.;;communicatie
 0766;;tijdschrift;(το) περιοδικό;znw.;;communicatie
-0767;;rook;καπνίζω;ww.;;varia
+0767;;roken;καπνίζω;ww.;;varia
 0768;;een pakje sigaretten;ένα πακέτο τσιγάρα;znw. groep;;varia
 0769;;een doosje lucifers;ένα κουτί σπίρτα;znw. groep;;varia
-0770;;lichter;(ο) αναπτήρας;znw.;;varia
-0771;;stempel;(το) γραμματόσημο;znw.;;varia
+0770;;aansteker;(ο) αναπτήρας;znw.;;varia
+0771;;postzegel;(το) γραμματόσημο;znw.;;varia
 0772;;potlood;(το) μολύβι;znw.;;school & werk
-0773;;kourabiedes;οι κουραμπιέδες;znw.;;voedsel
+0773;;kourabjedes;οι κουραμπιέδες;znw.;;voedsel
 0774;;melomakaroni;τα μελομακάρονα;znw.;;voedsel
 0775;;koekjes;τα μπισκότα;znw.;;voedsel
 0776;;open;ανοιχτός -ή -ό;bnw.;;varia
@@ -784,7 +784,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0791;;Ik weet niet waar ik van je hou.;Δεν ξέρω που σ' αγαπώ.;zin;;communicatie
 0792;;Ben je moe?;Μήπως είστε κουρασμένοι;zin;vraagzin;emoties
 0793;;één euro onz.;ένα Ευρώ;znw.;;hoeveelheden
-0794;;Akis;(ο) Άκης;eigennaam;;persoonlijk & familie
+0794;;Akis;(ο) Άκης;eigennaam;;kennismaken
 0795;;informeel;φιλικός -ή -ό;bnw.;;taalkunde
 0796;;formeel;τυπικός -ή -ό;bnw.;;taalkunde
 0797;;dialoog;(ο) διάλογος;znw.;;taalkunde
@@ -796,14 +796,14 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0802;;mannelijk;αρσενικός -ή -ό;znw. groep;;taalkunde
 0803;;vrouwelijk;θηλυκή -ός -ό;znw. groep;;taalkunde
 0804;;onzijdig;ουδέτερο -ος -η;znw. groep;;taalkunde
-0805;;mens, mannen;(ο) άντρας, (οι) άντρες;znw.;;persoonlijk & familie
-0806;;student, studenten;(ο) μαθήτης, (οι) μαθητές;znw.;;school & werk
-0807;;vriend, vrienden;(ο) φίλος, (οι) φίλοι;znw.;;persoonlijk & familie
-0808;;voorgerechten, voorgerechten;(ο) μέζες, (οι) μεζέδες;znw.;;voedsel
-0809;;gehaktballetjes, gehaktballetjes;(ο) κεφτές, (οι) κεφτέδες;znw.;;voedsel
-0810;;koffie, koffie;(ο) καφές, (οι) καφέδες;znw.;;voedsel
-0811;;vrouw, vrouwen;(η) γυναίκα, (οι) γυναίκες;znw.;;persoonlijk & familie
-0812;;dochter, dochters;(η) κόρη, (οι) κόρες;znw.;;persoonlijk & familie
+0805;;man;(ο) άντρας, (οι) άντρες;znw.;;persoonlijk & familie
+0806;;student;(ο) μαθήτης, (οι) μαθητές;znw.;;school & werk
+0807;;vriend;(ο) φίλος, (οι) φίλοι;znw.;;persoonlijk & familie
+0808;;voorgerechten;(ο) μέζες, (οι) μεζέδες;znw.;;voedsel
+0809;;gehaktballetjes, frikadellen;(ο) κεφτές, (οι) κεφτέδες;znw.;;voedsel
+0810;;koffie;(ο) καφές, (οι) καφέδες;znw.;;voedsel
+0811;;vrouw;(η) γυναίκα, (οι) γυναίκες;znw.;;persoonlijk & familie
+0812;;dochter;(η) κόρη, (οι) κόρες;znw.;;persoonlijk & familie
 0813;;boek;(το) βιβλίο, (τα) βιβλία;znw.;;school & werk
 0814;;huis;(το) σπίτι, (τα) σπίτια;znw.;;wonen
 0815;;brief;(το) γράμμα, (τα) γράμματα;znw.;;communicatie
@@ -812,28 +812,28 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0818;;begrip van gesproken taal;(η) κατανόηση προφορικού λόγου;znw. groep;;communicatie
 0819;;Welk nieuws?;Τι νέα;zin;vraagzin;communicatie
 0820;;Hetzelfde.;Τα ίδια.;uitdr.;;communicatie
-0821;;Ik ook.;Κι εγώ τα ίδια.;uitdr.;;communicatie
+0821;;Voor mij ook (het zelfde).;Κι εγώ τα ίδια.;uitdr.;;communicatie
 0822;;portemonnee;(το) πορτοφόλι;znw.;;varia
-0823;;auto;(το) αυτοκίνητο;znw.;;vervoer
+0823;;auto(mobiel), wagen;(το) αυτοκίνητο;znw.;;vervoer
 0824;;het eten;(το) φαγητό;znw.;;voedsel
 0825;;moussaka;(ο) μουσακάς;znw.;;voedsel
-0826;;het voetbal;(το) ποδόσφαιρο;znw.;;sport
-0827;;retsina;(η) ρετσίνα;znw.;;voedsel
+0826;;voetbal;(το) ποδόσφαιρο;znw.;;sport
+0827;;retsina;(η) ρετσίνα;znw.;harswijn;voedsel
 0828;;muziek;(η) μουσική;znw.;;muziek
-0829;;bijvoeglijke naamwoorden bijvoeglijk naamwoord;(τα) επίθετα adjectieven;znw.;;taalkunde
+0829;;adjectief, bijvoeglijk naamwoord (bnw.);(τα) επίθετα;znw.;;taalkunde
 0830;;taverne;(η) ταβέρνα;znw.;;horeca
 0831;;klaar;έτοιμος -η -ο;bnw.;;varia
 0832;;lelijk;άσχημος -η -ο;bnw.;;emoties
 0833;;mooi;όμορφος -η -ο;bnw.;;emoties
-0834;;het hotel;(το) ξενοδοχείο;znw.;;horeca
+0834;;hotel;(το) ξενοδοχείο;znw.;;horeca
 0835;;broer;(ο) αδερφός;znw.;;persoonlijk & familie
 0836;;zuster;(η) αδερφή;znw.;;persoonlijk & familie
 0837;;Vertaalt!;Να μεταφράσετε!;ww.;imp.;communicatie
-0838;;Aangename kennismaking!;Χάρι πολύ! Aangename kennismaking!;uitdr.;;kennismaken
+0838;;Aangename kennismaking!;Χάρι πολύ!;uitdr.;;kennismaken
 0839;;Geweldig! ;Χάρικα!;uitdr.;alleen bij afscheid;kennismaken
 0840;;vandaag;σήμερα;bijw.;;kalender
 0841;;Hoe zeg je dit in het Grieks?;Πώ το λένε αυτό στα ελληνικά;zin;vraagzin;communicatie
-0842;;God zij dank!;Δόξα τω Θεώ!;uitdr.;;emoties
+0842;;God zij dank!;Δόξα τω Θεώ!;uitdr.;;wensen
 0843;;Ik wacht op een taxi;περιμένω ταξί;zin;;vervoer
 0844;;Vul de ontbrekende woorden in.;Συμπληρώστε τις λέξεις που λείπουν.;zin;;school & werk
 0845;;Beantwoord de vragen.;Απαντήστε στις ερωτήσεις.;zin;;school & werk
@@ -853,12 +853,12 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0859;;bier;(η) μπίρα, (οι) μπίρες;znw.;;voedsel
 0860;;Ik ga naar de bakker en koop: …;Πηγαίνω στον φούρνο και αγοράζω: …;zin;;winkelen
 0861;;bruin brood;ένα μαύρο ψωμί;znw. groep;;voedsel
-0862;;croissant;ένα κρουασάν;znw.;;voedsel
-0863;;een broodje;ένα σάντουιτς;znw.;;voedsel
+0862;;een croissant;ένα κρουασάν;znw.;;voedsel
+0863;;een sandwich;ένα σάντουιτς;znw.;;voedsel
 0864;;een halve kilo dips;μισό κιλό βουτήματα;znw. groep;lett. dingen om te sopppen;voedsel
 0865;;een boerenbrood;ένα χωριάτικο ψωμί;znw. groep;;voedsel
-0866;;het dorp;(το) χωριό;znw.;;geografie
-0867;;rustiek;χωριάτης -α -ικο;bnw.;;varia
+0866;;dorp;(το) χωριό;znw.;;geografie
+0867;;rustiek, dorps, van het dorp;χωριάτης -α -ικο;bnw.;;varia
 0868;;een boerensalade;μια χωριάτικα σαλάτα;znw. groep;;voedsel
 0869;;Wil je nog iets anders?;Θέλετε τίποτα άλλο;zin;vraagzin;communicatie
 0870;;juist;σωστός -ή -ό;bnw.;;varia
@@ -879,8 +879,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0885;;ik eet;τρώω;ww.;;voedsel
 0886;;ik doe vroeg;κάνω νωρίς;zin;;kalender
 0887;;muziek wakker worden;ξυπνάω μουσική;zin;;muziek
-0888;;Ik zie om te winkelen;βλέπω για ψώνια;zin;;winkelen
-0889;;Ik ga naar de televisie;πάω τηλεόραση;zin;;vrije tijd
+0888;;ik ga shoppen;βλέπω για ψώνια;zin;;winkelen
+0889;;ik ga naar de televisie;πάω τηλεόραση;zin;;vrije tijd
 0890;;in januari;τον Ιανουάριο;zin;;kalender
 0891;;op maandag;την Δευτέρα;zin;;kalender
 0892;;op dinsdag;την Τρίτη;zin;;kalender
@@ -889,26 +889,26 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0895;;een keer per maand;μια φορά τον μήνα;zin;;kalender
 0896;;hoe veel;πόσον;vraagw.;;hoeveelheden
 0897;;in het weekend;τον Σαββατοκύριακο;zin;;kalender
-0898;;Ik vind de zinnen en zet de toon;βρίσκω τις φράσεις και βάζω τόνο;zin;;taalkunde
+0898;;ik vind de zinnen en zet de toon;βρίσκω τις φράσεις και βάζω τόνο;zin;;taalkunde
 0899;;12.00;δώδεκα η ώρα;zin;;kalender
 0900;;13:15;μια και τέταρτο;zin;;kalender
 0902;;bank;(η) τράπεζα;znw.;;varia
-0903;;Ik wacht op een bus;περιμένω λεωφορείο;zin;;vervoer
-0904;;het eiland;(το) νησί;znw.;;geografie
+0903;;op de bus wachten;περιμένω λεωφορείο;zin;;vervoer
+0904;;eiland;(το) νησί;znw.;;geografie
 0905;;kwaadaardig, slecht;κάκος -η -ο;bnw.;moreel slecht;emoties
 0906;;lelijk, slecht;άσχημος -η -ο;bnw.;;emoties
-0907;;slecht weer;;zin;;natuur
+0907;;slecht weer;(ο) άσχημος καιρός;zin;;natuur
 0908;;wit;άσπρος -η -ο;bnw.;;varia
 0909;;beer;(η) αρκούδα;znw.;;natuur
 0910;;sneeuw;(το) χιόνι;znw.;;natuur
 0911;;uitschelden;μαλώνω;ww.;;emoties
-0912;;Wat ga je worden?;Τι θα γίνεις;zin;vraagzin;communicatie
+0912;;Wat ga je worden?, Wat gaat ervan je worden?;Τι θα γίνεις;zin;vraagzin;communicatie
 0913;;analfabeet;αγράμματος -η -ο;znw./bnw.;;varia
-0914;;Ik word ziek;αρρωσταίνω;ww.;;gezondheid
-0915;;Ik zal het niet uithouden;δε θ'αντέξω;zin;;emoties
-0916;;ga wild;αγριέψω;ww.;;emoties
+0914;;ziek worden;αρρωσταίνω;ww.;;gezondheid
+0915;;ik zal het niet uithouden;δε θ'αντέξω;zin;;emoties
+0916;;razen, wild worden;αγριέψω;ww.;;emoties
 0917;;zoals;όπως;voegw.;;taalkunde
-0918;;to ziehier, hier heb je, voici;να ziehier, hier heb je, voici;uitdr.;;communicatie
+0918;;ziehier, hier heb je;να;uitdr.;cfr Fr. ‘voici’;communicatie
 0919;;Hier is Johannes;να ο Γιάννης;zin;;communicatie
 0920;;wees goed;νά 'σαι καλά;uitdr.;;wensen
 0921;;wees goed;νά 'στε καλά;uitdr.;;wensen
@@ -916,17 +916,17 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0923;;Ik begrijp hoe het is;καταλαβαίνω πως είναι;zin;;communicatie
 0924;;Ik begrijp dat dat zo is;καταλαβαίνω ότι είναι;zin;;communicatie
 0925;;journalist;(ο) δημοσιογράφος;znw.;;beroepen
-0926;;en zij zij ook;κι αυτή zij ook;zin;;persoonlijk & familie
-0927;;twee zij tweeën;οι δύο zij tweeën;znw. groep;;hoeveelheden
+0926;;en zij, zij ook;κι αυτή;zin;;persoonlijk & familie
+0927;;zij tweeën;οι δύο;znw. groep;;hoeveelheden
 0928;;in het centrum;στο κέντρο;zin;;geografie
 0929;;boom in het midden;(το) δέντρο στο κέντρο;znw. groep;;natuur
-0930;;waar;πού bijw.;vraagw.;;geografie
+0930;;waar;πού;bijw.;vraagw.;geografie
 0931;;daar;εκεί;bijw.;;geografie
 0932;;hier;εδώ;bijw.;;geografie
 0933;;dichtbij; κοντά;bijw.;;geografie
 0934;;ver (weg);μακριά;bijw.;;geografie
 0935;;rechts; δεξιά;bijw.;;geografie
-0936;;links;links αριστερά;bijw.;;geografie
+0936;;links;αριστερά;bijw.;;geografie
 0937;;gaan;πηγαίνω;ww.;;vervoer
 0938;;hotel;(το) ξενοδοχείο;znw.;;horeca
 0939;;Is het…;Μήπως …;zin;vraagzin;communicatie
@@ -952,14 +952,14 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0960;;Niemand weet het;Δεν ξέρει κανένας;zin;;communicatie
 0961;;geen;κανένας;vnw.;;hoeveelheden
 0962;;Ja, iemand weet het.;Ναι, ξέρει κάποιος.;zin;;communicatie
-0963;;Ik ben nergens bang voor;Δεν φοβάμαι τίποτα;zin;;emoties
-0964;;Ik hoop niets;δεν ελπίζω τίποτα;zin;;emoties
-0965;;ik ben vrij;είμαι ελεύθερος;zin;;emoties
-0966;;15.30 half drie;15:30 τρεις και μισή;zin;;kalender
+0963;;Ik ben nergens bang voor.;Δεν φοβάμαι τίποτα.;zin;;emoties
+0964;;Ik hoop niets.;Δεν ελπίζω τίποτα.;zin;;emoties
+0965;;Ik ben vrij.;Είμαι ελεύθερος.;zin;;emoties
+0966;;15.30 (half vier);τρεις και μισή;zin;;kalender
 0967;;Hoe laat ga je naar je werk?;Τι ώρα πας στη δουλειά σου?;vraagzin;;school & werk
-0968;;om negen uur om negen uur;om negen uur στις εννέα η ώρα;zin;;kalender
-0969;;om één uur precies op het hele uur precies;om één uur precies στην μια η ώρα ακριβώς;zin;;kalender
-0970;;uur de tijd (verandert niet, alleen op het volle uur gebruikt);o'clock (η) ώρα (verandert niet, alleen op το volle uur gebruikt);znw. groep;;kalender
+0968;;om negen uur;στις εννέα η ώρα;zin;;kalender
+0969;;om één uur precies;στην μια η ώρα ακριβώς;zin;op het hele uur;kalender
+0970;;om … uur;… η ώρα;znw. groep;verandert niet, alleen op het volle uur gebruikt, cfr. Eng. ‘o’clock’;kalender
 0971;;om half acht;στις οκτώ και μισή;zin;;kalender
 0972;;mobiele telefoon, gsm;(το) κινητό;znw.;;communicatie
 0973;;kerstboom;(το) χριστουγεννιάτικο δέντρο;znw.;;feestdagen
@@ -984,37 +984,37 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0992;;de kat spint;η γάτα γουργουρίζει;zin;;natuur
 0993;;lachen;να γελά;ww.;;emoties
 0994;;blaffen;να γκαρίζει;ww.;;natuur
-0995;;Wanneer;πότε;bijw.;;kalender
-0996;;Wanneer;ποτέ;bijw.;;kalender
-0997;;Vandaag hebben we les in de klas;Σήμερα κάνουμε μάθημα στην τάξη;zin;;school & werk
-0998;;Tot snel!;Τα λέμε σε λίγο!;uitdr.;;kennismaken
-0999;;verbazingwekkend;καταπληκτικός -ή -ό;bnw.;;emoties
+0995;;wanneer;πότε;bijw.;;kalender
+0996;;wanneer;ποτέ;bijw.;;kalender
+0997;;Vandaag hebben we les in klas 1B.;Σήμερα κάνουμε μάθημα στην τάξη 1B.;zin;;school & werk
+0998;;Tot gauw!;Τα λέμε σε λίγο!;uitdr.;;kennismaken
+0999;;verbazingwekkend, schitterend;καταπληκτικός -ή -ό;bnw.;;emoties
 1000;;het werk;(η) εργασία;znw.;;school & werk
 1001;;Ik was onder de indruk;Εντυπωσιάστηκα;zin;;emoties
 1002;;tegelijkertijd;Συγχρόνως;bijw.;;varia
-1003;;Het spijt me;λυπήθηκα;zin;;emoties
-1004;;Ook;επίσης;bijw.;;communicatie
+1003;;het spijt me;λυπήθηκα;zin;;emoties
+1004;;ook, eensgelijks;επίσης;bijw.;;communicatie
 1005;;gebracht;φέρθηκε;ww.;;communicatie
 1006;;al;ήδη;bijw.;;varia
 1007;;moeilijk;σκληρά;bijw.;;emoties
-1008;;Genieten;Χαίρομαι;ww.;;emoties
-1009;;Echter;όμως;voegw./bijw.;;varia
-1010;;zo veel;τόσο;bijw.;;hoeveelheden
+1008;;genieten;χαίρομαι;ww.;;emoties
+1009;;echter;όμως;voegw./bijw.;;varia
+1010;;zo veel (als);τόσο;bijw.;;hoeveelheden
 1011;;intelligent;ευφυή -ής -ές;bnw.;;school & werk
-1012;;artiest;(ο/η) καλλιτέχνης;znw.;;school & werk
-1013;;Wat betreft het werk;Όσο για την εργασία;zin;;school & werk
+1012;;artiest, kunstenaar;(ο/η) καλλιτέχνης;znw.;;school & werk
+1013;;wat betreft het werk;όσο για την εργασία;zin;;school & werk
 1014;;weinig;ελάχιστες -ος -η;bnw.;;hoeveelheden
 1015;;observaties;(οι) παρατηρήσεις;znw.;;school & werk
-1016;;dienovereenkomstig corrigeren;να διορθώσεις ανάλογα;zin;vraagzin;school & werk
+1016;;dienovereenkomstig corrigeren;να διορθώσεις ανάλογα;zin;;school & werk
 1017;;jij bent blij;χαίρεσαι;ww.;;emoties
 1018;;ik wist het;ήξερα;ww.;;communicatie
 1019;;Tot morgen in persoon!;Τα λέμε αύριο από κοντά!;uitdr.;;communicatie
-1020;;Fijne week;Καλή εβδομάδα;uitdr.;;kalender
-1021;;goede maand;καλό μήνα;uitdr.;;kalender
-1022;;Ik wou dat ik dat was;θα ήθελα να ήμουν;zin;;emoties
+1020;;Fijne week;Καλή εβδομάδα;uitdr.;;wensen
+1021;;Goede maand!;καλό μήνα;uitdr.;;wensen
+1022;;Ik wou dat ik dat was;Θα ήθελα να ήμουν!;zin;;emoties
 1023;;kleine vogel;(το) πουλάκι;znw.;diminutief;natuur
 1024;;ik was aan het luisteren;άκουγα;ww.;;communicatie
-1025;;Ik was erg blij!;χάρηκα πάρα πολύ!;zin;;emoties
+1025;;Ik was erg blij!;Χάρηκα πάρα πολύ!;zin;;emoties
 1026;;postzegelverzameling;(η) συλλογή γραμματοσήμων;znw.;;varia
 1027;;stempel;(το) γραμματόσημο;znw.;;varia
 1028;;het land;(η) χώρα;znw.;;geografie
@@ -1248,7 +1248,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1256;02-11;toneelspelen;παίζω θέατρο;ww. groep;;school & werk
 1257;02-11;complex;(το) συγκρότημα;znw.;;varia
 1258;02-11;Waarom niet?;Γιατί όχι;zin;vraagzin;communicatie
-1259;02-11;meisje;(η) κοπέλα;znw.;;persoonlijk & familie
+1259;02-11;meisje, vriendin, liefje;(η) κοπέλα;znw.;;persoonlijk & familie
 1260;02-11;’s ochtends;(το) πρωί;znw.;;kalender
 1261;02-11;’s middags;(το) μεσημέρι;znw.;;kalender
 1262;02-11;’s namiddags;(το) απόγευμα;znw.;;kalender
@@ -1287,11 +1287,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1295;02-18;Is er een taverne?;Υπάρχει καμία ταβέρνα;zin;vraagzin;communicatie
 1296;02-18;Is er iemand die … ?;Υπάρχει κάποιος που …;zin;vraagzin;communicatie
 1297;02-18;Is er een apotheek?;Υπάρχει κανένα φαρμακείο;zin;vraagzin;communicatie
-1298;02-18;wij zijn op de Overwinningsstraat;είμαστε στην οδό Νίκης;zin;;geografie
+1298;02-18;wij zijn in de Overwinningsstraat;είμαστε στην οδό Νίκης;zin;;geografie
 1299;02-18;laan, boulevard;(η) λεωφόρος;znw.;;geografie
 1300;02-18;op de Vredes-Avenue;στην λεωφόρο Ειρήνης;zin;;geografie
 1301;02-18;de weg uitleggen;;zin;;communicatie
-1302;02-18;Waar is … , alstublieft?;Παρακαλώ, που είναι …;zin;vraagzin;communicatie
+1302;02-18;Waar is …, alstublieft?;Παρακαλώ, που είναι …;zin;vraagzin;communicatie
 1303;02-18;twee of drie hoeken;δύο-τρία τετράγωνα;znw. groep;;hoeveelheden
 1304;02-18;onderstaand;παρακάτω;bijw.;;varia
 1305;02-18;na;μετά;voorz.;;varia
@@ -1322,7 +1322,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1330;02-18;T-shirt;(το) φανελάκι;znw.;;kleding
 1331;02-18;ondergoed;(τα) εσώρουχα;znw.;;kleding
 1332;02-18;pantoffels;(οι) παντόφλες;znw.;;kleding
-1333;02-18;;(τα) πέδιλα;znw.;;kleding
+1333;02-18;sandalen;(τα) πέδιλα;znw.;;kleding
 1334;02-18;korte broek;(το) σορτς;znw.;;kleding
 1335;02-18;panty;(το) καλσόν;znw.;;kleding
 1336;02-18;omhoog gaan;ανεβαίνω;ww.;;vervoer
@@ -1330,21 +1330,21 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1338;02-18;weglopen;βγαίνω έξω;ww./idioom;;vervoer
 1339;02-18;draai;στρίβω;ww.;;vervoer
 1340;02-18;grommen;γκρινιάζω;ww.;;emoties
-1341;02-18;Ik stop.;κάνω στάση;zin;;vervoer
+1341;02-18;halthouden, stoppen;(ε)κάνω στάση;zin;;vervoer
 1342;02-18;omhoog;(ε)πάνω;bijw.;;varia
 1343;02-18;omlaag;κάτω;bijw.;;varia
 1344;02-18;omdat;γιατί;voegw.;;varia
-1345;02-18;weg;μακριά;bijw.;;varia
+1345;02-18;ver (weg);μακριά;bijw.;;varia
 1346;02-18;onderstaand;παρακάτω;bijw.;;varia
 1347;02-18;precies;ακριβώς;bijw.;;varia
-1348;02-18;direct;ευθεία;bijw.;;varia
-1349;02-18;tegen;απέναντι σε;voorz.;;varia
+1348;02-18;direct (bijw.);ευθεία;bijw.;;varia
+1349;02-18;tegen;απέναντι σε + acc.;voorz.;;varia
 1350;02-18;na;μετά;voorz.;;varia
 1351;02-18;snel;γρήγορα;bijw.;;varia
 1352;02-18;opnieuw;πάλι;bijw.;;varia
-1353;02-18;;όμως;voegw.;;varia
+1353;02-18;maar, echter;όμως;voegw.;;varia
 1354;02-18;vandaag;σήμερα;bijw.;;kalender
-1355;02-18;Hier … !;Να … !;zin;;communicatie
+1355;02-18;Hier (heb je) … !;Να … !;zin;;communicatie
 1356;02-18;straat;(η) οδός;znw.;;geografie
 1357;02-18;weg;(ο) δρόμος;znw.;;geografie
 1358;02-18;hoek;(η) γωνία;znw.;;geografie
