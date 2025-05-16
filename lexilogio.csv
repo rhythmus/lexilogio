@@ -465,16 +465,16 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0472;;op maandag;τη Δευτέρα;znw.;;kalender
 0473;;op zaterdag;τον Σάββατο;znw.;;kalender
 0474;;voorbeeld;(το) παράδειγμα;znw.;;school & werk
-0475;;het werkwoord;το ρήμα;znw.;;school & werk
+0475;;werkwoord;το ρήμα;znw.;;school & werk
 0476;;supplementen;(τα) συμπληρώματα;znw.;;varia
-0477;;Ik ben het ermee eens;συμπλυρώνω;ww./idioom;;communicatie
+0477;;(het ermee) eens zijn;συμπλυρώνω;ww./idioom;;communicatie
 0478;;kiezen;διαλέγω;ww.;;communicatie
 0479;;juiste;το σωστό;znw.;;school & werk
 0480;;tafel;ο πίνακας;znw.;;varia
 0481;;klokken;τα ρολόγια;znw.;;varia
-0482;;Kijk;κοιτάξτε;ww.;imp.;communicatie
-0483;;vragen;ρωτήστε;ww.;imp.;communicatie
-0484;;spreek op;μιλήστε;ww.;imp.;communicatie
+0482;;Kijk!;Κοιτάξτε!;ww.;imp.;communicatie
+0483;;Vraagt!;Ρωτήστε!;ww.;imp.;communicatie
+0484;;Spreekt op!;Μιλήστε!;ww.;imp.;communicatie
 0485;;met je buurman;με τον διπλανό σας;zin;;communicatie
 0486;;woorden;τις λέξεις;znw.;;communicatie
 0487;;sleutels;(τα) κλειδιά;znw.;;varia
@@ -527,7 +527,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0534;;Japanse;(τα) γιαπωνέζικα;eigennaam;;communicatie
 0535;;Peking in China;το Πεκίνο στην Κίνα;plaatsnaam;;geografie
 0536;;Marseille in Frankrijk;(η) Μασσαλία στην Γαλλία;plaatsnaam;;geografie
-0537;;landkaart de kaart;landkaart (ο) χάρτης;znw.;;school & werk
+0537;;landkaart;(ο) χάρτης;znw.;;school & werk
 0538;;Jordanië;η Ιορδανία;plaatsnaam;;geografie
 0539;;Canada;ο Καναδάς;plaatsnaam;;geografie
 0540;;Griekenland;η Ελλάδα;plaatsnaam;;geografie
@@ -1239,7 +1239,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1247;02-11;nu;πια;bijw.;;varia
 1248;02-11;welke, welke;ποιο;vnw./vraagw.;;communicatie
 1249;02-11;horen;ακούω;ww.;;communicatie
-1250;02-11;toneelstuk;παίζω;ww.;;school & werk
+1250;02-11;spelen;παίζω;ww.;;school & werk
 1251;02-11;eensgelijks, ook;επίσης;bijw.;;communicatie
 1252;02-11;gitaar spelen;παίζω την κιθάρα;ww. groep;;muziek
 1253;02-11;piano spelen;παίζω το πιάνο;ww. groep;;muziek
@@ -1631,11 +1631,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1639;03-18;godin;(η) θεά, (οι) θεές;znw.;;varia
 1640;03-18;uitzicht;(η) θέα;znw.;;varia
 1641;03-18;genitief;(η) γενική;znw.;;taalkunde
-1642;03-18;Kostas’;ο Κώστας, του Κώστα;eigennaam;genitief;namen noemen
-1643;03-18;Jans;ο Γιάννης, του Γιάννη;eigennaam;genitief;namen noemen
-1644;03-18;Nikos’;ο Νίκος, του Νίκου;eigennaam;genitief;namen noemen
-1645;03-18;Moscha’s;η Μόσχα, της Μόσχας;eigennaam;genitief;namen noemen
-1646;03-18;Helena’s;η Ελένη, της Ελένης;eigennaam;genitief;namen noemen
+1642;03-18;Kostas’;του Κώστα;eigennaam;genitief;namen noemen
+1643;03-18;Jans;του Γιάννη;eigennaam;genitief;namen noemen
+1644;03-18;Nikos’;του Νίκου;eigennaam;genitief;namen noemen
+1645;03-18;Moscha’s;της Μόσχας;eigennaam;genitief;namen noemen
+1646;03-18;Helena’s;της Ελένης;eigennaam;genitief;namen noemen
 1647;03-25;Gefeliciteerd!;Χρόνια πολλά!;uitdr.;;wensen
 1648;03-25;lijn;(η) γραμμή, (οι) γραμμές;znw.;;varia
 1649;03-25;nationale feestdag (25 maart 1821);η Εθνική Γιορτή;znw. groep;;kalender
@@ -1653,7 +1653,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1661;03-25;soms soms;κάπου κάπου;bijw.;;varia
 1662;03-25;niet vaak;όχι συχνά;bijw.;;varia
 1663;03-25;Hij is een echte vriend!;Είναι πολύ φίλος μου!;zin;;persoonlijk & familie
-1664;03-25;Ziehier, hier heb je … !;Ορίστε (+ nom.) !;uitdr.;;communicatie
+1664;03-25;Ziehier, hier heb je…;Ορίστε + nom.;uitdr.;;communicatie
 1665;03-25;Alsjeblieft, de rekening;Ορίστε ο λογαριασμός;zin;;voedsel
 1666;03-25;Hier is je salade.;Ορίστε η σαλάτα;zin;;voedsel
 1667;03-25;hier, het boek;Ορίστε το βιβλίο;zin;;varia
