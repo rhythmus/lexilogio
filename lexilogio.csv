@@ -34,7 +34,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0035;;Pronto!;Εμπρός!;uitdr.;opnemen aan de telefoon;groeten & wensen
 0036;;Spreek!;Λέγετε!;uitdr.;Zeg maar!;groeten & wensen
 0037;;alfabet;(το) αλφάβητο;znw.;;taalkunde
-0038;;namen;;znw.;;taalkunde
+0038;;namen;τα όνοματα;znw.;;taalkunde
 0039;;Wie ben je?;Ποιος/α είσαι;vraagzin;/pjos íesè/;groeten & wensen
 0041;;Wat is je naam?;Πώς σε λένε;vraagzin;;groeten & wensen
 0042;;Ik ben Jan.;Είμαι ο Γιάννης.;zin;;groeten & wensen
@@ -74,7 +74,6 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0077;;koffie;(ο) καφές, (οι) καφέδες;znw.;;voedsel
 0078;;frappé;(ο) φραπές;znw.;;voedsel
 0079;03-25;gehaktballen, frikadellen;(οι) κεφτέδες, (ο) κεφτές;znw.;;voedsel
-0080;;;(ο) λιεζές;znw.;;voedsel
 0081;03-25;voorgerecht;(ο) μεζές, (οι) μεζέδες;znw.;;voedsel
 0082;;activiteit;(η) σχολή;znw.;;activiteiten
 0084;;opmerking;(η) σχολία, (το) σχολίο;znw.;;taalkunde
@@ -86,15 +85,15 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0091;02-18;in de buurt van;κοντά;bw.;;geografie
 0092;;hier;εδώ;bw.;;geografie
 0093;;maar;μα, αλλά;voegw.;;groeten & wensen
-0095;;Griek;(ο) Έλληνας, Έλληνες;znw.;;relaties
-0096;;Griekse;(η) Ελληνίδα, Ελληνίδες;znw.;;relaties
+0095;;Griek;(ο) Έλληνας, Έλληνες;znw.;;geografie
+0096;;Griekse;(η) Ελληνίδα, Ελληνίδες;znw.;;geografie
 0097;;één;ένας μια ένα;telw.;;hoeveelheden
 0098;;daar;εκεί;bw.;;geografie
 0099;;ook ik, ik ook;κεγώ, κι εγώ;vnw.;uitdr.;groeten & wensen
 0100;02-11;ook, eensgelijks;επίσης;bw.;;groeten & wensen
 0101;;ja;ναι;uitdr.;;groeten & wensen
 0102;;papier;(το) χαρτί;znw.;;beroepen
-0103;;;(η) κάρτα;znw.;;
+0103;;kaartje, postkaart, visitekaartje;(η) κάρτα;znw.;;
 0104;;landkaart;(ο) χάρτης;znw.;;beroepen
 0105;;vriend;(ο) φίλος, (οι) φίλοι;znw.;;relaties
 0106;;arts;(ο) ιάτρος;znw.;;relaties
@@ -265,7 +264,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0280;05-06;aankleden, zich kleden;ντύνομαι;ww.;;kleding
 0281;;tomaat;(η) ντομάτα;znw.;;voedsel
 0282;;oppas;(η) νταντά;znw.;;relaties
-0283;;;(το) φίλντισι;znw.;;
+0283;;ivoor;(το) φίλντισι;znw.;;
 0284;;levend;ζωντανός -ή -ό;bnw.;;natuur
 0285;;altijd;πάντοτε;bw.;;kalender
 0286;;vijf;πέντε;telw.;;hoeveelheden
@@ -276,11 +275,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0291;;Joegoslavië;η Γιουγκοσλαβία;plaatsnaam;;geografie
 0292;;garage;(το) γκαράζι;znw.;;reizen
 0293;;anker;(η) άγκυρα;znw.;;reizen
-0294;;;(η) ανάγκη;znw.;;
+0294;;behoefte, nood;(η) ανάγκη;znw.;;
 0295;;transport;(η) συγκοινωνία;znw.;;reizen
 0296;;verzamelen;συγκεντρώνω;ww.;;beroepen
 0297;;sigaret;(το) τσιγάρο;znw.;;
-0298;;dus, zo, zoals;έτσι;voegw./bw.;comme ça;groeten & wensen
+0298;;dus, zo, zoals;έτσι;voegw./bw.;cfr Fr. ’comme ça’;groeten & wensen
 0299;;thee;(το) τσάι;znw.;;voedsel
 0300;02-04, 02-25;sok;(η) κάλτσα, (οι) κάλτσες;znw.;;kleding
 0301;;cicaden;(ο) τζίτζικας;znw.;;natuur
@@ -390,7 +389,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0430;;tien;δέκα;telw.;;hoeveelheden
 0431;;Hoe laat is het;Τι ώρα είναι;zin;vraagzin;kalender
 0433;;minuut;το λεπτό, τα λεπτά;znw.;;kalender
-0434;;tweede;το δευτερόλεπτο;znw.;;kalender
+0434;;seconde;το δευτερόλεπτο;znw.;;kalender
 0435;;het vierde, kwart, kwartier;το τέταρτο;znw.;;kalender
 0436;;het halfuur;η μησή ώρα;znw.;;kalender
 0437;;helft;μισός -ή -ό;bnw.;;hoeveelheden
@@ -410,9 +409,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0451;;Ik werd meegenomen.;Πάρτθηνα.;uitdr.;;reizen
 0452;;Piraeus;(ο) Πειραιάς;plaatsnaam;;geografie
 0453;;Rafina;(η) Ραφήνα;plaatsnaam;;geografie
-0454;;;(τα) Βασιλικά;plaatsnaam;;geografie
+0454;;Vasiline;(τα) Βασιλικά;plaatsnaam;;geografie
 0455;;Berria;(η) Βέρροια;plaatsnaam;;geografie
-0456;;;(η) Επανωμή;plaatsnaam;;geografie
+0456;;verdeling;(η) επανομή;plaatsnaam;;geografie
 0457;;Kilkis;(το) Κιλκίς;plaatsnaam;;geografie
 0458;;Naoussa;(η) Νάουσα;plaatsnaam;;geografie
 0459;;Serres;(οι) Σέρρες;plaatsnaam;;geografie
@@ -854,10 +853,10 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0988;;hij/zij draait zich om;γυρεύει;ww.;;
 0989;;haar te kraagen;να τη βάλει για γιακά;zin;;kleding
 0990;;vacht;(η) γούνα;znw.;;kleding
-0991;;;γαργαλά;ww.;;emoties
+0991;;kittelen, kriebelen;γαργαλώ;ww.;;emoties
 0992;;de kat spint;η γάτα γουργουρίζει;zin;;natuur
-0993;;;να γελά;ww.;;emoties
-0994;;blaffen;να γκαρίζει;ww.;;natuur
+0993;;lachen;γελάω, γελώ;ww.;;emoties
+0994;;blaffen;γαβγίζω;ww.;;natuur
 0996;;wanneer;ποτέ;bw.;;kalender
 0997;;Vandaag hebben we les in klas 1B.;Σήμερα κάνουμε μάθημα στην τάξη 1B.;zin;;beroepen
 0998;;Tot gauw!;Τα λέμε σε λίγο!;uitdr.;;groeten & wensen
