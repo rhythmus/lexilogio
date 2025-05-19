@@ -1623,3 +1623,66 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1584;05-06;overheerlijk;πεντανόστιμος -η -ο;bnw.;;voedsel
 1585;05-06;pauze;(η) διακοπή;znw.;;kalender
 1586;05-06;vakantie;(οι) διακοπές;znw.;;kalender
+1587;;Heb je een vriend?;Έχεις φίλο;zin;;relaties
+1588;;Heb je een vriendin?;Έχεις φίλη;zin;;relaties
+1589;;Heb je een partner?;Έχεις σύντροφο;zin;;relaties
+1590;;Heb je kinderen?;Έχεις παιδιά;zin;;relaties
+1591;;Heb je broers?;Έχεις αδελφούς;zin;;relaties
+1592;;vijf jaar geleden;πριν πέντε χρόνια;bw.;;kalender
+1593;;drie jaar geleden;πριν τρία χρόνια;bw.;;kalender
+1594;;dit jaar;φέτος;bw.;;kalender
+1595;;vandaag;σήμερα;bw.;;kalender
+1596;;vanavond;απόψε;bw.;;kalender
+1598;;overmorgen;μεθαύριο;bw.;;kalender
+1599;;volgend jaar;του χρόνου;bw.;;kalender
+1600;;over twee jaar;σε δύο χρόνια;bw.;;kalender
+1601;;over drie jaar;σε τρία χρόνια;bw.;;kalender
+1603;;komend;ερχόμενος -η -ο;bnw.;;kalender
+1604;;volgende week;την άλλη εβδομάδα;bw.;;kalender
+1605;;vorig jaar;πέρσι;bw.;;kalender
+1606;;Tot ziens!;Τα λέμε!;zin;uitdr.;groeten & wensen
+1607;;We spreken elkaar nog.;Θα τα πούμε.;zin;uidtr.;groeten & wensen
+1608;;sinaasappellimonade;(η) πορτοκαλάδα;znw.;zoals Orangina;voedsel
+1609;;limonade;(η) λεμονάδα;znw.;;voedsel
+1610;;druif;(το) σταφύλι - (τα) σταφύλια;znw.;mv.;voedsel
+1611;;molen;(ο) μύλος;znw.;;dingen
+1612;;muzikant;(ο) μουσικός;znw.;;beroepen
+1613;;envelop;(ο) φάκελος - (οι) φάκελοι;znw.;;dingen
+1614;;theezakje;(το) φακελάκι;znw.;;voedsel
+1616;;verkeerslicht;(το) φανάρι;znw.;;verkeer
+1617;;rek;(το) ράφι;znw.;;winkelen
+1618;;kopjes;(τα) φλιτζάνια;znw.;mv.;voedsel
+1619;;lade, de schuif;(το) συρτάρι;znw.;;dingen
+1620;;wandrek;ραφιέρα τοίχου;znw. groep;;dingen
+1621;;keukenrek;ραφιέρα κουζίνας;znw. groep;;dingen
+1622;;afdruiprek;πιατοθήκη;znw.;;dingen
+1623;;gehaktballetjes in tomatensaus;(τα) σουτζουκάκια;znw.;mv.;voedsel
+1624;;haai;(ο) καρχαρίας;znw.;;natuur
+1625;;1. kneden 2. polijsten;γαλίζω;ww.;;activiteiten
+1626;;suikerkoekjes;(τα) ζάχαροκουλουράκια;znw.;mv.;voedsel
+1627;;plaats;(το) μέρος;znw.;;natuur
+1628;;voor het eerst zien;πρωτοβλέπω;ww.;;relaties
+1629;;verwarmen;ζεσταίνω;ww.;;activiteiten
+1630;;arm;φτωχός -ή -ό;bnw.;;emoties
+1631;;klacht, weeklacht, pijn;(το) παράπονο;znw.;;emoties
+1632;;vorst, vrieskou;(η) παγωνιά;znw.;;natuur
+1633;;bitter;πικρός -ή -ό;bnw.;;voedsel
+1634;;verloren;χαμένος -η -ο;bnw.;;emoties
+1635;;leeg;άδειος -α -ο;bnw.;;dingen
+1636;;liedteksten, verzen;(οι) στίχοι;znw.;mv.;muziek
+1637;;1. binnenplaats 2. tuin;(η) αυλή;znw.;;gebouwen
+1638;;in het midden van de binnenplaats;στην μέση της αυλής;zin;;gebouwen
+1639;;zonder;δίχως;vz.;;grammatica
+1640;;vlees;(το) κρέας;znw.;;voedsel
+1641;;groenten;(τα) λαχανικά;znw.;mv.;voedsel
+1642;;ongezouten;ανάλατος -η -ο;bnw.;;voedsel
+1643;;kruiden;(τα) μπαχαρικά;znw.;mv.;voedsel
+1644;;boter;βούτυρο;znw.;;voedsel
+1645;;peulvruchten;(τα) όσπρια;znw.;mv.;voedsel
+1646;;begeleiden;συνοδεύω;ww.;;activiteiten
+1647;;schaken, schaak spelen;παίζω σκάκι;ww. groep;;activiteiten
+1648;;kalfsvlees;(το) μοσχαράκι;znw.;;voedsel
+1649;;vliegen;(οι) μύγες;znw.;mv.;natuur
+1650;;zuigen;ρουφάω;ww.;;activiteiten
+1651;;kauwen;μασάω;ww.;;activiteiten
+1652;;kleine vliegjes;(τα) μυγάκια;znw.;mv.;natuur
