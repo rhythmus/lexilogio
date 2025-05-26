@@ -1634,3 +1634,130 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1633;05-06;ik at (τρώω);έφαγα, έφαγες, έφαγε, φάγαμε, φάγατε, έφαγαν (φάγανε);ww.;v.t.t. (aor.);grammatica
 1634;05-06;ik ging (πηγαίνω, πάω);πήγα, πήγες, πήγε, πήγαμε, πήγατε, πήγαν;ww.;v.t.t. (aor.);grammatica
 1635;05-06;ik keerde (γυρίζω);γύρισα, γύρισες, γύρισε, γυρίσαμε, γυρίσατε, γύρισαν;ww.;v.t.t. (aor.);grammatica
+1636;05-26;klant;πελάτης;znw.;;beroepen, winkelen
+1637;05-26;klant (vrouw);(η) πελάτισσα;znw.;;beroepen, winkelen
+1638;05-26;koffiehuishouder;καφετζής;znw.;;beroepen, voedsel
+1639;05-26;ober;σερβιτόρος;znw.;;beroepen, voedsel
+1640;05-26;toerist;τουρίστας;znw.;;reizen, maatschappij
+1641;05-26;voorbijganger;περαστικός;znw.;;maatschappij, reizen
+1642;05-26;werknemer;υπάλληλος;znw.;;beroepen, maatschappij
+1643;05-26;verkoper;πωλητής;znw.;;beroepen, winkelen
+1644;05-26;dagelijkse routine;καθημερινή ρουτίνα;zin;;activiteiten
+1645;05-26;Ik word elke ochtend om zeven uur wakker en drink een koffie.;Ξυπνάω κάθε πρωί στις εφτά και πίνω έναν καφέ.;zin;;activiteiten
+1646;05-26;Ik was mijn gezicht en drink een warme koffie in de keuken.;Πλένω το πρόσωπό μου και πίνω έναν ζεστό καφέ στην κουζίνα.;zin;;activiteiten
+1647;05-26;Na het ontbijt lees ik een beetje voordat ik aan het werk ga.;Μετά το πρωινό, διαβάζω λίγο πριν ξεκινήσω τη δουλειά.;zin;;activiteiten
+1648;05-26;We wandelen samen en praten over het leven.;Περπατάμε μαζί και μιλάμε για τη ζωή.;zin;;activiteiten, relaties
+1649;05-26;We voelen ons gelukkig.;Νιώθουμε χαρούμενοι.;zin;;emoties
+1650;05-26;Een klein hondje rent om ons heen.;Ένα μικρό σκυλάκι τρέχει γύρω μας;zin;;dieren, activiteiten
+1651;05-26;We lachen hard.;γελάμε δυνατά.;zin;;emoties, activiteiten
+1652;05-26;Daarna pak ik mijn fiets en ga ik naar het park.;Μετά, παίρνω το ποδήλατό μου και πηγαίνω στο πάρκο.;zin;;activiteiten
+1653;05-26;Ik werk elke dag vele uren op de computer.;Δουλεύω στον υπολογιστή για πολλές ώρες κάθε μέρα.;zin;;activiteiten, beroepen
+1654;05-26;Tussen de middag kook ik of bestel ik iets te eten.;Το μεσημέρι μαγειρεύω ή παραγγέλνω κάτι να φάω.;zin;;voedsel, activiteiten
+1655;05-26;Tussen de middag zitten we op een bankje.;Το μεσημέρι καθόμαστε σε ένα παγκάκι;zin;;activiteiten
+1656;05-26;In de namiddag maak ik een wandeling in mijn buurt.;Το απόγευμα κάνω έναν περίπατο στη γειτονιά μου.;zin;;activiteiten
+1657;05-26;'s Avonds kijk ik een film of lees ik een boek voor het slapengaan.;Το βράδυ βλέπω μια ταινία ή διαβάζω ένα βιβλίο πριν κοιμηθώ.;zin;;activiteiten
+1658;05-26;Probeer deze zinnen te lezen en te begrijpen.;Προσπάθησε να διαβάσεις και να καταλάβεις αυτές τις φράσεις.;zin;;activiteiten
+1659;05-26;Voor we weggaan zeg ik: "Ik vond het erg leuk je te zien!";Πριν φύγουμε, λέω: «Χάρηκα πολύ που σε είδα!»;zin;;relaties
+1660;05-26;Ik ook! Laten we elkaar snel weer spreken!;Κι εγώ! Να τα ξαναπούμε σύντομα!;zin;;relaties
+1661;05-26;Als je fouten maakt, verbeter ik je graag!;αν κάνεις λάθη, θα σε διορθώσω με χαρά!;zin;;activiteiten
+1662;05-26;Als je wilt, kun je me vertellen wat ze betekenen.;Αν θες, μπορείς να μου πεις τι σημαίνουν;zin;;activiteiten
+1663;05-26;in de supermarkt;στο σούπερ μάρκετ;zin;;winkelen, voedsel
+1664;05-26;Ik wil een lekker diner koken.;Θέλω να μαγειρέψω ένα νόστιμο δείπνο.;zin;;voedsel, activiteiten
+1665;05-26;Ik pak mijn winkelwagentje en ga naar binnen.;Παίρνω το καρότσι μου και μπαίνω μέσα.;zin;;winkelen
+1666;05-26;Eerst ga ik naar het fruit, daarna vind ik groenten.;Πρώτα πηγαίνω στα φρούτα, Μετά, βρίσκω λαχανικά;zin;;voedsel, winkelen
+1667;05-26;Als ik klaar ben, ga ik naar de kassa.;Όταν τελειώνω, πηγαίνω στο ταμείο.;zin;;winkelen
+1668;05-26;De kassière zegt: "Goedenavond! Wilt u een tasje?";Η ταμίας λέει: «Καλησπέρα! Θέλετε σακούλα;»;zin;;winkelen
+1669;05-26;Nee, dank u, ik heb mijn eigen tas.;Όχι, ευχαριστώ, έχω τη δική μου τσάντα.;zin;;winkelen
+1670;05-26;Ik betaal en ga naar huis.;Πληρώνω και γυρίζω σπίτι.;zin;;winkelen
+1671;05-26;Alstublieft, graag gedaan!;Παρακαλώ, με χαρά!;uitdr.;cfr Fr. 'Je vous en prie.';groeten & wensen
+1672;05-26;Met veel plezier!;Με μεγάλη μου χαρά!;uitdr.;;groeten & wensen
+1673;05-26;Rechts, aan het einde van het gangpad.;Δεξιά, στο τέλος του διαδρόμου.;zin;;winkelen
+1674;05-26;Achter de macaroni, op dezelfde plank.;Πίσω από τα μακαρόνια, στο ίδιο ράφι.;zin;;winkelen
+1675;05-26;Heeft u ook olijfolie van goede kwaliteit?;Έχετε και ελαιόλαδο καλής ποιότητας;;zin;;winkelen, voedsel
+1676;05-26;Hier hebben we extra vierge olijfolie in de aanbieding.;εδώ έχουμε παρθένο ελαιόλαδο σε προσφορά.;zin;;winkelen, voedsel
+1677;05-26;Waar is de kassa?;Πού είναι το ταμείο;;zin;;winkelen
+1678;05-26;op straat, bij de halte;στο δρόμο, στη στάση;zin;;reizen, maatschappij
+1679;05-26;Lijn 5 rijdt door de Eleftheriasstraat en gaat naar het Syntagma.;Το νούμερο 5 περνάει από την οδό Ελευθερίας και πάει στο σύνταγμα.;zin;;reizen
+1680;05-26;Stopt hij ook bij het museum?;Κάνει στάση και στο μουσείο;;zin;;reizen, cultuur
+1681;05-26;Het is de derde halte na hier.;είναι η τρίτη στάση μετά από εδώ.;zin;;reizen
+1682;05-26;Perfect. Wachten we lang?;Τέλεια. Περιμένουμε πολύ ώρα;;zin;;reizen
+1683;05-26;Nee, hij komt over vijf minuten.;Όχι, έρχεται σε πέντε λεπτά.;zin;;reizen
+1684;05-26;Ga rechtdoor, sla rechtsaf bij de bakker, en dan linksaf.;Πηγαίνετε ευθεία, στρίβετε δεξιά στο φούρνο, και μετά αριστερά.;zin;;reizen
+1685;05-26;Goede wandeling!;καλή βόλτα!;uitdr.;;groeten & wensen
+1686;05-26;Sorry, gaat deze bus naar het centrum?;Συγγνώμη, αυτό το λεωφορείο πάει στο κέντρο;;zin;;reizen
+1687;05-26;Nee, u moet lijn 5 nemen.;Όχι, πρέπει να πάρετε το νούμερο 5.;zin;;reizen
+1688;05-26;Komt hij vaak?;Περνάει συχνά;;zin;;reizen
+1689;05-26;Ja, elke tien minuten.;Ναι, κάθε δέκα λεπτά.;zin;;reizen
+1690;05-26;Ga rechtdoor en bij het tweede stoplicht slaat u linksaf.;Πηγαίνετε ευθεία και στο δεύτερο φανάρι στρίβετε αριστερά.;zin;;reizen
+1691;05-26;Is het ver?;Είναι μακριά;;zin;;reizen
+1692;05-26;Nee, tien minuten te voet.;Όχι, δέκα λεπτά με τα πόδια.;zin;;reizen
+1693;05-26;Goede wandeling!;Καλή βόλτα!;uitdr.;;groeten & wensen
+1694;05-26;in de bus;στο λεωφορείο;zin;;reizen
+1695;05-26;De reis met de bus;Το ταξίδι με το λεωφορείο;zin;;reizen
+1696;05-26;ik ga naar het werk;πηγαίνω στη δουλειά;zin;;activiteiten, beroepen
+1697;05-26;ik wacht op de bus bij de halte;περιμένω το λεωφορείο στη στάση;zin;;activiteiten, reizen
+1698;05-26;De bus komt om acht uur tien.;Το λεωφορείο έρχεται στις οκτώ και δέκα.;zin;;reizen
+1699;05-26;vindt een plek bij het raam;βρίσκει μια θέση δίπλα στο παράθυρο.;zin;;reizen
+1700;05-26;Bij het volgende stoplicht stapt een oudere dame in.;Στο επόμενο φανάρι μπαίνει μια ηλικιωμένη κυρία.;zin;;maatschappij, reizen
+1701;05-26;Ik sta op en geef haar mijn plaats.;Σηκώνομαι και της δίνω την θέση μου.;zin;;maatschappij, reizen
+1702;05-26;Ze stapt uit en zegt "Fijne dag verder!" tegen de chauffeur.;Κατεβαίνει, λέει «Καλή συνέχεια!» στον οδηγό,;zin;;groeten & wensen, reizen
+1703;05-26;Maak je helemaal geen zorgen!;μην ανησυχείς καθόλου!;uitdr.;;groeten & wensen
+1704;05-26;Het belangrijkste is dat je het met moed en plezier probeert.;το πιο σημαντικό είναι ότι προσπαθείς με θάρρος και χαρά.;zin;;emoties, activiteiten
+1705;05-26;Uitstekende keuze!;Υπέροχη επιλογή!;uitdr.;;groeten & wensen
+1706;05-26;Welkom!;Καλώς ήρθατε!;uitdr.;;groeten & wensen
+1707;05-26;Welkom!;Καλώς σας βρήκαμε!;uitdr.;;groeten & wensen
+1708;05-26;in de taverne;στην ταβέρνα;zin;;voedsel, activiteiten
+1709;05-26;Heeft u een tafel voor twee?;Έχετε τραπέζι για δύο;;zin;;voedsel, activiteiten
+1710;05-26;Komt u maar mee. Wilt u een menukaart?;ελάτε από εδώ. Θέλετε κατάλογο;;zin;;voedsel, activiteiten
+1711;05-26;Heeft u vandaag iets traditioneels?;Έχετε κάτι παραδοσιακό σήμερα;;zin;;voedsel, cultuur
+1712;05-26;Mooi! Ik wil graag een moussaka en een salade.;Ωραία! Θα ήθελα έναν μουσακά και μία σαλάτα.;zin;;voedsel
+1713;05-26;Wilt u ook water of wijn?;Να σας φέρω και νερό ή κρασί;;zin;;voedsel
+1714;05-26;Een glas witte wijn, alstublieft.;Ένα ποτήρι λευκό κρασί, παρακαλώ.;zin;;voedsel
+1715;05-26;Meteen!;Αμέσως!;uitdr.;;activiteiten
+1716;05-26;Wat raadt u vandaag aan?;Τι μας προτείνετε σήμερα;;zin;;voedsel
+1717;05-26;Wilt u ook brood of feta?;Να σας φέρω και ψωμί ή τυρί φέτα;;zin;;voedsel
+1718;05-26;een halve liter rode wijn;μισό λίτρο κρασί κόκκινο;zin;;voedsel
+1719;05-26;Wilt u ook iets te eten? We hebben koekjes.;Θέλετε και κάτι να φάτε; Έχουμε κουλουράκια;zin;;voedsel
+1720;05-26;Prima. Ga zitten waar u wilt, ik breng het zo.;Ωραία. Καθίστε όπου θέλετε, θα σας τα φέρω.;zin;;voedsel, activiteiten
+1721;05-26;in het café;Στο καφενείο;zin;;voedsel, activiteiten
+1722;05-26;Hoe drinkt u hem?;Πώς τον πίνετε;;zin;;voedsel
+1723;05-26;Griekse koffie, halfzoet, met water erbij.;Ελληνικό, μέτριο, με νερό δίπλα.;zin;;voedsel
+1724;05-26;Goed, uw koffie komt eraan!;Εντάξει, έρχεται ο καφές σας!;zin;;voedsel
+1725;05-26;in de kledingwinkel;Στο κατάστημα ρούχων;zin;;winkelen, kleding
+1726;05-26;waar is het pashokje?;πού είναι το δοκιμαστήριο;;zin;;winkelen, kleding
+1727;05-26;Daar, rechts.;Εκεί, δεξιά.;zin;;winkelen, kleding
+1728;05-26;Wilt u het passen?;Θέλετε να το δοκιμάσετε;;zin;;winkelen, kleding
+1729;05-26;in het toeristenbureau;Στο τουριστικό γραφείο;zin;;reizen, maatschappij
+1730;05-26;Ik wil graag informatie over excursies.;Θα ήθελα πληροφορίες για εκδρομές.;zin;;reizen, activiteiten
+1731;05-26;Wilt u een rondleiding in de stad of in de natuur?;Θέλετε ξενάγηση στην πόλη ή στη φύση;;zin;;reizen, activiteiten
+1732;05-26;We hebben een dagexcursie naar Aegina met de boot.;Έχουμε ημερήσια εκδρομή στην Αίγινα με πλοίο.;zin;;reizen, activiteiten
+1733;05-26;Hoeveel kost het?;Πόσο κοστίζει;;zin;;reizen, activiteiten
+1734;05-26;Vijftien euro per persoon.;Δεκαπέντε ευρώ το άτομο.;zin;;reizen, activiteiten
+1735;05-26;Welke activiteiten zijn er vandaag?;Τι δραστηριότητες έχει σήμερα;;zin;;reizen, activiteiten
+1736;05-26;We hebben een rondleiding op de Akropolis en een cruise naar Sounio.;Έχουμε ξενάγηση στην Ακρόπολη και κρουαζιέρα στο Σούνιο.;zin;;reizen, activiteiten
+1737;05-26;Hoeveel uur duurt de rondleiding?;Η ξενάγηση πόσες ώρες διαρκεί;;zin;;reizen, activiteiten
+1738;05-26;Reserveer één plaats voor mij, alstublieft.;Κλείστε μου μία θέση, παρακαλώ.;zin;;reizen, activiteiten
+1739;05-26;Hoeveel personen?;Πόσα άτομα;;zin;;reizen, activiteiten
+1740;05-26;Twee volwassenen en een kind.;Δύο ενήλικες και ένα παιδί.;zin;;reizen, activiteiten
+1741;05-26;Hier zijn uw tickets!;Ορίστε τα εισιτήριά σας!;zin;;reizen, activiteiten
+1742;05-26;in het hotel;Στο ξενοδοχείο;zin;;reizen, maatschappij
+1743;05-26;Heeft u kamers vrij?;Έχετε ελεύθερα δωμάτια;;zin;;reizen, maatschappij
+1744;05-26;Hoeveel nachten blijft u?;Πόσες νύχτες θα μείνετε;;zin;;reizen, maatschappij
+1745;05-26;We hebben een tweepersoonskamer met badkamer en balkon.;Έχουμε ένα δίκλινο δωμάτιο με μπάνιο και μπαλκόνι.;zin;;reizen, maatschappij
+1746;05-26;Is ontbijt inbegrepen?;Περιλαμβάνει πρωινό;;zin;;reizen, maatschappij
+1747;05-26;Ik neem hem, dank u!;Θα το πάρω, ευχαριστώ!;zin;;reizen, maatschappij
+1748;05-26;Ik heb een reservering op naam van Papadopoulos.;Έχω κράτηση στο όνομα Παπαδόπουλος.;zin;;reizen, maatschappij
+1749;05-26;De kamer is op de derde verdieping.;Το δωμάτιο είναι στον τρίτο όροφο.;zin;;reizen, maatschappij
+1750;05-26;Is er een lift?;Έχει ασανσέρ;;zin;;reizen, maatschappij
+1751;05-26;naast de receptie;δίπλα στη ρεσεψιόν.;zin;;reizen, maatschappij
+1752;05-26;bij de bakker;στον φούρνο;zin;;voedsel, winkelen
+1753;05-26;We hebben boerenbrood, volkoren en wit brood.;Έχουμε χωριάτικο, ολικής και λευκό ψωμί.;zin;;voedsel
+1754;05-26;Wilt u ook iets zoets? We hebben koekjes.;Θέλετε και γλυκό; Έχουμε κουλουράκια.;zin;;voedsel
+1755;05-26;een bougatsa met room;μία μπουγάτσα με κρέμα;zin;;voedsel
+1756;05-26;op de markt;στη λαϊκή;zin;;winkelen, voedsel
+1757;05-26;Hoeveel kosten de tomaten?;Πόσο κάνουν οι ντομάτες;;zin;;winkelen, voedsel
+1758;05-26;Eén euro per kilo!;Ένα ευρώ το κιλό!;zin;;winkelen, voedsel
+1759;05-26;Doet u mij maar twee kilo, alstublieft.;Βάλτε μου δύο κιλά, παρακαλώ.;zin;;winkelen, voedsel
+1760;05-26;Fijne kook!;Καλή μαγειρική!;uitdr.;;groeten & wensen
+1761;05-26;Heeft u sla?;Έχετε μαρούλι;;zin;;winkelen, voedsel
+1762;05-26;vers van het veld;φρέσκο από το χωράφι;zin;;winkelen, voedsel 
