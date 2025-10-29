@@ -1,345 +1,338 @@
-nr;datum;Nederlands;Grieks;woordsoort;nota;thema
-
-2-0001;2025-09-24;Welkom!;Καλώς όρισες!;zin;;groeten & wensen
-2-0002;2025-09-24;persoonlijke gegevens;τα ατομικά στοιχεία;znw.;;kennismaken
-2-0003;2025-09-24;achternaam;το επώνυμο;znw.;;kennismaken
-2-0004;2025-09-24;naam;το όνομα;znw.;;kennismaken
-2-0005;2025-09-24;het land van herkomst;η χώρα προέλευσης;znw.;;geografie
-2-0006;2025-09-24;adres;(η) διεύθυνση;znw.;;wonen
-2-0007;2025-09-24;telefoon;(το) τηλέφωνο;znw.;;communicatie
-2-0008;2025-09-24;handtekening;(η) υπογραφή;znw.;;dingen
-2-0009;2025-09-24;een herhaling;μια επανάληψη;znw.;;school
-2-0010;2025-09-24;meer;πιο πολύ;bw.;;hoeveelheden
-2-0011;2025-09-24;algemeen;κοινός -ή -ό;bnw.;;dingen
-2-0012;2025-09-24;bijna;σχεδόν;bw.;;hoeveelheden
-2-0013;2025-09-24;Zijn jullie uitgerust?;Ξεκουραστήκατε;;ww.;;communicatie
-2-0014;2025-09-24;zich herinneren;θυμάμαι;ww.;;school
-2-0015;2025-09-24;proberen;προσπαθώ;ww.;;communicatie
-2-0016;2025-09-24;kiezen;διαλέγω;ww.;herhaling;communicatie
-2-0017;2025-09-24;binnenkomen;μπαίνω;ww.;herhaling;reizen
-2-0018;2025-09-24;helpen;βοηθάω;ww.;;communicatie
-2-0019;2025-09-24;zoeken;ψάχνω;ww.;herhaling;communicatie
-2-0020;2025-09-24;volgen;παρακολουθώ;ww.;;communicatie
-2-0021;2025-09-24;bellen;καλώ;ww.;;communicatie
-2-0022;2025-09-24;vragen;ζητάω;ww.;;communicatie
-2-0024;2025-09-24;groeten;χαιρετάω;ww.;;groeten & wensen
-2-0025;2025-09-24;lawaai;(ο) θόρυβος;znw.;;dingen
-2-0026;2025-09-24;kantine;(το) κυλικείο;znw.;;dingen
-2-0027;2025-09-24;hulp, assistent;(ο) βοηθός;znw.;;beroepen
-2-0028;2025-09-24;geluksvogel;(ο) τυχερός;znw.;;dingen
-2-0029;2025-09-24;computer;ο υπολογιστής;znw.;;beroepen
-2-0030;2025-09-24;zoekertjes, advertenties;τις αγγελίες;znw.;;media
-2-0031;2025-09-24;traagheid;(η) αργή;znw.;;tijd
-2-0032;2025-09-24;land, natie;(η) χώρα;znw.;herhaling;geografie
-2-0033;2025-09-24;geld;(τα) χρήματα, (τα) λεφτά;znw.;;economie
-2-0035;2025-09-24;minuten;(τα) λεπτά;znw.;;tijd
-2-0036;2025-09-24;vaak;συχνά;bw.;herhaling;hoeveelheden, tijd
-2-0037;2025-09-24;soms;τις μερικές φορές;bw.;;hoeveelheden, tijd
-
-2-0038;2025-10-01;Het is 8:15.;Η ώρα είναι 8:15.;zin;;tijd, kalender
-2-0039;2025-10-01;Het is twee (uur (precies)).;Είναι δυο (η ώρα (ακριβώς)).;zin;;tijd, kalender
-2-0040;2025-10-01;slaap;(ο) ύπνος;znw.;;lichaam
-2-0041;2025-10-01;rust;(η) ξεκούραση;znw.;;dingen
-2-0042;2025-10-01;roos;(το) τριαντάφυλλο;znw.;;natuur
-2-0043;2025-10-01;pauze;(το) διάλειμμα;znw.;;tijd
-2-0044;2025-10-01;werk;(η) δουλειά;znw.;;beroepen
-2-0045;2025-10-01;koorts;(ο) πυρετός;znw.;;lichaam
-2-0046;2025-10-01;zoveel;τόσος -η -ο;bnw.;;hoeveelheden
-2-0047;2025-10-01;vroeg;νωρίς;bw.;herhaling;tijd
-2-0048;2025-10-01;laat;αργά;bw.;herhaling;tijd
-2-0049;2025-10-01;wat;τι;vnw.;;grammatica
-2-0050;2025-10-01;welke, wie;ποιο(ς);vnw.;;grammatica
-2-0051;2025-10-01;Welke kleur bevalt je?;Τι/Ποιο χρώμα σου αρέσει;;vraagzin;;communicatie
-2-0052;2025-10-01;Welk(e) wijn wil je? Wit, rood, Grieks…;Τι κρασί θέλεις; Λευκό, μαύρο, Ελληνικό…;vraagzin;;voedsel
-2-0053;2025-10-01;Welke wijn wilt u? Syrah, Bordeaux…;Ποιο κρασί θέλετε; Σιρά, Μπορντό…;vraagzin;;voedsel
-2-0054;2025-10-01;wie;ποιος -η -ο;bnw.;;grammatica
-2-0055;2025-10-01;verleden;περασμένος -η -ο;bnw.;herhaling;tijd
-2-0056;2025-10-01;laatste;τελευταίος -η -ο;bnw.;;hoeveelheden
-2-0057;2025-10-01;misschien;ίσως;bw.;;grammatica
-2-0058;2025-10-01;vroeger;παλιά;bw.;;tijd
-2-0059;2025-10-01;doorweekt, nat;μούσκεμος -η -ο;bnw.;;kalender
-2-0060;2025-10-01;Mijn tas is doorweekt.;Η τσάντα μου είναι μούσκεμα.;zin;;kalender
-2-0061;2025-10-01;niet (imperatief);μη;bw.;;grammatica
-2-0062;2025-10-01;alles;τα πάντα;znw.;;hoeveelheden
-2-0063;2025-10-01;gebroken;σπασμένος -η -ο;bnw.;;lichaam
-2-0064;2025-10-01;vergeten;ξεχνάω;ww.;;voedsel
-2-0065;2025-10-01;je vergeet;ξεχνάς;ww.;;communicatie
-2-0066;2025-10-01;wakker worden;ξυπνάω;ww.;;communicatie
-2-0067;2025-10-01;beginnen;αρχίζω;ww.;;tijd
-2-0068;2025-10-01;klaar zijn (met werk/school);σχολάω;ww.;;school
-2-0069;2025-10-01;gaan liggen;ξαπλώνω;ww.;;reizen
-2-0070;2025-10-01;ontmoeten;συναντάω;ww.;;voedsel
-2-0071;2025-10-01;terugkeren;επιστρέφω;ww.;;communicatie
-2-0072;2025-10-01;dragen;φορώ;ww.;;communicatie
-2-0073;2025-10-01;sluiten;κλείνω;ww.;;communicatie
-2-0074;2025-10-01;hopen;ελπίζω;ww.;;communicatie
-2-0075;2025-10-01;vervoegen;κλίνω;ww.;;communicatie
-2-0076;2025-10-01;Ik vrees niets, ik hoop niets, ik ben vrij.;Δεν φοβάμαι τίποτα, δεν ελπίζω τίποτα, είμαι ελεύθερος.;zin;;grammatica
-2-0077;2025-10-01;verkopen;πουλάω;ww.;;economie
-2-0078;2025-10-01;pijn hebben;πονάω;ww.;;communicatie
-2-0079;2025-10-01;zich klaarmaken;ετοιμάζομαι;ww.;;communicatie
-2-0080;2025-10-01;heten (genoemd worden);λέγομαι;ww.;;voedsel
-2-0081;2025-10-01;respecteren;σέβομαι;ww.;;communicatie
-2-0082;2025-10-01;hoe;πως;vw.;bij een zakelijke vaststelling | herhaling;groeten & wensen
-2-0083;2025-10-01;(al)waar;που;vnw.;bij een gevoel | herhaling;groeten & wensen
-2-0084;2025-10-01;ik vrees dat …;φοβάμαι πως …;zin;uitzondering!;emoties
-2-0085;2025-10-01;Ik werk thuis.;Δουλεύω από το σπίτι.;zin;;wonen
-2-0086;2025-10-01;in een huis;σε σπίτι;vz.;;wonen
-2-0087;2025-10-01;in een appartement;σε διαμέρισμα;vz.;;wonen
-2-0088;2025-10-01;(te) laat zijn;αργώ;ww.;;tijd
-2-0090;2025-10-01;dorst hebben;διψάω;ww.;;communicatie
-2-0091;2025-10-01;honger hebben;πεινάω;ww.;;communicatie
-2-0092;2025-10-01;passeren;περνάω;ww.;;reizen
-2-0093;2025-10-01;nemen;παίρνω;ww.;;reizen
-2-0095;2025-10-01;werkwoorden op -ομαι en -αμαι;τα ρήματα σε -ομαι και -αμαι;groep;;grammatica
-2-0096;2025-10-01;rechtstaan;σηκώνομαι;ww.;;lichaam
-2-0097;2025-10-01;Sta op!;Σήκω!;ww.;;lichaam
-2-0098;2025-10-01;οpstaan (zich optillen);σηκώνομαι;ww.;;lichaam
-2-0099;2025-10-01;opnemen, opheffen, optillen;σηκώνω (π.χ. το τηλέφωνο);ww.;;communicatie
-2-0100;2025-10-01;zich wassen;πλένομαι;ww.;;lichaam
-2-0101;2025-10-01;wassen;πλένω;ww.;herhaling;lichaam
-2-0102;2025-10-01;zich kleden;ντύνομαι (= βάζω τα ρούχα μου);ww.;;kleding
-2-0103;2025-10-01;kleden, aankleden;ντύνω (π.χ. τα παιδιά);ww.;;kleding
-2-0104;2025-10-01;zich opmaken;βάφομαι;ww.;;kleding
-2-0105;2025-10-01;schilderen, verven;βάφω;ww.;;kleding
-2-0106;2025-10-01;zich scheren;ξυρίζομαι;ww.;;kleding
-2-0107;2025-10-01;scheren;ξυρίζω (π.χ. τα πρόβατα);ww.;;kleding
-2-0108;2025-10-01;zich kammen;χτενίζομαι;ww.;;kleding
-2-0109;2025-10-01;kammen (π.χ. τα μαλλιά μου);χτενίζω;ww.;;lichaam, kleding
-2-0110;2025-10-01;komen;έρχομαι;ww.;;reizen
-2-0111;2025-10-01;zitten;κάθομαι;ww.;;communicatie
-2-0112;2025-10-01;(na)denken;σκέφτομαι;ww.;;school
-2-0113;2025-10-01;(zich) voelen;αισθάνομαι;ww.;;communicatie
-2-0114;2025-10-01;nodig hebben;χρειάζομαι;ww.;;communicatie
-2-0115;2025-10-01;moe worden, zich moe maken;κουράζομαι;ww.;;communicatie
-2-0116;2025-10-01;het warm hebben;ζεσταίνομαι;ww.;;communicatie
-2-0117;2025-10-01;slapen;κοιμάμαι;ww.;;communicatie
-2-0118;2025-10-01;zich herinneren;θυμάμαι;ww.;;school
-2-0119;2025-10-01;spijt hebben, medelijden hebben;λυπάμαι;ww.;;emoties
-2-0120;2025-10-01;bang zijn vrezen, angst hebben;φοβάμαι;ww.;;emoties
-2-0121;2025-10-01;heten (genoemd worden);λέγομαι;ww.;;voedsel
-2-0122;2025-10-01;zeggen, noemen;λέω;ww.;;communicatie
-2-0123;2025-10-01;zich bevinden;βρίσκομαι;ww.;herhaling;communicatie
-2-0124;2025-10-01;vinden;βρίσκω;ww.;herhaling;communicatie
-
-2-0125;2025-10-08;Het is niet zo moeilijk.;Δεν είναι τόσο δύσκολο.;zin;;grammatica
-2-0126;2025-10-08;Wat betekent (dat)?;Τι σημαίνει;;vraagzin;;communicatie
-2-0127;2025-10-08;student zijn;σπουδάζω;ww.;herhaling;school
-2-0128;2025-10-08;lezen;διαβάζω;ww.;;school
-2-0129;2025-10-08;leren;μαθαίνω;ww.;;school
-2-0130;2025-10-08;(in)studeren, blokken;μελετάω;ww.;herhaling;school
-2-0131;2025-10-08;bal;(η) μπάλα;znw.;;sport
-2-0132;2025-10-08;ik gooi de bal;πετάω την μπάλα;zin;;sport
-2-0133;2025-10-08;volgende week;την άλλη εβδομάδα;bw.;herhaling;tijd, kalender
-2-0134;2025-10-08;lachen;γελάω;ww.;;communicatie
-2-0135;2025-10-08;Wie lacht u/jullie uit?;Ποιόν γελάτε;;vraagzin;;communicatie
-2-0136;2025-10-08;collega;(ο/η) συνάδελφος;znw.;;beroepen
-2-0137;2025-10-08;zus;(η) αδελφή;znw.;;dingen
-2-0138;2025-10-08;advocaat;(ο/η) δικηγόρος;znw.;;beroepen
-2-0139;2025-10-08;Ik ga nooit.;Δεν πηγαίνω ποτέ.;zin;;hoeveelheden, tijd
-2-0140;2025-10-08;hoofd;(το) κεφάλι;znw.;;lichaam
-2-0141;2025-10-08;maag;(το) στομάχι;znw.;;lichaam
-2-0142;2025-10-08;hart;(η) καρδιά;znw.;;lichaam
-2-0143;2025-10-08;keel;(ο) λαιμός;znw.;;lichaam
-2-0144;2025-10-08;passeren;περνάω;ww.;;reizen
-2-0145;2025-10-08;plagen;πειράζω;ww.;;communicatie
-2-0146;2025-10-08;plagen, lastig vallen, hinderen;πειράζω;ww.;;communicatie
-2-0147;2025-10-08;De zon hindert me.;Με πειράζει ο ήλιος;zin;;natuur
-2-0148;2025-10-08;Nu ge het zegt…;Εδώ, που τα λέμε…;zin;;communicatie
-2-0149;2025-10-08;Dat je ware …;Να’σουν … (< να ήσουν);zin;;wensen
-2-0150;2025-10-08;ongerust zijn;ανησυχώ;ww.;;emoties
-2-0151;2025-10-08;Maak je niet ongerust!;Μην ανησυχείς!;ww.;;grammatica
-2-0152;2025-10-08;doen;κάνω;ww.;herhaling;communicatie
-2-0153;2025-10-08;grappen;(τα) αστεία;znw.;;communicatie
-2-0154;2025-10-08;dokterspraktijk;(το) ιατρείο;znw.;;gebouwen
-2-0155;2025-10-08;niet (imperatief, verbod);μην;bw.;;grammatica
-2-0156;2025-10-08;niet;δεν;bw.;;grammatica
-2-0157;2025-10-08;Val me niet lastig!;Μην με πειράζει!;ww.;;grammatica
-2-0158;2025-10-08;Het maakt niet uit.;Δεν πειράζει.;ww.;herhaling;grammatica
-2-0159;2025-10-08;Wees niet bang!;Μην φοβάστε!;ww.;;grammatica
-2-0160;2025-10-08;Bent u/jullie niet bang?;Δεν φοβάστε;;ww.;;grammatica
-2-0161;2025-10-08;Praat niet samen!;Μην μιλά μαζί!;ww.;;grammatica
-2-0162;2025-10-08;Praat niet!;Μην μιλάς!;ww.;;grammatica
-2-0163;2025-10-08;Zeg niets!;Μην λες τίποτα!;ww.;;grammatica
-2-0164;2025-10-08;Zeg het niet!;Μην το πεις!;ww.;;grammatica
-2-0165;2025-10-08;leugen;(το) ψέμα;znw.;herhaling;emoties
-2-0166;2025-10-08;Gezondheid!;Περαστικά!;zin;lett. ‘Dat het moge voorbij gaan.’;groeten & wensen
-2-0167;2025-10-08;krachtig, hard, luid;δυνατός -ή -ό;bnw.;;dingen
-2-0168;2025-10-08;(we praten) luid;(μιλάμε) δυνατά;bijw.;;communicatie
-2-0169;2025-10-08;urenlang;με τις ώρες;bw.;;tijd
-2-0170;2025-10-08;en nu we het erover hebben;και εδώ που τα λέμε;ww.;;communicatie
-2-0171;2025-10-08;water bij de wijn doen;βάζω στο κρασί νερό;ww.;;voedsel
-2-0172;2025-10-08;In een maand zonder rho, doe water in warme wijn.;Μήνα που δεν εχει ρο, βα ζεστό κρασί νερό.;zin;;grammatica
-2-0173;2025-10-08;gelijk hebben;έχω δίκιο;ww.;;communicatie
-2-0174;2025-10-08;in het algemeen;γενικά;bw.;;communicatie
-2-0175;2025-10-08;dronken;μεθυσμένος -η -ο;bnw.;;emoties
-2-0176;2025-10-08;wennen;συνηθίζω;ww.;cfr συνηθώς;communicatie
-2-0177;2025-10-08;gewoonlijk;συνηθώς;bijw.;;hoeveelheden, tijd
-2-0178;2025-10-08;zich schamen;ντρέπομαι;ww.;;communicatie
-2-0179;2025-10-08;Hoe schoon praat ge Grieks!;Μα τι ωραία που μιλάς Ελληνικά!;zin;;communicatie
-2-0180;2025-10-08;wat jammer dat …;κρίμα που …;zin;;grammatica
-2-0181;2025-10-08;het spijt me dat …;λυπάμαι που …;zin;;emoties
-2-0182;2025-10-08;Verschoning dat …;συγνώμι που …;uitdr.;;communicatie
-2-0183;2025-10-08;ik denk dat …;νομίζω πως/ότι …;zin;;groeten & wensen
-2-0184;2025-10-08;medicijnen;(τα) φάρμακα;znw.;;dingen
-2-0185;2025-10-08;berg;(το) βουνό;znw.;herhaling;natuur
-
-2-0186;2025-10-15;altijd;πάντα;bw.;;hoeveelheden, tijd
-2-0187;2025-10-15;gebruikelijk, gewoonlijk;συνήθως;bw.;herhaling;hoeveelheden, tijd
-2-0188;2025-10-15;vaak;συχνά;bw.;herhaling;hoeveelheden, tijd
-2-0189;2025-10-15;soms;μερικές φορές;bw.;;hoeveelheden, tijd
-2-0190;2025-10-15;zelden;σπάνια;bw.;herhaling;hoeveelheden, tijd
-2-0191;2025-10-15;nooit;ποτέ;bw.;herhaling;hoeveelheden, tijd
-2-0192;2025-10-15;vaak;πολλές φορές;bw.;;hoeveelheden, tijd
-2-0193;2025-10-15;om de dag;μέρα παρά μέρα;bw.;;hoeveelheden, tijd
-2-0194;2025-10-15;de hele tijd;όλη την ώρα;bw.;;hoeveelheden, tijd
-2-0195;2025-10-15;af en toe;κάπου-κάπου;bw.;;hoeveelheden, tijd
-2-0196;2025-10-15;sommige;μερικοί -ές -ά;bnw.;;grammatica
-2-0197;2025-10-15;bewaken;φυλάω;ww.;;communicatie
-2-0198;2025-10-15;kus;(το) φιλί;znw.;;cultuur
-2-0199;2025-10-15;roepen;φωνάζω;ww.;;communicatie
-2-0200;2025-10-15;trainen;γυμνάζομαι;ww.;;sport
-2-0201;2025-10-15;spugen;φτύνω;ww.;;communicatie
-2-0202;2025-10-15;tfoe-tfoe-tfoe;φτου-φτου-φτου;uitdr.;;cultuur
-2-0203;2025-10-15;Wat zeg je?;Τι λες;;vraagzin;;communicatie
-2-0204;2025-10-15;blijven;μείνω;ww.;;communicatie
-2-0205;2025-10-15;brein, hersenen;(το) εγκέφαλο;znw.;;dingen
-2-0206;2025-10-15;geheugen;(η) μνήμη;znw.;;grammatica
-2-0207;2025-10-15;(wal)noten;(τα) καρύδια;znw.;;dingen
-2-0208;2025-10-15;been, poot;(το) ποδάρι;znw.;;lichaam
-2-0209;2025-10-15;tekst;(το) κείμενο;znw.;;dingen
-2-0210;2025-10-15;behalve;εκτός από;vz.;;grammatica
-2-0211;2025-10-15;vreemd;παράξενος -η -ο;bnw.;;dingen
-2-0212;2025-10-15;de vreemde plaatsen;η παράξενη μέρη;znw.;;tijd
-2-0213;2025-10-15;boos;θυμωμένος -η -ο;bnw.;;emoties
-2-0214;2025-10-15;weer;ξανά;bw.;;tijd
-2-0215;2025-10-15;opnieuw;πάλι;bw.;herhaling;tijd
-2-0216;2025-10-15;als;αν;vw.;;grammatica
-2-0217;2025-10-15;vlug-vlug (snel);τάκα-τάκα (γρίγορα);bw.;;tijd
-2-0218;2025-10-15;ik had;είχα;ww.;herhaling;grammatica
-2-0219;2025-10-15;ik begreep;κατάλαβα;vz.;;grammatica
-2-0220;2025-10-15;ik was;ήμουν;ww.;herhaling;grammatica
-2-0221;2025-10-15;eten;τρώω;ww.;;voedsel
-2-0222;2025-10-15;ik at (τρώω);έφαγα;ww.;;voedsel
-2-0223;2025-10-15;ik heb te veel gegeten;παραέφαγα;ww.;;voedsel
-2-0224;2025-10-15;kwetteren, fluiten;κελαηδάω;ww.;;communicatie
-2-0225;2025-10-15;Ik sla m’n kruis.;Θα κάνω το Σταυρό μου.;zin;;cultuur
-2-0226;2025-10-15;Het bord fluit (piept).;Ο πίνακας κελαηδάει.;zin;;dingen
-2-0227;2025-10-15;(kunst)schilder;(ο/η) ζωγράφος;znw.;;beroepen
-2-0228;2025-10-15;haar (haren, haardos);(τα) μαλλιά;znw.;;lichaam
-2-0229;2025-10-15;(een enkel) haar;(το) μαλλί;znw.;;lichaam
-2-0230;2025-10-15;oog;(το) μάτι, (τα) μάτια;znw.;;lichaam
-2-0231;2025-10-15;vervloeken, ‘beogen’;ματιάζω;ww.;;communicatie
-2-0232;2025-10-15;het boze oog afwenden;ξεματιάζω;ww.;;communicatie
-2-0233;2025-10-15;vermoeien;κουράζω;ww.;;communicatie
-2-0234;2025-10-15;doen uitrusten;ξεκουράζω;ww.;;communicatie
-2-0235;2025-10-15;waarschijnlijk;μάλλον που που;bw.;;grammatica
-2-0236;2025-10-15;hij, zij, het;αυτός -ή -ό;bnw.;herhaling;grammatica
-2-0237;2025-10-15;deze, die, dat;εκείνος -η -ο;bnw.;herhaling;groeten & wensen
-2-0238;2025-10-15;alle;όλος -η -ο;bnw.;herhaling;hoeveelheden
- 
-2-0239;2025-10-22;Dionyssos Savvopoulos is vandaag overleden.;Διονύσης Σαββόπουλος πέθανε σήμερα.;zin;;gebeurtenissen
-2-0240;2025-10-22;instappen;ανεβαίνω;ww.;;reizen
-2-0241;2025-10-22;uitstappen;κατεβαίνω;ww.;herhaling;reizen
-2-0243;2025-10-22;opwarming;(το) ζέσταμα;znw.;;sport
-2-0244;2025-10-22;acteur;(ο/η) ηθοποιός;znw.;;beroepen, media
-2-0245;2025-10-22;film;(η) ταινία;znw.;;media
-2-0246;2025-10-22;paradijs;(ο) παράδεισος;znw.;;dingen
-2-0247;2025-10-22;pizzeria;(η) πιτσαρία;znw.;herhaling;voedsel
-2-0248;2025-10-22;kok;(ο) μάγειρας;znw.;;voedsel
-2-0249;2025-10-22;koppel;(το) ζευγάρι;znw.;;relaties
-2-0250;2025-10-22;sprookje;(το) παραμύθι;znw.;;cultuur
-2-0251;2025-10-22;(mijn) lief/liefje (♂ & ♀);(η) αγάπη (μου);znw.;;relaties
-2-0252;2025-10-22;de liefde;η αγάπη;znw.;;relaties
-2-0253;2025-10-22;verliefd;ερωτευμένος -η -ο;bnw.;;relaties
-2-0254;2025-10-22;romantisch;ρομαντικός -η -ο;bnw.;;relaties
-2-0255;2025-10-22;erotisch, liefde-;ερωτικός -ή -ό;bnw.;;relaties
-2-0256;2025-10-22;geliefde;(ο) έρωτας;znw.;;relaties
-2-0257;2025-10-22;vraag;(η) ερώτηση;znw.;;relaties
-2-0258;2025-10-22;vragen;ρωτάω;ww.;herhaling;communicatie
-2-0259;2025-10-22;kijken;κοιτάζω;ww.;;communicatie
-2-0260;2025-10-22;zwemmen;κολυμπάω;ww.;;sport
-2-0261;2025-10-22;zwembad;(η) πισίνα;znw.;;sport
-2-0262;2025-10-22;oud;παλιός -ή -ό;bnw.;;tijd
-2-0263;2025-10-22;nieuw;καινούργιος -η -ο;bnw.;;tijd
-2-0264;2025-10-22;volgens;κατά;vz.;;grammatica
-2-0265;2025-10-22;overal;παντού;bw.;;geografie
-2-0266;2025-10-22;erna, daarna;έπειτα (= μετά);vz.;;tijd
-2-0267;2025-10-22;toerist;(ο) τουρίστας;znw.;;reizen
-2-0268;2025-10-22;strand;(η) παραλία;znw.;;geografie, reizen
-2-0269;2025-10-22;de verleden tijd (aorist);ο αορίστας;znw.;;grammatica
-2-0270;2025-10-22;stam (van een werkwoord);το θέμα;znw.;;grammatica
-2-0271;2025-10-22;uitgang (van een werkwoord);η κατάληξη;znw.;;grammatica
-2-0272;2025-10-22;de voor-voorlaatste (lettergreep);(η) προπαραλήγουσα (συλλαβή);znw.;;grammatica
-2-0273;2025-10-22;ploeg, groep, team;(η) ομάδα;znw.;;grammatica
-2-0274;2025-10-22;de regel;ο κανόνας;znw.;;grammatica
-2-0275;2025-10-22;regelmatige (werkwoorden);τα κανονικά;groep;;grammatica
-2-0276;2025-10-22;onregelmatige (werkwoorden);τα ανώμαλα;groep;;grammatica
-
-2-0277;2025-10-22;beginnen;αρχίζω;ww.;;tijd
-2-0278;2025-10-22;ik begon;άρχισα;ww.;;tijd
-2-0279;2025-10-22;kopen;αγοράζω;ww.;herhaling;winkelen
-2-0280;2025-10-22;ik kocht;αγόρασα;ww.;;winkelen
-2-0281;2025-10-22;terugkeren;γυρίζω;ww.;;reizen
-2-0282;2025-10-22;ik keerde (γυρίζω);γύρισα;ww.;;reizen
-2-0283;2025-10-22;lezen;διαβάζω;ww.;;school
-2-0284;2025-10-22;ik las;διάβαζα;ww.;;school
-2-0285;2025-10-22;roepen;φωνάζω;ww.;;communicatie
-2-0286;2025-10-22;ik riep;φώναξα;ww.;;communicatie
-2-0287;2025-10-22;eindigen;τελειώνω;ww.;herhaling;tijd
-2-0288;2025-10-22;ik maakte af;τελείωσα;ww.;;tijd
-2-0289;2025-10-22;betalen;πληρώνω;ww.;herhaling;winkelen
-2-0290;2025-10-22;ik betaalde;πλήρωσα;ww.;;winkelen
-2-0291;2025-10-22;aankomen, arriveren;φτάνω;ww.;;reizen
-2-0292;2025-10-22;ik arriveerde;έφτασα;ww.;;reizen
-2-0293;2025-10-22;werken;δουλεύω;ww.;;communicatie
-2-0294;2025-10-22;ik werkte;δούλεψα;ww.;;beroepen
-2-0295;2025-10-22;koken;μαγειρεύω;ww.;;voedsel
-2-0296;2025-10-22;ik kookte;μαγείρεψα;ww.;;voedsel
-2-0297;2025-10-22;gaan;πηγαίνω, πάω;ww.;;reizen
-2-0298;2025-10-22;ik ging (πηγαίνω, πάω);πήγα;ww.;;reizen
-2-0299;2025-10-22;zien;βλέπω;ww.;;communicatie
-2-0300;2025-10-22;ik zag (βλέπω);είδα;ww.;;communicatie
-2-0301;2025-10-22;hebben;έχω;ww.;;communicatie
-2-0302;2025-10-22;ik had;είχα;ww.;herhaling;grammatica
-2-0303;2025-10-22;nemen;παίρνω;ww.;;reizen
-2-0304;2025-10-22;ik nam;πήρα;ww.;;reizen
-2-0305;2025-10-22;drinken;πίνω;ww.;;voedsel
-2-0306;2025-10-22;ik dronk;ήπια;ww.;;voedsel
-2-0307;2025-10-22;doen;κάνω;ww.;herhaling;communicatie
-2-0308;2025-10-22;ik deed (κάνω);έκανα;ww.;;communicatie
-2-0309;2025-10-22;begrijpen;καταλαβαίνω;ww.;;communicatie
-2-0310;2025-10-22;ik liet zakken;κατέβασα;ww.;;dingen
-2-0311;2025-10-22;wachten;περιμένω;ww.;herhaling;tijd
-2-0312;2025-10-22;ik wachtte;περίμενα;ww.;;tijd
-2-0313;2025-10-22;eten;τρώω;ww.;;voedsel
-2-0314;2025-10-22;ik at, ik heb gegeten;έφαγα;ww.;;voedsel
-2-0315;2025-10-22;verliezen;χάνω;ww.;;communicatie
-2-0316;2025-10-22;Ik heb mijn sjaal verloren.;Έχασα το κασκόλ μου.;zin;;kleding
-2-0317;2025-10-22;kennen;γνωρίζω;ww.;;communicatie
-2-0318;2025-10-22;Nooit …;Ποτέ δεν …;sterker dan Δεν … ποτέ.;;hoeveelheden, tijd
-2-0319;2025-10-22;olielampje;(η) καντήλι;znw.;;cultuur
-2-0320;2025-10-22;geloven (credo);πιστεύω (π.χ. (εἰς) ἕνα(ν) Θεόν, Πατέρα, Παντοκράτορα…);ww.;;filosofie
-2-0321;2025-10-22;negende;ένατος -η -ο;bnw.;;hoeveelheden
-2-0322;2025-10-22;wie;ποιος;vnw.;;grammatica
-2-0323;2025-10-22;iemand;κάποιος;vnw.;in een affirmatieve zin;grammatica
-2-0324;2025-10-22;iemand niet …;κάποιος δεν;vnw.;;grammatica
-2-0325;2025-10-22;een;ένας;tw.;;grammatica
-2-0326;2025-10-22;geen;κανένας;vnw.;herhaling;grammatica
-2-0327;2025-10-22;Nee, niets.;τίποτα;zin;;grammatica
-2-0328;2025-10-22;iets;κάτι;vnw.;herhaling;grammatica
-2-0329;2025-10-22;nooit;ποτέ;bw.;herhaling;hoeveelheden, tijd
-2-0330;2025-10-22;ooit (verleden), destijds, eens, soms (in bevestigingen);κάποτε;bw.;herhaling;grammatica
-2-0331;2025-10-22;nergens;πουθενά;vnw.;;grammatica
-2-0332;2025-10-22;ergens;κάπου;vnw.;;grammatica
-2-0333;2025-10-22;helemaal niet;καθόλου;bw.;herhaling;grammatica
-2-0334;2025-10-22;kijken;κοιτάζω;ww.;;communicatie
-2-0335;2025-10-22;(regen)bui;μπόρα;znw.;;natuur
-2-0336;2025-10-22;omhelzen;αγκαλιάζω;ww.;;relaties
-2-0337;2025-10-22;ik dans _voor_ je;σου χορεύω;ww.;;muziek
-2-0338;2025-10-22;stelen;κλέβω;ww.;;maatschappij
-2-0339;2025-10-22;alleen maar;μοναχά;bw.;;grammatica
-2-0340;2025-10-22;weggaan;φύγω;ww.;;reizen
-2-0341;2025-10-22;De bossen branden.;καίγονται τα δάση;zin;;natuur
-2-0342;2025-10-22;uitgeven;ξοδέψω;ww.;;winkelen
-2-0343;2025-10-22;verzadigd raken;χορτάσω;ww.;;voedsel
+0001;2025-09-24;Welkom!;Καλώς όρισες!;zin;;groeten & wensen
+0002;2025-09-24;persoonlijke gegevens;τα ατομικά στοιχεία;znw.;;kennismaken
+0003;2025-09-24;achternaam;το επώνυμο;znw.;;kennismaken
+0004;2025-09-24;naam;το όνομα;znw.;;kennismaken
+0005;2025-09-24;het land van herkomst;η χώρα προέλευσης;znw.;;geografie
+0006;2025-09-24;adres;(η) διεύθυνση;znw.;;wonen
+0007;2025-09-24;telefoon;(το) τηλέφωνο;znw.;;communicatie
+0008;2025-09-24;handtekening;(η) υπογραφή;znw.;;dingen
+0009;2025-09-24;een herhaling;μια επανάληψη;znw.;;school
+0010;2025-09-24;meer;πιο πολύ;bw.;;hoeveelheden
+0011;2025-09-24;algemeen;κοινός -ή -ό;bnw.;;dingen
+0012;2025-09-24;bijna;σχεδόν;bw.;;hoeveelheden
+0013;2025-09-24;Zijn jullie uitgerust?;Ξεκουραστήκατε;;ww.;;communicatie
+0014;2025-09-24;zich herinneren;θυμάμαι;ww.;;school
+0015;2025-09-24;proberen;προσπαθώ;ww.;;communicatie
+0016;2025-09-24;kiezen;διαλέγω;ww.;herhaling;communicatie
+0017;2025-09-24;binnenkomen;μπαίνω;ww.;herhaling;reizen
+0018;2025-09-24;helpen;βοηθάω;ww.;;communicatie
+0019;2025-09-24;zoeken;ψάχνω;ww.;herhaling;communicatie
+0020;2025-09-24;volgen;παρακολουθώ;ww.;;communicatie
+0021;2025-09-24;bellen;καλώ;ww.;;communicatie
+0022;2025-09-24;vragen;ζητάω;ww.;;communicatie
+0024;2025-09-24;groeten;χαιρετάω;ww.;;groeten & wensen
+0025;2025-09-24;lawaai;(ο) θόρυβος;znw.;;dingen
+0026;2025-09-24;kantine;(το) κυλικείο;znw.;;dingen
+0027;2025-09-24;hulp, assistent;(ο) βοηθός;znw.;;beroepen
+0028;2025-09-24;geluksvogel;(ο) τυχερός;znw.;;dingen
+0029;2025-09-24;computer;ο υπολογιστής;znw.;;beroepen
+0030;2025-09-24;zoekertjes, advertenties;τις αγγελίες;znw.;;media
+0031;2025-09-24;traagheid;(η) αργή;znw.;;tijd
+0032;2025-09-24;land, natie;(η) χώρα;znw.;herhaling;geografie
+0033;2025-09-24;geld;(τα) χρήματα, (τα) λεφτά;znw.;;economie
+0035;2025-09-24;minuten;(τα) λεπτά;znw.;;tijd
+0036;2025-09-24;vaak;συχνά;bw.;herhaling;hoeveelheden, tijd
+0037;2025-09-24;soms;τις μερικές φορές;bw.;;hoeveelheden, tijd
+0038;2025-10-01;Het is 8:15.;Η ώρα είναι 8:15.;zin;;tijd, kalender
+0039;2025-10-01;Het is twee (uur (precies)).;Είναι δυο (η ώρα (ακριβώς)).;zin;;tijd, kalender
+0040;2025-10-01;slaap;(ο) ύπνος;znw.;;lichaam
+0041;2025-10-01;rust;(η) ξεκούραση;znw.;;dingen
+0042;2025-10-01;roos;(το) τριαντάφυλλο;znw.;;natuur
+0043;2025-10-01;pauze;(το) διάλειμμα;znw.;;tijd
+0044;2025-10-01;werk;(η) δουλειά;znw.;;beroepen
+0045;2025-10-01;koorts;(ο) πυρετός;znw.;;lichaam
+0046;2025-10-01;zoveel;τόσος -η -ο;bnw.;;hoeveelheden
+0047;2025-10-01;vroeg;νωρίς;bw.;herhaling;tijd
+0048;2025-10-01;laat;αργά;bw.;herhaling;tijd
+0049;2025-10-01;wat;τι;vnw.;;grammatica
+0050;2025-10-01;welke, wie;ποιο(ς);vnw.;;grammatica
+0051;2025-10-01;Welke kleur bevalt je?;Τι/Ποιο χρώμα σου αρέσει;;vraagzin;;communicatie
+0052;2025-10-01;Welk(e) wijn wil je? Wit, rood, Grieks…;Τι κρασί θέλεις; Λευκό, μαύρο, Ελληνικό…;vraagzin;;voedsel
+0053;2025-10-01;Welke wijn wilt u? Syrah, Bordeaux…;Ποιο κρασί θέλετε; Σιρά, Μπορντό…;vraagzin;;voedsel
+0054;2025-10-01;wie;ποιος -η -ο;bnw.;;grammatica
+0055;2025-10-01;verleden;περασμένος -η -ο;bnw.;herhaling;tijd
+0056;2025-10-01;laatste;τελευταίος -η -ο;bnw.;;hoeveelheden
+0057;2025-10-01;misschien;ίσως;bw.;;grammatica
+0058;2025-10-01;vroeger;παλιά;bw.;;tijd
+0059;2025-10-01;doorweekt, nat;μούσκεμος -η -ο;bnw.;;kalender
+0060;2025-10-01;Mijn tas is doorweekt.;Η τσάντα μου είναι μούσκεμα.;zin;;kalender
+0061;2025-10-01;niet (imperatief);μη;bw.;;grammatica
+0062;2025-10-01;alles;τα πάντα;znw.;;hoeveelheden
+0063;2025-10-01;gebroken;σπασμένος -η -ο;bnw.;;lichaam
+0064;2025-10-01;vergeten;ξεχνάω;ww.;;voedsel
+0065;2025-10-01;je vergeet;ξεχνάς;ww.;;communicatie
+0066;2025-10-01;wakker worden;ξυπνάω;ww.;;communicatie
+0067;2025-10-01;beginnen;αρχίζω;ww.;;tijd
+0068;2025-10-01;klaar zijn (met werk/school);σχολάω;ww.;;school
+0069;2025-10-01;gaan liggen;ξαπλώνω;ww.;;reizen
+0070;2025-10-01;ontmoeten;συναντάω;ww.;;voedsel
+0071;2025-10-01;terugkeren;επιστρέφω;ww.;;communicatie
+0072;2025-10-01;dragen;φορώ;ww.;;communicatie
+0073;2025-10-01;sluiten;κλείνω;ww.;;communicatie
+0074;2025-10-01;hopen;ελπίζω;ww.;;communicatie
+0075;2025-10-01;vervoegen;κλίνω;ww.;;communicatie
+0076;2025-10-01;Ik vrees niets, ik hoop niets, ik ben vrij.;Δεν φοβάμαι τίποτα, δεν ελπίζω τίποτα, είμαι ελεύθερος.;zin;;grammatica
+0077;2025-10-01;verkopen;πουλάω;ww.;;economie
+0078;2025-10-01;pijn hebben;πονάω;ww.;;communicatie
+0079;2025-10-01;zich klaarmaken;ετοιμάζομαι;ww.;;communicatie
+0080;2025-10-01;heten (genoemd worden);λέγομαι;ww.;;voedsel
+0081;2025-10-01;respecteren;σέβομαι;ww.;;communicatie
+0082;2025-10-01;hoe;πως;vw.;bij een zakelijke vaststelling | herhaling;groeten & wensen
+0083;2025-10-01;(al)waar;που;vnw.;bij een gevoel | herhaling;groeten & wensen
+0084;2025-10-01;ik vrees dat …;φοβάμαι πως …;zin;uitzondering!;emoties
+0085;2025-10-01;Ik werk thuis.;Δουλεύω από το σπίτι.;zin;;wonen
+0086;2025-10-01;in een huis;σε σπίτι;vz.;;wonen
+0087;2025-10-01;in een appartement;σε διαμέρισμα;vz.;;wonen
+0088;2025-10-01;(te) laat zijn;αργώ;ww.;;tijd
+0090;2025-10-01;dorst hebben;διψάω;ww.;;communicatie
+0091;2025-10-01;honger hebben;πεινάω;ww.;;communicatie
+0092;2025-10-01;passeren;περνάω;ww.;;reizen
+0093;2025-10-01;nemen;παίρνω;ww.;;reizen
+0095;2025-10-01;werkwoorden op -ομαι en -αμαι;τα ρήματα σε -ομαι και -αμαι;groep;;grammatica
+0096;2025-10-01;rechtstaan;σηκώνομαι;ww.;;lichaam
+0097;2025-10-01;Sta op!;Σήκω!;ww.;;lichaam
+0098;2025-10-01;οpstaan (zich optillen);σηκώνομαι;ww.;;lichaam
+0099;2025-10-01;opnemen, opheffen, optillen;σηκώνω (π.χ. το τηλέφωνο);ww.;;communicatie
+0100;2025-10-01;zich wassen;πλένομαι;ww.;;lichaam
+0101;2025-10-01;wassen;πλένω;ww.;herhaling;lichaam
+0102;2025-10-01;zich kleden;ντύνομαι (= βάζω τα ρούχα μου);ww.;;kleding
+0103;2025-10-01;kleden, aankleden;ντύνω (π.χ. τα παιδιά);ww.;;kleding
+0104;2025-10-01;zich opmaken;βάφομαι;ww.;;kleding
+0105;2025-10-01;schilderen, verven;βάφω;ww.;;kleding
+0106;2025-10-01;zich scheren;ξυρίζομαι;ww.;;kleding
+0107;2025-10-01;scheren;ξυρίζω (π.χ. τα πρόβατα);ww.;;kleding
+0108;2025-10-01;zich kammen;χτενίζομαι;ww.;;kleding
+0109;2025-10-01;kammen (π.χ. τα μαλλιά μου);χτενίζω;ww.;;lichaam, kleding
+0110;2025-10-01;komen;έρχομαι;ww.;;reizen
+0111;2025-10-01;zitten;κάθομαι;ww.;;communicatie
+0112;2025-10-01;(na)denken;σκέφτομαι;ww.;;school
+0113;2025-10-01;(zich) voelen;αισθάνομαι;ww.;;communicatie
+0114;2025-10-01;nodig hebben;χρειάζομαι;ww.;;communicatie
+0115;2025-10-01;moe worden, zich moe maken;κουράζομαι;ww.;;communicatie
+0116;2025-10-01;het warm hebben;ζεσταίνομαι;ww.;;communicatie
+0117;2025-10-01;slapen;κοιμάμαι;ww.;;communicatie
+0118;2025-10-01;zich herinneren;θυμάμαι;ww.;;school
+0119;2025-10-01;spijt hebben, medelijden hebben;λυπάμαι;ww.;;emoties
+0120;2025-10-01;bang zijn vrezen, angst hebben;φοβάμαι;ww.;;emoties
+0121;2025-10-01;heten (genoemd worden);λέγομαι;ww.;;voedsel
+0122;2025-10-01;zeggen, noemen;λέω;ww.;;communicatie
+0123;2025-10-01;zich bevinden;βρίσκομαι;ww.;herhaling;communicatie
+0124;2025-10-01;vinden;βρίσκω;ww.;herhaling;communicatie
+0125;2025-10-08;Het is niet zo moeilijk.;Δεν είναι τόσο δύσκολο.;zin;;grammatica
+0126;2025-10-08;Wat betekent (dat)?;Τι σημαίνει;;vraagzin;;communicatie
+0127;2025-10-08;student zijn;σπουδάζω;ww.;herhaling;school
+0128;2025-10-08;lezen;διαβάζω;ww.;;school
+0129;2025-10-08;leren;μαθαίνω;ww.;;school
+0130;2025-10-08;(in)studeren, blokken;μελετάω;ww.;herhaling;school
+0131;2025-10-08;bal;(η) μπάλα;znw.;;sport
+0132;2025-10-08;ik gooi de bal;πετάω την μπάλα;zin;;sport
+0133;2025-10-08;volgende week;την άλλη εβδομάδα;bw.;herhaling;tijd, kalender
+0134;2025-10-08;lachen;γελάω;ww.;;communicatie
+0135;2025-10-08;Wie lacht u/jullie uit?;Ποιόν γελάτε;;vraagzin;;communicatie
+0136;2025-10-08;collega;(ο/η) συνάδελφος;znw.;;beroepen
+0137;2025-10-08;zus;(η) αδελφή;znw.;;dingen
+0138;2025-10-08;advocaat;(ο/η) δικηγόρος;znw.;;beroepen
+0139;2025-10-08;Ik ga nooit.;Δεν πηγαίνω ποτέ.;zin;;hoeveelheden, tijd
+0140;2025-10-08;hoofd;(το) κεφάλι;znw.;;lichaam
+0141;2025-10-08;maag;(το) στομάχι;znw.;;lichaam
+0142;2025-10-08;hart;(η) καρδιά;znw.;;lichaam
+0143;2025-10-08;keel;(ο) λαιμός;znw.;;lichaam
+0144;2025-10-08;passeren;περνάω;ww.;;reizen
+0145;2025-10-08;plagen;πειράζω;ww.;;communicatie
+0146;2025-10-08;plagen, lastig vallen, hinderen;πειράζω;ww.;;communicatie
+0147;2025-10-08;De zon hindert me.;Με πειράζει ο ήλιος;zin;;natuur
+0148;2025-10-08;Nu ge het zegt…;Εδώ, που τα λέμε…;zin;;communicatie
+0149;2025-10-08;Dat je ware …;Να’σουν … (< να ήσουν);zin;;wensen
+0150;2025-10-08;ongerust zijn;ανησυχώ;ww.;;emoties
+0151;2025-10-08;Maak je niet ongerust!;Μην ανησυχείς!;ww.;;grammatica
+0152;2025-10-08;doen;κάνω;ww.;herhaling;communicatie
+0153;2025-10-08;grappen;(τα) αστεία;znw.;;communicatie
+0154;2025-10-08;dokterspraktijk;(το) ιατρείο;znw.;;gebouwen
+0155;2025-10-08;niet (imperatief, verbod);μην;bw.;;grammatica
+0156;2025-10-08;niet;δεν;bw.;;grammatica
+0157;2025-10-08;Val me niet lastig!;Μην με πειράζει!;ww.;;grammatica
+0158;2025-10-08;Het maakt niet uit.;Δεν πειράζει.;ww.;herhaling;grammatica
+0159;2025-10-08;Wees niet bang!;Μην φοβάστε!;ww.;;grammatica
+0160;2025-10-08;Bent u/jullie niet bang?;Δεν φοβάστε;;ww.;;grammatica
+0161;2025-10-08;Praat niet samen!;Μην μιλά μαζί!;ww.;;grammatica
+0162;2025-10-08;Praat niet!;Μην μιλάς!;ww.;;grammatica
+0163;2025-10-08;Zeg niets!;Μην λες τίποτα!;ww.;;grammatica
+0164;2025-10-08;Zeg het niet!;Μην το πεις!;ww.;;grammatica
+0165;2025-10-08;leugen;(το) ψέμα;znw.;herhaling;emoties
+0166;2025-10-08;Gezondheid!;Περαστικά!;zin;lett. ‘Dat het moge voorbij gaan.’;groeten & wensen
+0167;2025-10-08;krachtig, hard, luid;δυνατός -ή -ό;bnw.;;dingen
+0168;2025-10-08;(we praten) luid;(μιλάμε) δυνατά;bijw.;;communicatie
+0169;2025-10-08;urenlang;με τις ώρες;bw.;;tijd
+0170;2025-10-08;en nu we het erover hebben;και εδώ που τα λέμε;ww.;;communicatie
+0171;2025-10-08;water bij de wijn doen;βάζω στο κρασί νερό;ww.;;voedsel
+0172;2025-10-08;In een maand zonder rho, doe water in warme wijn.;Μήνα που δεν εχει ρο, βα ζεστό κρασί νερό.;zin;;grammatica
+0173;2025-10-08;gelijk hebben;έχω δίκιο;ww.;;communicatie
+0174;2025-10-08;in het algemeen;γενικά;bw.;;communicatie
+0175;2025-10-08;dronken;μεθυσμένος -η -ο;bnw.;;emoties
+0176;2025-10-08;wennen;συνηθίζω;ww.;cfr συνηθώς;communicatie
+0177;2025-10-08;gewoonlijk;συνηθώς;bijw.;;hoeveelheden, tijd
+0178;2025-10-08;zich schamen;ντρέπομαι;ww.;;communicatie
+0179;2025-10-08;Hoe schoon praat ge Grieks!;Μα τι ωραία που μιλάς Ελληνικά!;zin;;communicatie
+0180;2025-10-08;wat jammer dat …;κρίμα που …;zin;;grammatica
+0181;2025-10-08;het spijt me dat …;λυπάμαι που …;zin;;emoties
+0182;2025-10-08;Verschoning dat …;συγνώμι που …;uitdr.;;communicatie
+0183;2025-10-08;ik denk dat …;νομίζω πως/ότι …;zin;;groeten & wensen
+0184;2025-10-08;medicijnen;(τα) φάρμακα;znw.;;dingen
+0185;2025-10-08;berg;(το) βουνό;znw.;herhaling;natuur
+0186;2025-10-15;altijd;πάντα;bw.;;hoeveelheden, tijd
+0187;2025-10-15;gebruikelijk, gewoonlijk;συνήθως;bw.;herhaling;hoeveelheden, tijd
+0188;2025-10-15;vaak;συχνά;bw.;herhaling;hoeveelheden, tijd
+0189;2025-10-15;soms;μερικές φορές;bw.;;hoeveelheden, tijd
+0190;2025-10-15;zelden;σπάνια;bw.;herhaling;hoeveelheden, tijd
+0191;2025-10-15;nooit;ποτέ;bw.;herhaling;hoeveelheden, tijd
+0192;2025-10-15;vaak;πολλές φορές;bw.;;hoeveelheden, tijd
+0193;2025-10-15;om de dag;μέρα παρά μέρα;bw.;;hoeveelheden, tijd
+0194;2025-10-15;de hele tijd;όλη την ώρα;bw.;;hoeveelheden, tijd
+0195;2025-10-15;af en toe;κάπου-κάπου;bw.;;hoeveelheden, tijd
+0196;2025-10-15;sommige;μερικοί -ές -ά;bnw.;;grammatica
+0197;2025-10-15;bewaken;φυλάω;ww.;;communicatie
+0198;2025-10-15;kus;(το) φιλί;znw.;;cultuur
+0199;2025-10-15;roepen;φωνάζω;ww.;;communicatie
+0200;2025-10-15;trainen;γυμνάζομαι;ww.;;sport
+0201;2025-10-15;spugen;φτύνω;ww.;;communicatie
+0202;2025-10-15;tfoe-tfoe-tfoe;φτου-φτου-φτου;uitdr.;;cultuur
+0203;2025-10-15;Wat zeg je?;Τι λες;;vraagzin;;communicatie
+0204;2025-10-15;blijven;μείνω;ww.;;communicatie
+0205;2025-10-15;brein, hersenen;(το) εγκέφαλο;znw.;;dingen
+0206;2025-10-15;geheugen;(η) μνήμη;znw.;;grammatica
+0207;2025-10-15;(wal)noten;(τα) καρύδια;znw.;;dingen
+0208;2025-10-15;been, poot;(το) ποδάρι;znw.;;lichaam
+0209;2025-10-15;tekst;(το) κείμενο;znw.;;dingen
+0210;2025-10-15;behalve;εκτός από;vz.;;grammatica
+0211;2025-10-15;vreemd;παράξενος -η -ο;bnw.;;dingen
+0212;2025-10-15;de vreemde plaatsen;η παράξενη μέρη;znw.;;tijd
+0213;2025-10-15;boos;θυμωμένος -η -ο;bnw.;;emoties
+0214;2025-10-15;weer;ξανά;bw.;;tijd
+0215;2025-10-15;opnieuw;πάλι;bw.;herhaling;tijd
+0216;2025-10-15;als;αν;vw.;;grammatica
+0217;2025-10-15;vlug-vlug (snel);τάκα-τάκα (γρίγορα);bw.;;tijd
+0218;2025-10-15;ik had;είχα;ww.;herhaling;grammatica
+0219;2025-10-15;ik begreep;κατάλαβα;vz.;;grammatica
+0220;2025-10-15;ik was;ήμουν;ww.;herhaling;grammatica
+0221;2025-10-15;eten;τρώω;ww.;;voedsel
+0222;2025-10-15;ik at (τρώω);έφαγα;ww.;;voedsel
+0223;2025-10-15;ik heb te veel gegeten;παραέφαγα;ww.;;voedsel
+0224;2025-10-15;kwetteren, fluiten;κελαηδάω;ww.;;communicatie
+0225;2025-10-15;Ik sla m’n kruis.;Θα κάνω το Σταυρό μου.;zin;;cultuur
+0226;2025-10-15;Het bord fluit (piept).;Ο πίνακας κελαηδάει.;zin;;dingen
+0227;2025-10-15;(kunst)schilder;(ο/η) ζωγράφος;znw.;;beroepen
+0228;2025-10-15;haar (haren, haardos);(τα) μαλλιά;znw.;;lichaam
+0229;2025-10-15;(een enkel) haar;(το) μαλλί;znw.;;lichaam
+0230;2025-10-15;oog;(το) μάτι, (τα) μάτια;znw.;;lichaam
+0231;2025-10-15;vervloeken, ‘beogen’;ματιάζω;ww.;;communicatie
+0232;2025-10-15;het boze oog afwenden;ξεματιάζω;ww.;;communicatie
+0233;2025-10-15;vermoeien;κουράζω;ww.;;communicatie
+0234;2025-10-15;doen uitrusten;ξεκουράζω;ww.;;communicatie
+0235;2025-10-15;waarschijnlijk;μάλλον που που;bw.;;grammatica
+0236;2025-10-15;hij, zij, het;αυτός -ή -ό;bnw.;herhaling;grammatica
+0237;2025-10-15;deze, die, dat;εκείνος -η -ο;bnw.;herhaling;groeten & wensen
+0238;2025-10-15;alle;όλος -η -ο;bnw.;herhaling;hoeveelheden
+0239;2025-10-22;Dionyssos Savvopoulos is vandaag overleden.;Διονύσης Σαββόπουλος πέθανε σήμερα.;zin;;gebeurtenissen
+0240;2025-10-22;instappen;ανεβαίνω;ww.;;reizen
+0241;2025-10-22;uitstappen;κατεβαίνω;ww.;herhaling;reizen
+0243;2025-10-22;opwarming;(το) ζέσταμα;znw.;;sport
+0244;2025-10-22;acteur;(ο/η) ηθοποιός;znw.;;beroepen, media
+0245;2025-10-22;film;(η) ταινία;znw.;;media
+0246;2025-10-22;paradijs;(ο) παράδεισος;znw.;;dingen
+0247;2025-10-22;pizzeria;(η) πιτσαρία;znw.;herhaling;voedsel
+0248;2025-10-22;kok;(ο) μάγειρας;znw.;;voedsel
+0249;2025-10-22;koppel;(το) ζευγάρι;znw.;;relaties
+0250;2025-10-22;sprookje;(το) παραμύθι;znw.;;cultuur
+0251;2025-10-22;(mijn) lief/liefje (♂ & ♀);(η) αγάπη (μου);znw.;;relaties
+0252;2025-10-22;de liefde;η αγάπη;znw.;;relaties
+0253;2025-10-22;verliefd;ερωτευμένος -η -ο;bnw.;;relaties
+0254;2025-10-22;romantisch;ρομαντικός -η -ο;bnw.;;relaties
+0255;2025-10-22;erotisch, liefde-;ερωτικός -ή -ό;bnw.;;relaties
+0256;2025-10-22;geliefde;(ο) έρωτας;znw.;;relaties
+0257;2025-10-22;vraag;(η) ερώτηση;znw.;;relaties
+0258;2025-10-22;vragen;ρωτάω;ww.;herhaling;communicatie
+0259;2025-10-22;kijken;κοιτάζω;ww.;;communicatie
+0260;2025-10-22;zwemmen;κολυμπάω;ww.;;sport
+0261;2025-10-22;zwembad;(η) πισίνα;znw.;;sport
+0262;2025-10-22;oud;παλιός -ή -ό;bnw.;;tijd
+0263;2025-10-22;nieuw;καινούργιος -η -ο;bnw.;;tijd
+0264;2025-10-22;volgens;κατά;vz.;;grammatica
+0265;2025-10-22;overal;παντού;bw.;;geografie
+0266;2025-10-22;erna, daarna;έπειτα (= μετά);vz.;;tijd
+0267;2025-10-22;toerist;(ο) τουρίστας;znw.;;reizen
+0268;2025-10-22;strand;(η) παραλία;znw.;;geografie, reizen
+0269;2025-10-22;de verleden tijd (aorist);ο αορίστας;znw.;;grammatica
+0270;2025-10-22;stam (van een werkwoord);το θέμα;znw.;;grammatica
+0271;2025-10-22;uitgang (van een werkwoord);η κατάληξη;znw.;;grammatica
+0272;2025-10-22;de voor-voorlaatste (lettergreep);(η) προπαραλήγουσα (συλλαβή);znw.;;grammatica
+0273;2025-10-22;ploeg, groep, team;(η) ομάδα;znw.;;grammatica
+0274;2025-10-22;de regel;ο κανόνας;znw.;;grammatica
+0275;2025-10-22;regelmatige (werkwoorden);τα κανονικά;groep;;grammatica
+0276;2025-10-22;onregelmatige (werkwoorden);τα ανώμαλα;groep;;grammatica
+0277;2025-10-22;beginnen;αρχίζω;ww.;;tijd
+0278;2025-10-22;ik begon;άρχισα;ww.;;tijd
+0279;2025-10-22;kopen;αγοράζω;ww.;herhaling;winkelen
+0280;2025-10-22;ik kocht;αγόρασα;ww.;;winkelen
+0281;2025-10-22;terugkeren;γυρίζω;ww.;;reizen
+0282;2025-10-22;ik keerde (γυρίζω);γύρισα;ww.;;reizen
+0283;2025-10-22;lezen;διαβάζω;ww.;;school
+0284;2025-10-22;ik las;διάβαζα;ww.;;school
+0285;2025-10-22;roepen;φωνάζω;ww.;;communicatie
+0286;2025-10-22;ik riep;φώναξα;ww.;;communicatie
+0287;2025-10-22;eindigen;τελειώνω;ww.;herhaling;tijd
+0288;2025-10-22;ik maakte af;τελείωσα;ww.;;tijd
+0289;2025-10-22;betalen;πληρώνω;ww.;herhaling;winkelen
+0290;2025-10-22;ik betaalde;πλήρωσα;ww.;;winkelen
+0291;2025-10-22;aankomen, arriveren;φτάνω;ww.;;reizen
+0292;2025-10-22;ik arriveerde;έφτασα;ww.;;reizen
+0293;2025-10-22;werken;δουλεύω;ww.;;communicatie
+0294;2025-10-22;ik werkte;δούλεψα;ww.;;beroepen
+0295;2025-10-22;koken;μαγειρεύω;ww.;;voedsel
+0296;2025-10-22;ik kookte;μαγείρεψα;ww.;;voedsel
+0297;2025-10-22;gaan;πηγαίνω, πάω;ww.;;reizen
+0298;2025-10-22;ik ging (πηγαίνω, πάω);πήγα;ww.;;reizen
+0299;2025-10-22;zien;βλέπω;ww.;;communicatie
+0300;2025-10-22;ik zag (βλέπω);είδα;ww.;;communicatie
+0301;2025-10-22;hebben;έχω;ww.;;communicatie
+0302;2025-10-22;ik had;είχα;ww.;herhaling;grammatica
+0303;2025-10-22;nemen;παίρνω;ww.;;reizen
+0304;2025-10-22;ik nam;πήρα;ww.;;reizen
+0305;2025-10-22;drinken;πίνω;ww.;;voedsel
+0306;2025-10-22;ik dronk;ήπια;ww.;;voedsel
+0307;2025-10-22;doen;κάνω;ww.;herhaling;communicatie
+0308;2025-10-22;ik deed (κάνω);έκανα;ww.;;communicatie
+0309;2025-10-22;begrijpen;καταλαβαίνω;ww.;;communicatie
+0310;2025-10-22;ik liet zakken;κατέβασα;ww.;;dingen
+0311;2025-10-22;wachten;περιμένω;ww.;herhaling;tijd
+0312;2025-10-22;ik wachtte;περίμενα;ww.;;tijd
+0313;2025-10-22;eten;τρώω;ww.;;voedsel
+0314;2025-10-22;ik at, ik heb gegeten;έφαγα;ww.;;voedsel
+0315;2025-10-22;verliezen;χάνω;ww.;;communicatie
+0316;2025-10-22;Ik heb mijn sjaal verloren.;Έχασα το κασκόλ μου.;zin;;kleding
+0317;2025-10-22;kennen;γνωρίζω;ww.;;communicatie
+0318;2025-10-22;Nooit …;Ποτέ δεν …;sterker dan Δεν … ποτέ.;;hoeveelheden, tijd
+0319;2025-10-22;olielampje;(η) καντήλι;znw.;;cultuur
+0320;2025-10-22;geloven (credo);πιστεύω (π.χ. (εἰς) ἕνα(ν) Θεόν, Πατέρα, Παντοκράτορα…);ww.;;filosofie
+0321;2025-10-22;negende;ένατος -η -ο;bnw.;;hoeveelheden
+0322;2025-10-22;wie;ποιος;vnw.;;grammatica
+0323;2025-10-22;iemand;κάποιος;vnw.;in een affirmatieve zin;grammatica
+0324;2025-10-22;iemand niet …;κάποιος δεν;vnw.;;grammatica
+0325;2025-10-22;een;ένας;tw.;;grammatica
+0326;2025-10-22;geen;κανένας;vnw.;herhaling;grammatica
+0327;2025-10-22;Nee, niets.;τίποτα;zin;;grammatica
+0328;2025-10-22;iets;κάτι;vnw.;herhaling;grammatica
+0329;2025-10-22;nooit;ποτέ;bw.;herhaling;hoeveelheden, tijd
+0330;2025-10-22;ooit (verleden), destijds, eens, soms (in bevestigingen);κάποτε;bw.;herhaling;grammatica
+0331;2025-10-22;nergens;πουθενά;vnw.;;grammatica
+0332;2025-10-22;ergens;κάπου;vnw.;;grammatica
+0333;2025-10-22;helemaal niet;καθόλου;bw.;herhaling;grammatica
+0334;2025-10-22;kijken;κοιτάζω;ww.;;communicatie
+0335;2025-10-22;(regen)bui;μπόρα;znw.;;natuur
+0336;2025-10-22;omhelzen;αγκαλιάζω;ww.;;relaties
+0337;2025-10-22;ik dans _voor_ je;σου χορεύω;ww.;;muziek
+0338;2025-10-22;stelen;κλέβω;ww.;;maatschappij
+0339;2025-10-22;alleen maar;μοναχά;bw.;;grammatica
+0340;2025-10-22;weggaan;φύγω;ww.;;reizen
+0341;2025-10-22;De bossen branden.;καίγονται τα δάση;zin;;natuur
+0342;2025-10-22;uitgeven;ξοδέψω;ww.;;winkelen
+0343;2025-10-22;verzadigd raken;χορτάσω;ww.;;voedsel
