@@ -64,27 +64,44 @@ Here are the rules for each column
 - If not needed, this column is left empty.
 
 ### 7. **theme**
-- Each entry is assigned to a standardized theme based on its meaning or context.
-- Examples:  
-  - persoonlijk & familie
-  - namen noemen
-  - wensen
-  - kennismaken
-  - school & werk  
-  - communicatie  
-  - emoties  
-  - kalender
-  - geografie  
-  - muziek  
-  - voedsel  
-  - kleding  
-  - vervoer  
-  - natuur  
+- Based on its meaning or context, each entry is assigned at least 1 to up to 3 standardized semantical theme category from the following list:
+  - beroepen
+  - communicatie
+  - cultuur
+  - dieren
+  - dingen
+  - economie
+  - emoties
+  - filosofie
+  - gebeurtenissen
+  - gebouwen
+  - geografie
+  - grammatica
+  - groeten & wensen
   - hoeveelheden
-  - taalkunde
+  - kalender
+  - kennismaken
+  - kleding
+  - kleuren & vormen
+  - lichaam
+  - maatschappij
+  - media
+  - muziek
+  - namen
+  - natuur
+  - reizen
+  - relaties
+  - school
   - sport
-  - varia
-- The theme is inferred from the word’s meaning and context, matching the list you provided or established in previous batches.
+  - taalkunde
+  - tijd
+  - uitdrukkingen
+  - vervoer
+  - voedsel
+  - wensen
+  - winkelen
+  - wonen
+
 
 ---
 
@@ -94,4 +111,12 @@ Here are the rules for each column
 - **Extra info** is moved to the comment column.
 - **PoS and theme** are standardized and mapped consistently.
 
-If you need a more detailed breakdown for a specific column or want to see examples, let me know!
+
+
+
+-η -ο;bnw.;;;;;
+(η);;;;;;
+(το);;;;;;
+(ο);;;;;;
+-ή -ό;bnw.;;;;;
+(π.χ.;;;;;;
