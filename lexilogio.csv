@@ -1666,7 +1666,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1665;05-26;Ik pak mijn winkelwagentje en ga naar binnen.;Παίρνω το καρότσι μου και μπαίνω μέσα.;zin;;winkelen
 1666;05-26;Eerst ga ik naar het fruit, daarna vind ik groenten.;Πρώτα πηγαίνω στα φρούτα, Μετά, βρίσκω λαχανικά;zin;;voedsel, winkelen
 1667;05-26;Als ik klaar ben, ga ik naar de kassa.;Όταν τελειώνω, πηγαίνω στο ταμείο.;zin;;winkelen
-1668;05-26;De kassière zegt: "Goedenavond! Wilt u een tasje?";Η ταμίας λέει: «Καλησπέρα! Θέλετε σακούλα;»;zin;;winkelen
+1668;05-26;De kassière zegt: "Goedenavond! Wilt u een tasje?";Η ταμίας λέει: «Καλησπέρα! Θέλετε σακούλα;»;zin;;winkelen
 1669;05-26;Nee, dank u, ik heb mijn eigen tas.;Όχι, ευχαριστώ, έχω τη δική μου τσάντα.;zin;;winkelen
 1670;05-26;Ik betaal en ga naar huis.;Πληρώνω και γυρίζω σπίτι.;zin;;winkelen
 1671;05-26;Alstublieft, graag gedaan!;Παρακαλώ, με χαρά!;uitdr.;cfr Fr. 'Je vous en prie.';groeten & wensen
@@ -1717,7 +1717,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1716;05-26;Wat raadt u vandaag aan?;Τι μας προτείνετε σήμερα;;zin;;voedsel
 1717;05-26;Wilt u ook brood of feta?;Να σας φέρω και ψωμί ή τυρί φέτα;;zin;;voedsel
 1718;05-26;een halve liter rode wijn;μισό λίτρο κρασί κόκκινο;zin;;voedsel
-1719;05-26;Wilt u ook iets te eten? We hebben koekjes.;Θέλετε και κάτι να φάτε; Έχουμε κουλουράκια;zin;;voedsel
+1719;05-26;Wilt u ook iets te eten? We hebben koekjes.;Θέλετε και κάτι να φάτε; Έχουμε κουλουράκια;zin;;voedsel
 1720;05-26;Prima. Ga zitten waar u wilt, ik breng het zo.;Ωραία. Καθίστε όπου θέλετε, θα σας τα φέρω.;zin;;voedsel, activiteiten
 1721;05-26;in het café;Στο καφενείο;zin;;voedsel, activiteiten
 1722;05-26;Hoe drinkt u hem?;Πώς τον πίνετε;;zin;;voedsel
@@ -1752,7 +1752,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1751;05-26;naast de receptie;δίπλα στη ρεσεψιόν.;zin;;reizen, maatschappij
 1752;05-26;bij de bakker;στον φούρνο;zin;;voedsel, winkelen
 1753;05-26;We hebben boerenbrood, volkoren en wit brood.;Έχουμε χωριάτικο, ολικής και λευκό ψωμί.;zin;;voedsel
-1754;05-26;Wilt u ook iets zoets? We hebben koekjes.;Θέλετε και γλυκό; Έχουμε κουλουράκια.;zin;;voedsel
+1754;05-26;Wilt u ook iets zoets? We hebben koekjes.;Θέλετε και γλυκό; Έχουμε κουλουράκια.;zin;;voedsel
 1755;05-26;een bougatsa met room;μία μπουγάτσα με κρέμα;zin;;voedsel
 1756;05-26;op de markt;στη λαϊκή;zin;;winkelen, voedsel
 1757;05-26;Hoeveel kosten de tomaten?;Πόσο κάνουν οι ντομάτες;;zin;;winkelen, voedsel
@@ -2073,7 +2073,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0315;2025-10-22;verliezen;χάνω;ww.;herhaling;communicatie
 0316;2025-10-22;Ik heb mijn sjaal verloren.;Έχασα το κασκόλ μου.;zin;herhaling;kleding
 0317;2025-10-22;kennen;γνωρίζω;ww.;herhaling;communicatie
-0318;2025-10-22;Nooit …;Ποτέ δεν …;sterker dan Δεν … ποτέ.;herhaling;hoeveelheden, tijd
+0318;2025-10-22;Nooit …;Ποτέ δεν …;;sterker dan Δεν … ποτέ.;herhaling;hoeveelheden, tijd
 0319;2025-10-22;olielampje;(η) καντήλι;znw.;herhaling;cultuur
 0320;2025-10-22;geloven (credo);πιστεύω (π.χ. (εἰς) ἕνα(ν) Θεόν, Πατέρα, Παντοκράτορα…);ww.;herhaling;filosofie
 0321;2025-10-22;negende;ένατος -η -ο;bnw.;herhaling;hoeveelheden
