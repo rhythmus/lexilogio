@@ -15,10 +15,10 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0014;;Op uw gezondheid! | Proost!;Στην υγειά σας!;uitdr.;;groeten & wensen
 0015;05-06;Op onze gezondheid! | Proost!;(Στην υ)γεία μας!;uitdr.;;groeten & wensen
 0016;;Gezondheidjes!;Γείτσες!;uitdr.;wanneer iemand niest;groeten & wensen
-0017;;Hoe maak je het?;Τι κάνεις;zin;vraagzin;groeten & wensen
-0018;;Hoe maakt u het?;Τι κάνετε;zin;vraagzin;groeten & wensen
-0019;;Hoe is het?;Πώς είσαι;zin;vraagzin;groeten & wensen
-0020;;Hoe gaat het (met je)?;Πώς (τα) πας;zin;vraagzin;groeten & wensen
+0017;;Hoe maak je het?;Τι κάνεις;;zin;vraagzin;groeten & wensen
+0018;;Hoe maakt u het?;Τι κάνετε;;zin;vraagzin;groeten & wensen
+0019;;Hoe is het?;Πώς είσαι;;zin;vraagzin;groeten & wensen
+0020;;Hoe gaat het (met je)?;Πώς (τα) πας;;zin;vraagzin;groeten & wensen
 0021;;Prima!;Μια χαρά!;uitdr.;;groeten & wensen
 0022;;Fantastisch!;Θαύμα!;uitdr.;;groeten & wensen
 0023;;Heel goed!;Πολύ καλά!;uitdr.;;groeten & wensen
@@ -26,17 +26,17 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0025;;Zus en zo :/;Έτσι κι έτσι :/;uitdr.;;groeten & wensen
 0026;;Afschuwelijk!;Χάλια!;uitdr.;;emoties
 0027;;Heel slecht!;Πολύ άσχημα!;uitdr.;;emoties
-0028;;En jij?;Κι εσύ;zin;vraagzin;groeten & wensen
+0028;;En jij?;Κι εσύ;;zin;vraagzin;groeten & wensen
 0029;03-25;Gefeliciteerd! | Nog vele jaren!;Χρόνια πολλά!;uitdr.;;groeten & wensen
 0030;;Leve lang!;Να τα εκατοστίσεις!;uitdr.;;groeten & wensen
-0031;02-18;Hier (heb je) … !;Να + nom. ! | Ορίστε + nom. !;zin;cfr Fr. ‘voici’;groeten & wensen
+0031;02-18;Hier (heb je) … !;Να + nom. ! | Ορίστε + nom. !;zin;cfr Fr. ‘Voici (…)!’;groeten & wensen
 0032;;1. alsjeblieft 2. graag gedaan;παρακαλώ;uitdr.;cfr Fr. ‘Je vous enprie.’;groeten & wensen
 0033;;Pronto!;Εμπρός!;uitdr.;opnemen aan de telefoon;groeten & wensen
 0034;;Spreekt! | Zeg maar!;Λέγετε!;uitdr.;;groeten & wensen
 0035;;alfabet;(το) αλφάβητο;znw.;;taalkunde
 0036;;namen;τα όνοματα;znw.;;taalkunde
-0037;;Wie ben je?;Ποιος/α είσαι;zin;/pjos íesè/;groeten & wensen
-0038;;Wat is je naam?;Πώς σε λένε;zin;vraagzin;groeten & wensen
+0037;;Wie ben je?;Ποιος/α είσαι;;zin;/pjos íesè/;groeten & wensen
+0038;;Wat is je naam?;Πώς σε λένε;;zin;vraagzin;groeten & wensen
 0039;;Ik ben Jan.;Είμαι ο Γιάννης.;zin;;groeten & wensen
 0040;;Mijn naam is Jan.;Με λένε Γιάννη.;zin;;groeten & wensen
 0041;;Mijn naam is Jan.;Λέγομαι Γιάννης.;zin;;groeten & wensen
@@ -81,7 +81,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0080;;van;από + acc.;vz.;;groeten & wensen
 0081;;in;σε + acc.;vz.;;groeten & wensen
 0082;;met;με + acc.;vz.;;groeten & wensen
-0083;;Waarom?;Γιατί;bw.;vraagw.;groeten & wensen
+0083;;Waarom?;Γιατί;;bw.;vraagw.;groeten & wensen
 0084;02-18;in de buurt van, dichtbij;κοντά;bw.;;geografie
 0085;;hier;εδώ;bw.;;geografie
 0086;;maar;1. μα 2. αλλά;voegw.;;groeten & wensen
@@ -119,16 +119,16 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0118;;zegt u, zeggen jullie;λέτε;ww.;2e mv.;grammatica
 0119;;zij zeggen, ze noemen (hen);λένε;ww.;3e mv. cfr ‘Πώς σε λένε’, lett. ‘Hoe noemen ze je?’;groeten & wensen
 0120;;Tot snel!;Τα λέμε!;zin;uitdr.;groeten & wensen
-0121;;Wat wil je doen?;Τι θέλεις να κάνεις;zin;vraagzin;groeten & wensen
+0121;;Wat wil je doen?;Τι θέλεις να κάνεις;;zin;vraagzin;groeten & wensen
 0122;;Ik wil dat je dat doet!;Θέλω να κάνεις!;zin;;groeten & wensen
 0123;;hoe;πως;bw.;bw. zonder accent;groeten & wensen
-0124;;hoe;πώς;bw.;vraagw. met accent;groeten & wensen
+0124;;hoe?;πώς;;vraagw.;vraagw. met accent;groeten & wensen
 0125;;Wat is uw naam?;Πως σας λένε;zin;vraagzin;groeten & wensen
-0126;;Waar komt u vandaan?;Από πού είσαστε;zin;vraagzin;kennismaken
+0126;;Waar komt u vandaan?;Από πού είσαστε;;zin;vraagzin;kennismaken
 0127;;(al)waar;που;bw.;bw. zonder accent;groeten & wensen
-0128;;waar;πού;bw.;vraagw. met accent;groeten & wensen
-0129;;Bent u getrouwd of vrijgezel?;Είστε παντρεμένος -η ή ελεύθερος -η;zin;vraagzin;relaties
-0130;;Hoeveel verdien je?;Πόσα βγάζεις;zin;vraagzin;hoeveelheden
+0128;;waar?;πού;;vraagw.;vraagw. met accent;groeten & wensen
+0129;;Bent u getrouwd of vrijgezel?;Είστε παντρεμένος -η ή ελεύθερος -η;;zin;vraagzin;relaties
+0130;;Hoeveel verdien je?;Πόσα βγάζεις;;zin;vraagzin;hoeveelheden
 0131;;Graag gedaan!;Τίποτα! | Παρακαλώ!;uitdr.;cfr Fr. ‘De rien!’;groeten & wensen
 0132;;Geeft niets! | Kleine moeite!;(Να) κάνει τίποτα!;uitdr.;;groeten & wensen
 0133;;Ik vind Arianna echt leuk.;Μου αρέσει πολύ η Αριάννα.;zin;;emoties
@@ -201,9 +201,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0200;;punt (.) ;(η) τελεία;znw.;;taalkunde
 0201;;puntkomma ;(η) άνω τελεία;znw.;;taalkunde
 0202;;komma (,);(το) κόμμα;znw.;;taalkunde
-0203;;vraagteken (?);(το) ερωτηματικό;znw.;;taalkunde
-0204;;uitroepteken (!);(το) θαυμαστικό;znw.;;taalkunde
-0205;;dubbele punt (:);(η) διπλή τελεία;znw. groep;;taalkunde
+0203;;vraagteken (?);(το) ερωτηματικό (;);znw.;;taalkunde
+0204;;uitroepteken (!);(το) θαυμαστικό (!);znw.;;taalkunde
+0205;;dubbele punt (:);(η) διπλή τελεία (:);znw. groep;;taalkunde
 0206;;haakje ( );(η) παρένθεση;znw.;;taalkunde
 0207;;aanhalingstekens (« »);(τα) εισαγωγικά;znw.;;taalkunde
 0208;;streepje (—);(η) παύλα;znw.;;taalkunde
@@ -294,7 +294,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0293;;in Madrid;στην Μαδρίτη;plaatsnaam;;geografie
 0294;;Hij houdt niet van ouzo.;Δεν του αρέσει το ούζο.;zin;;voedsel
 0295;;in Australië;στην Αυστραλία;plaatsnaam;;geografie
-0296;;Is het (misschien) … ?, Misschien … ?;Μήπως …;zin;vraagzin, cfr. Fr. ‘Est-ce que …’;groeten & wensen
+0296;;Is het (misschien) … ? | Misschien … ?;Μήπως …;;zin;vraagzin, cfr. Fr. ‘Est-ce que …’;groeten & wensen
 0297;02-11;paraplu;(η) ομπρέλα;znw.;;kleding
 0298;;spiegel;(ο) καθρέφτης;znw.;;dingen
 0299;03-11;goedkoop;φτηνός -ή -ό;bnw.;;
@@ -304,7 +304,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0303;;Hallo, Alexis!;Γεια σου, Αλέξη!;uitdr.;;groeten & wensen
 0304;;Hallo, Spyro!;Γεια σου, Σπύρο!;uitdr.;;groeten & wensen
 0305;;of;ή;voegw.;;groeten & wensen
-0306;;Waar ben je?;Πού είσαι;zin;vraagzin;groeten & wensen
+0306;;Waar ben je?;Πού είσαι;;zin;vraagzin;groeten & wensen
 0307;;Ik ben thuis.;Είμαι στο σπίτι.;zin;;relaties
 0308;;op school;στο σχολείο;zin;;beroepen
 0309;;in de taverne;στην ταβέρνα;zin;;voedsel
@@ -319,7 +319,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0318;;op Kreta;στην Κρήτη;plaatsnaam;;geografie
 0319;;op de Akropolis;στην Ακρόπολη;plaatsnaam;;geografie
 0320;;in Brussel;στις Βρυξέλλες;plaatsnaam;;geografie
-0321;;Waar kom je vandaan?;Από πού είσαι;zin;vraagzin;groeten & wensen
+0321;;Waar kom je vandaan?;Από πού είσαι;;zin;vraagzin;groeten & wensen
 0322;;Ik kom uit België.;Είμαι απο το Βέλγιο.;zin;;geografie
 0323;;uit Griekenland;από την Ελλάδα;plaatsnaam;;geografie
 0324;;uit Frankrijk;από την Γαλλία;plaatsnaam;;geografie
@@ -335,14 +335,14 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0334;;uit Hongarije;από την Ουγγαρία;plaatsnaam;;geografie
 0335;;uit Ierland;από την Ιρλανδία;plaatsnaam;;geografie
 0336;;Aangenaam, meneer Dallaras! Hoe maakt u het?;Χαίρετε, κύριε Νταλάρα! Πώς είστε;zin;vraagzin;kennismaken
-0337;;Waar woon je?;Που μένεις;vraagzin;;groeten & wensen
+0337;;Waar woon je?;Που μένεις;;vraagzin;;groeten & wensen
 0338;;Ik woon in België, in Leuven.;Μένω στο Βέλγιο, στο Λοβάνι.;zin;;geografie
 0339;;in Antwerpen;στην Αντβέρπια, στο Antwerpen;plaatsnaam;;geografie
 0340;;in Thessaloniki;στην Θεσσαλονίκη;plaatsnaam;;geografie
 0341;;in Nafplio;στο Ναύπλιο;plaatsnaam;;geografie
 0342;;in Volos;στον Βόλο;plaatsnaam;;geografie
 0343;;in Rome;στην Ρώμη;plaatsnaam;;geografie
-0344;;Kent u Grieks? / Spreekt u Grieks?;Ξέρετε ελληνικά;zin;vraagzin;kennismaken
+0344;;Kent u Grieks? | Spreekt u Grieks?;Ξέρετε ελληνικά;;zin;vraagzin;kennismaken
 0345;;Nee, ik weet het niet, maar ik begrijp het een beetje!;Όχι, δεν ξέρω, μα καταλαβαίνω λίγο!;zin;;groeten & wensen
 0346;;Frans;(τα) γαλλικά;eigennaam;;groeten & wensen
 0347;;Engels;(τα) αγγλικά;eigennaam;;groeten & wensen
@@ -355,11 +355,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0354;;Chinese;(τα) κινέζικα;eigennaam;;groeten & wensen
 0355;;Arabisch;(τα) αραβικά;eigennaam;;groeten & wensen
 0356;;alles duidelijk;όλα καθαρά;zin;uitdr.;groeten & wensen
-0357;;Op wie wacht je?;Ποιον περιμένεις;zin;vraagzin;groeten & wensen
+0357;;Op wie wacht je?;Ποιον περιμένεις;;zin;vraagzin;groeten & wensen
 0358;;Ik wacht op Vangelis.;Περιμένω τον Βαγγέλη.;zin;;groeten & wensen
 0359;;kind;(το) παιδί;znw.;;relaties
 0360;;meisje;(το) κορίτσι;znw.;;relaties
-0361;;Wat wil je?;Τι θέλεις;zin;vraagzin;groeten & wensen
+0361;;Wat wil je?;Τι θέλεις;;zin;vraagzin;groeten & wensen
 0362;;Ik wil koffie.;Θέλω έναν καφέ.;zin;;voedsel
 0363;;een frapé;έναν φραπέ;znw.;;voedsel
 0364;;een melk;ένα γάλα;znw.;;voedsel
@@ -370,7 +370,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0369;;een fètagebak;μια τυρόπιτα;znw.;;voedsel
 0370;;een baklavas;έναν μπακλαβά;znw.;;voedsel
 0371;;een sinaasappelsap;έναν χυμό πορτοκάλι;znw.;;voedsel
-0372;;Heeft u een probleem?;Έχετε (κανένα) πρόβλημα;zin;vraagzin;
+0372;;Heeft u een probleem?;Έχετε (κανένα) πρόβλημα;;zin;vraagzin;
 0373;02-25;auto(mobiel), wagen;(το) αυτοκίνητο - (τα) αυτοκίνητα;znw.;;reizen
 0374;;mobieltje, mobiele telefoon, gsm;(το) κινητό;znw.;;groeten & wensen
 0375;04-22;telefoon;(το) τηλέφωνο - (τα) τηλέφωνα;znw.;;dingen
@@ -387,7 +387,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0386;;acht;οκτώ;telw.;;hoeveelheden
 0387;;negen;εννέα;telw.;;hoeveelheden
 0388;;tien;δέκα;telw.;;hoeveelheden
-0389;;Hoe laat is het?;Τι ώρα είναι;zin;vraagzin;kalender
+0389;;Hoe laat is het?;Τι ώρα είναι;;zin;vraagzin;kalender
 0390;;minuut;(το) λεπτό - (τα) λεπτά;znw.;;kalender
 0391;;seconde;το δευτερόλεπτο;znw.;;kalender
 0392;;het vierde, kwart, kwartier;το τέταρτο;znw.;;kalender
@@ -504,14 +504,14 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0503;;Paros;η Πάρος;plaatsnaam;;geografie
 0504;;Poros;ο Πόρος;plaatsnaam;;geografie
 0505;;Verenigde Staten (van Amerika) (VS);(οι) Ηνωμένες Πολιτείες (της Αμερικής) (ΗΠΑ);plaatsnaam;;geografie
-0506;;Alstublieft, hoeveel kost het?;Παρακαλώ, πόσο κάνει;vraagzin;;hoeveelheden
+0506;;Alstublieft, hoeveel kost het?;Παρακαλώ, πόσο κάνει;;vraagzin;;hoeveelheden
 0507;02-25;luchthaven;(το) αεροδρόμιο - (τα) αεροδρόμια;znw.;;reizen
 0508;02-25;vliegtuig;(το) αεροπλάνο - (τα) αεροπλάνα;znw.;;reizen
 0509;;Welkom, Theodoor!;Καλώς όρισες, Θόδωρο!;uitdr.;;groeten & wensen
 0510;;Christina is klaar.;Η Χριστίνα είναι έτοιμη.;zin;;
-0511;;Wie is er aan de telefoon?;Ποιος είναι στο τηλέφωνο;zin;vraagzin;groeten & wensen
+0511;;Wie is er aan de telefoon?;Ποιος είναι στο τηλέφωνο;;zin;vraagzin;groeten & wensen
 0512;;Ik wil een wijn!;Θέλω ένα κρασί!;zin;;voedsel
-0513;;Waar gaat Andreas heen?;Πού πάει ο Αντρέας;zin;vraagzin;groeten & wensen
+0513;;Waar gaat Andreas heen?;Πού πάει ο Αντρέας;;zin;vraagzin;groeten & wensen
 0514;;zeg jij;λες;ww.;;groeten & wensen
 0515;;wij zeggen;λέμε;ww.;;groeten & wensen
 0516;;mama;(η) μαμά - (οι) μαμάδες;znw.;;relaties
@@ -530,7 +530,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0529;;rechter;(ο) δικαστής;znw.;;beroepen
 0530;;advocaat;(ο) δικηγόρος;znw.;;beroepen
 0531;;Spreek met uw buurvrouw!;Μιλήστε με την διπλανή σας!;zin;;groeten & wensen
-0532;;Excuseer me, juffrouw, bent u getrouwd?;Συγνώμι δεσποινί, είσαστε παντρεμένη;zin;vraagzin;relaties
+0532;;Excuseer me, juffrouw, bent u getrouwd?;Συγνώμι δεσποινί, είσαστε παντρεμένη;;zin;vraagzin;relaties
 0533;;Nee, ik ben vrijgezel, maar gescheiden.;Όχι, είμαι ελεύθερη, αλλά χωρισμένη.;zin;;relaties
 0534;;Poeh poeh, ik ben een varkentje, geen (groot) varken…;Πω πω, είμαι χύρος, καί όχι γοιρος…;zin;;emoties
 0535;;(Het was me) Aangenaam (kennis te hebben gemaakt)!;Χάρηκα!;uitdr.;bij afscheid na eerste kennismaking;kennismaken
@@ -557,19 +557,19 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0556;;tante;(η) θεία;znw.;;relaties
 0557;;zoon;(ο) γιός;znw.;;relaties
 0558;;dochter;(η) κόρη - (οι) κόρες;znw.;;relaties
-0559;;En hoe lang bent u hier al?;Και πόσον καιρό είστε εδώ;zin;vraagzin;kennismaken
+0559;;En hoe lang bent u hier al?;Και πόσον καιρό είστε εδώ;;zin;vraagzin;kennismaken
 0560;02-11, 03-11;dag;(η) ήμερα, (η) μέρα - (οι) μέρες;znw.;;kalender
 0561;02-11;week;(η) εβδομάδα;znw.;;kalender
 0562;;maand;ο μήνας;znw.;;kalender
 0563;04-22;1. jaar 2. tijd;(ο) χρόνος - (οι) χρόνοι;znw.;;kalender
-0564;;Werk of studeer je?;Δουλεύεις ή σπουδάζεις;zin;vraagzin;beroepen
+0564;;Werk of studeer je?;Δουλεύεις ή σπουδάζεις;;zin;vraagzin;beroepen
 0565;;voor, aan, om, naar;για + acc.;vz.;;grammatica
 0566;;ik was te laat;άργησα;zin;;kalender
 0567;;je was te laat;άργησες;zin;;kalender
 0568;;Wel, wel! | Zeg, zeg!;Πω, πω!;uitdr.;;groeten & wensen
 0569;;dokter;(ο/η) γιατρός;znw.;;relaties
 0570;;hotel;(το) ξενοδοχείο;znw.;;reizen
-0571;;Mijn naam is Joris. En de jouwe?;Με λένε Γιώργο. Κι εσένα;zin;;relaties
+0571;;Mijn naam is Joris. En de jouwe?;Με λένε Γιώργο. Κι εσένα;;zin;;relaties
 0572;;directrice;(η) διευθύντρια;znw.;;beroepen
 0573;;arbeider;(ο) εργάτης;znw.;;beroepen
 0574;;arbeidster;(η) εργάτρια;znw.;;beroepen
@@ -622,12 +622,12 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0621;;klein chocolaatje, praline;(το) σοκολατάκι;znw.;;voedsel
 0622;;niet goed :(;Όχι καλά :(;uitdr.;;emoties
 0623;;Laten we naar het café gaan.;Πάμε στο καφενείο;zin;;groeten & wensen
-0624;;Welke koffie wilt u?;Τι καφέ θέλετε;zin;vraagzin;groeten & wensen
+0624;;Welke koffie wilt u?;Τι καφέ θέλετε;;zin;vraagzin;groeten & wensen
 0625;;een Griekse koffie, droog;έναν καφέ ελληνικό σκέτο;znw. groep;;voedsel
 0626;;een bruine Franse grande met melk;έναν καφέ γαλλικό μεγάλο με γάλα;znw. groep;;voedsel
 0627;;een bruinfilter;έναν καφέ φίλτρο;znw. groep;;voedsel
 0628;;een Nesscafé;έναν Νες;znw.;;voedsel
-0629;;Hoe drink je het?;Πώς τον πίνετε;zin;vraagzin;groeten & wensen
+0629;;Hoe drink je het?;Πώς τον πίνετε;;zin;vraagzin;groeten & wensen
 0630;;puur, medium, zoet, zwaar zoet;σκέτο, μέτριο, γλυκό, βαρύ γλυκό;bnw.;;voedsel
 0631;;thee met citroen;τσάι με λεμόνι;znw. groep;;voedsel
 0632;;thee met honing;τσάι με μέλι;znw. groep;;voedsel
@@ -642,8 +642,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0641;;Het maakt niet uit.;Δεν πειράζει.;uitdr.;;groeten & wensen
 0642;02-11;euro;(το) ευρώ;znw.;;hoeveelheden
 0643;;betalen;πληρώνω;ww.;;groeten & wensen
-0644;;Hoeveel kost het?;Πόσο κάνει;zin;vraagzin;hoeveelheden
-0645;;Hoeveel kosten ze?;Πόσο κάνουν;zin;vraagzin;hoeveelheden
+0644;;Hoeveel kost het?;Πόσο κάνει;;zin;vraagzin;hoeveelheden
+0645;;Hoeveel kosten ze?;Πόσο κάνουν;;zin;vraagzin;hoeveelheden
 0646;;uitgang;(η) έξοδος;znw.;;
 0647;;1. ingang 2. binnenkomst;(η) είσοδος;znw.;;
 0648;;ticket;(το) εισιτήριο;znw.;;reizen
@@ -686,7 +686,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0685;;Ik denk niet dat …;Δεν νομίζω ότι …;zin;;groeten & wensen
 0686;;Ik weet niet hoe laat het is.;Δεν ξέρω τι ώρα είναι.;zin;;groeten & wensen
 0687;;Ik weet niet waarom ik van je hou.;Δεν ξέρω γιατί σ' αγαπώ.;zin;;emoties
-0688;;Bent u moe?;Μήπως είστε κουρασμένοι;zin;vraagzin;emoties
+0688;;Bent u moe?;Μήπως είστε κουρασμένοι;;zin;vraagzin;emoties
 0689;;één euro;ένα Ευρώ;znw.;;hoeveelheden
 0690;;Akis;ο Άκης;eigennaam;;namen
 0691;;informeel;φιλικός -ή -ό;bnw.;;taalkunde
@@ -703,7 +703,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0702;;brief;(το) γράμμα - (τα) γράμματα;znw.;;groeten & wensen
 0703;;probleem;(το) πρόβλημα - (τα) προβλήματα;znw.;;filosofie
 0704;;begrip van gesproken taal;(η) κατανόηση προφορικού λόγου;znw. groep;;groeten & wensen
-0705;;Welk nieuws?;Τι νέα;zin;vraagzin;groeten & wensen
+0705;;Welk nieuws?;Τι νέα;;zin;vraagzin;groeten & wensen
 0706;;Hetzelfde.;Τα ίδια.;zin;uitdr.;groeten & wensen
 0707;;Voor mij ook (het zelfde).;Κι εγώ τα ίδια.;uitdr.;;groeten & wensen
 0708;;portemonnee;(το) πορτοφόλι;znw.;;dingen
@@ -717,7 +717,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0716;;zuster;(η) αδερφή;znw.;;relaties
 0717;;Vertaalt!;Να μεταφράσετε!;ww.;imp.;groeten & wensen
 0718;;1. Aangename kennismaking! 2. Erg prettig!;Χάρηκα πολύ!;uitdr.;;groeten & wensen
-0719;;Hoe zeg je dat in het Grieks?;Πώς το λένε αυτό στα ελληνικά;zin;vraagzin;groeten & wensen
+0719;;Hoe zeg je dat in het Grieks?;Πώς το λένε αυτό στα ελληνικά;;zin;vraagzin;groeten & wensen
 0720;;God zij dank!;Δόξα τω Θεώ!;uitdr.;;groeten & wensen
 0721;;Vul de ontbrekende woorden in.;Συμπληρώστε τις λέξεις που λείπουν.;zin;;taalkunde
 0722;;Beantwoordt de vragen!;Απαντήστε στις ερωτήσεις!;zin;;taalkunde
@@ -742,7 +742,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0741;;dorp;(το) χωριό;znw.;;geografie
 0742;;rustiek, boers, landelijk, dorps, van het dorp, dorps-;χωριάτικος -η -ο;bnw.;;
 0743;;een boerensalade;μια χωριάτικη σαλάτα;znw. groep;;voedsel
-0744;;Wilt u nog iets anders?;Θέλετε τίποτα άλλο;zin;vraagzin;winkelen
+0744;;Wilt u nog iets anders?;Θέλετε τίποτα άλλο;;zin;vraagzin;winkelen
 0745;03-25;juist;σωστός -ή -ό;bnw.;;filosofie
 0746;;de kou(de);(το) κρύο;znw.;;natuur
 0747;;namiddag;(το) απόγευμα - (τα) απογεύματα;znw.;;kalender
@@ -777,7 +777,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0776;;beer;(η) αρκούδα;znw.;;natuur
 0777;04-01;sneeuw;(το) χιόνι;znw.;;natuur
 0778;;uitschelden;μαλώνω;ww.;;emoties
-0779;;1. Wat ga je (later) worden? 2. Wat zal er van je worden?;Τι θα γίνεις;zin;vraagzin;
+0779;;1. Wat ga je (later) worden? 2. Wat zal er van je worden?;Τι θα γίνεις;;zin;vraagzin;
 0780;;analfabeet;αγράμματος -η -ο;bnw.;;
 0781;;ziek worden;αρρωσταίνω;ww.;;lichaam
 0782;;ik zal het niet uithouden;δε θ'αντέξω;zin;;emoties
@@ -795,23 +795,23 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0794;02-18;ver (weg), veraf;μακριά;bw.;;geografie
 0795;02-18;rechts;δεξιά;bw.;;geografie
 0796;02-18;links;αριστερά;bw.;;geografie
-0797;;Bent u een buitenlander?;Είστε ξένος;zin;vraagzin;groeten & wensen
-0798;;Waar precies?;Πού ακριβώς;zin;vraagzin;geografie
+0797;;Bent u een buitenlander?;Είστε ξένος;;zin;vraagzin;groeten & wensen
+0798;;Waar precies?;Πού ακριβώς;;zin;vraagzin;geografie
 0799;;zeker, beslist (bnw.);βέβαιος -η -ο;bnw.;;groeten & wensen
 0800;02-18;straat (in straatnaam);(η) οδός;znw.;formeel;geografie
 0801;02-18;weg;(ο) δρόμος;znw.;;geografie
 0802;;in de Hermesstraat;(στην (οδό)) Ερμού;znw. groep;;geografie
 0803;;eenheid;(η) ομόνοια;znw.;;filosofie
-0804;;Wil je iets?;Θέλεις τίποτα;zin;vraagzin;groeten & wensen
+0804;;Wil je iets?;Θέλεις τίποτα;;zin;vraagzin;groeten & wensen
 0805;;Nee, ik wil niets.;Όχι, δεν θέλω τίποτα.;zin;;groeten & wensen
 0806;;Nee, niets.;Όχι, τίποτα.;zin;;groeten & wensen
 0807;;iets;κάτι;bw.;alleen affirmatief gebruikt;groeten & wensen
 0808;;Ja, ik wil iets.;Ναι, θέλω κάτι.;zin;;groeten & wensen
-0809;;Ga jij (wel eens) naar de bioscoop?;Πας (ποτέ) στο σινεμά;zin;vraagzin;activiteiten
+0809;;Ga jij (wel eens) naar de bioscoop?;Πας (ποτέ) στο σινεμά;;zin;vraagzin;activiteiten
 0810;;Ik ga nooit.;Δεν πάω ποτέ.;zin;;activiteiten
 0811;;Nooit.;Ποτέ.;bw.;;kalender
 0812;;Ik ga een keer.;Πάω κάποτε.;zin;;activiteiten
-0813;;Weet iemand hoe laat het is?;Ξέρει κανένας τι ώρα είναι;zin;vraagzin;kalender
+0813;;Weet iemand hoe laat het is?;Ξέρει κανένας τι ώρα είναι;;zin;vraagzin;kalender
 0814;;Niemand weet het;Δεν ξέρει κανένας;zin;;groeten & wensen
 0815;;geen;κανένας;vnw.;;hoeveelheden
 0816;;Ja, iemand weet het.;Ναι, ξέρει κάποιος.;zin;;groeten & wensen
@@ -819,7 +819,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0818;;Ik hoop niets.;Δεν ελπίζω τίποτα.;zin;;emoties
 0819;;Ik ben vrij.;Είμαι ελεύθερος.;zin;;emoties
 0820;;15.30 (half vier);τρεις και μισή;zin;;kalender
-0821;;Hoe laat gaat u naar uw werk?;Τι ώρα πάτε στη δουλειά σας;zin;vraagzin;beroepen
+0821;;Hoe laat gaat u naar uw werk?;Τι ώρα πάτε στη δουλειά σας;;zin;vraagzin;beroepen
 0822;;om negen uur;στις εννέα η ώρα;zin;;kalender
 0823;;om één uur precies;στην μια η ώρα ακριβώς;zin;op het hele uur;kalender
 0824;;… uur;… η ώρα;znw. groep;vaste uitdrukking voor het volle uur, onveranderlijk, cfr. Eng. ‘o’clock’;kalender
@@ -945,8 +945,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0944;;ziekenhuis;(το) νοσοκομείο;znw.;;lichaam
 0945;;Kom, kom!;Έλα, έλα!;uitdr.;;groeten & wensen
 0946;;Kom voor koffie!;Έλα για καφέ!;uitdr.;;groeten & wensen
-0947;;Zullen we koffie gaan drinken?;Πάμε για καφέ;zin;vraagzin;reizen
-0948;;Vertrouw je me niet?;Δεν με εμπιστεύεσαι;zin;vraagzin;emoties
+0947;;Zullen we koffie gaan drinken?;Πάμε για καφέ;;zin;vraagzin;reizen
+0948;;Vertrouw je me niet?;Δεν με εμπιστεύεσαι;;zin;vraagzin;emoties
 0949;;rechte lijn;(η) ευθεία(ν);znw.;;kleuren & vormen
 0950;;meneer;κύριε;znw.;vocatief;groeten & wensen
 0951;;mevrouw;κυρία;znw.;vocatief;groeten & wensen
@@ -1039,11 +1039,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1038;02-11;handwerk;χειροποίητος -η -ο;bnw.;;beroepen
 1039;02-11;dollar;(το) δολάριο;znw.;;hoeveelheden
 1040;02-11;pond;(η) λίρα;znw.;;hoeveelheden
-1041;02-11;Hoe lang nog?;Για πόσον καιρό;zin;vraagzin;hoeveelheden
-1042;02-11;Welke wilt u?;Ποιο θέλετε;zin;vraagzin;groeten & wensen
-1043;02-11;Welke (kamer) kijkt uit op de zee?;Ποια βλέπει στην θάλασσα;zin;vraagzin;reizen
-1044;02-11;Op welke verdieping woont u?;Σε ποιον όροφο μένετε;zin;vraagzin;reizen
-1045;02-11;Welke kamer wilt u?;Τι δωμάτιο θέλετε;zin;vraagzin;groeten & wensen
+1041;02-11;Hoe lang nog?;Για πόσον καιρό;;zin;vraagzin;hoeveelheden
+1042;02-11;Welke wilt u?;Ποιο θέλετε;;zin;vraagzin;groeten & wensen
+1043;02-11;Welke (kamer) kijkt uit op de zee?;Ποια βλέπει στην θάλασσα;;zin;vraagzin;reizen
+1044;02-11;Op welke verdieping woont u?;Σε ποιον όροφο μένετε;;zin;vraagzin;reizen
+1045;02-11;Welke kamer wilt u?;Τι δωμάτιο θέλετε;;zin;vraagzin;groeten & wensen
 1046;02-11, 03-11;koud;κρύος -α -ο;bnw.;;natuur
 1047;02-11;grappig;αστείος -α -ο;bnw.;;emoties
 1048;02-11,02-18, 05-06, 03-11;oud;1. αρχαίος -α -ο 2. παλιός -ά -ό;bnw.;;
@@ -1063,7 +1063,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1062;02-11;kaarten;παίζω χαρτιά;ww. groep;;activiteiten
 1063;02-11;toneelspelen;παίζω θέατρο;ww. groep;;beroepen
 1064;02-11;complex;(το) συγκρότημα;znw.;;filosofie
-1065;02-11;Waarom niet?;Γιατί όχι;zin;vraagzin;groeten & wensen
+1065;02-11;Waarom niet?;Γιατί όχι;;zin;vraagzin;groeten & wensen
 1066;02-11;meisje, vriendin, liefje;(η) κοπέλα;znw.;;relaties
 1067;02-11, 03-11;’s ochtends;το πρωί;znw.;;kalender
 1068;02-11, 03-11;’s middags;(το) μεσημέρι;znw.;;kalender
@@ -1074,12 +1074,12 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1073;02-11;appartement;(το) διαμέρισμα;znw.;;wonen
 1074;02-11;flatgebouw, appartementsgebouw;(η) πολυκατοικία;znw.;;wonen
 1075;02-11;in een huis wonen;μένω σε σπίτι;zin;;wonen
-1076;02-11;Wie(n) wilt u (spreken)?;Ποιον θέλετε;zin;vraagzin;groeten & wensen
-1077;02-11;Wat wilt u van hem?;Τι τον θέλετε;zin;vraagzin;groeten & wensen
+1076;02-11;Wie(n) wilt u (spreken)?;Ποιον θέλετε;;zin;vraagzin;groeten & wensen
+1077;02-11;Wat wilt u van hem?;Τι τον θέλετε;;zin;vraagzin;groeten & wensen
 1078;02-18;Prettig verblijf!;Καλή διαμονή!;uitdr.;;groeten & wensen
 1079;02-18;Veel plezier!;Καλά να περάσετε!;uitdr.;;groeten & wensen
 1080;02-18;zonder ontbijt;χωρίς πρωινό;zin;;voedsel
-1081;02-18;Welke kamer wilt u? Een tweepersoonskamer of een eenpersoonskamer?;Τι δωμάτιο θέλετε? Δίκλινο ή μονόκλινο;zin;vraagzin;groeten & wensen
+1081;02-18;Welke kamer wilt u? Een tweepersoonskamer of een eenpersoonskamer?;Τι δωμάτιο θέλετε; Δίκλινο ή μονόκλινο;;zin;vraagzin;groeten & wensen
 1082;02-18, 02-25;met de trein;με το τρένο;zin;;reizen
 1083;02-18;binnenin;μέσα;bw.;;
 1084;02-18;uit;έξω;bw.;;
@@ -1090,15 +1090,15 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1089;02-18;kruis;(ο) σταύρος;znw.;;
 1090;02-18;kruiswoordpuzzel;(το) σταυρόλεξο;znw.;;beroepen
 1091;02-18;stoplicht, verkeerslicht;(το) φανάρι;znw.;;reizen
-1092;02-18;Is er een dokter (in de buurt)?;Υπάρχει κανένας γιατρός;zin;vraagzin;groeten & wensen
-1093;02-18;Is er een taverne (in de buurt)?;Υπάρχει καμιά ταβέρνα (στην περιοχή);zin;vraagzin;groeten & wensen
-1094;02-18;Is er iemand die … ?;Υπάρχει κάποιος που …;zin;vraagzin;groeten & wensen
-1095;02-18;Is er een apotheek (in de buurt)?;Υπάρχει κανένα φαρμακείο;zin;vraagzin;groeten & wensen
+1092;02-18;Is er een dokter (in de buurt)?;Υπάρχει κανένας γιατρός;;zin;vraagzin;groeten & wensen
+1093;02-18;Is er een taverne (in de buurt)?;Υπάρχει καμιά ταβέρνα (στην περιοχή);;zin;vraagzin;groeten & wensen
+1094;02-18;Is er iemand die … ?;Υπάρχει κάποιος που … ;;zin;vraagzin;groeten & wensen
+1095;02-18;Is er een apotheek (in de buurt)?;Υπάρχει κανένα φαρμακείο;;zin;vraagzin;groeten & wensen
 1096;02-18;wij zijn in de Overwinningsstraat;είμαστε στην οδό Νίκης;zin;;geografie
 1097;02-18;laan, boulevard;(η) λεωφόρος;znw.;;geografie
 1098;02-18;op de Vredes-Avenue;στην λεωφόρο Ειρήνης;zin;;geografie
 1099;02-18;de weg wijzen/uitleggen;δείχνω/εξηγώ το δρόμο;zin;;geografie
-1100;02-18;Waar is …, alstublieft?;Παρακαλώ, που είναι …;zin;vraagzin;geografie
+1100;02-18;Waar is …, alstublieft?;Παρακαλώ, που είναι … ;;zin;vraagzin;geografie
 1101;02-18;twee of drie hoeken;δύο-τρία τετράγωνα;znw. groep;;hoeveelheden
 1102;02-18;na;μετά;vz.;;
 1103;02-18;ga recht naar beneden;πηγαίνετε ευθεία κάτω;zin;;reizen
@@ -1246,16 +1246,16 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1245;03-11;altijd dragen;φοράω πάντα;ww. groep;;kleding
 1246;03-11;vallen;πέφτω;ww.;;
 1247;03-11;de bus vertrekt;το λεωφορείο φεύγει;zin;;reizen
-1248;03-11;Wacht u een ogenblikje?;Περιμένετε ένα λεπτό;zin;vraagzin;kalender
+1248;03-11;Wacht u een ogenblikje?;Περιμένετε ένα λεπτό;;zin;vraagzin;kalender
 1249;03-11;Ik hou heel veel van je!;Σε αγαπάω πολύ! | Σ'αγαπώ πολύ!;zin;;emoties
-1250;03-11;Komt u langs het postkantoor?;Μήπως περνάτε από το ταχυδρομείο;zin;vraagzin;geografie
+1250;03-11;Komt u langs het postkantoor?;Μήπως περνάτε από το ταχυδρομείο;;zin;vraagzin;geografie
 1251;03-11;Hij wil kip, een Griekse salade en wijn.;Θέλει κοτόπουλο, μία ελληνική σαλάτα, και κρασί.;zin;;voedsel
 1252;03-11;Drinkt u ’s ochtends geen koffie?;Δεν πίνετε καφέ το πρωί;zin;vraagzin;voedsel
 1253;03-11;we hebben veel honger;πεινάμε πολύ;zin;;voedsel
 1254;03-11;Ik houd van lamsvlees;μου αρέσει το αρνάκι;zin;;voedsel
 1255;03-11;Kom op, Niko!;Έλα, Νίκο!;uitdr.;;groeten & wensen
 1256;03-11;eten is klaar;το φαγητό είναι έτοιμο;zin;;voedsel
-1257;03-11;Wie betaalt de rekening?;Ποιος πληρώνει τον λογαρισμό;zin;vraagzin;voedsel
+1257;03-11;Wie betaalt de rekening?;Ποιος πληρώνει τον λογαρισμό;;zin;vraagzin;voedsel
 1258;03-11;vragen;ρωτάω;ww.;;groeten & wensen
 1259;03-11;antwoorden;απαντάω;ww.;;groeten & wensen
 1260;03-11;(in)studeren, blokken;μελετάω;ww.;;beroepen
@@ -1276,15 +1276,15 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1275;03-18, 05-06;vroeg;νωρίς;bw.;;kalender
 1276;03-18;vraag;(η) ερώτηση - (οι) ερωτήσεις;znw.;;groeten & wensen
 1277;03-11, 03-18;een toertje/wandelingetje maken, rondslenteren, waggelen, boemelen;βγάζω/κάνω/πάω βόλτα;ww. groep;;activiteiten
-1278;03-18;Zullen we … ?;Πάμε …;zin;vraagzin;groeten & wensen
-1279;03-18;Zullen we naar het theater gaan?;Πάμε στο θέατρο;zin;vraagzin;groeten & wensen
+1278;03-18;Zullen we … ?;Πάμε … ;;zin;vraagzin;groeten & wensen
+1279;03-18;Zullen we naar het theater gaan?;Πάμε στο θέατρο;;zin;vraagzin;groeten & wensen
 1280;03-18;Laten we naar de taverne gaan!;Πάμε στην ταβέρνα!;zin;;voedsel
-1281;03-18;Zullen we naar het Plein gaan?;Πάμε στην Πλατεία;zin;vraagzin;geografie
+1281;03-18;Zullen we naar het Plein gaan?;Πάμε στην Πλατεία;;zin;vraagzin;geografie
 1282;03-18;Laten we naar het museum gaan!;Πάμε στο μουσείο!;zin;;geografie
-1283;03-18;Zullen we naar de zee gaan?;Πάμε στη θάλασσα;zin;vraagzin;natuur
+1283;03-18;Zullen we naar de zee gaan?;Πάμε στη θάλασσα;;zin;vraagzin;natuur
 1284;03-18;Zullen we koffie gaan drinken?;Πάμε για καφέ;zin;vraagzin;voedsel
 1285;03-18;Laten we wijn gaan drinken!;Πάμε για κρασί!;zin;;voedsel
-1286;03-18;Wat voor eten heeft u? / Wat serveert u?;Τι φαγητό έχετε;zin;vraagzin;voedsel
+1286;03-18;Wat voor eten heeft u? / Wat serveert u?;Τι φαγητό έχετε;;zin;vraagzin;voedsel
 1287;03-18;Wij hebben (eten) kip en aardappelen.;Έχουμε κοτόπουλο με πατάτες.;zin;;voedsel
 1288;03-18;Wij hebben (eten)  lamsfricassee.;Έχουμε αρνάκι φρικασέ.;zin;;voedsel
 1289;03-18;Wij hebben (eten)  gebakken eieren en worstjes.;Έχουμε αυγά τηγανιτά και λουκάνικα.;zin;;voedsel
@@ -1304,8 +1304,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1303;03-18;televisie kijken;βλέπω τηλεόραση;ww. groep;;activiteiten
 1304;03-18;naar de bioscoop gaan;πάω σινεμά;ww. groep;;activiteiten
 1305;03-18;lunch;(το) μεσημεριανό;znw.;;voedsel
-1306;03-18;Hoe brengt u uw dag door? | Wat doet u zoal overdag?;Πώς περνάτε την μέρα σας;zin;vraagzin;kalender
-1307;03-18;Duurt het nog lang tot de volgende (bus/tram)? | Is de volgende (bus/tram) nog veraf?;Αργεί το επόμενο;zin;vraagzin;reizen
+1306;03-18;Hoe brengt u uw dag door? | Wat doet u zoal overdag?;Πώς περνάτε την μέρα σας;;zin;vraagzin;kalender
+1307;03-18;Duurt het nog lang tot de volgende (bus/tram)? | Is de volgende (bus/tram) nog veraf?;Αργεί το επόμενο;;zin;vraagzin;reizen
 1308;03-18;Begrepen!;Κατάλαβα!;zin;;groeten & wensen
 1309;03-18;Daar gaat de tram!;Πάει το τρόλεϊ!;zin;;reizen
 1310;03-18;Zeker!;Σίγουρα!;uitdr.;;groeten & wensen
@@ -1352,9 +1352,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1351;03-25;keuken;(η) κουζίνα - (οι) κουζίνες;znw.;;voedsel
 1352;03-25;fout;λάθος -η -ο;bnw.;;filosofie
 1353;03-25;vlucht;(η) πτήση - (οι) πτήσεις;znw.;;reizen
-1354;03-25;Hoe laat vertrekt de vlucht van(af) … ?;Τι ώρα φεύγει η πτήση από τον/την …;zin;vraagzin;reizen
+1354;03-25;Hoe laat vertrekt de vlucht van(af) … ?;Τι ώρα φεύγει η πτήση από τον/την … ;;zin;vraagzin;reizen
 1355;03-25;vlucht vertrekt vanaf … om …;Η πτήση φεύγει από τον/την … στις …;zin;;reizen
-1356;03-25;Hoe laat vertrekt de vlucht naar … ?;Τι ώρα φεύγει η πτήση για το(ν)/την …;zin;vraagzin;reizen
+1356;03-25;Hoe laat vertrekt de vlucht naar … ?;Τι ώρα φεύγει η πτήση για το(ν)/την … ;;zin;vraagzin;reizen
 1357;03-25;De vlucht naar … vertrekt om …;Η πτήση για το(ν)/την … φεύγει στις …;zin;;reizen
 1358;03-25;goevetsi (schotel);(το) γουβέτσι - (τα) γουβέτσια;znw.;;voedsel
 1359;03-25;pastitsio;(το) παστίτσιο - (τα) παστίτσια;znw.;;voedsel
@@ -1375,8 +1375,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1374;03-25;menukaart, lijst, catalogus;(ο) κατάλογος - (οι) κατάλογοι;znw.;;dingen
 1375;03-25;bevroren;παγωμένος -η -ο;bnw.;;natuur
 1376;03-25;helemaal niet;καθόλου;bw.;(met ontkenning);
-1377;03-25;Is er niemand?;Δεν υπάρχει κανένας;zin;vraagzin;
-1378;03-25;Zijn er geen?;Δεν υπάρχει καμιά;zin;vraagzin;
+1377;03-25;Is er niemand?;Δεν υπάρχει κανένας;;zin;vraagzin;
+1378;03-25;Zijn er geen?;Δεν υπάρχει καμιά;;zin;vraagzin;
 1379;03-25;er is geen;δεν υπάρχει κανένα;zin;;
 1380;03-25;dier;(το) ζώο - (τα) ζώα;znw.;;natuur
 1381;03-25;spin;(η) αράχνη - (οι) αράχνες;znw.;;natuur
@@ -1384,7 +1384,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1383;03-25;Hier zijn mijn notities!;Να οι σημειώσεις μου!;zin;;groeten & wensen
 1384;03-25;nota, notitie, aantekening;(το) σημείωμα - (τα) σημειώματα;znw.;;groeten & wensen
 1385;04-01;gek;τρελός -ή -ό;bnw.;;emoties
-1386;04-01;Wat betekent …?;Τι σημαίνει …;zin;vraagzin;groeten & wensen
+1386;04-01;Wat betekent …?;Τι σημαίνει … ;;zin;vraagzin;groeten & wensen
 1387;04-01;gedicht;(το) ποίημα - (τα) ποιήματα;znw.;;groeten & wensen
 1388;04-01;de seizoenen en het weer;οι εποχές και ο καιρός;znw. groep;;natuur
 1389;04-01;seizoen, tijdperk;(η) εποχή - (οι) εποχές;znw.;;natuur
@@ -1412,7 +1412,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1411;04-01;dienen;σερβίρω;ww.;;voedsel
 1412;04-01;vasthouden, houden;κρατάω;ww.;;activiteiten
 1413;04-01;paraplu dragen;κρατάω μία ομπρέλα;ww. groep;;kleding
-1414;04-01;Waar zal je zijn in augustus?;Πού θα είσαι τον Αύγουστο;zin;vraagzin;kalender
+1414;04-01;Waar zal je zijn in augustus?;Πού θα είσαι τον Αύγουστο;;zin;vraagzin;kalender
 1415;04-01;in januari;τον Ιανουάριο;znw.;;kalender
 1416;04-01;in februari;τον Φεβρουάριο;znw.;;kalender
 1417;04-01;in maart;τον Μάρτιο;znw.;;kalender
@@ -1425,7 +1425,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1424;04-01;oktober, in oktober;(ο) Οκτώβριος, τον Οκτώβριο;znw.;;kalender
 1425;04-01;in november;τον Νοέμβριο;znw.;;kalender
 1426;04-01;in december;τον Δεκέμβριο;znw.;;kalender
-1427;04-01;Wanneer is uw verjaardag?;Πότε έχετε τα γενέθλιά σας;zin;vraagzin;kalender
+1427;04-01;Wanneer is uw verjaardag?;Πότε έχετε τα γενέθλιά σας;;zin;vraagzin;kalender
 1428;04-01;In mei, in de lente!;Τον Μάιο, την άνοιξη!;zin;;kalender
 1429;04-01;Pasen;(το) Πάσχα;znw.;;kalender
 1430;04-01;lieveheersbeestje;(η) πασχαλίτσα - (οι) πασχαλίτσες;znw.;;natuur
@@ -1441,7 +1441,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1440;04-01;bloesem;ανθίζω;ww.;;natuur
 1441;04-01;alles;όλα;vnw.;;hoeveelheden
 1442;04-01;openen;ανοίγω;ww.;;
-1443;04-01;Hoe is het weer vandaag?;Τι καιρό κάνει σήμερα;zin;vraagzin;natuur
+1443;04-01;Hoe is het weer vandaag?;Τι καιρό κάνει σήμερα;;zin;vraagzin;natuur
 1444;04-01;er is een warme wind;έχει ζεστό αέρα;zin;uitdr.;natuur
 1445;04-01;het wordt vroeg donker / de nacht valt vroeg;νυχτώνει νωρίς;zin;uitdr.;kalender
 1446;04-01;de nacht viel vroeg;η νύχτα κατέβαινε νωρίς;zin;;kalender
@@ -1553,11 +1553,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1552;05-06;overheerlijk;πεντανόστιμος -η -ο;bnw.;;voedsel
 1553;05-06;pauze;(η) διακοπή;znw.;;kalender
 1554;05-06;vakantie;(οι) διακοπές;znw.;;kalender
-1555;;Heb je een vriend?;Έχεις φίλο;zin;;relaties
-1556;;Heb je een vriendin?;Έχεις φίλη;zin;;relaties
-1557;;Heb je een partner?;Έχεις σύντροφο;zin;;relaties
-1558;;Heb je kinderen?;Έχεις παιδιά;zin;;relaties
-1559;;Heb je broers?;Έχεις αδελφούς;zin;;relaties
+1555;;Heb je een vriend?;Έχεις φίλο;;zin;;relaties
+1556;;Heb je een vriendin?;Έχεις φίλη;;zin;;relaties
+1557;;Heb je een partner?;Έχεις σύντροφο;;zin;;relaties
+1558;;Heb je kinderen?;Έχεις παιδιά;;zin;;relaties
+1559;;Heb je broers?;Έχεις αδελφούς;;zin;;relaties
 1560;;drie jaar geleden;πριν τρία χρόνια;bw.;;kalender
 1561;;over drie jaar;σε τρία χρόνια;bw.;;kalender
 1562;;volgende week;την άλλη εβδομάδα;bw.;;kalender
@@ -1616,7 +1616,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1615;;De vier seizoenen van het jaar zijn de lente, de zomer, de herfst en de winter.;Οι τέσσερις εποχές του χρόνου είναι η άνοιξη, το καλοκαίρι, το φθινόπωρο και ο χειμώνας.;zin;;kalender
 1616;;de ezel balkt;το γαϊδούρι γκαρίζει;zin;;natuur
 1617;;ooit (verleden), destijds, eens, soms (in bevestigingen);κάποτε;bw.;;kalender
-1618;;1. nooit (met ontkenning) 2. ooit? (in vragen);ποτέ;bw.;;kalender
+1618;;1. nooit (met ontkenning) 2. ooit? (in vragen);ποτέ (;);bw.;;kalender
 1619;02-25;wandelen;περπατάω - περπατάς, περπατάει, περπατάμε, περπατάτε, περπατάνε;ww.;;activiteiten
 1620;;de tafel afruimen;σηκώνω το τραπέζι;ww. groep;;voedsel
 1621;04-22;jij staat op;σηκώνεσαι;ww.;;grammatica
@@ -1673,23 +1673,23 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1672;05-26;Met veel plezier!;Με μεγάλη μου χαρά!;uitdr.;;groeten & wensen
 1673;05-26;Rechts, aan het einde van het gangpad.;Δεξιά, στο τέλος του διαδρόμου.;zin;;winkelen
 1674;05-26;Achter de macaroni, op dezelfde plank.;Πίσω από τα μακαρόνια, στο ίδιο ράφι.;zin;;winkelen
-1675;05-26;Heeft u ook olijfolie van goede kwaliteit?;Έχετε και ελαιόλαδο καλής ποιότητας;;zin;;winkelen, voedsel
+1675;05-26;Heeft u ook olijfolie van goede kwaliteit?;Έχετε και ελαιόλαδο καλής ποιότητας;;zin;;winkelen, voedsel
 1676;05-26;Hier hebben we extra vierge olijfolie in de aanbieding.;εδώ έχουμε παρθένο ελαιόλαδο σε προσφορά.;zin;;winkelen, voedsel
-1677;05-26;Waar is de kassa?;Πού είναι το ταμείο;;zin;;winkelen
+1677;05-26;Waar is de kassa?;Πού είναι το ταμείο;;;zin;;winkelen
 1678;05-26;op straat, bij de halte;στο δρόμο, στη στάση;zin;;reizen, maatschappij
 1679;05-26;Lijn 5 rijdt door de Eleftheriasstraat en gaat naar het Syntagma.;Το νούμερο 5 περνάει από την οδό Ελευθερίας και πάει στο σύνταγμα.;zin;;reizen
-1680;05-26;Stopt hij ook bij het museum?;Κάνει στάση και στο μουσείο;;zin;;reizen, cultuur
+1680;05-26;Stopt hij ook bij het museum?;Κάνει στάση και στο μουσείο;;;zin;;reizen, cultuur
 1681;05-26;Het is de derde halte na hier.;είναι η τρίτη στάση μετά από εδώ.;zin;;reizen
-1682;05-26;Perfect. Wachten we lang?;Τέλεια. Περιμένουμε πολύ ώρα;;zin;;reizen
+1682;05-26;Perfect. Wachten we lang?;Τέλεια. Περιμένουμε πολύ ώρα;;;zin;;reizen
 1683;05-26;Nee, hij komt over vijf minuten.;Όχι, έρχεται σε πέντε λεπτά.;zin;;reizen
 1684;05-26;Ga rechtdoor, sla rechtsaf bij de bakker, en dan linksaf.;Πηγαίνετε ευθεία, στρίβετε δεξιά στο φούρνο, και μετά αριστερά.;zin;;reizen
 1685;05-26;Goede wandeling!;καλή βόλτα!;uitdr.;;groeten & wensen
-1686;05-26;Sorry, gaat deze bus naar het centrum?;Συγγνώμη, αυτό το λεωφορείο πάει στο κέντρο;;zin;;reizen
+1686;05-26;Sorry, gaat deze bus naar het centrum?;Συγγνώμη, αυτό το λεωφορείο πάει στο κέντρο;;;zin;;reizen
 1687;05-26;Nee, u moet lijn 5 nemen.;Όχι, πρέπει να πάρετε το νούμερο 5.;zin;;reizen
-1688;05-26;Komt hij vaak?;Περνάει συχνά;;zin;;reizen
+1688;05-26;Komt hij vaak?;Περνάει συχνά;;;zin;;reizen
 1689;05-26;Ja, elke tien minuten.;Ναι, κάθε δέκα λεπτά.;zin;;reizen
 1690;05-26;Ga rechtdoor en bij het tweede stoplicht slaat u linksaf.;Πηγαίνετε ευθεία και στο δεύτερο φανάρι στρίβετε αριστερά.;zin;;reizen
-1691;05-26;Is het ver?;Είναι μακριά;;zin;;reizen
+1691;05-26;Is het ver?;Είναι μακριά;;;zin;;reizen
 1692;05-26;Nee, tien minuten te voet.;Όχι, δέκα λεπτά με τα πόδια.;zin;;reizen
 1693;05-26;Goede wandeling!;Καλή βόλτα!;uitdr.;;groeten & wensen
 1694;05-26;in de bus;στο λεωφορείο;zin;;reizen
@@ -1707,59 +1707,59 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1706;05-26;Welkom!;Καλώς ήρθατε!;uitdr.;;groeten & wensen
 1707;05-26;Welkom!;Καλώς σας βρήκαμε!;uitdr.;;groeten & wensen
 1708;05-26;in de taverne;στην ταβέρνα;zin;;voedsel, activiteiten
-1709;05-26;Heeft u een tafel voor twee?;Έχετε τραπέζι για δύο;;zin;;voedsel, activiteiten
-1710;05-26;Komt u maar mee. Wilt u een menukaart?;ελάτε από εδώ. Θέλετε κατάλογο;;zin;;voedsel, activiteiten
-1711;05-26;Heeft u vandaag iets traditioneels?;Έχετε κάτι παραδοσιακό σήμερα;;zin;;voedsel, cultuur
+1709;05-26;Heeft u een tafel voor twee?;Έχετε τραπέζι για δύο;;;zin;;voedsel, activiteiten
+1710;05-26;Komt u maar mee. Wilt u een menukaart?;Ελάτε από εδώ. Θέλετε κατάλογο;;;zin;;voedsel, activiteiten
+1711;05-26;Heeft u vandaag iets traditioneels?;Έχετε κάτι παραδοσιακό σήμερα;;;zin;;voedsel, cultuur
 1712;05-26;Mooi! Ik wil graag een moussaka en een salade.;Ωραία! Θα ήθελα έναν μουσακά και μία σαλάτα.;zin;;voedsel
-1713;05-26;Wilt u ook water of wijn?;Να σας φέρω και νερό ή κρασί;;zin;;voedsel
+1713;05-26;Wilt u ook water of wijn?;Να σας φέρω και νερό ή κρασί;;;zin;;voedsel
 1714;05-26;Een glas witte wijn, alstublieft.;Ένα ποτήρι λευκό κρασί, παρακαλώ.;zin;;voedsel
 1715;05-26;Meteen!;Αμέσως!;uitdr.;;activiteiten
-1716;05-26;Wat raadt u vandaag aan?;Τι μας προτείνετε σήμερα;;zin;;voedsel
-1717;05-26;Wilt u ook brood of feta?;Να σας φέρω και ψωμί ή τυρί φέτα;;zin;;voedsel
+1716;05-26;Wat raadt u vandaag aan?;Τι μας προτείνετε σήμερα;;;zin;;voedsel
+1717;05-26;Wilt u ook brood of feta?;Να σας φέρω και ψωμί ή τυρί φέτα;;;zin;;voedsel
 1718;05-26;een halve liter rode wijn;μισό λίτρο κρασί κόκκινο;zin;;voedsel
 1719;05-26;Wilt u ook iets te eten? We hebben koekjes.;Θέλετε και κάτι να φάτε; Έχουμε κουλουράκια;zin;;voedsel
 1720;05-26;Prima. Ga zitten waar u wilt, ik breng het zo.;Ωραία. Καθίστε όπου θέλετε, θα σας τα φέρω.;zin;;voedsel, activiteiten
 1721;05-26;in het café;Στο καφενείο;zin;;voedsel, activiteiten
-1722;05-26;Hoe drinkt u hem?;Πώς τον πίνετε;;zin;;voedsel
+1722;05-26;Hoe drinkt u hem?;Πώς τον πίνετε;;;zin;;voedsel
 1723;05-26;Griekse koffie, halfzoet, met water erbij.;Ελληνικό, μέτριο, με νερό δίπλα.;zin;;voedsel
 1724;05-26;Goed, uw koffie komt eraan!;Εντάξει, έρχεται ο καφές σας!;zin;;voedsel
 1725;05-26;in de kledingwinkel;Στο κατάστημα ρούχων;zin;;winkelen, kleding
-1726;05-26;waar is het pashokje?;πού είναι το δοκιμαστήριο;;zin;;winkelen, kleding
+1726;05-26;waar is het pashokje?;πού είναι το δοκιμαστήριο;;;zin;;winkelen, kleding
 1727;05-26;Daar, rechts.;Εκεί, δεξιά.;zin;;winkelen, kleding
-1728;05-26;Wilt u het passen?;Θέλετε να το δοκιμάσετε;;zin;;winkelen, kleding
+1728;05-26;Wilt u het passen?;Θέλετε να το δοκιμάσετε;;;zin;;winkelen, kleding
 1729;05-26;in het toeristenbureau;Στο τουριστικό γραφείο;zin;;reizen, maatschappij
 1730;05-26;Ik wil graag informatie over excursies.;Θα ήθελα πληροφορίες για εκδρομές.;zin;;reizen, activiteiten
-1731;05-26;Wilt u een rondleiding in de stad of in de natuur?;Θέλετε ξενάγηση στην πόλη ή στη φύση;;zin;;reizen, activiteiten
+1731;05-26;Wilt u een rondleiding in de stad of in de natuur?;Θέλετε ξενάγηση στην πόλη ή στη φύση;;;zin;;reizen, activiteiten
 1732;05-26;We hebben een dagexcursie naar Aegina met de boot.;Έχουμε ημερήσια εκδρομή στην Αίγινα με πλοίο.;zin;;reizen, activiteiten
-1733;05-26;Hoeveel kost het?;Πόσο κοστίζει;;zin;;reizen, activiteiten
+1733;05-26;Hoeveel kost het?;Πόσο κοστίζει;;;zin;;reizen, activiteiten
 1734;05-26;Vijftien euro per persoon.;Δεκαπέντε ευρώ το άτομο.;zin;;reizen, activiteiten
-1735;05-26;Welke activiteiten zijn er vandaag?;Τι δραστηριότητες έχει σήμερα;;zin;;reizen, activiteiten
+1735;05-26;Welke activiteiten zijn er vandaag?;Τι δραστηριότητες έχει σήμερα;;;zin;;reizen, activiteiten
 1736;05-26;We hebben een rondleiding op de Akropolis en een cruise naar Sounio.;Έχουμε ξενάγηση στην Ακρόπολη και κρουαζιέρα στο Σούνιο.;zin;;reizen, activiteiten
-1737;05-26;Hoeveel uur duurt de rondleiding?;Η ξενάγηση πόσες ώρες διαρκεί;;zin;;reizen, activiteiten
+1737;05-26;Hoeveel uur duurt de rondleiding?;Η ξενάγηση πόσες ώρες διαρκεί;;;zin;;reizen, activiteiten
 1738;05-26;Reserveer één plaats voor mij, alstublieft.;Κλείστε μου μία θέση, παρακαλώ.;zin;;reizen, activiteiten
-1739;05-26;Hoeveel personen?;Πόσα άτομα;;zin;;reizen, activiteiten
+1739;05-26;Hoeveel personen?;Πόσα άτομα;;;zin;;reizen, activiteiten
 1740;05-26;Twee volwassenen en een kind.;Δύο ενήλικες και ένα παιδί.;zin;;reizen, activiteiten
 1741;05-26;Hier zijn uw tickets!;Ορίστε τα εισιτήριά σας!;zin;;reizen, activiteiten
 1742;05-26;in het hotel;Στο ξενοδοχείο;zin;;reizen, maatschappij
-1743;05-26;Heeft u kamers vrij?;Έχετε ελεύθερα δωμάτια;;zin;;reizen, maatschappij
-1744;05-26;Hoeveel nachten blijft u?;Πόσες νύχτες θα μείνετε;;zin;;reizen, maatschappij
+1743;05-26;Heeft u kamers vrij?;Έχετε ελεύθερα δωμάτια;;;zin;;reizen, maatschappij
+1744;05-26;Hoeveel nachten blijft u?;Πόσες νύχτες θα μείνετε;;;zin;;reizen, maatschappij
 1745;05-26;We hebben een tweepersoonskamer met badkamer en balkon.;Έχουμε ένα δίκλινο δωμάτιο με μπάνιο και μπαλκόνι.;zin;;reizen, maatschappij
-1746;05-26;Is ontbijt inbegrepen?;Περιλαμβάνει πρωινό;;zin;;reizen, maatschappij
+1746;05-26;Is ontbijt inbegrepen?;Περιλαμβάνει πρωινό;;;zin;;reizen, maatschappij
 1747;05-26;Ik neem hem, dank u!;Θα το πάρω, ευχαριστώ!;zin;;reizen, maatschappij
 1748;05-26;Ik heb een reservering op naam van Papadopoulos.;Έχω κράτηση στο όνομα Παπαδόπουλος.;zin;;reizen, maatschappij
 1749;05-26;De kamer is op de derde verdieping.;Το δωμάτιο είναι στον τρίτο όροφο.;zin;;reizen, maatschappij
-1750;05-26;Is er een lift?;Έχει ασανσέρ;;zin;;reizen, maatschappij
+1750;05-26;Is er een lift?;Έχει ασανσέρ;;;zin;;reizen, maatschappij
 1751;05-26;naast de receptie;δίπλα στη ρεσεψιόν.;zin;;reizen, maatschappij
 1752;05-26;bij de bakker;στον φούρνο;zin;;voedsel, winkelen
 1753;05-26;We hebben boerenbrood, volkoren en wit brood.;Έχουμε χωριάτικο, ολικής και λευκό ψωμί.;zin;;voedsel
 1754;05-26;Wilt u ook iets zoets? We hebben koekjes.;Θέλετε και γλυκό; Έχουμε κουλουράκια.;zin;;voedsel
 1755;05-26;een bougatsa met room;μία μπουγάτσα με κρέμα;zin;;voedsel
 1756;05-26;op de markt;στη λαϊκή;zin;;winkelen, voedsel
-1757;05-26;Hoeveel kosten de tomaten?;Πόσο κάνουν οι ντομάτες;;zin;;winkelen, voedsel
+1757;05-26;Hoeveel kosten de tomaten?;Πόσο κάνουν οι ντομάτες;;;zin;;winkelen, voedsel
 1758;05-26;Eén euro per kilo!;Ένα ευρώ το κιλό!;zin;;winkelen, voedsel
 1759;05-26;Doet u mij maar twee kilo, alstublieft.;Βάλτε μου δύο κιλά, παρακαλώ.;zin;;winkelen, voedsel
 1760;05-26;Fijne kook!;Καλή μαγειρική!;uitdr.;;groeten & wensen
-1761;05-26;Heeft u sla?;Έχετε μαρούλι;;zin;;winkelen, voedsel
+1761;05-26;Heeft u sla?;Έχετε μαρούλι;;;zin;;winkelen, voedsel
 1762;05-26;vers van het veld;φρέσκο από το χωράφι;zin;;winkelen, voedsel
 0001;2025-09-24;Welkom!;Καλώς όρισες!;zin;herhaling;groeten & wensen
 0002;2025-09-24;persoonlijke gegevens;τα ατομικά στοιχεία;znw.;herhaling;kennismaken
