@@ -126,3 +126,4 @@ Here are the rules for each column
 ;
 …ω - …ς, …ει, …με, …τε, …νε;ww.;herhaling;
  →← 
+ ♀

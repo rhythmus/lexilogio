@@ -1749,18 +1749,18 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1748;05-26;Ik heb een reservering op naam van Papadopoulos.;Έχω κράτηση στο όνομα Παπαδόπουλος.;zin;;reizen, maatschappij
 1749;05-26;De kamer is op de derde verdieping.;Το δωμάτιο είναι στον τρίτο όροφο.;zin;;reizen, maatschappij
 1750;05-26;Is er een lift?;Έχει ασανσέρ;;;zin;
-1751;05-26;Naast de receptie;Δίπλα στη ρεσεψιόν.;zin;;reizen, maatschappij
+1751;05-26;naast de receptie;δίπλα στη ρεσεψιόν;zin;;reizen, maatschappij
 1752;05-26;bij de bakker;στον φούρνο;zin;;voedsel, winkelen
 1753;05-26;We hebben boerenbrood, volkoren en wit brood.;Έχουμε χωριάτικο, ολικής και λευκό ψωμί.;zin;;voedsel
 1754;05-26;Wilt u ook iets zoets? We hebben koekjes.;Θέλετε και γλυκό; Έχουμε κουλουράκια.;zin;;voedsel
 1755;05-26;een bougatsa met room;μία μπουγάτσα με κρέμα;zin;;voedsel
-1756;05-26;op de markt;στη λαϊκή;zin;;winkelen, voedsel
+1756;05-26;op de markt;στην λαϊκή;zin;;winkelen, voedsel
 1757;05-26;Hoeveel kosten de tomaten?;Πόσο κάνουν οι ντομάτες;;;zin;
 1758;05-26;Eén euro per kilo!;Ένα ευρώ το κιλό!;zin;;winkelen, voedsel
 1759;05-26;Doet u mij maar twee kilo, alstublieft.;Βάλτε μου δύο κιλά, παρακαλώ.;zin;;winkelen, voedsel
 1760;05-26;Fijne kook!;Καλή μαγειρική!;uitdr.;;groeten & wensen
 1761;05-26;Heeft u sla?;Έχετε μαρούλι;;;zin;
-1762;05-26;vers van het veld;φρέσκο από το χωράφι;zin;;winkelen, voedsel
+1762;05-26;vers van het veld;φρέσκο από το χωράφι;uitdr.;;winkelen, voedsel
 0001;2025-09-24;Welkom!;Καλώς όρισες!;zin;herhaling;groeten & wensen
 0002;2025-09-24;persoonlijke gegevens;τα ατομικά στοιχεία;znw.;herhaling;kennismaken
 0003;2025-09-24;achternaam;(το) επώνυμο;znw.;herhaling;kennismaken
@@ -2201,3 +2201,129 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0445;2025-11-19;om één uur ’s middags;στη μία το μεσημέρι;zin;;kalender
 0446;2025-11-19;om drie uur ’s namiddags;στις τρεις το απόγευμα;zin;;kalender
 0447;2025-11-19;om zeven uur ’s avonds;στις εφτά το βράδυ;zin;;kalender
+
+0448;2025-11-26;huilen;κλαίω - έκλαψα - θα κλάψω;ww.;;grammatica
+0449;2025-11-26;verliezen;χάνω - έχασα - θα χάσω;ww.;;grammatica
+0451;2025-11-26;1 breien 2 haken;πλέκω - έπλεξα - θα πλέξω;ww.;;grammatica
+0452;2025-11-26;dier;(το) ζώο;znw.;;natuur
+0453;2025-11-26;een dier verliezen;χάνω ένα ζώο;zin;;natuur
+0454;2025-11-26;verdrietig / bedroefd;λυπημένος -η -ο;bnw.;;kleuren & vormen
+0455;2025-11-26;(woord)stam;το θέμα;znw.;;grammatica
+0456;2025-11-26;1 vastmaken 2 spannen 3 binden;δένω (→← λύνω);zin;;
+0450;2025-11-26;1 losmaken 2 oplossen;λύνω (→← δένω) - έλυσα - θα λύσω;ww.;;grammatica
+0457;2025-11-26;Laten we de tongen losmaken!;Ας λύσουμε τις γλώσσες!;zin;;
+0458;2025-11-26;1 tong 2 taal;(η) γλώσσα;znw.;;grammatica
+0459;2025-11-26;vergadering;(η) συνεδρίαση;znw.;;
+0460;2025-11-26;1 vest 2 gilet;(το) γιλέκο;znw.;;kleding
+0461;2025-11-26;Het is bijtend kou!;Έχει ήλιο με δόντια!;uitdr.;lett. ‘zon met tanden’, cfr ‘bijtend’ koud;natuur
+0462;2025-11-26;Kom(t)!;Ελάτε!;zin;;
+0463;2025-11-26;gelukkig;ευτυχισμένος -η -ο;bnw.;;emoties
+0464;2025-11-26;ongelukkig;δυστυχισμένος -η -ο;bnw.;;emoties
+0465;2025-11-26;lang;ψηλός -η -ο;bnw.;;kleuren & vormen
+0466;2025-11-26;ernstig / serieus;σοβαρός -η -ο;bnw.;;kleuren & vormen
+0467;2025-11-26;de trappen van vergelijking;οι βαθμοί σύγκρισης;znw. groep;;grammatica
+0468;2025-11-26;de stellende trap;ο Θετικός (βαθμός) (π.χ., «καλός»);znw.;;grammatica
+0469;2025-11-26;de vergrotende trap;ο συγκριτικός (βαθμός) (π.χ., «καλύτερος», «πιο καλός»);znw.;;grammatica
+0470;2025-11-26;de overtreffende trap;ο υπερθετικός (βαθμός) (π.χ., «καλύτερος», «πιο καλός»);znw.;;grammatica
+0471;2025-11-26;‘eenwoordig’;μονολεκτικά;bijw.;;grammatica
+0472;2025-11-26;klein, kleiner, (de) kleinst(e);μικρός, πιο μικρός / μικρότερος, ο πιο μικρός / μικρότερος;bnw;;grammatica
+0474;2025-11-26;mooi, mooier, (de) mooist(e) ♀;ωραία, πιο ωραία / ωραιότερ*η*, η;πιο ωραιότερη;bnw;
+0475;2025-11-26;vier onregelmatige (vormen);τέσσερα ανώμαλα;bnw;;grammatica
+0476;2025-11-26;goed, beter, (het) best(e) ⚲;καλό, καλύτερο, το καλύτερο;bnw;;grammatica
+0477;2025-11-26;groot, groter, (de) grootst(e);μεγάλος, μεγαλύτερος ο, μεγαλύτερος;bnw;;grammatica
+0478;2025-11-26;lelijk, slechter, de slechtste;άσχημος, χειρότερος, ο χειρότερος;bnw.;;grammatica
+0479;2025-11-26;slecht, slechter, (de) slechtst(e);κακός, χειρότερος, ο χειρότερος;bnw;;grammatica
+0480;2025-11-26;veel, meer, (de) meeste;πολύς, περισσότερος, ο περισσότερος;bnw;;grammatica
+0481;2025-11-26;nieuw, nieuwer, (de) nieuwste ♀;νέα, νεότερη, η πιο νεότερη;bnw;;grammatica
+0482;2025-11-26;meer … dan …;πιο … από + του/την (acc);bnw;;grammatica
+0483;2025-11-26;[-er] dan ik;από μένα;zin;;grammatica
+0484;2025-11-26;1 ooit (verleden) / destijds 2 eens, soms (in bevestigingen);κάποτε;bw.;;kalender
+0485;2025-11-26;ooit zullen (er) komen;κάποτε θα έρθουν;zin;;
+0486;2025-11-26;verstrooid / afwezig;αφηρημένος -η -ο;bnw.;;emoties
+0487;2025-11-26;verdrietig / bedrukt;στενοχωρημένος -η -ο;bnw.;;emoties
+0488;2025-11-26;boos;θυμωμένος -η -ο;bnw.;;emoties
+0489;2025-11-26;goedkoper;φθηνότερος -η -ο;bnw.;;kleuren & vormen
+0490;2025-11-26;tevreden;ευχαριστημένος -η -ο;bnw.;;emoties
+0491;2025-11-26;1 slecht 2 stout;κακός -ή -ό;bnw.;;kleuren & vormen
+0492;2025-11-26;1 lelijk 2 slecht;άσχημος -η -ο;bnw.;;kleuren & vormen
+0493;2025-11-26;babbeltje;(η) κουβέντα;znw.;cfr Deu. ‘Konvent’;communicatie
+0494;2025-11-26;hand;(το) χέρι - (τα) χέρια;znw.;;lichaam
+0495;2025-11-26;plots / plotsklaps / ineens;ξαφνικά;bw.;;tijd
+0496;2025-11-26;versturen;στέλνω - έστειλα - θα στείλω;ww.;;grammatica
+0497;2025-11-26;een foto maken;βγάζω φωτογραφία;ww. groep;;media
+0498;2025-11-26;foto;(η) φωτογραφία;zin;;media
+0499;2025-11-26;Maar alweer hetzelfde!;Μα πάλι τα ίδια!;zin;;
+0500;2025-11-26;steeds hetzelfde;όλο τα ίδια;uitdr.;;communicatie
+0501;2025-11-26;de gehele tijd / heel de tijd;όλη την ώρα;zin;;
+0502;2025-11-26;1. uithalen / tevoorschijn halen 2. uitdoen 3. verdienen;βγάζω - έβγαλα - θα βγάλω;ww.;;grammatica
+0503;2025-11-26;1. zetten / plaatsen 2. leggen 3. (kleren) aandoen;βάζω - έβαλα - θα βάλω;ww.;;grammatica
+0504;2025-11-26;het licht aandoen;βάλω το φως;zin;;
+0505;2025-11-26;het licht uitdoen;βγαίνω το φως;zin;;dingen
+0506;2025-11-26;De bomen krijgen bladeren.;τα δέντρα βγάζουν φύλλα;zin;;natuur
+0507;2025-11-26;brengen;φέρνω - έφερα - θα φέρω;ww.;;grammatica
+0508;2025-11-26;verzamelen;μαζεύω - μάζεψα - θα μαζέψω;ww.;;grammatica
+0509;2025-11-26;de borden afruimen;μαζεύω τα πιάτα;ww. groep;;voedsel
+0510;2025-11-26;de borden neerzetten;βάζω τα πιάτα;ww. groep;;voedsel
+0511;2025-11-26;we wassen ons;πλενόμαστε εμάς;zin;;lichaam
+0512;2025-11-26;wasmachine;(το) πλυντήριο (ρούχων);znw.;;wonen
+0513;2025-11-26;vaatwasmachine;(το) πλυντήριο πιάτων;znw.;;wonen
+0514;2025-11-26;car wash / wasstraat;(το) πλυντήριο αυτοκινήτων;znw.;;
+0516;2025-11-26;lakens;(τα) σεντόνια;znw.;;kleding
+0517;2025-11-26;handdoek;(η) πετσέτα - (οι) πετσέτες;znw.;;kleding
+0518;2025-11-26;de datum;η ημερομηνία;znw.;;kalender
+0519;2025-11-26;om twee uur ’s nachts;στις δύο την νύχτα;zin;tot 05:00, daarna: το πρωί;kalender
+0520;2025-11-26;no hard feelings;χωρίς δυσαρεστία;uitdr.;;
+0521;2025-11-26;De hoeveelste is het vandaag?;Πόσες του μηνός/μήνα είναι/έχουμε σήμερα;;vraagzin;;kalender
+0522;2025-11-26;het is de 26ste november;είναι/έχουμε 26 Νοεμβρίου;zin;;kalender
+0523;2025-11-26;Wanneer is je verjaardag?;Πόσες του μηνός/μήνα έχεις τα γενέθλιά σου;;vraagzin;;communicatie
+
+0524;2025-12-03;1 de Heilige Nikolaos 2 Sinterklaas;ο Άγιος Νικόλαος;znw.;6 december, maar in Griekenland niet gevierd als Sinterklaas;kalender
+0525;2025-12-03;heilige;ο άγιος;znw.;;kalender
+0526;2025-12-03;heilig;άγιος -η -ο;bnw.;;kalender
+0527;2025-12-03;zeelui;οι ναύτες;znw.;;
+0528;2025-12-03;beschermen;προστατεύω;ww.;;
+0529;2025-12-03;de Heilige Vasilis;ο Άγιος Βασίλης;znw.;gevierd op 1 januari;kalender
+0530;2025-12-03;de arme mensen;οι φτωχοί άνθρωποι;znw.;;
+0531;2025-12-03;vasilópita (nieuwjaarstaart);(η) βασιλόπιτα;znw.;;kalender
+0532;2025-12-03;het muntje (in de cake);το φλουρί;znw.;;kalender
+0533;2025-12-03;kookpot;(η) κατσαρόλα;znw.;;voedsel
+0534;2025-12-03;ik deed er zout bij;έβαλα αλάτι;zin;;voedsel
+0535;2025-12-03;opzetten, opstellen;στήνω;ww.;;
+0536;2025-12-03;Ik zette de kerstboom op.;Έστησα το χριστουγεννιάτικο δέντρο.;zin;;kalender
+0537;2025-12-03;de feestdagen;οι γιορτές;znw.;;kalender
+0538;2025-12-03;vieren;γιορτάζω;ww.;;kalender
+0539;2025-12-03;verschil;η διαφορά;znw.;;
+0540;2025-12-03;het platteland;η εξοχή;znw.;;geografie
+0541;2025-12-03;krans;(το) στεφάνι;znw.;;natuur
+0542;2025-12-03;Ik maak een krans en hang die aan de deur.;Φτιάχνω ένα στεφάνι και κρεμάω στην πόρτα.;zin;;kalender
+0543;2025-12-03;maken / bereiden / scheppen;φτιάχνω - έφτιαξα - θα φτιάξω;ww.;;grammatica
+0544;2025-12-03;ophangen;κρεμάω - κρέμασα - θα κρεμάσω;ww.;;grammatica
+0545;2025-12-03;verzamelen;μαζεύω - μάζεψα - θα μαζέψω;ww.;;grammatica
+0546;2025-12-03;bloemen plukken;μαζεύω λουλούδια;ww. groep;;natuur
+0547;2025-12-03;Het is een chaos!;Γίνεται χαμός!;uitdr.;;maatschappij
+0548;2025-12-03;bediende;(ο) υπάλληλος;znw.;;beroepen
+0549;2025-12-03;klant / client;(ο) πελάτης;znw.;;beroepen
+0550;2025-12-03;prijs;η τιμή;znw.;;maatschappij
+0551;2025-12-03;universiteit;(το) πανεπιστήμιο;znw.;;maatschappij
+0552;2025-12-03;mandarijn;(το) μανταρίνι;znw.;;voedsel
+0553;2025-12-03;Vragen of …;Ρωτάω αν …;zin;;
+0554;2025-12-03;nog een / nog een andere;κι άλλος -η -ο;bnw.;;kleuren & vormen
+0555;2025-12-03;tussen;μεταξύ;vz.;;grammatica
+0556;2025-12-03;ik verkies het;το προτιμώ;ww.;;emoties
+0557;2025-12-03;streng;αυστηρός -ή -ό;bnw.;;kleuren & vormen
+0558;2025-12-03;luiaard;τεμπέλης;znw.;;emoties
+0559;2025-12-03;komen;έρχομαι - ήρθα - θα έρθω;ww.;;grammatica
+0560;2025-12-03;zitten;κάθομαι - κάθισα - θα καθίσω;ww.;;grammatica
+0561;2025-12-03;worden;γίνομαι - έγινα - θα γίνω;ww.;;grammatica
+0562;2025-12-03;ik zal komen;θα έρθω - θα έρθεις - θα έρθει - θα έρθουμε - θα έρθετε - θα έρθουν;ww.;;grammatica
+0563;2025-12-03;Ochi-dag;η μέρα του Όχι;znw.;28 oktober;kalender
+0564;2025-12-03;Iedereen gaat naar Tinos.;Όλοι πηγαίνουν στην Τήνο.;zin;15 augustus;kalender
+0565;2025-12-03;kerstdag / Kertsmis;τα Χριστούγεννα;znw.;25 december;kalender
+0566;2025-12-03;Nieuwjaar(sdag);η Πρωτοχρονιά;znw.;1 januari;kalender
+0567;2025-12-03;Pasen / Paasdag;το Πάσχα;znw.;;kalender
+0568;2025-12-03;de (Griekse) nationale feestdag;η Εθνική Γιορτή;znw.;25 maart;kalender
+0569;2025-12-03;de Eerste Mei;η Πρωτομαγιά;znw.;1 mei;
+0570;2025-12-03;Panagia / Onze-Lieve-Vrouw-Hemelvaart;(η) Παναγιά;znw.;15 augustus;
+0571;2025-12-03;reizen;ταξιδεύω - ταξίδεψα - θα ταξιδέψω;ww.;;grammatica
+0572;2025-12-03;spelen;παίζω - έπαιξα - θα παίξω;ww.;;grammatica
+
