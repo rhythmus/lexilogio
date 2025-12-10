@@ -42,19 +42,20 @@ Here are the rules for each column
 
 ### 5. **PoS** (Part of Speech)
 - Standardized using Dutch abbreviations:
-  - znw. = zelfstandig naamwoord (noun)
+  - bijw. = bijwoord (adverb)
   - bnw. = bijvoeglijk naamwoord (adjective)
-  - ww. = werkwoord (verb)
-  - vnw. = voornaamwoord (pronoun)
-  - tw. = telwoord (numeral)
-  - bw. = bijwoord (adverb)
-  - vz. = voorzetsel (preposition)
-  - vw. = voegwoord (conjunction)
-  - uitdr. = uitdrukking (expression)
   - eigennaam
-  - vraagzin = question
-  - zin = sentence
   - groep = group (for grouped words/phrases)
+  - tsw. = tussenwerpsel
+  - tw. = telwoord (numeral)
+  - uitdr. = uitdrukking (expression)
+  - vnw. = voornaamwoord (pronoun)
+  - vraagzin = question
+  - vw. = voegwoord (conjunction)
+  - vz. = voorzetsel (preposition)
+  - ww. = werkwoord (verb)
+  - zin = sentence
+  - znw. = zelfstandig naamwoord (noun)
   - Other combinations as needed (e.g., ww. groep, znw. groep, etc.)
 - If the source has a more complex or non-standard PoS, it is mapped to the closest Dutch abbreviation.
 
