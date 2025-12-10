@@ -108,21 +108,31 @@ Here are the rules for each column
 - **PoS and theme** are standardized and mapped consistently.
 
 
+(ο)
+(η)
+(το)
+(ο/η)
+(οι)
+(τα)
 
+ος -η -ο;bnw.;;;;;
+ός -ή -ό;bnw.;;;;;
+ος -α -ο;bnw.;;;;;
+ός -ά -ό;bnw.;;;;;
+υς -εια -υ;bnw.;;;;;
+ύς -εία -ύ;bnw.;;;;;
 
--η -ο;bnw.;;;;;
-(η);;;;;;
-(το);;;;;;
-(ο);;;;;;
--ή -ό;bnw.;;;;;
-(π.χ.;;;;;;
-(η);;;;;;0
-κ.λπ.
+(π.χ.)
+etc. κ.λπ.
+
 *αλλά*:
 ;
 …ω - …ς, …ει, …με, …τε, …νε;ww.;herhaling;
- →← 
- ♀
+→← 
+♀
 
 `， ` (U+FF0C, FULLWIDTH COMMA followed by space) : separator in-between synonymous meanings
 ¹²³⁴⁵⁶⁷⁸⁹ preceeded by space: separator in-between alternative meanings
+
+
+Finally I want basic Markdown parsing, such that text in-between `*` and `*` is rendered as <strong> (bold text) and text in-between `_` and `_` is rendered as <em> (italic text). (Obviously in these cases the markup symbols `*` and `_` should be omitted in the rendered result.) For example (and be cautious, because this example also involves the article parsing): "(*η*) οδός" should be rendered with the article `η` as dimmed-out text (because it is an article in-between parentheses, and thus optional), but also using a boldface because it is in-between `*` asterisks.
