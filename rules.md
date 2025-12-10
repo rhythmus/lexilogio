@@ -64,35 +64,38 @@ Here are the rules for each column
 - If not needed, this column is left empty.
 
 ### 7. **theme**
-- Based on its meaning or context, each entry is assigned at least 1 to up to 3 standardized semantical theme category from the following list:
-  - beroepen
-  - communicatie
-  - cultuur
-  - dieren
+- Based on its meaning or context, each entry is assigned at least 1 to up to 3 standardized semantical theme category from the following, hierarchical list:
+  
+  - converseren
+    - relaties
+    - uitdrukkingen
   - dingen
-  - emoties
-  - filosofie
-  - geografie
+    - kleuren & vormen
+    - voedsel
+  - meten
+    - hoeveelheden
+    - kalender
+    - tijd
+  - cultuur
+    - filosofie
+    - geografie
+    - namen
+    - muziek 
   - grammatica
-  - groeten & wensen
-  - hoeveelheden
-  - kalender
-  - kleding
-  - kleuren & vormen
-  - lichaam
   - maatschappij
-  - muziek
-  - namen
+    - beroepen
+    - school
+    - sport
+  - behoeftes
+    - emoties
+    - kleding
+    - lichaam
+    - routines
+    - wonen
+    - winkelen
+    - reizen
   - natuur
-  - reizen
-  - relaties
-  - school
-  - sport
-  - tijd
-  - uitdrukkingen
-  - voedsel
-  - winkelen
-  - wonen
+    - dieren
 
 
 ---
