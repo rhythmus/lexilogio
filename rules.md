@@ -119,3 +119,5 @@ Here are the rules for each column
 …ω - …ς, …ει, …με, …τε, …νε;ww.;herhaling;
  →← 
  ♀
+
+`， ` (U+FF0C, FULLWIDTH COMMA followed by space) : separator in-between synonymous meanings
