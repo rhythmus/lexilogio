@@ -121,3 +121,4 @@ Here are the rules for each column
  ♀
 
 `， ` (U+FF0C, FULLWIDTH COMMA followed by space) : separator in-between synonymous meanings
+¹²³⁴⁵⁶⁷⁸⁹ preceeded by space: separator in-between alternative meanings
