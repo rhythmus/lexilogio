@@ -84,7 +84,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0072;;geest;(το) πνεύμα;znw.;;filosofie, cultuur
 0073;;koffie;(ο) καφές - (οι) καφέδες;znw.;;voedsel, dingen
 0074;;(café) frappé;(ο) φραπές;znw.;;voedsel, dingen
-;;;(ο) μπακλαβάς;;;
+;2025-03-25;baklava;(ο) μπακλαβάς;znw.;;voedsel, dingen
 0075;2025-03-25;gehaktbal， frikadel;(ο) κεφτές - (οι) κεφτέδες;znw.;;voedsel, dingen
 0076;2025-03-25;voorgerecht;(ο) μεζές - (οι) μεζέδες;znw.;;voedsel, dingen
 0077;;¹leerschool ²faculteit;(η) σχολή;znw.;;beroepen, maatschappij
@@ -300,8 +300,6 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0266;;ivoor;(το) φίλντισι;znw.;;kleuren & vormen, dingen
 0267;;levend;ζωντανός -ή -ό;bnw.;;natuur
 0268;;altijd;πάντοτε;bijw.;;kalender, meten
-0269;;vijf;πέντε;telw.;;hoeveelheden, meten
-;;;έξι;;;
 0270;;insect;(το) έντομο;znw.;;natuur
 0271;;Mickey Mouse;(το) Μίκυ Ποντίκι;eigennaam;;cultuur
 0272;;gas geven;(το) γκάζι;znw.;;reizen, routines
@@ -385,7 +383,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0350;;Nederlands;(τα) ολλανδικά;eigennaam;;converseren
 0351;;Spaans;(τα) ισπανικά;eigennaam;;converseren
 0352;;Italiaans;(τα) ιταλικά;eigennaam;;converseren
-;;;τα ελληνικά;;;
+;;Grieks (de taal);τα ελληνικά;;;
 0353;;Russisch;(τα) ρωσικά;eigennaam;;converseren
 0354;;Chinese;(τα) κινέζικα;eigennaam;;converseren
 0355;;Arabisch;(τα) αραβικά;eigennaam;;converseren
@@ -412,7 +410,6 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0376;;krant;(η) εφημερίδα;znw.;;converseren
 0377;;No stress!， Geen zorgen!;Όχι άγχος!;uitdr.;;emoties, behoeftes
 0378;2025-02-25;schip;(το) πλοίο;znw.;;reizen, routines
-
 0144;;nul;μηδέν;telw.;;hoeveelheden, meten
 0325;2025-10-22;een;ένας / μία / ένα;telw.;;grammatica
 0381;;twee;δύο;telw.;;hoeveelheden, meten
@@ -869,11 +866,6 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0768;2025-02-11;in het weekend;το Σαββατοκύριακο;zin;;kalender, meten
 0769;;Ik vind de zinnen en voeg de klemtoon toe.;Βρίσκω τις φράσεις και βάζω τόνο.;zin;;grammatica
 0770;;12:00;δώδεκα η ώρα;zin;;kalender, meten
-;;;είκοσι;;;
-;;;τριάντα;;;
-;;;σαράντα;;;
-;;;πενήντα;;;
-;;;εξήντα;;;
 0771;;13:15;μια και τέταρτο;zin;;kalender, meten
 0772;;bank;(η) τράπεζα;znw.;;reizen, routines
 ;;;Ποιος πληρώνει τον λογαριασμό;;;;
@@ -897,9 +889,6 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0789;;ik begrijp dat dat (zo) is;καταλαβαίνω ότι είναι;zin;;converseren
 0790;;en zij， ook zij， zij ook;κι αυτή;zin;;relaties, converseren
 0791;;zij tweeën;οι δύο;znw. groep;;hoeveelheden, meten
-;;;τρεις / τρεις / τρία;;;
-;;;τέσσερις / τέσσερις / τέσσερα;;;
-;;;πέντε;;;
 0792;;in het centrum;στο κέντρο;zin;;geografie, cultuur
 0793;;de boom in het midden;το δέντρο στο κέντρο;znw. groep;;natuur
 0794;2025-02-18;ver (weg)， veraf;μακριά;bijw.;;geografie, cultuur
@@ -1008,7 +997,6 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0893;;blauw;μπλε;bnw.;;kleuren & vormen, dingen
 0894;;lichtblauw;γαλάζιος -α -ον;bnw.;;kleuren & vormen, dingen
 ;;bruin (koffiekleurig);καφέ;bnw.;;kleuren & vormen, dingen
-
 0895;2025-02-18, 2025-03-11;¹jong ²nieuw;νέος -α -ο;bnw.;;
 0896;;beestje， kapoentje;(το) ζουζούνι - (τα) ζουζούνια;znw.;;dieren, natuur
 0897;;dennenboom;(το) έλατο;znw.;;natuur
@@ -1081,15 +1069,15 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0959;2025-02-04;zoeken;ψάχνω;ww.;;grammatica
 0960;2025-02-04;persoon;(το) άτομο;znw.;;relaties, converseren
 0961;2025-02-04, 2025-02-25;kleren， kleding， kledij;(τα) ρούχα;znw.;;kleding, behoeftes
-;;;Τι φοράει;;;;
+;2025-02-04;;Τι φοράει;;;;
 0962;2025-02-04;kostuum;ένα κοστούμι;znw.;;kleding, behoeftes
 0963;2025-02-04, 2025-02-25;sjaal;(το) κασκόλ;znw.;;kleding, behoeftes
 0964;2025-02-04;trui;(το) πουλόβερ;znw.;;kleding, behoeftes
 0965;2025-02-04;broek;(το) παντελόνι;znw.;;kleding, behoeftes
 0966;2025-02-04, 2025-02-25;tas;(η) τσάντα - (οι) τσάντες;znw.;;kleding, behoeftes
 0967;2025-02-04, 2025-02-25;hoed;(το) καπέλο;znw.;;kleding, behoeftes
-;;;(το) γάντι;;;
-;;;(το) ζευγάρι γάντια;;;
+;2025-02-04;;(το) γάντι;;;
+;2025-02-04;;(το) ζευγάρι γάντια;;;
 0968;2025-02-04, 2025-02-25;handschoenen;(τα) γάντια - (το) γάντι;znw.;;kleding, behoeftes
 0969;2025-02-04;paar handschoenen;ένα ζευγάρι γάντια;znw. groep;;kleding, behoeftes
 0970;2025-02-04;riem;(η) ζώνη;znw.;;kleding, behoeftes
@@ -1109,23 +1097,23 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0984;2025-02-11, 2025-03-18;oefening;(η) άσκηση - (οι) ασκήσεις;znw.;;grammatica
 0985;2025-02-11;eenpersoonskamer;(το) μονόκλινο;znw.;;wonen, routines
 0986;2025-02-11;dubbele;(το) δίκλινο;znw.;;wonen, routines
-;;;τρίκλινο;;;
+;2025-02-11;;τρίκλινο;;;
 0987;2025-02-11;verdieping;(ο) όροφος;znw.;;wonen, routines
 0988;2025-02-11;koelkast;(το) ψυγείο;znw.;;wonen, routines
 0989;2025-02-11, 2025-03-11;warmte， hitte;(η) ζέστη;znw.;;natuur
-;;;(ο) αέρας;;;
-;;;(ο) ήλιος;;;
-;;;(η) συννεφιά;;;
+;2025-02-11;;(ο) αέρας;;;
+;2025-02-11;;(ο) ήλιος;;;
+;2025-02-11;;(η) συννεφιά;;;
 0990;2025-02-11;heet;ζεστός -ή -ό;bnw.;;natuur
 0991;2025-02-11;lift;(το) ασανσέρ;znw.;cfr Fr. ‘ascenseur’;reizen, routines
 0992;2025-02-11;bed;(το) κρεβάτι;znw.;;dingen
 0993;2025-02-11;badkamer;(το) μπάνιο;znw.;;dingen
-;;;από τις 8 ως τις 10 / 8 με 10;;;
+;2025-02-11;;από τις 8 ως τις 10 / 8 με 10;;;
 0994;2025-02-11;Maar jij bent jong!;Μα είστε νέα!;zin;;relaties, converseren
 0995;2025-02-11;vijfde;πέμπτος -η -ο;bnw.;;hoeveelheden, meten
 0996;2025-02-11;mens;(ο) άνθρωπος;znw.;;relaties, converseren
-;;;(τα) κολοκυθάκια;;;
-;;;(τα) καλαμάρια;;;
+;2025-02-11;;(τα) κολοκυθάκια;;;
+;2025-02-11;;(τα) καλαμάρια;;;
 0997;2025-02-11, 2025-03-18;uitzicht;(η) θέα;znw.;;reizen, routines
 0998;2025-02-11;Japan;η Ιαπωνία;plaatsnaam;;geografie, cultuur
 0999;2025-02-11;Japanner;(ο) Γιαπωνέζος;znw.;;geografie, cultuur
@@ -1134,7 +1122,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1002;2025-02-11;Duitser;(ο) Γερμανός;znw.;;geografie, cultuur
 1003;2025-02-11;Duitse (vrouw);(η) Γερμανίδα;znw.;;geografie, cultuur
 1004;2025-02-11;Frankrijk;η Γαλλία;plaatsnaam;;geografie, cultuur
-;;;(η) Αμερική;;;
+;2025-02-11;Amerika;(η) Αμερική;;;
 1005;2025-02-11;Fransman;(ο) Γάλλος;znw.;;geografie, cultuur
 1006;2025-02-11;Française;(η) Γαλλίδα;znw.;;geografie, cultuur
 1007;2025-02-11;Italiaan;(ο) Ιταλός;znw.;;geografie, cultuur
@@ -1161,10 +1149,6 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1028;2025-02-11;met zicht op zee;με θέα στην θάλασσα;zin;;reizen, routines
 1029;2025-02-11;zesde;έκτος -η -ο;bnw.;;hoeveelheden, meten
 1030;2025-02-11;zevende;έβδομος -η -ο;bnw.;;hoeveelheden, meten
-1031;2025-02-11;zeventig;εβδομήντα;telw.;;hoeveelheden, meten
-;;;ογδόντα;;;
-;;;ενενήντα;;;
-;;;εκατό(ν);;;
 1032;2025-02-11;medelijden;(ο) οίκτος;znw.;;emoties, behoeftes
 1033;2025-02-11;douche;(το) ντους;znw.;;reizen, routines
 1034;2025-02-11;juiste artikel;(το) σωστό άρθρο;znw. groep;;grammatica
@@ -1186,7 +1170,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1050;2025-02-11;slim;έξυπνος -η -ο;bnw.;;beroepen, maatschappij
 1051;2025-02-11;deze man;αυτός ο άνδρας;znw. groep;;grammatica
 1052;2025-02-11;deze vrouw;αυτή η γυναίκα;znw. groep;;grammatica
-;;;(τα) γλυκά;;;
+;2025-02-11;;(τα) γλυκά;;;
 1053;2025-02-11;dit boek;αυτό το βιβλίο;znw. groep;;grammatica
 1054;2025-02-11;beminnen;αγαπάω, αγαπώ - αγαπάς, αγαπάει, αγαπάμε, αγαπάτε, αγαπάνε;ww.;;emoties, behoeftes
 1055;2025-02-11;wie;ποιος -α -ο;vnw.;;converseren
@@ -1201,9 +1185,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1064;2025-02-11;complex;(το) συγκρότημα;znw.;;filosofie, cultuur
 1065;2025-02-11;Waarom niet?;Γιατί όχι;;zin;vraagzin;converseren
 1066;2025-02-11;meisje， vriendin， liefje;(η) κοπέλα;znw.;;relaties, converseren
-;;;(η) τραγωδία;;;
-;;;(το) δράμα;;;
-;;;(το) όπερα;;;
+;2025-02-11;;(η) τραγωδία;;;
+;2025-02-11;;(το) δράμα;;;
+;2025-02-11;;(το) όπερα;;;
 1067;2025-02-11, 2025-03-11;’s ochtends;το πρωί;znw.;;kalender, meten
 1068;2025-02-11, 2025-03-11;’s middags;(το) μεσημέρι;znw.;;kalender, meten
 1069;2025-02-11, 2025-03-11;’s namiddaags;το απόγευμα;znw.;;kalender, meten
@@ -1211,17 +1195,17 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1071;2025-02-11;Griekse les;(το) μάθημα ελληνικών;znw. groep;;beroepen, maatschappij
 1072;2025-02-11;gelijkvloers， begane grond;(το) ισόγειο;znw.;;wonen, routines
 1073;2025-02-11;appartement;(το) διαμέρισμα;znw.;;wonen, routines
-;;;(ο) σκύλος;;;
-;;;(το) μπισκότο;;;
-;;;Το τηλέφωνό μου είναι …;;;
-;;;(η) πόλη;;;
-;;;Μαθαίνω ελληνικά.;;;
+;2025-02-11;;(ο) σκύλος;;;
+;2025-02-11;;(το) μπισκότο;;;
+;2025-02-11;;Το τηλέφωνό μου είναι …;;;
+;2025-02-11;;(η) πόλη;;;
+;2025-02-11;;Μαθαίνω ελληνικά.;;;
 1074;2025-02-11;flatgebouw， appartementsgebouw;(η) πολυκατοικία;znw.;;wonen, routines
-;;;στο ισόγειο;;;
-;;;(το) θέατρο;;;
-;;;(το) πιάνο;;;
-;;;(το) πράγμα – (τα) πράγματα;;;
-;;;(η) εξέταση – (οι) εξετάσεις;;;
+;2025-02-11;;στο ισόγειο;;;
+;2025-02-11;;(το) θέατρο;;;
+;2025-02-11;;(το) πιάνο;;;
+;2025-02-11;;(το) πράγμα – (τα) πράγματα;;;
+;2025-02-11;;(η) εξέταση – (οι) εξετάσεις;;;
 1075;2025-02-11;in een huis wonen;μένω σε σπίτι;zin;;wonen, routines
 1076;2025-02-11;Wie(n) wilt u (spreken)?;Ποιον θέλετε;;zin;vraagzin;converseren
 1077;2025-02-11;Wat wilt u van hem?;Τι τον θέλετε;;zin;vraagzin;converseren
@@ -1239,13 +1223,13 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1089;2025-02-18;kruis;(ο) σταύρος;znw.;;
 1090;2025-02-18;kruiswoordpuzzel;(το) σταυρόλεξο;znw.;;beroepen, maatschappij
 1091;2025-02-18;stoplicht， verkeerslicht;(το) φανάρι;znw.;;reizen, routines
-;;;κανονίζω;;;
-;;;Πόσο από το καθένα;;;;
-;;;Πάρε!;;;
-;;;Ωραία ιδέα!;;;
-;;;Εδώ και δύο χρόνια.;;;
-;;;Κανονίζουμε τίποτα;;;;
-;;;Τι θα ήθελες;;;;
+;2025-02-18;;κανονίζω;;;
+;2025-02-18;;Πόσο από το καθένα;;;;
+;2025-02-18;;Πάρε!;;;
+;2025-02-18;;Ωραία ιδέα!;;;
+;2025-02-18;;Εδώ και δύο χρόνια.;;;
+;2025-02-18;;Κανονίζουμε τίποτα;;;;
+;2025-02-18;;Τι θα ήθελες;;;;
 1092;2025-02-18;Is er een dokter (in de buurt)?;Υπάρχει κανένας γιατρός;;zin;vraagzin;converseren
 1093;2025-02-18;Is er een taverne (in de buurt)?;Υπάρχει καμιά ταβέρνα (στην περιοχή);;zin;vraagzin;converseren
 1094;2025-02-18;Is er iemand die … ?;Υπάρχει κάποιος που … ;;zin;vraagzin;converseren, uitdrukkingen
@@ -1279,9 +1263,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1122;2025-02-18;nationale bank;(η) εθνική τράπεζα;znw.;;
 1123;2025-02-18;¹T-shirt ²hemdje;(το) φανελάκι;znw.;;kleding, behoeftes
 1124;2025-02-18;ondergoed;(τα) εσώρουχα;znw.;;kleding, behoeftes
-;;;ένα ζευγάρι παντόφλες;;;
-;;;ένα ζευγάρι πέδιλα;;;
-;;;(ο) σκούφος;;;
+;2025-02-18;;ένα ζευγάρι παντόφλες;;;
+;2025-02-18;;ένα ζευγάρι πέδιλα;;;
+;2025-02-18;;(ο) σκούφος;;;
 1125;2025-02-18, 2025-02-25;pantoffels;(οι) παντόφλες;znw.;;kleding, behoeftes
 1126;2025-02-18, 2025-02-25;sandalen;(τα) πέδιλα;znw.;;kleding, behoeftes
 1127;2025-02-18, 2025-02-25;korte broek;(το) σορτς;znw.;;kleding, behoeftes
@@ -1294,12 +1278,12 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1134;2025-02-18;omhoog;(ε)πάνω;bijw.;;
 1135;2025-02-18;¹omlaag ²onderstaand;κάτω;bijw.;;
 1136;2025-02-18;omdat;γιατί;vw.;;
-;;;Αντίο!;;;
+;2025-02-18;;Αντίο!;;;
 1137;2025-02-18;direct (bw.);ευθεία;bijw.;;
 1138;2025-02-18;snel;γρήγορα;bijw.;;
 1139;2025-02-18;hoek;(η) γωνία;znw.;;kleuren & vormen, dingen
 1140;2025-02-18;plein;(το) τετράγωνο;znw.;;geografie, cultuur
-;;;(το) σούπερ-μάρκετ;;;
+;2025-02-18;;(το) σούπερ-μάρκετ;;;
 1141;2025-02-18;supermarkt;(το) σουπερμάρκετ;znw.;;voedsel, dingen
 1142;2025-02-18, 2025-04-01;blij;¹χαρούμενος -η -ο ²ευχαριστημένος -η -ο;bnw.;;emoties, behoeftes
 1143;2025-02-18;moe;κουρασμένος -η -ο;bnw.;;emoties, behoeftes
@@ -1308,28 +1292,28 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1146;2025-02-18;Ik lijk (veel) op een varken.;¹Χοίρο μοιάζω πολύ. ²Μοιάζω πολύ με γουρούνι.;zin;uitdr.;uitdrukkingen, converseren
 1147;2025-02-18;veraf wonen;μένω μακριά;ww. groep;;wonen, routines
 1148;2025-02-18;dan;τότε;bijw.;;
-;;;Αλήθεια!;;;
+;2025-02-18;;Αλήθεια!;;;
 1149;2025-02-18;meneer/mevrouw (aanspreekvorm, verkort);κυρ-， Κυρ-Ηλίας = κύριε Ηλίας， Κυρα-Μαρία = κυρία Μαρία;zin;;relaties, converseren
 1150;2025-02-25;een paar schoenen;ένα ζευγάρι παπούτσια;znw. groep;;kleding, behoeftes
 1151;2025-02-25;blouse;(η) μπλούζα;znw.;;kleding, behoeftes
 1152;2025-02-04, 2025-02-25;zakje;(το) σακάκι;znw.;;kleding, behoeftes
 1153;2025-02-25;jurken;(τα) φορέματα;znw.;;kleding, behoeftes
 1154;2025-02-25;pak;(το) κοστούμι;znw.;;kleding, behoeftes
-;;;(το) μαντήλι;;;
+;2025-02-25;;(το) μαντήλι;;;
 1155;2025-02-25;sportschoenen;(τα) αθλητικά παπούτσια;znw.;;kleding, behoeftes
 1156;2025-02-04, 2025-02-25;jas;(το) παλτό;znw.;;kleding, behoeftes
 1157;2025-02-25;laarzen;(οι) μπότες;znw.;;kleding, behoeftes
 1158;2025-02-25;badpak;(το) μαγιό - (τα) μαγιό;znw.;;kleding, behoeftes
-;;;(η) παντόφλα;;;
-;;;(το) πέδιλο;;;
-;;;Έχω μάθημα σε λίγο.;;;
-;;;Πηγαίνετε ευθεία στην οδό Νίκος.;;;
-;;;Βλέπετε το φαρμακείο δεξιά.;;;
-;;;Εκεί στρίβετε αριστερά.;;;
-;;;Πηγαίνετε ευθεία κάτω την οδό Αγίας Σοφίας.;;;
-;;;Μετά από ένα τετράγωνο βλέπετε μια εκκλησία.;;;
-;;;Δύο τετράγωνα παρακάτω.;;;
-;;;Υπάρχει κανένας φούρνος εδώ κοντά;;;;
+;2025-02-25;;(η) παντόφλα;;;
+;2025-02-25;;(το) πέδιλο;;;
+;2025-02-25;;Έχω μάθημα σε λίγο.;;;
+;2025-02-25;;Πηγαίνετε ευθεία στην οδό Νίκος.;;;
+;2025-02-25;;Βλέπετε το φαρμακείο δεξιά.;;;
+;2025-02-25;;Εκεί στρίβετε αριστερά.;;;
+;2025-02-25;;Πηγαίνετε ευθεία κάτω την οδό Αγίας Σοφίας.;;;
+;2025-02-25;;Μετά από ένα τετράγωνο βλέπετε μια εκκλησία.;;;
+;2025-02-25;;Δύο τετράγωνα παρακάτω.;;;
+;2025-02-25;;Υπάρχει κανένας φούρνος εδώ κοντά;;;;
 1159;2025-02-25;Roodkapje;η Κοκκινοσκουφίτσα;eigennaam;;namen, cultuur
 1160;2025-02-25;atletisch;αθλητικός -ή -ό;bnw.;;tijd, meten
 1161;2025-02-25;alledaags;καθημερινός -ή -ό;bnw.;;
@@ -1352,19 +1336,19 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1178;2025-02-25;met het vliegtuig;με το αεροπλάνο;zin;;reizen, routines
 1179;2025-02-25;per schip;με το πλοίο;zin;;reizen, routines
 1180;2025-02-25;haven;(το) λιμάνι - (τα) λιμάνια;znw.;;reizen, routines
-;;;Δεν υπάρχει κανείς.;;;
-;;;τρελή;;;
+;2025-02-25;;Δεν υπάρχει κανείς.;;;
+;2025-02-25;;τρελή;;;
 1181;2025-02-25;trein;(το) τρένο - (τα) τρένα;znw.;;reizen, routines
 1182;2025-02-25;fiets;(το) ποδήλατο - (τα) ποδήλατα;znw.;;reizen, routines
 1183;2025-02-25;¹machine ²motorfiets;(η) μηχανή - (οι) μηχανές;znw.;;reizen, routines
 1184;2025-02-25;te voet;με τα πόδια;zin;;reizen, routines
-;;;(τα) πόδια;;;
+;2025-02-25;;(τα) πόδια;;;
 1185;2025-02-25;tot(dat);¹ως ²μέχρι (να);vw.;;grammatica
 1186;2025-02-25, 2025-04-29;aankomen， arriveren;φτάνω - φτάνεις, φτάνει, φτάνουμε, φτάνετε, φτάνουν;ww.;;reizen, routines
 1187;2025-02-25, 2025-03-11;vertrekken;φεύγω - φεύγεις, φεύγει, φεύγουμε, φεύγετε, φεύγουν;ww.;;reizen, routines
 1188;2025-02-25;huilen;κλαίω - κλαίεις, κλαίει, κλαίμε, κλαίτε, κλαίνε;ww.;;emoties, behoeftes
 1189;2025-02-25;schuldig zijn;φταίω - φταις, φταίει, φταίμε, φταίτε, φταίνε;ww.;;emoties, behoeftes
-;;;φταίει το τρένο;;;
+;2025-02-25;;φταίει το τρένο;;;
 1190;2025-02-25, 2025-03-11;praten， spreken;μιλάω, μιλώ - μιλάς μιλάει μιλάμε (μιλούμε), μιλάτε, μιλάνε (μιλούν);ww.;;converseren
 1191;2025-02-25, 2025-03-11;honger hebben;πεινάω - πείνας, πεινάει, πεινάμε, πεινάτε, πεινάνε;ww.;;voedsel, dingen
 1192;2025-02-25, 2025-03-11;dorst hebben;διψάω, διψώ - διψάς, διψάει, διψάνε, διψάτε, διψάνε;ww.;;voedsel, dingen
@@ -1384,7 +1368,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1206;2025-02-25;¹rijden， besturen， voeren ²gidsen;οδηγώ - οδηγείς, οδηγεί, οδηγούμε, οδηγείτε, οδηγούν;ww.;;reizen, routines
 1207;2025-02-25;telefoneren;τηλεφωνώ - τηλεφωνείς, τηλεφωνεί, τηλεφωνούμε, τηλεφωνείτε, τηλεφωνούν;ww.;;grammatica
 1208;2025-02-25;leven;ζω - ζεις, ζει, ζούμε, ζείτε, ζουν;ww.;;grammatica
-;;;Με συγχωρείτε!;;;
+;2025-02-25;;Με συγχωρείτε!;;;
 1209;2025-02-25;Ik ben te laat door de trein!;Άργησα φταίει το τρένο!;zin;uitdr.;reizen, routines
 1210;2025-02-25;lied;(το) τραγούδι - (τα) τραγούδια;znw.;;muziek, cultuur
 1211;2025-02-25;jeugd;(τα) νιάτα;znw.;;relaties, converseren
@@ -1393,9 +1377,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1214;2025-03-11;motorfiets;(το) μηχανάκι - (τα) μηχανάκια;znw.;;reizen, routines
 1215;2025-03-11;eendje;(το) παπάκι - (τα) παπάκια;znw.;;dieren, natuur
 1216;2025-03-11;om middernacht;(τα) μεσάνυχτα;znw.;;kalender, meten
-;;;μμ (= μετά το μεσημέρι);;;
-;;;πμ (=  πριν το μεσημέρι);;;
-;;;Είναι μία το μεσημέρι.;;;
+;2025-03-11;pm;μμ (= μετά το μεσημέρι);;;
+;2025-03-11;am;πμ (=  πριν το μεσημέρι);;;
+;2025-03-11;;Είναι μία το μεσημέρι.;;;
 1217;2025-03-11, 2025-03-18;tram;(το) τρόλει - (τα) τρόλεϊ;znw.;;reizen, routines
 1218;2025-03-11;elektricien;(ο) ηλεκτρικός - (οι) ηλεκτρικοί;znw.;;beroepen, maatschappij
 1219;2025-03-11;elektrisch;ηλεκτρικός -ή -ό;bnw.;;
@@ -1407,10 +1391,10 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1225;2025-03-11;eerste klasse;πρώτη θέση;znw. groep;;reizen, routines
 1226;2025-03-11;economieklasse;(η) τουριστική θέση;znw. groep;;reizen, routines
 1227;2025-03-11;over;περίπου;bijw.;;
-;;;μία ώρα περίπου;;;
-;;;κοστίζω;;;
-;;;(το) μπουκάλι;;;
-;;;(η) αγγελία;;;
+;2025-03-11;;μία ώρα περίπου;;;
+;2025-03-11;;κοστίζω;;;
+;2025-03-11;;(το) μπουκάλι;;;
+;2025-03-11;;(η) αγγελία;;;
 1228;2025-03-11;bij de kiosk;στο περίπτερο;zin;;geografie, cultuur
 1229;2025-03-11;poëzie;(η) ποίηση;znw.;;muziek, cultuur
 1230;2025-03-11;eenvoudig;απλός -ή -ό;bnw.;;
@@ -1422,19 +1406,19 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1236;2025-03-11;moeilijk;δύσκολος -η -ο;bnw.;;
 1237;2025-03-11;Maar nee!， Oef!;Μπα!;tsw.;;converseren, uitdrukkingen
 1238;2025-03-11;liever;μάλλον;bijw.;;
-;;;πολύ γνωστή μάρκα;;;
+;2025-03-11;;πολύ γνωστή μάρκα;;;
 1239;2025-03-11;bekend;γνωστός -ή -ό;bnw.;;
 1240;2025-03-11;merk;(η) μάρκα - (οι) μάρκες;znw.;;
 1241;2025-03-11;reisbureau;(το) ταξιδιωτικό γραφείο - (τα) ταξιδιωτικά γραφεία;znw.;;reizen, routines
-;;;Ένα εισιτήριο με επιστροφή.;;;
-;;;Το αεροπλάνο πόση ώρα κάνει;;;;
-;;;Μισό λεπτό…;;;
-;;;Δεν έχει τρένο από Αθήνα για Θεσσαλονίκη.;;;
-;;;Το τρένο ξεκινάει από τη Θεσσαλονίκη στις 8 το βράδυ.;;;
+;2025-03-11;;Ένα εισιτήριο με επιστροφή.;;;
+;2025-03-11;;Το αεροπλάνο πόση ώρα κάνει;;;;
+;2025-03-11;;Μισό λεπτό…;;;
+;2025-03-11;;Δεν έχει τρένο από Αθήνα για Θεσσαλονίκη.;;;
+;2025-03-11;;Το τρένο ξεκινάει από τη Θεσσαλονίκη στις 8 το βράδυ.;;;
 1242;2025-03-11;gouden gids (soort zoekertjeskrant);(οι) χρυσές αγγελίες ~ (ο) χρυσός οδηγός;znw. groep;;converseren
-;;;ούτε … ούτε (π.χ. Δεν περιμένει, ούτε την Αλίκη, ούτε τον Κώστα.);;;
+;2025-03-11;;ούτε … ούτε (π.χ. Δεν περιμένει, ούτε την Αλίκη, ούτε τον Κώστα.);;;
 1243;2025-03-11;lam;(το) αρνάκι - (τα) αρνάκια;znw.;;dieren, natuur
-;;;αρνάκι φρικασέ;;;
+;2025-03-11;;αρνάκι φρικασέ;;;
 1244;2025-03-11;bij ons;μαζί μας;zin;;relaties, converseren
 1245;2025-03-11;altijd dragen;φοράω πάντα;ww. groep;;kleding, behoeftes
 1246;2025-03-11;vallen;πέφτω;ww.;;grammatica
@@ -1447,9 +1431,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1253;2025-03-11;we hebben veel honger;πεινάμε πολύ;zin;;voedsel, dingen
 1254;2025-03-11;Ik houd van lamsvlees.;Μου αρέσει το αρνάκι.;zin;;voedsel, dingen
 1255;2025-03-11;Kom op, Niko!;Έλα, Νίκο!;uitdr.;;converseren, uitdrukkingen
-;;;Έλα μαζί μου!;;;
-;;;επικίνδυνος -η -ο;bnw.;;
-;;;ένα γραμμάριο;;;
+;2025-03-11;;Έλα μαζί μου!;;;
+;2025-03-11;;επικίνδυνος -η -ο;bnw.;;
+;2025-03-11;;ένα γραμμάριο;;;
 1256;2025-03-11;Het eten is klaar.;Το φαγητό είναι έτοιμο.;zin;;voedsel, dingen
 1257;2025-03-11;Wie betaalt de rekening?;Ποιος πληρώνει τον λογαρισμό;;zin;vraagzin;voedsel, dingen
 1258;2025-03-11;vragen;ρωτάω;ww.;;converseren
@@ -1462,7 +1446,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1265;2025-03-11;toren;(ο) πύργος - (οι) πύργοι;znw.;;geografie, cultuur
 1266;2025-03-11;er ontbreekt iets;κάτι λείπει;zin;;
 1267;2025-03-11;hoe dan ook;πάντως;bijw.;;
-;;;(η) καρτέλα;;;
+;2025-03-11;;(η) καρτέλα;;;
 1268;2025-03-11;vrij goedkoop;μάλλον φτηνός;zin;;
 1269;2025-03-18;afhankelijk;εξαρτάται;bnw.;;
 1270;2025-03-18, 2025-05-06;opstaan;σηκώνομαι - σηκώνεσαι, σηκώνεται, σηκωνόμαστε, σηκωνόσαστε, σηκώνονται;ww.;;grammatica
@@ -1507,10 +1491,10 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1308;2025-03-18;Begrepen!;Κατάλαβα!;zin;;converseren, uitdrukkingen
 1309;2025-03-18;Daar gaat de tram!;Πάει το τρόλεϊ!;zin;;reizen, routines
 1310;2025-03-18;Zeker!;Σίγουρα!;uitdr.;;converseren, uitdrukkingen
-;;;(ο) ίδιος;;;
-;;;(το) τραμ;;;
-;;;Κάθε πότε περνάει το μετρό;;;;
-;;;πάω με το μετρό;;;
+;2025-03-18;;(ο) ίδιος;;;
+;2025-03-18;;(το) τραμ;;;
+;2025-03-18;;Κάθε πότε περνάει το μετρό;;;;
+;2025-03-18;;πάω με το μετρό;;;
 1311;2025-03-18;dansen;χορεύω;ww.;;grammatica
 1312;2025-03-18, 2025-03-25;¹uittrekken (kleren), afnemen (hoed)  ²(geld) opnemen ³(foto) nemen ⁴(iemand) uitnodigen ⁵afhalen ⁶produceren ⁷verwijderen;βγάζω (+ obj. acc.);ww.;;grammatica
 1313;2025-03-18, 2025-05-06;Gezegend zijn je handen!， Goed gedaan!;Γεια στα χέρια σου!;uitdr.;felicitatie bij koken en handwerk;converseren, uitdrukkingen
@@ -1519,7 +1503,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1316;2025-03-18;in Parijs;στο Παρίσι;zin;;geografie, cultuur
 1317;2025-03-18;nooit op zondag;ποτέ την Κυριακή;zin;uitdr.;kalender, meten
 1318;2025-03-18;godin;(η) θεά - (οι) θεές;znw.;;filosofie, cultuur
-;;;Έχει θέα στη θάλασσα;;;;
+;2025-03-18;;Έχει θέα στη θάλασσα;;;;
 1319;2025-03-18;genitief;(η) γενική;znw.;;grammatica
 1320;2025-03-18;Kostas’;του Κώστα;eigennaam;genitief;converseren
 1321;2025-03-18;Jans;του Γιάννη;eigennaam;genitief;converseren
@@ -1532,30 +1516,30 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1328;2025-03-25;telefonisch (bw.);τηλεφωνικά;bijw.;;converseren
 1329;2025-03-25;halva (Grieks gebak);(ο) χαλβάς - (οι) χαλβάδες;znw.;;voedsel, dingen
 1330;2025-03-25;restaurant;(το) εστιατόριο - (τα) εστιατόρια;znw.;;voedsel, dingen
-;;;(το) φαρμακείο;;;
+;2025-03-25;;(το) φαρμακείο;;;
 1331;2025-03-25;kantoor;(το) γραφείο - (τα) γραφεία;znw.;;beroepen, maatschappij
 1332;2025-03-25, 2025-04-22;wanneer (vw.);όταν;vw.;;kalender, meten
-;;;Ο Νίκος είναι πολύ καλός φίλος μου.;;;
-;;;Μένει μόνος του.;;;
-;;;κάνω ένα τηλεφώνημα;;;
+;2025-03-25;;Ο Νίκος είναι πολύ καλός φίλος μου.;;;
+;2025-03-25;;Μένει μόνος του.;;;
+;2025-03-25;;κάνω ένα τηλεφώνημα;;;
 1333;2025-03-25;bestellen;παραγγέλλω;ww.;;grammatica
 1334;2025-03-25, 2025-04-22;¹soms， af en toe， zo nu en dan ²hier en daar;κάπου κάπου;bijw.;uitdr.;
 1335;2025-03-25;niet vaak;όχι συχνά;bijw.;;
 1336;2025-03-25;Hij is een echte vriend!;Είναι πολύ φίλος μου!;zin;;relaties, converseren
 1337;2025-03-25;Alsjeblieft, de rekening.;Ορίστε ο λογαριασμός.;zin;;voedsel, dingen
 1338;2025-03-25;Hier is je salade.;Ορίστε η σαλάτα.;zin;;voedsel, dingen
-;;;(ο) λογαριασμός;;;
+;2025-03-25;;(ο) λογαριασμός;;;
 1339;2025-03-25;Hier, het boek!;Ορίστε το βιβλίο.;zin;;
 1340;2025-03-25;bord;(το) πιάτο - (τα) πιάτα;znw.;;voedsel, dingen
-;;;(το) δωμάτιο;;;
-;;;Μου αρέσουν τα βιβλία.;;;
+;2025-03-25;;(το) δωμάτιο;;;
+;2025-03-25;;Μου αρέσουν τα βιβλία.;;;
 1341;2025-03-25;glas， drinkbeker;(το) ποτήρι - (τα) ποτήρια;znw.;;voedsel, dingen
 1342;2025-03-25;mes;(το) μαχαίρι - (τα) μαχαίρια;znw.;;voedsel, dingen
 1343;2025-03-25;lepel;(το) κουτάλι - (τα) κουτάλια;znw.;;voedsel, dingen
 1344;2025-03-25;vork;(το) πιρούνι - (τα) πιρούνια;znw.;;voedsel, dingen
 1345;2025-03-25;zout;(το) αλάτι;znw.;;voedsel, dingen
 1346;2025-03-25;peper;(το) πιπέρι;znw.;;voedsel, dingen
-;;;ευθεία κάτω;;;
+;2025-03-25;;ευθεία κάτω;;;
 1347;2025-03-25;aardappelen;(οι) πατάτες;znw.;;voedsel, dingen
 1348;2025-03-25;Gouda (kaas);(η) (ολλανδική) γκούντα;znw.;;voedsel, dingen
 1349;2025-03-25, 2025-04-01;de tafel dekken;βάζω/στρώνω το τραπέζι;ww. groep;;voedsel, dingen
@@ -1581,8 +1565,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1369;2025-03-25;alleen wonen;μένω μόνος/η μου;ww. groep;;relaties, converseren
 1370;2025-03-25;bestuurder;(ο) οδηγός - (οι) οδηγοί;znw.;;reizen, routines
 1371;2025-03-25;¹gevoel van eer， trots， zelfrespect ²gastvrijheid， gulheid;(το) φιλότιμο;znw.;typisch Grieks concept;cultuur, filosofie
-;;;(το) σαλόνι;;;
-;;;(το) φλυτζάνι;;;
+;2025-03-25;;(το) σαλόνι;;;
+;2025-03-25;;(το) φλυτζάνι;;;
 1372;2025-03-25;Ik heb honger als een wolf.;Πεινάω σαν λύκος.;zin;uitdr.;voedsel, dingen
 1373;2025-03-25;wolf;(ο) λύκος - (οι) λύκοι;znw.;;dieren, natuur
 1374;2025-03-25;¹menukaart ²lijst， catalogus;(ο) κατάλογος - (οι) κατάλογοι;znw.;;dingen
@@ -1607,8 +1591,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1393;2025-04-01;Het is fris;Έχει δροσιά;zin;uitdr.;natuur
 1394;2025-04-01;Het is winderig;Έχει αέρα;zin;uitdr.;natuur
 1395;2025-04-01;het waait;φυσάει;ww.;uitdr.;natuur
-;;;Ποια εποχή σου αρέσει;;;;
-;;;Οι μέρες είναι πιο μεγάλες.;;;
+;2025-04-01;;Ποια εποχή σου αρέσει;;;;
+;2025-04-01;;Οι μέρες είναι πιο μεγάλες.;;;
 1396;2025-04-01;namelijk;δηλαδή;bijw.;;
 1397;2025-04-01;het is zonnig;έχει ήλιο;zin;uitdr.;natuur
 1398;2025-04-01;het is bewolkt;έχει συννεφιά;zin;uitdr.;natuur
@@ -1623,14 +1607,14 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1407;2025-04-01;het waait erg hard;φυσάει πολύ;zin;;natuur
 1408;2025-04-01;De wind neemt de hoed mee.;Ο αέρας παίρνει το καπέλο.;zin;;natuur
 1409;2025-04-01;bestek;(τα) μαχαιροπίρουνα;znw.;;voedsel, dingen
-;;;(τα) μακαρόνια;;;
-;;;(τα) ζυμαρικά;;;
-;;;Και τι ώρα φτάνει;;;;
-;;;(το) απλό εισιτήριο;;;
-;;;(το) εισιτήριο τουριστική θέση;;;
-;;;(το) εισιτήριο πρώτη θέση;;;
-;;;πιο φτηνό;;;
-;;;Πόσα θέλετε;;;;
+;2025-04-01;;(τα) μακαρόνια;;;
+;2025-04-01;;(τα) ζυμαρικά;;;
+;2025-04-01;;Και τι ώρα φτάνει;;;;
+;2025-04-01;;(το) απλό εισιτήριο;;;
+;2025-04-01;;(το) εισιτήριο τουριστική θέση;;;
+;2025-04-01;;(το) εισιτήριο πρώτη θέση;;;
+;2025-04-01;;πιο φτηνό;;;
+;2025-04-01;;Πόσα θέλετε;;;;
 1410;2025-04-01;kok;(ο) μάγειρας - (οι) μάγειρες;znw.;;voedsel, dingen
 1411;2025-04-01;dienen;σερβίρω;ww.;;voedsel, dingen
 1412;2025-04-01;vasthouden， houden;κρατάω;ww.;;grammatica
@@ -1688,7 +1672,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1464;2025-04-22;Paasdag， Pasen (Verrijzenis);¹η Λαμπρή ²η Ανάσταση;znw.;;kalender, meten
 1465;2025-04-22;Je bezoekt je ouders.;Επισκέπτεσαι τους γονείς σου.;zin;;relaties, converseren
 1466;2025-04-22;aubergine;(η) μελιτζάνα - (οι) μελιτζάνες;znw.;;voedsel, dingen
-;;;κουνάω;;;
+;2025-04-22;;κουνάω;;;
 1467;2025-04-22;pistachenootjes;(τα) φυστίκια;znw.;;voedsel, dingen
 1468;2025-04-22;een bad nemen;κάνω μπάνιο;ww. groep;;relaties, converseren
 1469;2025-04-22;zonnebaden;κάνω ηλιοθεραπεία;ww. groep;;relaties, converseren
@@ -1721,16 +1705,16 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1496;2025-04-29;groenten;(τα) λαχανικά;znw.;;voedsel, dingen
 1497;2025-04-29;sla;(το) μαρούλι - (τα) μαρούλια;znw.;;voedsel, dingen
 1498;2025-04-29;ui;(το) κρεμμύδι - (τα) κρεμμύδια;znw.;;voedsel, dingen
-;;;Δε συμφωνώ!;;;
-;;;Πότε έχεις τα γενέθλιά σου;;;;
-;;;Έχω τα γενέθλιά μου το χειμώνα τον Ιανουάριο.;;;
+;2025-04-29;;Δε συμφωνώ!;;;
+;2025-04-29;;Πότε έχεις τα γενέθλιά σου;;;;
+;2025-04-29;;Έχω τα γενέθλιά μου το χειμώνα τον Ιανουάριο.;;;
 1499;2025-04-29;olijf;(η) ελιά - (οι) ελιές;znw.;;voedsel, dingen
 1500;2025-04-29;komkommer;(το) αγγούρι - (τα) αγγούρια;znw.;;voedsel, dingen
 1501;2025-04-29;knoflook;(το) σκόρδο;znw.;;voedsel, dingen
 1502;2025-04-29;We hebben en zeggen …;Έχουμε και λέμε …;zin;aan het begin van een opsomming;converseren, uitdrukkingen
-;;;(η) ζωή;;;
-;;;Αμέ!;;;
-;;;Δεν το πιστεύω!;;;
+;2025-04-29;;(η) ζωή;;;
+;2025-04-29;;Αμέ!;;;
+;2025-04-29;;Δεν το πιστεύω!;;;
 1503;2025-04-29;(het) hoofd schudden， knikken (nee/ja);κουνάω το κεφάλι (μου/σου/του/κτλ);ww. groep;;relaties, converseren
 1504;2025-04-29;Zeg eens …， Vertel eens …;Για πες μου …， Δε μου λες …;zin;;converseren, uitdrukkingen
 1505;2025-04-29;groenteboer;(ο) μανάβης - (οι) μανάβηδες;znw.;;voedsel, dingen
@@ -1746,7 +1730,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1515;2025-05-06;kleden;ντύνω;ww.;;kleding, behoeftes
 1516;2025-05-06;zich opmaken， schminken;βάφομαι - βάφεσαι, βάφεται, βαφόμαστε, βάφεστε, βάφονται;ww.;;lichaam, behoeftes
 1517;2025-05-06;schilderen， verven;βάφω - βάφεις, βάφει, βάφουμε, βάφετε, βάφουν;ww.;;lichaam, behoeftes
-;;;Δεν βάφομαι ποτέ το πρωί.;;;
+;2025-05-06;;Δεν βάφομαι ποτέ το πρωί.;;;
 1518;2025-05-06;zich scheren;ξυρίζομαι - ξυρίζεσαι, ξυρίζεται, ξυρίζόμαστε, ξυρίζεστε, ξυρίζονται;ww.;;grammatica
 1519;2025-05-06;scheren;ξυρίζω;ww.;;grammatica
 1520;2025-05-06;zich herinneren;θυμάμαι - θυμάσαι, θυμάται, θυμόμαστε, θυμάστε, θυμούνται;ww.;+ acc.， ότι/πως/να;filosofie, cultuur
@@ -1784,8 +1768,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1552;2025-05-06;overheerlijk;πεντανόστιμος -η -ο;bnw.;;voedsel, dingen
 1553;2025-05-06;pauze;(η) διακοπή;znw.;;kalender, meten
 1554;2025-05-06;vakantie;(οι) διακοπές;znw.;;kalender, meten
-;;;παώ διακοπές;;;
-;;;μαζί;;;
+;2025-05-06;;παώ διακοπές;;;
+;2025-05-06;;μαζί;;;
 1555;;Heb je een vriend?;Έχεις φίλο;;zin;;relaties, converseren
 1556;;Heb je een vriendin?;Έχεις φίλη;;zin;;relaties, converseren
 1557;;Heb je een partner?;Έχεις σύντροφο;;zin;;relaties, converseren
@@ -1873,7 +1857,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1637;2025-05-26;klant (vrouw)， cliënte;(η) πελάτισσα;znw.;;beroepen, winkelen, maatschappij, routines
 1638;2025-05-26;cafébaas;(ο) καφετζής;znw.;;beroepen, voedsel, maatschappij, dingen
 1639;2025-05-26;ober;(ο) σερβιτόρος;znw.;;beroepen, voedsel, maatschappij, dingen
-;;;το μπουκάλι κρασί;;;
+;2025-05-26;;το μπουκάλι κρασί;;;
 1640;2025-05-26;toerist;(ο) τουρίστας;znw.;;reizen, maatschappij, routines
 1641;2025-05-26;voorbijganger;(ο) περαστικός;znw.;;maatschappij, reizen, routines
 1642;2025-05-26;werknemer;(ο) υπάλληλος;znw.;;beroepen, maatschappij
@@ -2004,8 +1988,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0004;2025-09-24;naam;(το) όνομα;znw.;;converseren
 0005;2025-09-24;het land van herkomst;η χώρα προέλευσης;znw.;;geografie, cultuur
 0006;2025-09-24;adres;(η) διεύθυνση;znw.;;wonen, routines
-;;;παραγγέλνω;;;
-;;;(τα) λαζάνια;;;
+;2025-09-24;;παραγγέλνω;;;
+;2025-09-24;;(τα) λαζάνια;;;
 0007;2025-09-24;telefoon;(το) τηλέφωνο;znw.;;converseren
 0008;2025-09-24;handtekening;(η) υπογραφή;znw.;;dingen
 0009;2025-09-24;een herhaling;μια επανάληψη;znw.;;school, maatschappij
@@ -2021,18 +2005,18 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0019;2025-09-24;zoeken;ψάχνω;ww.;;converseren
 0020;2025-09-24;volgen;παρακολουθώ;ww.;;converseren
 0021;2025-09-24;bellen;καλώ;ww.;;converseren
-;;;(το) ποτό;;;
+;2025-09-24;;(το) ποτό;;;
 0022;2025-09-24;vragen;ζητάω;ww.;;converseren
 0024;2025-09-24;groeten;χαιρετάω;ww.;;converseren
 0025;2025-09-24;lawaai;(ο) θόρυβος;znw.;;dingen
 0026;2025-09-24;kantine;(το) κυλικείο;znw.;;dingen
 0027;2025-09-24;hulp， assistent;(ο) βοηθός;znw.;;beroepen, maatschappij
 0028;2025-09-24;geluksvogel;(ο) τυχερός;znw.;;dingen
-;;;(ο) γονέας， (ο) γονιός;;;
-;;;η αρχή;;;
-;;;(ο) κήπος;;;
+;2025-09-24;;(ο) γονέας， (ο) γονιός;;;
+;2025-09-24;;η αρχή;;;
+;2025-09-24;;(ο) κήπος;;;
 0029;2025-09-24;computer;ο υπολογιστής;znw.;;beroepen, maatschappij
-;;;(η) επανάληψη;;;
+;2025-09-24;;(η) επανάληψη;;;
 0030;2025-09-24;zoekertjes， advertenties;τις αγγελίες;znw.;;cultuur
 0031;2025-09-24;traagheid;(η) αργή;znw.;;tijd, meten
 0032;2025-09-24;land， natie;(η) χώρα;znw.;;geografie, cultuur
@@ -2044,23 +2028,23 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0039;2025-10-01;Het is twee (uur (precies)).;Είναι δυο (η ώρα (ακριβώς)).;zin;;tijd, kalender, meten
 0040;2025-10-01;slaap;(ο) ύπνος;znw.;;lichaam, behoeftes
 0041;2025-10-01;rust;(η) ξεκούραση;znw.;;dingen
-;;;όλοι μας;;;
-;;;ξεχνώ;;;
-;;;ξεκουράζομαι;;;
+;2025-10-01;;όλοι μας;;;
+;2025-10-01;;ξεχνώ;;;
+;2025-10-01;;ξεκουράζομαι;;;
 0042;2025-10-01;roos;(το) τριαντάφυλλο;znw.;;natuur
 0043;2025-10-01;pauze;(το) διάλειμμα;znw.;;tijd, meten
-;;;σχολάω από τη δουλειά;;;
+;2025-10-01;;σχολάω από τη δουλειά;;;
 0044;2025-10-01;werk;(η) δουλειά;znw.;;beroepen, maatschappij
 0045;2025-10-01;koorts;(ο) πυρετός;znw.;;lichaam, behoeftes
-;;;(το) κομμωτήριο;;;
-;;;(ο) κομμωτής, (η) κομμώτρια;;;
-;;;κρυώνω;;;
+;2025-10-01;;(το) κομμωτήριο;;;
+;2025-10-01;;(ο) κομμωτής, (η) κομμώτρια;;;
+;2025-10-01;;κρυώνω;;;
 0046;2025-10-01;zoveel;τόσος -η -ο;bnw.;;hoeveelheden, meten
 0047;2025-10-01;vroeg;νωρίς;bijw.;;tijd, meten
 0048;2025-10-01;laat;αργά;bijw.;;tijd, meten
-;;;(το) βιβλίο του Πέτρου;;;
-;;;Είμαι το κορίτσι του Σάββα.;;;
-;;;Είμαι ο φίλος της Νεφέλης.;;;
+;2025-10-01;;(το) βιβλίο του Πέτρου;;;
+;2025-10-01;;Είμαι το κορίτσι του Σάββα.;;;
+;2025-10-01;;Είμαι ο φίλος της Νεφέλης.;;;
 0049;2025-10-01;wat;τι;vnw.;;grammatica
 0050;2025-10-01;welke， wie;ποιο(ς);vnw.;;grammatica
 0051;2025-10-01;Welke kleur bevalt je?;Τι/Ποιο χρώμα σου αρέσει;;vraagzin;;converseren
@@ -2103,11 +2087,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0083;2025-10-01;(al)waar;που;vnw.;bij een gevoel， herhaling;converseren
 0084;2025-10-01;Ik vrees dat …;Φοβάμαι πως …;zin;uitzondering!， herhaling;emoties, behoeftes
 0085;2025-10-01;Ik werk thuis.;Δουλεύω από το σπίτι.;zin;;wonen, routines
-;;;Πλένω τα πιάτα.;;;
+;2025-10-01;;Πλένω τα πιάτα.;;;
 0086;2025-10-01;in een huis;σε σπίτι;vz.;;wonen, routines
 0087;2025-10-01;in een appartement;σε διαμέρισμα;vz.;;wonen, routines
 0088;2025-10-01;(te) laat zijn;αργώ;ww.;;tijd, meten
-;;;συμφωνώ;;;
+;2025-10-01;;συμφωνώ;;;
 0090;2025-10-01;dorst hebben;διψάω;ww.;;voedsel, dingen
 0091;2025-10-01;honger hebben;πεινάω;ww.;;voedsel, dingen
 0092;2025-10-01;passeren;περνάω;ww.;;reizen, routines
@@ -2127,7 +2111,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0107;2025-10-01;scheren;ξυρίζω (π.χ. τα πρόβατα);ww.;;kleding, behoeftes
 0108;2025-10-01;zich kammen;χτενίζομαι;ww.;;kleding, behoeftes
 0109;2025-10-01;kammen;χτενίζω (π.χ. τα μαλλιά μου);ww.;;lichaam, kleding, behoeftes
-;;;αρχίζω δουλειά;;;
+;2025-10-01;;αρχίζω δουλειά;;;
 0110;2025-10-01;komen;έρχομαι;ww.;;reizen, routines
 0111;2025-10-01;zitten;κάθομαι;ww.;;converseren
 0112;2025-10-01;(na)denken;σκέφτομαι;ww.;;filosofie, cultuur
@@ -2136,17 +2120,17 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0115;2025-10-01;moe worden， zich moe maken;κουράζομαι;ww.;;routines
 0116;2025-10-01;het warm hebben;ζεσταίνομαι;ww.;;emoties, behoeftes
 0117;2025-10-01;slapen;κοιμάμαι;ww.;;routines
-;;;Συνήθως κοιμάμαι νωρίς.;;;
+;2025-10-01;;Συνήθως κοιμάμαι νωρίς.;;;
 0118;2025-10-01;zich herinneren;θυμάμαι;ww.;;filosofie, cultuur
 0119;2025-10-01;spijt hebben， medelijden hebben;λυπάμαι;ww.;;emoties, behoeftes
 0120;2025-10-01;bang zijn， vrezen， angst hebben;φοβάμαι;ww.;;emoties, behoeftes
 0121;2025-10-01;heten (genoemd worden);λέγομαι;ww.;;converseren
-;;;εργάζομαι;;;
-;;;εργάζομαι ως βοηθός;;;
-;;;(το) κιλό;;;
+;2025-10-01;;εργάζομαι;;;
+;2025-10-01;;εργάζομαι ως βοηθός;;;
+;2025-10-01;;(το) κιλό;;;
 0122;2025-10-01;zeggen， noemen;λέω;ww.;;converseren
 0123;2025-10-01;zich bevinden;βρίσκομαι;ww.;;converseren
-;;;Ποιον λες;;;;
+;2025-10-01;;Ποιον λες;;;;
 0124;2025-10-01;vinden;βρίσκω;ww.;;converseren
 0125;2025-10-08;Het is niet zo moeilijk.;Δεν είναι τόσο δύσκολο.;zin;;grammatica
 0126;2025-10-08;Wat betekent (dat)?;Τι σημαίνει;;vraagzin;;converseren
@@ -2181,11 +2165,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0152;2025-10-08;doen;κάνω;ww.;;converseren
 0153;2025-10-08;grappen;(τα) αστεία;znw.;;converseren
 0154;2025-10-08;dokterspraktijk;(το) ιατρείο;znw.;;beroepen, maatschappij
-;;;ονομάζομαι;;;
+;2025-10-08;;ονομάζομαι;;;
 0155;2025-10-08;niet (imperatief, verbod);μην;bijw.;;grammatica
 0156;2025-10-08;niet;δεν;bijw.;;grammatica
-;;;Μη λες τίποτα.;;;
-;;;Μη λες ψέματα ποτέ. Μη λες ποτέ ψέματα.;;;
+;2025-10-08;;Μη λες τίποτα.;;;
+;2025-10-08;;Μη λες ψέματα ποτέ. Μη λες ποτέ ψέματα.;;;
 0157;2025-10-08;Val me niet lastig!;Μην με πειράζει!;ww.;;grammatica
 0158;2025-10-08;Het maakt niet uit.;Δεν πειράζει.;ww.;;grammatica
 0159;2025-10-08;Wees niet bang!;Μην φοβάστε!;ww.;;grammatica
@@ -2203,27 +2187,26 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0171;2025-10-08;water bij de wijn doen;βάζω στο κρασί νερό;ww.;;voedsel, dingen
 0172;2025-10-08;In een maand zonder rho, doe water in warme wijn.;Μήνα που δεν εχει ρο, βα ζεστό κρασί νερό.;spreekwoord;;grammatica
 0173;2025-10-08;gelijk hebben;έχω δίκιο;ww.;;converseren
-;;;Εδώ που τα λέμε …;;;
+;2025-10-08;;Εδώ που τα λέμε …;;;
 0174;2025-10-08;in het algemeen;γενικά;bijw.;;converseren
 0175;2025-10-08;dronken;μεθυσμένος -η -ο;bnw.;;emoties, behoeftes
 0176;2025-10-08;wennen;συνηθίζω;ww.;cfr συνηθώς， herhaling;converseren
 0177;2025-10-08;gewoonlijk;συνηθώς;bijw.;;hoeveelheden, tijd, meten
 0178;2025-10-08;zich schamen;ντρέπομαι;ww.;;converseren
-;;;Ποιο(ν) Who is always with ν  - ποιον  Which is without ν except for vowels and certain letters - ποιο(ν);;;
 0179;2025-10-08;Hoe schoon praat ge Grieks!;Μα τι ωραία που μιλάς Ελληνικά!;zin;;converseren, uitdrukkingen
 0180;2025-10-08;Wat jammer dat …;Κρίμα που …;uitdr.;;grammatica
 0181;2025-10-08;Het spijt me dat …;Λυπάμαι που …;uitdr.;;emoties, behoeftes
-;;;Κρίμα που δεν ήμουν έκει.;;;
+;2025-10-08;;Κρίμα που δεν ήμουν έκει.;;;
 0182;2025-10-08;Verschoning dat …;Συγνώμι που …;uitdr.;;converseren, uitdrukkingen
 0183;2025-10-08;Ik denk dat …;Νομίζω πως/ότι …;uitdr.;;converseren, uitdrukkingen
-;;;για παράδειγμα;;;
+;2025-10-08;;για παράδειγμα;;;
 0184;2025-10-08;medicijnen;(τα) φάρμακα;znw.;;dingen
 0185;2025-10-08;berg;(το) βουνό;znw.;;natuur
 0186;2025-10-15;altijd;πάντα;bijw.;;hoeveelheden, tijd, meten
 0187;2025-10-15;gebruikelijk， gewoonlijk;συνήθως;bijw.;;hoeveelheden, tijd, meten
-;;;πάω για ύπνο;;;
+;2025-10-15;;πάω για ύπνο;;;
 0188;2025-10-15;vaak;συχνά;bijw.;;hoeveelheden, tijd, meten
-;;;(το) γυμναστήριο;;;
+;2025-10-15;;(το) γυμναστήριο;;;
 0189;2025-10-15;soms;μερικές φορές;bijw.;;hoeveelheden, tijd, meten
 0190;2025-10-15;zelden;σπάνια;bijw.;;hoeveelheden, tijd, meten
 0191;2025-10-15;nooit;ποτέ;bijw.;;hoeveelheden, tijd, meten
@@ -2231,12 +2214,12 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0193;2025-10-15;om de dag;μέρα παρά μέρα;uitdr.;;hoeveelheden, tijd, meten
 0194;2025-10-15;de hele tijd;όλη την ώρα;uitdr.;;hoeveelheden, tijd, meten
 0195;2025-10-15;af en toe;κάπου-κάπου;uitdr.;;hoeveelheden, tijd, meten
-;;;έχει φεγγάρι;;;
-;;;(το) μοναστήρι;;;
-;;;(η) βάρκα;;;
-;;;Απλός / απλή / απλό;;;
-;;;(η) επιστροφή;;;
-;;;(η) θέση;;;
+;2025-10-15;;έχει φεγγάρι;;;
+;2025-10-15;;(το) μοναστήρι;;;
+;2025-10-15;;(η) βάρκα;;;
+;2025-10-15;;Απλός / απλή / απλό;;;
+;2025-10-15;;(η) επιστροφή;;;
+;2025-10-15;;(η) θέση;;;
 0196;2025-10-15;sommige;μερικοί -ές -ά;bnw.;;grammatica
 0197;2025-10-15;bewaken;φυλάω;ww.;;converseren
 0198;2025-10-15;kus;(το) φιλί;znw.;;emoties, behoeftes
@@ -2248,7 +2231,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0204;2025-10-15;blijven;μείνω;ww.;;converseren
 0205;2025-10-15;brein， hersenen;(το) εγκέφαλο;znw.;;dingen
 0206;2025-10-15;geheugen;(η) μνήμη;znw.;;grammatica
-;;;(το) λάδι;;;
+;2025-10-15;;(το) λάδι;;;
 0207;2025-10-15;(wal)noten;(τα) καρύδια;znw.;;dingen
 0208;2025-10-15;¹been ²poot;(το) ποδάρι;znw.;;lichaam, behoeftes
 0209;2025-10-15;tekst;(το) κείμενο;znw.;;dingen
@@ -2262,7 +2245,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0217;2025-10-15;vlug-vlug (snel);τάκα-τάκα (γρίγορα);uitdr.;;tijd, meten
 0218;2025-10-15;ik had;είχα;ww.;;grammatica
 0219;2025-10-15;ik begreep;κατάλαβα;vz.;;grammatica
-;;;Μήπως έχετε (εισιτήρια) και για το μετρό;;;;
+;2025-10-15;;Μήπως έχετε (εισιτήρια) και για το μετρό;;;;
 0220;2025-10-15;ik was;ήμουν;ww.;;grammatica
 0221;2025-10-15;eten;τρώω;ww.;;voedsel, dingen
 0222;2025-10-15;ik at (τρώω);έφαγα;ww.;;voedsel, dingen
@@ -2281,23 +2264,23 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0235;2025-10-15;waarschijnlijk;μάλλον που που;bijw.;;grammatica
 0236;2025-10-15;hij, zij, het;αυτός -ή -ό;bnw.;;grammatica
 0237;2025-10-15;deze, die, dat;εκείνος -η -ο (ο/η/το);bnw.;;converseren
-;;;(η) στάση;;;
-;;;(το) στάδιο;;;
+;2025-10-15;;(η) στάση;;;
+;2025-10-15;;(το) στάδιο;;;
 0238;2025-10-15;alle;όλος -η -ο;bnw.;;hoeveelheden, meten
 0239;2025-10-22;Dionyssos Savvopoulos is vandaag overleden.;Διονύσης Σαββόπουλος πέθανε σήμερα.;zin;;cultuur
 0240;2025-10-22;instappen;ανεβαίνω;ww.;;reizen, routines
 0241;2025-10-22;uitstappen;κατεβαίνω;ww.;;reizen, routines
 0243;2025-10-22;opwarming;(το) ζέσταμα;znw.;;sport, maatschappij
 0244;2025-10-22;acteur;(ο/η) ηθοποιός;znw.;;beroepen, cultuur, maatschappij
-;;;(το) μάτι;;;
-;;;(η) γκαντεμιά;;;
+;2025-10-22;;(το) μάτι;;;
+;2025-10-22;;(η) γκαντεμιά;;;
 0245;2025-10-22;film;(η) ταινία;znw.;;cultuur
 0246;2025-10-22;paradijs;(ο) παράδεισος;znw.;;dingen
 0247;2025-10-22;pizzeria;(η) πιτσαρία;znw.;;voedsel, dingen
 0248;2025-10-22;kok;(ο) μάγειρας;znw.;;voedsel, dingen
 0249;2025-10-22;koppel;(το) ζευγάρι;znw.;;relaties, converseren
 0250;2025-10-22;sprookje;(το) παραμύθι;znw.;;cultuur
-;;;Βάζω τα ρούχα μου.;;;
+;2025-10-22;;Βάζω τα ρούχα μου.;;;
 0251;2025-10-22;(mijn) lief/liefje (♂ & ♀);(η) αγάπη (μου);znw.;;relaties, converseren
 0252;2025-10-22;de liefde;η αγάπη;znw.;;relaties, converseren
 0253;2025-10-22;verliefd;ερωτευμένος -η -ο;bnw.;;relaties, converseren
@@ -2312,8 +2295,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0262;2025-10-22;oud;παλιός -ή -ό;bnw.;;tijd, meten
 0263;2025-10-22;nieuw;καινούργιος -η -ο;bnw.;;tijd, meten
 0264;2025-10-22;volgens;κατά;vz.;;grammatica
-;;;Τα λέμε από κοντά!;;;
-;;;ψωνίζω;;;
+;2025-10-22;;Τα λέμε από κοντά!;;;
+;2025-10-22;;ψωνίζω;;;
 0265;2025-10-22;overal;παντού;bijw.;;geografie, cultuur
 0266;2025-10-22;erna， daarna;έπειτα (= μετά);vz.;;tijd, meten
 0267;2025-10-22;toerist;(ο) τουρίστας;znw.;;reizen, routines
@@ -2345,7 +2328,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0293;2025-10-22;werken;δουλεύω;ww.;;converseren
 0294;2025-10-22;ik werkte;δούλεψα;ww.;;beroepen, maatschappij
 0295;2025-10-22;koken;μαγειρεύω (= κάνω φαγητό);ww.;;voedsel, dingen
-;;;σπορ;;;
+;2025-10-22;;σπορ;;;
 0296;2025-10-22;ik kookte;μαγείρεψα;ww.;;voedsel, dingen
 0297;2025-10-22;gaan;πηγαίνω， πάω;ww.;;reizen, routines
 0298;2025-10-22;ik ging (πηγαίνω， πάω);πήγα;ww.;;reizen, routines
@@ -2354,12 +2337,12 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0301;2025-10-22;hebben;έχω;ww.;;converseren
 0302;2025-10-22;ik had;είχα;ww.;;grammatica
 0303;2025-10-22;nemen;παίρνω;ww.;;reizen, routines
-;;;λευκός ός -ή/ά -ό; certain standard expressions using one but not the other: λευκά είδη (linen), Λευκός Οίκος (the White House) άσπρο ψωμί; άσπρα μαλλιά (white hair, but is actually one's old age); λευκά μαλλιά (hair colour)",;;;
+;2025-10-22;;λευκός ός -ή/ά -ό; ; certain standard expressions using one but not the other: λευκά είδη (linen), Λευκός Οίκος (the White House) άσπρο ψωμί; άσπρα μαλλιά (white hair, but is actually one's old age); λευκά μαλλιά (hair colour)",;;;
 0304;2025-10-22;ik nam;πήρα;ww.;;reizen, routines
 0305;2025-10-22;drinken;πίνω;ww.;;voedsel, dingen
 0306;2025-10-22;ik dronk;ήπια;ww.;;voedsel, dingen
 0307;2025-10-22;doen;κάνω;ww.;;converseren
-;;;πηγαίνω;;;
+;2025-10-22;;πηγαίνω;;;
 0308;2025-10-22;ik deed (κάνω);έκανα;ww.;;converseren
 0309;2025-10-22;begrijpen;καταλαβαίνω;ww.;;converseren
 0310;2025-10-22;ik liet zakken;κατέβασα;ww.;;dingen
@@ -2386,7 +2369,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0332;2025-10-22;ergens;κάπου;vnw.;;grammatica
 0333;2025-10-22;helemaal niet;καθόλου;bijw.;;grammatica
 0334;2025-10-22;kijken;κοιτάζω;ww.;;converseren
-;;;(η) κωμωδία;;;
+;2025-10-22;;(η) κωμωδία;;;
 0335;2025-10-22;(regen)bui;(η) μπόρα;znw.;;natuur
 0336;2025-10-22;omhelzen;αγκαλιάζω;ww.;;relaties, converseren
 0337;2025-10-22;ik dans _voor_ je;σου χορεύω;ww.;;muziek, cultuur
@@ -2412,12 +2395,12 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0358;2025-11-05;streep;(η) ρίγα – (οι) ρίγες;znw.;;kleuren & vormen, dingen
 0359;2025-11-05;af en toe;που και που;bijw.;;hoeveelheden, tijd, meten
 0360;2025-11-05;film;(το) έργο;znw.;;cultuur
-;;;(ο) γάμος;;;
-;;;άλλη μια φορά;;;
+;2025-11-05;;(ο) γάμος;;;
+;2025-11-05;;άλλη μια φορά;;;
 0361;2025-11-05;werken， oeuvre;(τα) έργα;znw.;;dingen
 0362;2025-11-05;taak， werk， arbeid;(η) εργασία;znw.;;beroepen, maatschappij
 0363;2025-11-05;Vooruit ermee!;Βάλτε μπρος!;uitdr.;;converseren, uitdrukkingen
-;;;(η) παρουσίαση;;;
+;2025-11-05;;(η) παρουσίαση;;;
 0364;2025-11-05;stap;(το) βήμα;znw.;;dingen
 0365;2025-11-05;tegenwoordige tijd (praesens);ο ενεστώτας;znw.;;grammatica
 0366;2025-11-05;aoristus (verleden tijd);ο αόριστος;znw.;;grammatica
@@ -2435,11 +2418,11 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0378;2025-11-05;beslissen;αποφασίζω;ww.;;converseren
 0379;2025-11-05;zoeken;ψάχνω;ww.;;grammatica
 0380;2025-11-05;tickets boeken;κλείνω εισιτήρια;uitdr.;;reizen, routines
-;;;(η) βαλίτσα;;;
-;;;συνέχεια;;;
+;2025-11-05;;(η) βαλίτσα;;;
+;2025-11-05;;συνέχειa;;;
 0381;2025-11-05;worden;γίνομαι;ww.;;converseren
 0382;2025-11-05;Het is gebeurd!， Klaar!;Έγινε!;uitdr.;cfr Eng. ‘Consider it done.’;converseren, uitdrukkingen
-;;;(η) στιγμή;;;
+;2025-11-05;;(η) στιγμή;;;
 0383;2025-11-05;Hoe gaat het met je, kind?;Τι κάνεις παιδάκι μου;;vraagzin;;relaties, converseren
 0384;2025-11-05;Wat zeg je (nu)?!， Asjemenouw!;Τι λες;;uitdr.;;converseren, uitdrukkingen
 0385;2025-11-05;Maar hoe?;Μα πως;;vraagzin;;converseren
@@ -2469,15 +2452,15 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0410;2025-11-12;eten;τρώω - έφαγα - θα φάω;ww.;;grammatica
 0411;2025-11-12;begrafenis;η κηδεία;znw.;;cultuur
 0412;2025-11-12;bellen;παίρνω τηλέφωνο;ww.;;converseren
-;;;αλλάζω;;;
-;;;καθαρίζω;;;
-;;;σιδερώνω;;;
-;;;πίσω;;;
+;2025-11-12;;αλλάζω;;;
+;2025-11-12;;καθαρίζω;;;
+;2025-11-12;;σιδερώνω;;;
+;2025-11-12;;πίσω;;;
 0413;2025-11-12;iemand opbellen， met iemand telefoneren;παίρνω στο τηλέφωνο τον/την …;ww. groep;;converseren
 0414;2025-11-12;voor →← na;πριν →← μετά;vz.;;tijd, meten
 0415;2025-11-12;voor(aan) →← achter(aan);μπροστά →← πίσω;bijw.;;geografie, cultuur
 0416;2025-11-12;Pronto!;Εμπρός!;uitdr.;aan de telefoon;converseren, uitdrukkingen
-;;;Καλή διασκέδαση!;;;
+;2025-11-12;;Καλή διασκέδαση!;;;
 0417;2025-11-12;Hier (heb je)!;Να!;uitdr.;cfr Fr. ‘Voici!’;converseren, uitdrukkingen
 0418;2025-11-12;Wat zei je?;Τι είπες;;vraagzin;;converseren
 0419;2025-11-12;Wat wil je eten?;Τι θέλεις να φας;;vraagzin;;voedsel, dingen
@@ -2497,7 +2480,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0430;2025-11-19;Ik ben drieëndertig (jaar oud).;Είμαι τριάντα τρία， τριών (χρονών/χρόνων).;zin;;tijd, meten
 0431;2025-11-19;Ik ben vierenveertig (jaar oud).;Είμαι σαράντα τέσσερα， τεσσάρων (χρονών/χρόνων).;zin;;tijd, meten
 0432;2025-11-19;elektricien;(ο) ηλεκτρολόγος;znw.;;beroepen, maatschappij
-;;;(το) πάρκο;;;
+;2025-11-19;;(το) πάρκο;;;
 0433;2025-11-19;de metro (in Athene);ο ηλεκτρικός;bnw.;;dingen
 0434;2025-11-19;de nieuwe metro (in Athene);ο καινούργιος;bnw.;;tijd, meten
 0435;2025-11-19;¹uithalen， tevoorschijn halen ²uitdoen ³verdienen;βγάζω;ww.;;dingen
@@ -2513,7 +2496,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0447;2025-11-19;om zeven uur ’s avonds;στις εφτά το βράδυ;zin;;kalender, meten
 0448;2025-11-26;huilen;κλαίω - έκλαψα - θα κλάψω;ww.;;grammatica
 0449;2025-11-26;verliezen;χάνω - έχασα - θα χάσω;ww.;;grammatica
-;;;(το) κάστρο;;;
+;2025-11-26;;(το) κάστρο;;;
 0451;2025-11-26;¹breien ²haken;πλέκω - έπλεξα - θα πλέξω;ww.;;grammatica
 0452;2025-11-26;dier;(το) ζώο;znw.;;dieren, natuur
 0453;2025-11-26;een dier verliezen;χάνω ένα ζώο;zin;;dieren, natuur
@@ -2525,7 +2508,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0458;2025-11-26;¹tong ²taal;(η) γλώσσα;znw.;;grammatica
 0459;2025-11-26;vergadering;(η) συνεδρίαση;znw.;;
 0460;2025-11-26;¹vest ²gilet;(το) γιλέκο;znw.;;kleding, behoeftes
-;;;(η) ζακέτα;;;
+;2025-11-26;;(η) ζακέτα;;;
 0461;2025-11-26;Het is bijtend kou!;Έχει ήλιο με δόντια!;uitdr.;lett. ‘zon met tanden’, cfr ‘bijtend’ koud;natuur
 0462;2025-11-26;Kom(t)!;Ελάτε!;zin;;
 0463;2025-11-26;gelukkig;ευτυχισμένος -η -ο;bnw.;;emoties, behoeftes
@@ -2541,14 +2524,14 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0474;2025-11-26;mooi, mooier, (de) mooist(e) ♀;ωραία, πιο ωραία， ωραιότερ*η*, η πιο ωραιότερη;bnw.;;
 0475;2025-11-26;vier onregelmatige (vormen);τέσσερα ανώμαλα;bnw.;;grammatica
 0476;2025-11-26;goed, beter, (het) best(e) ⚲;καλό, καλύτερο, το καλύτερο;bnw.;;grammatica
-;;;Πόσο καιρό;;;;
+;2025-11-26;;Πόσο καιρό;;;;
 0477;2025-11-26;groot, groter, (de) grootst(e);μεγάλος, μεγαλύτερος ο, μεγαλύτερος;bnw.;;grammatica
 0478;2025-11-26;lelijk, slechter, de slechtste;άσχημος, χειρότερος, ο χειρότερος;bnw.;;grammatica
 0479;2025-11-26;slecht, slechter, (de) slechtst(e);κακός, χειρότερος, ο χειρότερος;bnw.;;grammatica
 0480;2025-11-26;veel, meer, (de) meeste;πολύς, περισσότερος, ο περισσότερος;bnw.;;grammatica
 0481;2025-11-26;nieuw, nieuwer, (de) nieuwste ♀;νέα, νεότερη, η πιο νεότερη;bnw.;;grammatica
-;;;(η) φορά;;;
-;;;μια φορά;;;
+;2025-11-26;;(η) φορά;;;
+;2025-11-26;;μια φορά;;;
 0482;2025-11-26;meer … dan …;πιο … από + του/την (acc);bnw.;;grammatica
 0483;2025-11-26;[-er] dan ik;από μένα;zin;;grammatica
 0484;2025-11-26;¹ooit (verleden)， destijds ²eens, soms (in bevestigingen);κάποτε;bijw.;;kalender, meten
@@ -2612,14 +2595,14 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0543;2025-12-03;maken， bereiden， scheppen;φτιάχνω - έφτιαξα - θα φτιάξω;ww.;;grammatica
 0544;2025-12-03;ophangen;κρεμάω - κρέμασα - θα κρεμάσω;ww.;;grammatica
 0545;2025-12-03;verzamelen;μαζεύω - μάζεψα - θα μαζέψω;ww.;;grammatica
-;;;θυμώνω;;;
+;2025-12-03;;θυμώνω;;;
 0546;2025-12-03;bloemen plukken;μαζεύω λουλούδια;ww. groep;;natuur
 0547;2025-12-03;Het is een chaos!;Γίνεται χαμός!;uitdr.;;uitdrukkingen, converseren
 0548;2025-12-03;bediende;(ο) υπάλληλος;znw.;;beroepen, maatschappij
 0549;2025-12-03;klant， client;(ο) πελάτης;znw.;;beroepen, maatschappij
 0550;2025-12-03;prijs;η τιμή;znw.;;winkelen, routines
-;;;σε καλή τιμή;;;
-;;;(το) νούμερο;;;
+;2025-12-03;;σε καλή τιμή;;;
+;2025-12-03;(telefoon)nummer;(το) νούμερο;;;
 0551;2025-12-03;universiteit;(το) πανεπιστήμιο;znw.;;cultuur
 0552;2025-12-03;mandarijn;(το) μανταρίνι;znw.;;voedsel, dingen
 0553;2025-12-03;Vragen of …;Ρωτάω αν …;zin;;
@@ -2642,4 +2625,3 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0570;2025-12-03;Panagia， Onze-Lieve-Vrouw-Hemelvaart;(η) Παναγιά;znw.;15 augustus;
 0571;2025-12-03;reizen;ταξιδεύω - ταξίδεψα - θα ταξιδέψω;ww.;;grammatica
 0572;2025-12-03;spelen;παίζω - έπαιξα - θα παίξω;ww.;;grammatica
-
