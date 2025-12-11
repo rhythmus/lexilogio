@@ -73,6 +73,7 @@ Here are the rules for each column
   - dingen
     - kleuren & vormen
     - voedsel
+    - gebouwen
   - meten
     - hoeveelheden
     - kalender
@@ -97,6 +98,8 @@ Here are the rules for each column
     - reizen
   - natuur
     - dieren
+    - planten
+    - weer & klimaat
 
 
 ---
