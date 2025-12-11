@@ -74,6 +74,7 @@ Here are the rules for each column
     - kleuren & vormen
     - voedsel
     - gebouwen
+    - kleding
   - meten
     - hoeveelheden
     - kalender
@@ -90,7 +91,6 @@ Here are the rules for each column
     - sport
   - behoeftes
     - emoties
-    - kleding
     - lichaam
     - routines
     - wonen
