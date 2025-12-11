@@ -183,6 +183,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0141;;Klaar!， Dat is het!;Αυτά!;vnw.;uitdr.;converseren, uitdrukkingen
 0142;;Erg leuk!;Πολύ ωραίο!;uitdr.;;emoties, behoeftes
 0143;;bus;(το) λεωφορείο;znw.;;reizen, routines
+0144;;nul;μηδέν;telw.;;hoeveelheden, meten
+;;;ένας / μία / ένα;;;
 0145;2025-03-25;kaas;(το) τυρί - (τα) τυριά;znw.;;voedsel, dingen
 ;;;(η) πατάτα;;;
 0146;2025-03-25;kaastaart;(η) τυρόπιτα - (οι) τυρόπιτες;znw.;;voedsel, dingen
@@ -219,6 +221,25 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0173;;appel;(το) μήλο;znw.;;voedsel, dingen
 0174;;willen;θέλω - θέλεις, θέλει, θέλουμε, θέλετε, θέλουν;ww.;;converseren
 0175;2025-02-18, 2025-03-11;klein;μικρός -ή -ό;bnw.;;kleuren & vormen, dingen
+0176;;honderd;εκατό;telw.;;hoeveelheden, meten
+;;;διακόσια;;;
+;;;τριακόσια;;;
+;;;τετρακόσια;;;
+;;;πεντακόσια;;;
+;;;εξακόσια;;;
+;;;επτακόσια;;;
+;;;οκτακόσια;;;
+;;;εννιακόσια;;;
+;;;χίλια;;;
+;;;δύο χιλιάδες;;;
+;;;τρεις χιλιάδες;;;
+;;;τέσσερις χιλιάδες;;;
+;;;πέντε χιλιάδες;;;
+;;;έξι χιλιάδες;;;
+;;;επτά χιλιάδες;;;
+;;;οκτώ χιλιάδες;;;
+;;;εννέα χιλιάδες;;;
+;;;δέκα χιλιάδες;;;
 0177;;woord;(η) λέξη - (οι) λέξεις;znw.;;converseren
 0178;2025-04-29;baby;(το) μωρό - (τα) μωρά;znw.;;relaties, converseren
 0179;2025-03-25;water;(το) νερό - (τα) νερά;znw.;;voedsel, dingen
@@ -430,56 +451,22 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0376;;krant;(η) εφημερίδα;znw.;;converseren
 0377;;No stress!， Geen zorgen!;Όχι άγχος!;uitdr.;;emoties, behoeftes
 0378;2025-02-25;schip;(το) πλοίο;znw.;;reizen, routines
-
-0144;;nul;μηδέν;telw.;;hoeveelheden, meten
-0325;2025-10-22;een;ένας / μία / ένα;telw.;;grammatica
-0381;;twee;δύο;telw.;;hoeveelheden, meten
-0382;;drie;τρεις / τρεις / τρία;telw.;;hoeveelheden, meten
-0383;;vier;τέσσερις / τέσσερις / τέσσερα;telw.;;hoeveelheden, meten
-0384;;vijf; πέντε;telw.;;hoeveelheden, meten
-0384;;zes;έξι;telw.;;hoeveelheden, meten
-0385;;zeven;επτά / εφτά;telw.;;hoeveelheden, meten
-0386;;acht;οκτώ / οχτώ;telw.;;hoeveelheden, meten
-0387;;negen;εννέα / εννιά;telw.;;hoeveelheden, meten
-0388;;tien;δέκα;telw.;;hoeveelheden, meten
-0389;;elf;έντεκα;telw.;;hoeveelheden, meten
-0390;;twaalf;δώδεκα;telw.;;hoeveelheden, meten
-0391;;dertien;δεκατρείς / δεκατρία;telw.;;hoeveelheden, meten
-0392;;veertien;δεκατέσσερα;telw.;;hoeveelheden, meten
-0393;;vijftien;δεκαπέντε;telw.;;hoeveelheden, meten
-0394;;zestien;δεκαέξι;telw.;;hoeveelheden, meten
-0395;;zeventien;δεκαεπτά;telw.;;hoeveelheden, meten
-0396;;achttien;δεκαοκτώ;telw.;;hoeveelheden, meten
-0397;;negentien;δεκαεννέα;telw.;;hoeveelheden, meten
-0398;;twintig;είκοσι;telw.;;hoeveelheden, meten
-;;dertig;τριάντα;telw.;;hoeveelheden, meten
-;;veertig;σαράντα;telw.;;hoeveelheden, meten
-;;vijftig;πενήντα;telw.;;hoeveelheden, meten
-;;zestig;εξήντα;telw.;;hoeveelheden, meten
-;;zeventig;εβδομήντα;telw.;;hoeveelheden, meten
-;;tachtig;ογδόντα;telw.;;hoeveelheden, meten
-;;negenig;ενενήντα;telw.;;hoeveelheden, meten
-0176;;honderd;εκατό(ν);telw.;;hoeveelheden, meten
-;;tweehonderd;διακόσια;telw.;;hoeveelheden, meten
-;;driehonderd;τριακόσια;telw.;;hoeveelheden, meten
-;;vierhonderd;τετρακόσια;telw.;;hoeveelheden, meten
-;;vijfhonderd;πεντακόσια;telw.;;hoeveelheden, meten
-;;zeshonderd;εξακόσια;telw.;;hoeveelheden, meten
-;;zevenhonderd;επτακόσια;telw.;;hoeveelheden, meten
-;;achthonderd;οκτακόσια;telw.;;hoeveelheden, meten
-;;negenhonderd;εννιακόσια;telw.;;hoeveelheden, meten
-;;duizend;χίλια;telw.;;hoeveelheden, meten
-;;tweeduizend;δύο χιλιάδες;;;
-;;drieduizend;τρεις χιλιάδες;;;
-;;vierduizend;τέσσερις χιλιάδες;;;
-;;vijfduizend;πέντε χιλιάδες;;;
-;;zesduizend;έξι χιλιάδες;;;
-;;zevenduizend;επτά χιλιάδες;;;
-;;achtduizend;οκτώ χιλιάδες;;;
-;;negenduizend;εννέα χιλιάδες;;;
-;;tienduizend;δέκα χιλιάδες;;;
 0379;2025-02-11;eerst;πρώτος -η -ο;telw.;;hoeveelheden, meten
 0380;2025-02-11;tweede;δεύτερος -η -ο;telw.;;hoeveelheden, meten
+0381;;twee;δύο;telw.;;hoeveelheden, meten
+0382;;drie;τρεις τρεις τρία;telw.;;hoeveelheden, meten
+0383;;vier;τέσσερις τέσσερις τέσσερα;telw.;;hoeveelheden, meten
+0384;;zes;έξι;telw.;;hoeveelheden, meten
+;;;επτά / εφτά;;;
+0385;;zeven;επτά;telw.;;hoeveelheden, meten
+;;;οκτώ / οχτώ;;;
+0386;;acht;οκτώ;telw.;;hoeveelheden, meten
+;;;εννέα / εννιά;;;
+0387;;negen;εννέα;telw.;;hoeveelheden, meten
+;;;δέκα;;;
+0388;;tien;δέκα;telw.;;hoeveelheden, meten
+;;;έντεκα;;;
+;;;δώδεκα;;;
 0389;;Hoe laat is het?;Τι ώρα είναι;;zin;vraagzin;kalender, meten
 0390;;minuut;(το) λεπτό - (τα) λεπτά;znw.;;kalender, meten
 0391;;seconde;το δευτερόλεπτο;znw.;;kalender, meten
@@ -2385,6 +2372,9 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0322;2025-10-22;wie;ποιος;vnw.;;grammatica
 0323;2025-10-22;iemand;κάποιος;vnw.;in een affirmatieve zin， herhaling;grammatica
 0324;2025-10-22;niemand …;κάποιος δεν;vnw.;;grammatica
+;;;μηδέν;;;
+0325;2025-10-22;een;ένας;tw.;;grammatica
+;;;δύο;;;
 0326;2025-10-22;geen;κανένας;vnw.;;grammatica
 0327;2025-10-22;Nee, niets.;Τίποτα.;zin;;grammatica
 0328;2025-10-22;iets;κάτι;vnw.;;grammatica
