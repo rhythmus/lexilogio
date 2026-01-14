@@ -32,7 +32,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0031;;Leve lang!;Να τα εκατοστίσεις!;uitdr.;;converseren, uitdrukkingen
 0032;;reis;(το) ταξίδι;znw.;;
 0033;2025-02-18;Hier (heb je) … !;Να + nom. !， Ορίστε + nom. !;zin;cfr Fr. ‘Voici (…)!’;converseren, uitdrukkingen
-0034;;¹alsjeblieft ²graag gedaan;παρακαλώ;uitdr.;cfr Fr. ‘Je vous enprie.’;converseren, uitdrukkingen
+0034;;¹alsjeblieft ²graag gedaan;Παρακαλώ!;uitdr.;cfr Fr. ‘Je vous enprie.’;converseren, uitdrukkingen
 0035;;Pronto!;Εμπρός!;uitdr.;opnemen aan de telefoon;converseren, uitdrukkingen
 0036;;Spreekt!， Zeg maar!;Λέγετε!;uitdr.;;converseren, uitdrukkingen
 0037;;alfabet;(το) αλφάβητο;znw.;;grammatica
@@ -732,7 +732,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0731;;exporteren;(η) εξαγωγή;znw.;;beroepen, maatschappij
 0732;;alles samen;όλα μαζί;zin;;converseren
 0733;;uit elkaar;χώρια;bijw.;;converseren
-0734;;benijden (positief);ζηλεύω;ww.;;emoties, behoeftes
+0734;;benijden (positief of negatief);ζηλεύω;ww.;;emoties, behoeftes
 0735;;Wees welkom!;Καλώς όρισες!;zin;ev. inform.;converseren, uitdrukkingen
 0736;;verwelkom hem/haar;καλώς τον/την;zin;;converseren
 0737;;we zijn goed(e mensen);είμαστε καλοί;zin;;emoties, behoeftes
@@ -875,7 +875,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0874;;slecht weer;(ο) άσχημος καιρός;zin;;natuur
 0875;;beer;(η) αρκούδα;znw.;;natuur
 0876;2025-04-01;sneeuw;(το) χιόνι;znw.;;natuur
-0877;;uitschelden;μαλώνω;ww.;;emoties, behoeftes
+0877;;¹ruziemaken ²uitschelden;μαλώνω;ww.;;emoties, behoeftes
 0878;;¹Wat ga je (later) worden? ²Wat zal er van je worden?;Τι θα γίνεις;;zin;vraagzin;
 0879;;analfabeet;αγράμματος -η -ο;bnw.;;
 0880;;ziek worden;αρρωσταίνω;ww.;;lichaam, behoeftes
@@ -1171,7 +1171,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1170;2025-02-11;deze vrouw;αυτή η γυναίκα;znw. groep;;grammatica
 1171;2025-02-11;chocolade， zoetigheid;(τα) γλυκά;znw.;;voedsel, dingen
 1172;2025-02-11;dit boek;αυτό το βιβλίο;znw. groep;;grammatica
-1173;2025-02-11;beminnen;αγαπάω, αγαπώ - αγαπάς, αγαπάει, αγαπάμε, αγαπάτε, αγαπάνε;ww.;;emoties, behoeftes
+1173;2025-02-11;beminnen， liefhebben， houden van;αγαπάω, αγαπώ - αγαπάς, αγαπάει, αγαπάμε, αγαπάτε, αγαπάνε;ww.;;emoties, behoeftes
 1174;2025-02-11;wie;ποιος -α -ο;vnw.;;converseren
 1175;2025-02-11, 2025-03-11;niet meer， (niet) langer， al /reeds;πια;bijw.;in ontkenning;grammatica
 1176;2025-02-11;welke;ποιο;vnw.;;converseren
@@ -1270,7 +1270,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1269;2025-02-18, 2025-02-25;korte broek;(το) σορτς;znw.;;kleding, behoeftes
 1270;2025-02-18;panty;(το) καλσόν;znw.;;kleding, behoeftes
 1271;2025-02-18;omhoog gaan;ανεβαίνω (επάνω);ww.;;reizen, routines
-1272;2025-02-18;uitstappen;κατεβαίνω;ww.;;reizen, routines
+1272;2025-02-18;¹uitstappen， afstappen ²dalen;κατεβαίνω;ww.;;reizen, routines
 1273;2025-02-18;draai;στρίβω;ww.;;reizen, routines
 1274;2025-02-18;grommen;γκρινιάζω;ww.;;emoties, behoeftes
 1275;2025-02-18;halthouden， een stop maken， stoppen (bus, trein);(ε)κάνω στάση;zin;;reizen, routines
@@ -1422,7 +1422,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1421;2025-03-11;vallen;πέφτω;ww.;;grammatica
 1422;2025-03-11;de bus vertrekt;το λεωφορείο φεύγει;zin;;reizen, routines
 1423;2025-03-11;Wacht u een ogenblikje?;Περιμένετε ένα λεπτό;;zin;vraagzin;kalender, meten
-1424;2025-03-11;Ik hou heel veel van je!;Σε αγαπάω πολύ!， Σ'αγαπώ πολύ!;zin;;emoties, behoeftes
+1424;2025-03-11;Ik hou heel veel van je!;Σε αγαπάω πολύ!， Σ’ αγαπώ πολύ!;zin;;emoties, behoeftes
 1425;2025-03-11;Komt u langs het postkantoor?;Μήπως περνάτε από το ταχυδρομείο;;zin;vraagzin;geografie, cultuur
 1426;2025-03-11;Hij wil kip, een Griekse salade, en wijn.;Θέλει κοτόπουλο, μία ελληνική σαλάτα, και κρασί.;zin;;voedsel, dingen
 1427;2025-03-11;Drinkt u ’s ochtends geen koffie?;Δεν πίνετε καφέ το πρωί;zin;vraagzin;voedsel, dingen
@@ -1454,7 +1454,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1453;2025-03-18, 2025-05-06;vaak;συχνά;bijw.;;hoeveelheden, tijd, meten
 1454;2025-03-18, 2025-05-06;vroeg;νωρίς;bijw.;;kalender, meten
 1455;2025-03-18;vraag;(η) ερώτηση - (οι) ερωτήσεις;znw.;;converseren
-1456;2025-03-11, 2025-03-18;een toertje/wandelingetje maken， rondslenteren， waggelen， boemelen;βγάζω/κάνω/πάω βόλτα;ww. groep;;reizen, routines
+;;uitdoen, uithalen; βγάζω;ww.
+1456;2025-03-11, 2025-03-18;een toertje/wandelingetje maken， rondslenteren， waggelen， boemelen;βγάζω, κάνω/πάω βόλτα;ww.;;reizen, routines
 1457;2025-03-18;Zullen we … ?;Πάμε … ;;zin;vraagzin;converseren, uitdrukkingen
 1458;2025-03-18;Zullen we naar het theater gaan?;Πάμε στο θέατρο;;zin;vraagzin;converseren
 1459;2025-03-18;Laten we naar de taverne gaan!;Πάμε στην ταβέρνα!;zin;;voedsel, dingen
@@ -1588,6 +1589,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1587;2025-04-01;Het is koud;Κάνει κρύο;zin;uitdr.;natuur
 1588;2025-04-01;Het is fris;Έχει δροσιά;zin;uitdr.;natuur
 1589;2025-04-01;Het is winderig;Έχει αέρα;zin;uitdr.;natuur
+;;blazen;φυσάω;ww.;
 1590;2025-04-01;het waait;φυσάει;ww.;uitdr.;natuur
 1591;2025-04-01;Welk seizoen vind je het leukst?;Ποια εποχή σου αρέσει;;vraagzin;;converseren
 1592;2025-04-01;De dagen worden langer.;Οι μέρες είναι πιο μεγάλες.;zin;;converseren
@@ -2037,7 +2039,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0054;2025-10-01;koorts;(ο) πυρετός;znw.;;lichaam, behoeftes
 0055;2025-10-01;kapperszaak， barbier;(το) κομμωτήριο;znw.;;
 0056;2025-10-01;kapper, kapster;(ο) κομμωτής, (η) κομμώτρια;znw.;;
-0057;2025-10-01;koelen;κρυώνω;ww.;;grammatica
+0057;2025-10-01;¹het koud hebben ²koelen;κρυώνω;ww.;;grammatica
 0058;2025-10-01;zoveel;τόσος -η -ο;bnw.;;hoeveelheden, meten
 0059;2025-10-01;vroeg;νωρίς;bijw.;;tijd, meten
 0060;2025-10-01;laat;αργά;bijw.;;tijd, meten
@@ -2077,7 +2079,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0094;2025-10-01;vervoegen;κλίνω;ww.;;converseren
 0095;2025-10-01;Ik vrees niets, ik hoop niets, ik ben vrij.;Δεν φοβάμαι τίποτα, δεν ελπίζω τίποτα, είμαι ελεύθερος.;zin;;grammatica
 0096;2025-10-01;verkopen;πουλάω;ww.;;winkelen, routines
-0097;2025-10-01;pijn hebben;πονάω;ww.;;converseren
+0097;2025-10-01;¹pijn hebben ²pijn doen;πονάω;ww.;;converseren
 0098;2025-10-01;zich klaarmaken;ετοιμάζομαι;ww.;;routines
 0099;2025-10-01;heten (genoemd worden);λέγομαι;ww.;;voedsel, dingen
 0100;2025-10-01;respecteren;σέβομαι;ww.;;converseren
@@ -2265,7 +2267,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0282;2025-10-15;stadion;(το) στάδιο;znw.;;
 0283;2025-10-15;alle;όλος -η -ο;bnw.;;hoeveelheden, meten
 0284;2025-10-22;Dionyssos Savvopoulos is vandaag overleden.;Διονύσης Σαββόπουλος πέθανε σήμερα.;zin;;cultuur
-0285;2025-10-22;instappen;ανεβαίνω;ww.;;reizen, routines
+0285;2025-10-22;opstappen, instappen, instijgen;ανεβαίνω;ww.;;reizen, routines
 0286;2025-10-22;uitstappen;κατεβαίνω;ww.;;reizen, routines
 0287;2025-10-22;opwarming;(το) ζέσταμα;znw.;;sport, maatschappij
 0288;2025-10-22;acteur;(ο/η) ηθοποιός;znw.;;beroepen, cultuur, maatschappij
@@ -2455,7 +2457,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0472;2025-11-12;bellen;παίρνω τηλέφωνο;ww.;;converseren
 0473;2025-11-12;veranderen;αλλάζω;ww.;;grammatica
 0474;2025-11-12;reinigen;καθαρίζω;ww.;;grammatica
-0475;2025-11-12;smeeden;σιδερώνω;ww.;;grammatica
+0475;2025-11-12;smeden;σιδερώνω;ww.;;grammatica
 0476;2025-11-12;achter;πίσω;ww.;;grammatica
 0477;2025-11-12;iemand opbellen， met iemand telefoneren;παίρνω στο τηλέφωνο τον/την …;ww. groep;;converseren
 0478;2025-11-12;voor →← na;πριν →← μετά;vz.;;tijd, meten
@@ -2596,7 +2598,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0613;2025-12-03;maken， bereiden， scheppen;φτιάχνω - έφτιαξα - θα φτιάξω;ww.;;grammatica
 0614;2025-12-03;ophangen;κρεμάω - κρέμασα - θα κρεμάσω;ww.;;grammatica
 0615;2025-12-03;verzamelen;μαζεύω - μάζεψα - θα μαζέψω;ww.;;grammatica
-0616;2025-12-03;ontmoedigen;θυμώνω;ww.;;grammatica
+0616;2025-12-03;boos worden;θυμώνω;ww.;;grammatica
 0617;2025-12-03;bloemen plukken;μαζεύω λουλούδια;ww. groep;;natuur
 0618;2025-12-03;Het is een chaos!;Γίνεται χαμός!;uitdr.;;uitdrukkingen, converseren
 0619;2025-12-03;bediende;(ο) υπάλληλος;znw.;;beroepen, maatschappij
@@ -2616,7 +2618,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0633;2025-12-03;zitten;κάθομαι - κάθισα - θα καθίσω;ww.;;grammatica
 0634;2025-12-03;worden;γίνομαι - έγινα - θα γίνω;ww.;;grammatica
 0635;2025-12-03;ik zal komen;θα έρθω - θα έρθεις - θα έρθει - θα έρθουμε - θα έρθετε - θα έρθουν;ww.;;grammatica
-0636;2025-12-03;Ochi-dag;η μέρα του Όχι;znw.;28 oktober;kalender, meten
+0636;2025-12-03;Ochi-dag;*η* Επέτειος του Όχι;znw.;28 oktober;kalender, meten
 0637;2025-12-03;Iedereen gaat naar Tinos.;Όλοι πηγαίνουν στην Τήνο.;zin;15 augustus;kalender, meten
 0638;2025-12-03;kerstdag， Kerstmis;τα Χριστούγεννα;znw.;25 december;kalender, meten
 0639;2025-12-03;Nieuwjaar(sdag);η Πρωτοχρονιά;znw.;1 januari;kalender, meten
