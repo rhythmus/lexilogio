@@ -2669,3 +2669,73 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0684;2025-12-17;beleefd;ευγενικός -ή -ό;bnw.;;relaties
 0685;2025-12-17;haar schoonouders;τα πεθερικά της;znw. groep;;relaties
 0686;2025-12-17;(gedurende) heel de zomer;όλο το καλοκαίρι;bijw.;;tijd
+0687;2026-01-07;Gefeliciteerd! (met uw naamdag);Χρόνια πολλά! Να σε χαιρόμαστε!;uitdr.;lett. ‘Dat we u mogen genieten!’, gewenst op iemands naamdag;converseren, uitdrukkingen
+0688;2026-01-07;voetpad;(το) μονοπάτι, (τα) μονοπάτια;znw.;;reizen
+0689;2026-01-07;¹meisje， meid ²vriendin;(η) κοπέλα, (οι) κοπέλες;znw.;;relaties
+0690;2026-01-07;indiscreet;αδιάκριτος -η -ο;bnw.;;relaties
+0691;2026-01-07;sterven;πεθαίνω – πέθανα – θα πεθάνω;ww.;;emoties
+0692;2026-01-07;(Innige) Deelneming!;Συλλυπητήρια!;uitdr.;< συν εν λύπη, lett. ‘samen in het verdriet’;converseren, uitdrukkingen
+0693;2026-01-07;parfum;(το) άρωμα, (τα) αρώματα;znw.;;dingen
+0694;2026-01-07;sneeuw;(το) χιόνι, (τα) χιόνια;znw.;;weer & klimaat
+0695;2026-01-07;het sneeuwt;χιονίζει;ww.;;weer & klimaat
+0696;2026-01-07;op het laatste ogenblik;την τελευταία στιγμή;bijw.;;tijd
+0697;2026-01-07;last-minute (ticket);εισιτήριο τελευταίας στιγμής;znw. groep;;reizen
+0698;2026-01-07;zenuw;(το) νεύρο, (τα) νεύρα;znw.;;lichaam
+0699;2026-01-07;gedurende (zoveel jaren);για (τόσα χρόνια);bijw.;;tijd
+0700;2026-01-07;fabriek;(το) εργοστάσιο, (τα) εργοστάσια;znw.;;maatschappij, beroepen
+0701;2026-01-07;Kerstmis;(τα) Χριστούγεννα;znw.;;kalender, cultuur
+0702;2026-01-07;Nieuwjaar;(η) Πρωτοχρονιά;znw.;;kalender, cultuur
+0703;2026-01-07;kleinzoon;(ο) εγγονός, (οι) εγγονοί;znw.;;relaties
+0704;2026-01-07;kleindochter;(η) εγγονή, (οι) εγγονές;znw.;(= η κόρη της κόρης);relaties
+0705;2026-01-07;kleinkind;(το) εγγόνι, (τα) εγγόνια;znw.;;relaties
+0706;2026-01-07;mijn kleinkinderen;τα εγγόνια μου;znw. groep;;relaties
+0707;2026-01-07;ruiken;μυρίζω – μύρισα – θα μυρίσω;ww.;;lichaam
+0708;2026-01-07;Nieuwjaarstaart;(η) βασιλόπιτα;znw.;;voedsel, cultuur
+0709;2026-01-07;Heilige Vasili;ο Άγιος Βασίλης;eigennaam;;namen, cultuur
+0710;2026-01-07;mahlep (specerij);(το) μαχλέπι;znw.;;voedsel
+0711;2026-01-07;gedeelte， deel， stuk;(το) κομμάτι, (τα) κομμάτια;znw.;;dingen
+0712;2026-01-07;ik wil schrijven;θέλω να γράψω;zin;;grammatica
+0713;2026-01-07;ik moet kunnen komen;πρέπει να μπορώ να έρθω;zin;;grammatica
+0714;2026-01-07;ik kan niet komen;δεν μπορώ να έρθω;zin;;grammatica
+0715;2026-01-07;ik hield van je;σ’ αγάπησα;ww.;;emoties
+0716;2026-01-07;ik maakte me zorgen;ανησύχησα – θα ανησυχήσω;ww.;;emoties
+0717;2026-01-07;ik had pijn;πόνεσα;ww.;;lichaam
+0718;2026-01-07;¹uitnodigen， oproepen ²bellen;καλώ (π.χ. το ασανσέρ) – κάλεσα – θα καλέσω;ww.;;converseren
+0719;2026-01-07;heel erg uitnodigen， nadrukkelijk vragen;παρακαλώ – παρακάλεσα – θα παρακαλέσω;ww.;;converseren
+0720;2026-01-07;ophangen;κρεμάω – κρέμασα – θα κρεμάσω;ww.;;wonen
+0721;2026-01-07;kapstok;(η) κρεμάστρα;znw.;cfr. Fr. ‘pendre la crémaillère’;wonen
+0722;2026-01-07;schildpad;(η) χελώνα;znw.;;dieren
+0723;2026-01-07;stipt op tijd;ακριβώς στην ώρα;bijw.;;tijd
+0724;2026-01-07;dergelijk(e);τέτοιος -α -ο;bnw.;;grammatica
+0725;2026-01-07;laten;αφήνω – άφησα – θα αφήσω;ww.;;routines
+0726;2026-01-07;Ge laat me niet gerust!;Δε μ’ αφήνεις ήσυχο!;zin;;converseren, emoties
+0727;2026-01-07;dorst hebben;διψάω – δίψασα – θα διψάσω;ww.;;behoeftes
+0728;2026-01-07;honger hebben;πεινάω – πείνασα – θα πεινάσω;ww.;;behoeftes
+0729;2026-01-07;ik heb dorst (gekregen);δίψασα (liever dan διψάω);ww.;;behoeftes
+0730;2026-01-07;ik heb honger (gekregen);πείνασα (liever dan πεινάω);ww.;;behoeftes
+0731;2026-01-07;ik ben van plan om …;λέω να … (≠ λέω πως/ότι …);zin;;grammatica
+0732;2026-01-07;dat (na een werkwoord dat een gevoel uitdrukt);που (na een werkwoord dat een gevoel uitdrukt);vw.;;grammatica
+0733;2026-01-07;al wat;ό,τι， ὅτι;vw.;υποδιαστολή `https://en.wikipedia.org/wiki/Hypodiastole`;grammatica
+0734;2026-01-07;losmaken;χαλάω – χάλασα – θα χαλάσω;ww.;;dingen
+0735;2026-01-07;vergeten;ξεχνάω – ξέχασα – θα ξεχάσω;ww.;;routines
+0736;2026-01-07;trakteren;κερνάω – κέρασα – θα κεράσω;ww.;;converseren
+0737;2026-01-07;passeren;περνάω – πέρασα – θα περάσω;ww.;;reizen
+0738;2026-01-07;vorig;περασμένος -η -ο;bnw.;;tijd
+0739;2026-01-07;Gezondheid!， Veel beterschap!;Περαστικά!;uitdr.;lett. ‘dat het snel moge voorbij gegaan zijn’;converseren, uitdrukkingen
+0740;2026-01-07;kunnen;μπορώ – μπόρεσα – θα μπορέσω;ww.;;grammatica
+0741;2026-01-07;dragen;φοράω – φόρεσα – θα φορέσω;ww.;;kleding
+0742;2026-01-07;antwoorden;απαντάω – απάντησα – θα απαντήσω;ww.;;converseren
+0743;2026-01-07;stoppen;σταματάω – σταμάτησα – θα σταματήσω;ww.;;routines
+0744;2026-01-07;helpen;βοηθάω – βοήθησα – θα βοηθήσω;ww.;;relaties
+0745;2026-01-07;wandelen;περπατάω – περπάτησα – θα περπατήσω;ww.;;sport
+0746;2026-01-07;proberen;προσπαθώ – προσπάθησα – θα προσπαθήσω;ww.;;routines
+0747;2026-01-07;telefoneren;τηλεφωνώ – τηλεφώνησα – θα τηλεφωνήσω;ww.;;converseren
+0748;2026-01-07;Wat scheelt er? Wat is er aan de hand?;Τι τρέχει;;zin;vraagzin;converseren
+0749;2026-01-07;eerst en vooral;πρώτα και κύρια;bijw.;;converseren
+0750;2026-01-07;¹stuk gaan， kapotmaken ²slecht worden， bederven ³verwennen;χαλάω – χάλασα – θα χαλάσω;ww.;;dingen
+0751;2026-01-07;kapot， bedorven;χαλασμένος -η -ο;bnw.;;dingen
+0752;2026-01-07;ouder worden;γερνάω (ώ) – γέρασα – θα γεράσω;ww.;;lichaam
+0753;2026-01-07;¹pijn hebben ²pijn doen;πονάω (π.χ.: πονάει το κεφάλι μου);ww.;;lichaam
+0754;2026-01-07;de waarheid;(η) αλήθεια;znw.;;filosofie
+0755;2026-01-07;ongelijk， onterecht;άδικος -η -ο;bnw.;;maatschappij
+0756;2026-01-07;op de Peloponnesos;στην Πελοπόννησο;vz.;;geografie
