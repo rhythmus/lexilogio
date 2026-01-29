@@ -1,7 +1,9 @@
 {
   "version": "1.0",
+  "updated": "2026-01-28T09:04:11Z",
   "datasets": {
     "2024-2025-1B": {
+      "updated": "2026-01-28T09:04:11Z",
       "name": "Eerste Jaar (1B)",
       "path": "2024-2025-1B.csv",
       "type": "vocabulary",
@@ -26,6 +28,7 @@
       ]
     },
     "2025-2026-2A": {
+      "updated": "2026-01-28T09:04:11Z",
       "name": "Tweede Jaar (2A)", 
       "path": "2025-2026-2A.csv",
       "type": "vocabulary",
