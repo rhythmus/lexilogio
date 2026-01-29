@@ -28,29 +28,32 @@
       ]
     },
     "2025-2026-2A": {
-      "updated": "2026-01-28T09:04:11Z",
-      "name": "Tweede Jaar (2A)", 
       "path": "2025-2026-2A.csv",
+      "updated": "2026-01-28T09:04:11Z",
       "type": "vocabulary",
-      "schema": ["nr","datum","Nederlands","Grieks","woordsoort","nota","thema"],
-      "icon": "book",
       "status": "required",
+      "label": [
+        {"nl": "Tweede Jaar (2A)"},
+        {"el": "Δεύτερο έτος (2Α)"},
+        {"en": "Second year (2A)"}
+      ],
+      "schema": ["nr","datum","Nederlands","Grieks","woordsoort","nota","thema"],
       "subsets": [
-        { "label": "Eerste semester", "start": "2025-09-24", "end": "2025-01-21" },
-        { "label": "Μάθημα 1", "date": "2025-09-24" },
-        { "label": "Μάθημα 2", "date": "2025-10-01" },
-        { "label": "Μάθημα 3", "date": "2025-10-08" },
-        { "label": "Μάθημα 4", "date": "2025-10-15" },
-        { "label": "Μάθημα 5", "date": "2025-10-22" },
-        { "label": "Μάθημα 6", "date": "2025-11-05" },
-        { "label": "Μάθημα 7", "date": "2025-11-12" },
-        { "label": "Μάθημα 8", "date": "2025-11-19" },
-        { "label": "Μάθημα 9", "date": "2025-11-26" },
-        { "label": "Μάθημα 10","date": "2025-12-03" },
-        { "label": "Μάθημα 12","date": "2025-12-17" },
-        { "label": "Μάθημα 13","date": "2026-01-07" },
-        { "label": "Μάθημα 14","date": "2026-01-14" },
-        { "label": "Tweede semester", "start": "2026-01-28" }
+        { "label": [{"nl":"Eerste semester"}, {"el":"Πρώτο εξάμηνο"}], "start": "2025-09-24", "end": "2025-01-21" },
+        { "label": [{"nl":"Μάθημα 1"}], "date": "2025-09-24" , "status": "rehearsal"},
+        { "label": [{"nl":"Μάθημα 2"}], "date": "2025-10-01" , "status": "rehearsal"},
+        { "label": [{"nl":"Μάθημα 3"}], "date": "2025-10-08" , "status": "rehearsal"},
+        { "label": [{"nl":"Μάθημα 4"}], "date": "2025-10-15" , "status": "rehearsal"},
+        { "label": [{"nl":"Μάθημα 5"}], "date": "2025-10-22" , "status": "rehearsal"},
+        { "label": [{"nl":"Μάθημα 6"}], "date": "2025-11-05" , "status": "rehearsal"},
+        { "label": [{"nl":"Μάθημα 7"}], "date": "2025-11-12" , "status": "rehearsal"},
+        { "label": [{"nl":"Μάθημα 8"}], "date": "2025-11-19" },
+        { "label": [{"nl":"Μάθημα 9"}], "date": "2025-11-26" },
+        { "label": [{"nl":"Μάθημα 10"}],"date": "2025-12-03" },
+        { "label": [{"nl":"Μάθημα 12"}],"date": "2025-12-17" },
+        { "label": [{"nl":"Μάθημα 13"}],"date": "2026-01-07" },
+        { "label": [{"nl":"Μάθημα 14"}],"date": "2026-01-14" },
+        { "label": [{"nl":"Tweede semester"}, {"el":"Δεύτερο εξάμηνο"}], "start": "2026-01-28" }
       ]
     },
     "proverbs": {
