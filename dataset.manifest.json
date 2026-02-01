@@ -13,11 +13,13 @@
         "theme": "themes.yaml"
       },
       "proverbs":{},
-      "metadata":{}
+      "subtitles-top-5000":{}
     }
   ],
   "datasets": {
     "2024-2025-1B": {
+      "updated": "2026-01-28T09:04:11Z",
+      "name": "Eerste Jaar (1B)",
       "path": "2024-2025-1B.csv",
       "updated": "2026-01-28T09:04:11Z",
       "type": "vocabulary",
@@ -87,10 +89,10 @@
       ],
       "credits": "Constantinides, M. (1892): Neohellenica, pp 246–7. ISBN 978-3-33730-341-9"
     },
-    "word-frequency": {
-      "path": "top-5000.tsv",
+    "subtitles-top-5000": {
+      "path": "subtitles-top-5000.tsv",
       "updated": "2026-01-28T09:04:11Z",
-      "type": "metadata",
+      "type": "frequencylist",
       "schema": ["legomenon","frequency"],
       "credits": "https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Modern_Greek/5K_Wordlist"
     }
