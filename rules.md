@@ -56,7 +56,6 @@ Here are the rules for each column
   - ww. = werkwoord (verb)
   - zin = sentence
   - znw. = zelfstandig naamwoord (noun)
-  - Other combinations as needed (e.g., ww. groep, znw. groep, etc.)
 - If the source has a more complex or non-standard PoS, it is mapped to the closest Dutch abbreviation.
 
 ### 6. **comment**
@@ -137,5 +136,6 @@ etc. κ.λπ.
 `， ` (U+FF0C, FULLWIDTH COMMA followed by space) : separator in-between synonymous meanings
 ¹²³⁴⁵⁶⁷⁸⁹ preceeded by space: separator in-between alternative meanings
 
-
-Finally I want basic Markdown parsing, such that text in-between `*` and `*` is rendered as <strong> (bold text) and text in-between `_` and `_` is rendered as <em> (italic text). (Obviously in these cases the markup symbols `*` and `_` should be omitted in the rendered result.) For example (and be cautious, because this example also involves the article parsing): "(*η*) οδός" should be rendered with the article `η` as dimmed-out text (because it is an article in-between parentheses, and thus optional), but also using a boldface because it is in-between `*` asterisks.
+- woordenboek
+- wiktionary
+- wikipedia voor dingen als ochi-dag
