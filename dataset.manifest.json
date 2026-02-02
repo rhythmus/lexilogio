@@ -12,7 +12,13 @@
         "notes": "string",
         "theme": "themes.yaml"
       },
-      "proverbs":{},
+      "proverbs":{
+        "el_proverb": "string",
+        "en_literal": "string",
+        "en_equivalent": "string",
+        "nl_literal": "string",
+        "nl_equivalent": "string"
+      },
       "subtitles-top-5000":{}
     }
   ],
@@ -77,14 +83,14 @@
       ]
     },
     "proverbs": {
-      "path": "proverbs.csv",
+      "path": "Constantinides-proverbs.csv",
       "updated": "2026-01-28T09:04:11Z",
       "type": "proverbs",
       "status": "extra",
       "schema": ["Greek", "English litteral translation", "English equivalent"],
       "label": [
-        {"nl": "Παροιμίες"},
-        {"el": "Grieks"},
+        {"nl": "Spreekwoorden"},
+        {"el": "Παροιμίες"},
         {"en": "Proverbs"}
       ],
       "credits": "Constantinides, M. (1892): Neohellenica, pp 246–7. ISBN 978-3-33730-341-9"
