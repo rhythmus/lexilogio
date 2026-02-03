@@ -103,10 +103,10 @@
       "credits": "https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Modern_Greek/5K_Wordlist"
     },
     "CEFR__CLARINEL_KELLY_word-list_Greek": {
-      "path": "KELLY_EL.xlsx",
+      "path": "KELLY_EL.tsv",
       "updated": "2026-02-03",
       "type": "CEFR-wordlist",
-      "credits": "https://inventory.clarin.gr/lcr/741"
+      "credits": "http://hdl.handle.net/11500/ATHENA-0000-0000-25C1-C"
     }    
   }
 }
