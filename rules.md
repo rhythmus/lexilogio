@@ -50,41 +50,9 @@ Here are the rules for each column
 - If not needed, this column is left empty.
 
 ### 7. **theme**
-- Based on its meaning or context, each entry is assigned at least 1 to up to 3 standardized semantical theme category from the following, hierarchical list:
-  
-  - converseren
-    - relaties
-    - uitdrukkingen
-  - dingen
-    - kleuren & vormen
-    - voedsel
-    - gebouwen
-    - kleding
-  - meten
-    - hoeveelheden
-    - kalender
-    - tijd
-  - cultuur
-    - filosofie
-    - geografie
-    - namen
-    - muziek 
-  - grammatica
-  - maatschappij
-    - beroepen
-    - school
-    - sport
-  - behoeftes
-    - emoties
-    - lichaam
-    - routines
-    - wonen
-    - winkelen
-    - reizen
-  - natuur
-    - dieren
-    - planten
-    - weer & klimaat
+- Each entry is assigned 1 to 3 standardized semantic theme categories.
+- The canonical taxonomy of themes is defined in **`themes.yaml`**.
+- Themes must match the keys defined in that file (e.g., `converseren`, `kleuren & vormen`, `emoties`).
 
 
 ---

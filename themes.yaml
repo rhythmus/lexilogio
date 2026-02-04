@@ -1,0 +1,147 @@
+
+- nl: converseren
+  en: conversation
+  el: συνομιλία
+  emoji: 🗣️
+  children:
+    - nl: relaties
+      en: relationships
+      el: σχέσεις
+      emoji: 👥
+    - nl: uitdrukkingen
+      en: expressions
+      el: εκφράσεις
+      emoji: 💬
+
+- nl: dingen
+  en: things
+  el: αντικείμενα
+  emoji: 📦
+  children:
+    - nl: kleuren & vormen
+      en: colors & shapes
+      el: χρώματα και σχήματα
+      emoji: 🎨
+    - nl: voedsel
+      en: food
+      el: τροφή
+      emoji: 🍎
+    - nl: gebouwen
+      en: buildings
+      el: κτίρια
+      emoji: 🏠
+    - nl: kleding
+      en: clothing
+      el: ρούχα
+      emoji: 👗
+
+- nl: meten
+  en: measurement
+  el: μέτρηση
+  emoji: 📏
+  children:
+    - nl: hoeveelheden
+      en: quantities
+      el: ποσότητες
+      emoji: 🔢
+    - nl: kalender
+      en: calendar
+      el: ημερολόγιο
+      emoji: 📆
+    - nl: tijd
+      en: time
+      el: χρόνος
+      emoji: ⏰
+
+- nl: cultuur
+  en: culture
+  el: πολιτισμός
+  emoji: 🎭
+  children:
+    - nl: filosofie
+      en: philosophy
+      el: φιλοσοφία
+      emoji: 🤔
+    - nl: geografie
+      en: geography
+      el: γεωγραφία
+      emoji: 🗺️
+    - nl: namen
+      en: names
+      el: ονόματα
+      emoji: 🏷️
+    - nl: muziek
+      en: music
+      el: μουσική
+      emoji: 🎵
+
+- nl: grammatica
+  en: grammar
+  el: γραμματική
+  emoji: 📚
+
+- nl: maatschappij
+  en: society
+  el: κοινωνία
+  emoji: 🏛️
+  children:
+    - nl: beroepen
+      en: professions
+      el: επαγγέλματα
+      emoji: 🧑‍💼
+    - nl: school
+      en: school
+      el: σχολείο
+      emoji: 🏫
+    - nl: sport
+      en: sport
+      el: αθλητισμός
+      emoji: ⚽
+
+- nl: behoeftes
+  en: needs
+  el: ανάγκες
+  emoji: ❤️
+  children:
+    - nl: emoties
+      en: emotions
+      el: συναισθήματα
+      emoji: 😊
+    - nl: lichaam
+      en: body
+      el: σώμα
+      emoji: 🧍
+    - nl: routines
+      en: routines
+      el: ρουτίνες
+      emoji: 🔁
+    - nl: wonen
+      en: housing
+      el: στέγαση
+      emoji: 🏡
+    - nl: winkelen
+      en: shopping
+      el: ψώνια
+      emoji: 🛍️
+    - nl: reizen
+      en: travel
+      el: ταξίδια
+      emoji: ✈️
+
+- nl: natuur
+  en: nature
+  el: φύση
+  emoji: 🌿
+  children:
+    - nl: dieren
+      en: animals
+      el: ζώα
+      emoji: 🐾
+    - nl: planten
+      en: plants
+      el: φυτά
+      emoji: 🌱
+    - nl: weer & klimaat
+      en: weather & climate
+      el: καιρός και κλίμα
+      emoji: 🌦️
