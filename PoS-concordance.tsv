@@ -1,0 +1,122 @@
+LEGACY	WikiData	parent	Lexilogio tag	INTERA	UD	PTB (Penn Treebank, CoreNLP, Brill)	en_singular	en_plural	en_abbr	nl_singular	nl_plural	nl_abbr	el_singular	el_plural	el_abbr
+	Q208084						aspect			aspect	–		ποιόν ενέργειας	ποιόντα ενέργειας	
+woordsoort	Q82042		pos				part of speech	parts of speech	PoS	woordsoort	woordsoorten	woords.	τύπος λέξης	τύποι λέξεων	
+zin	Q41796		s				sentence	sentences	sent.	zin	zinnen	zin	πρόταση	προτάσεις	πρότ.
+vraagzin	Q189756	s	q				question	questions	q.	vraagzin	vraagzinnen	vraag	ερώτηση	ερωτήσεις	ερ.
+spreekwoord	Q35102	s	prov				proverb	proverbs	prov.	spreekwoord	spreekwoorden	spr.	παροιμία	παροιμίες	παρ.
+	Q5551966		MWE		MWE		multi-word expression	multi-word expressions	MWE	meerwoordige uitdrukking	meerwoordige uitdrukkingen	MWE	πολυλεκτικό σύνολο	πολυλεκτικά σύνολα	
+phraseme	Q6935164	MWE	phras		MWE		phraseme	phrasemes	phr.	fraseem	frasemen	phraseme	φρασεολογισμός	φρασεολογισμοί	
+uitdr.	Q187931	MWE	expr				expression	expressions	expr.	uitdrukking	uitdrukkingen	uitdr.	έκφραση	εκφράσεις	έκφρ.
+	Q128234		cas				(grammatical) case	(grammatical) cases		naamval	naamvallen		πτώση	πτώσεις	πτώση
+	Q131105		nom	Nm	Nom		nominative (case)		nom.	nominatief	nominatieven		ονομαστική		ονομ.
+	Q185077		voc	Vo	Voc		vocative (case)		voc.	vocative	vocatieven		κλητική		κλητ.
+	Q146233		gen	Ge	Gen		genitive (case)		gen.	genitief	genitieven		γενική		γεν.
+	Q145599		dat	Da	Dat		dative (case)		dat.	datief	datieven		δοτική		δοτ.
+	Q146078		acc	Ac	Acc		accusative (case)		acc.	accusatief	accusatieven		αιτιατική		αιτ.
+	Q156986		abl				ablative (case)			ablatief	ablatieven		αφαιρετική		
+	Q162378		gend				(grammatical) gender			woordgeslacht	woordgeslachten		γένος	γένη	γένος
+	Q499327		♂	Ma			masculine			mannelijk	–		αρσενικό		αρσ.
+	Q1775415		♀	Fe			feminine			vrouwelijk	–		θηλυκό		θηλ.
+	Q1775461		⚲	Ne			neuter			onzijdig	–		ουδέτερο		ουδ.
+	Q104083		No				(grammatical) number	(grammatical) numbers		woordgetal	–		αριθμός	αριθμοί	
+	Q110786		sg	Sg	Sing	NN	singular	singulars	sg.	enkelvoud	enkelvouden		ενικός		εν.
+	Q146786		pl	Pl	Plur	NNS	plural	plurals	pl.	meervoud	meervouden		πληθυντικός		πληθ.
+	Q690940		pers				(grammatical) person	(grammatical) persons		(grammaticale) persoon	(grammaticale) personen		πρόσωπο	πρόσωπα	
+			1e.pers	1st			noun			eerste persoon	–			πρώτο πρόσωπο	α'
+			2e.pers	2nd			noun phrase			tweede persoon	–			δεύτερο πρόσωπο	β'
+			3e.pers	3rd			common noun			derde persoon	–			τρίτο πρόσωπο	γ'
+znw.	Q1084		n	No	NOUN	NN	noun	nouns	n.	zelfstandig naamwoord	zelfstandige naamwoorden	znw.	ουσιαστικό	ουσιαστικά	ουσ.
+znw. groep	Q1401131	n	n.gr		NOUN	NP	noun phrase	noun phrases	NP	naamwoordgroep	naamwoordgroepen	znw. groep	ονοματική φράση	ονοματικές φράσεις	
+	Q147276	n	com.n				common noun	common nouns	pn.	soortnaam	soortnamen	soortn.	κοινό όνομα	κοινά ονόματα	κοιν. όν.
+eigennaam	Q147276	n	prop.n	Rg	PROPN	NNP	proper noun	proper nouns	pn.	eigennaam	eigennamen	eigenn.	κύριο όνομα	κύρια ονόματα	κ.ό.
+plaatsnaam	Q7884789	prop.n	topo	Rg			toponym	toponyms		plaatsnaam	plaatsnamen	plaatsn.	τοπωνύμιο	τοπωνύμια	
+bnw.	Q34698		adj	Aj	ADJ	JJ	adjective	adjectives	adj.	bijvoeglijk naamwoord	bijvoeglijke naamwoorden	bnw.	επίθετο	επίθετα	επίθ.
+	Q108709	adj	dim		ADJ	JJ	diminutive	diminutives	dim.	verkleinwoord	verkleinwoorden	dim.	υποκοριστικό	υποκοριστικά	υποκ.
+	Q577714						degree (of comparison)	degrees (of comparison)		trap van vergelijking	trappen van vergelijking		βαθμός	βαθμοί	βαθμ.
+				Ba			numeral			stellende trap	stellende trappen		θετικός		θετ.
+	Q14169499	adj	comp	Cp	Cmp	JJR	comparative (degree)	comparatives, comparative degrees	comp.	vergelijkende trap	vergelijkende trappen	comp.	συγκριτικός βαθμός	συγκριτικοί βαθμοί	συγκρ.
+	Q1817208	adj	sup	Su	Sup	JJS	superlative (degree)	superlatives, superlative degrees	sup.	overtreffende trap	overtreffende trappen	sup.	υπερθετικός βαθμός	υπερθετικοί βαθμοί	υπερθ.
+telw.	Q63116		num	Nm	NUM	CD	numeral	numerals	num.	telwoord	telwoorden	telw.	αριθμητικό	αριθμητικά	αριθ.
+	Q1329258	num	card	Cd		CD	cardinal (numeral)	cardinals, cardinal numerals		hoofdtelwoord	hoofdtelwoorden		απόλυτος αριθμός	απόλυτο αριθμητικό	απόλ.
+	Q923933	num	ord	Od	NUM	CD	ordinal (numeral)	ordinals, ordinal numerals	ord.	rangtelwoord	rangtelwoorden	rangt.	τακτικό αριθμητικό	τακτικά αριθμητικά	τακτ.
+	Q110063840	num	mult	Ml			multiplicative (numeral)	multiplicatives, multiplicative numerals		vermenigvuldigingsgetal	vermenigvuldigingsgetallen			πολλαπλασιαστικά	
+		num	anal	An			analog numeral	analog numerals		evenredigheidsgetal	evenredigheidsgetallen			αναλογικό	
+	Q115526488	num	sing.num				singulative (numeral)	singulatives, singulative numerals		singulatief	singulatieven		μοναδιαίο	μοναδιαία	
+	Q55093533	num	coll	Ct			collective (numeral)	collectives, collective numerals		verzameltelwoord	verzameltelwoorden			περιληπτικά	περιλ.
+	Q55951821	num	adj.num	Aj			adjectival numeral, numeral adjective	adjectival numerals, numeral adjectives		bijvoeglijk telwoord	bijvoeglijk telwoorden			επιθετικά	επιθ.
+	Q116843701	num	nom.num	No			nominal (numeral)	nominals, nominal numerals		zelfstandig telwoord	zelfstandig telwoorden			ουσιαστικά	
+	https://en.wiktionary.org/wiki/adverbial_number	num	adv.num	Ad			adverbial numeral	adverbial numerals		bijwoordelijk telwoord	bijwoordelijk telwoorden			επιρρηματικό	
+ww.	Q24905		v	Vb	VERB	VB	verb	verbs	vb.	werkwoord	werkwoorden	ww.	ρήμα	ρήματα	ρ.
+	Q184932						(grammatical) finiteness/mood	(grammatical) moods		(grammaticale) wijs	(grammaticale) wijzen		έγκλιση	εγκλίσεις	έγκλ.
+	Q179230		inf	Nf		VB	infinitive	infinitives, infinitive moods		onbepaalde wijs	infinitieven		απαρέμφατο	απαρέμφατο	απαρ.
+	Q682111		ind	Id	Ind		indicative	indicatives, indicative moods		aantonende wijs 	indicatieven			οριστική	οριστ.
+	Q22716		imp	Mp	Imp		imperative	imperatives, imperative moods		gebiedende wijs	imperatieven		προστακτική		προστ.
+	Q473746		subj	Sj	Sub		subjunctive	subjunctives, subjunctive moods		aanvoegdende wijs	conjunctieven		υποτακτική		υποτ.
+	Q625581		cond				conditional	conditional moods		voorwaardelijke wijs	conditionales		υποθετική	υποθετικές	υποθ.
+	Q177691		t				(grammatical) tense	(grammatical) tenses		werkwoordelijke tijd	tijden van het werkwoord		γραμματικός χρόνος	χρόνοι	χρόν.
+	Q192613		praes	Pr	Pres		present tense	present tenses		tegenwoordige tijd	tegenwoordige tijden		ενεστώτας	ενεστώτας	
+	Q1994301		past	Pa	Past	VBD	past tense	past tenses		verleden tijd	verleden tijden		συντελεσμένος		
+	Q12547192		imperf	Ip			imperfective tense	imperfective tenses		onvoltooid verleden tijd	onvoltooid verleden tijden	ovt	παρατατικός		παρατ.
+	Q625420		perfect	Pe			perfective tense	perfective tenses		voltooid verleden tijd	voltooid verleden tijden	vvt	αόριστος		
+	Q501405		fut	Fu	Fut		future tense	future tenses		toekomstige tijd	toekomstige tijden		μέλλοντας		
+	Q207857		inflec				(grammatical) inflection	(grammatical) inflections		verbuiging	verbuigingen		κλίση	κλίσεις	κλίση
+	Q474628	inflec	conjug				conjugation	conjugations		vervoeging	vervoegingen		συζυγία	συζυγίες	συζ.
+	Q3481903			St			voice			sterke vervoeging	sterke vervoegingen	st. ww.	συζυγία Α'	συζυγίες Α'	
+	Q7977953			We			active			zwakke vervoeging	zwakke vervoegingen	zw. ww.	συζυγία Β'	συζυγίες Β'	
+	Q211101						passive					φωνή		φωνές	φωνή
+	Q1317831		act	Av	Act		active (voice)	active voices		handelende vorm, actieve vorm, actief	actieve vormen			ενεργητική	ενεργ.
+	Q1194697		pass	Pv	Pass		passive (voice)	passive voices		lijdende vorm, passief	lijdende vormen, passieven			παθητική	παθ.
+	Q2517088		impers	Is	Imp		impersonal passive voice	impersonal passive voices		onpersoonlijk passief	onpersoonlijk passieve wijzen			απρόσωπο	
+				Mn			first person			hoofdwerkwoord	hoofdwerkwoorden			κύριο ρήμα	
+	Q163750	v	aux	Vb	AUX		auxiliary (verb)	auxiliary verbs	aux.	hulpwerkwoord	hulpwerkwoorden	hww.	βοηθητικό ρήμα	βοηθητικά ρήματα	βοηθ. ρ.
+		v					third person			koppelwerkwoord	koppelwerkwoorden		συνδετικό ρήμα	συνδετικά ρήματα	
+ww. groep	Q1778442	v	v.gr	Vb	VERB	VB	verb phrase	verb phrases	VP	werkwoordgroep	werkwoordgroepen	ww. groep	ρηματική φράση	ρηματικές φράσεις	
+	Q814722	v	ptcp	Pp		VBG	participle	participles	ptcp.	deelwoord	deelwoorden	dw.	μετοχή	μετοχές	μτχ.
+bijw.	Q380057		adv	Ad	ADV	RB	adverb	adverbs	adv.	bijwoord	bijwoorden	bijw.	επίρρημα	επιρρήματα	επίρρ.
+	Q2825406	adv	mult.adv				multiplicative adverb	multiplicative adverbs		vermenigvuldigingsbijwoord	vermenigvuldigingsbijwoorden		πολλαπλασιαστικό επίρρημα	πολλαπλασιαστικά επιρρήματα	
+	Q134316		adp	As	ADP	IN	adposition	adpositions	adp.	aanvoegsel	aanvoegsels		πρόθεση	προθέσεις	
+vz.	Q4833830	adp	prep	Pp	ADP	IN	preposition	prepositions	prep.	voorzetsel	voorzetsels	vz.	πρόθεση	προθέσεις	πρόθ.
+	Q161873	adp	postp				postpostion	postpostions		achterzetsel	achterzetsels		οπισθοθετικό	οπισθοθετικά	
+			simp	Sp			simple						απλή		
+				Pa			conjunction								
+vw.	Q36484		conj	Cj	CONJ	CC	conjunction	conjunctions	cnj.	voegwoord	voegwoorden	vw.	σύνδεσμος	σύνδεσμοι	σύνδ.
+	Q28833099	conj	c.conj	Co	CCONJ	CC	coordinative conjunction	coordinative conjunctions	coord.	nevenschikkend voegwoord	nevenschikkende voegwoorden	neven.	συμπλεκτικός σύνδεσμος	συμπλεκτικοί σύνδεσμοι	συμπλ.
+	https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions	conj	s.conj	Sb	SCONJ	IN	subordinative conjunction	subordinative conjunctions	subord.	onderschikkend voegwoord	onderschikkende voegwoorden	onder.	υποτακτικός σύνδεσμος	υποτακτικοί σύνδεσμοι	υποτ.
+	Q576271		det		DET	DT	determiner	determiners	det.	determinator	determinatoren	det.	καθοριστικός προσδιοριστής	καθοριστικοί προσδιοριστές	καθ. προσδ.
+vraagw.	Q1306636	det	interr				question word	question words	q. word	vraagwoord	vraagwoord	vraagw.	ερωτηματική λέξη	ερωτηματικές λέξεις	ερ. λέξη
+	Q103184	det	art	At	ART	DT	(grammatical) article	articles	art.	lidwoord	lidwoorden	lidw.	άρθρο	άρθρα	άρθρ.
+	Q2865743	art	def.art	Df	ART	DT	definite article	definite articles	def. art.	bepaald lidwoord	bepaalde lidwoorden	bep. lidw.	οριστικό άρθρο	οριστικά άρθρα	ορισ. άρθρ.
+	Q3813849	art	ind.art	Id	DET	DT	indefinite article	indefinite articles	indef. art.	onbepaald lidwoord	onbepaalde lidwoorden	onbep. lidw.	αόριστο άρθρο	αόριστα άρθρα	αόρ. άρθρ.
+vnw.	Q36224	det	pron	Pn	PRON	PRP	pronoun	pronouns	pro.	voornaamwoord	voornaamwoorden	vnw.	αντωνυμία	αντωνυμίες	αντων.
+	Q11003	pron	int.pro	Ir	PRON	PRP	interrogative pronoun	interrogative pronouns	int. pro.	vragend voornaamwoord	vragende voornaamwoorden	vvnw.	ερωτηματική αντωνυμία	ερωτηματικές αντωνυμίες	ερ. αντων.
+	Q468801	pron	pers.pro	Pe	PRON	PRP	personal pronoun	personal pronouns	pers.	persoonlijk voornaamwoord	persoonlijke voornaamwoorden	pers. vnw.	προσωπική αντωνυμία	προσωπικές αντωνυμίες	προσ. αντων.
+	Q1502460	pron	poss.pro	Po	PRON	PRP$	possessive pronoun	possessive pronouns	poss.	bezittelijk voornaamwoord	bezittelijke voornaamwoorden	bez. vnw.	κτητική αντωνυμία	κτητικές αντωνυμίες	κτητ. αντων.
+	Q34793275	pron	dem.pro	Dm	PRON	PRP	demonstrative pronoun	demonstrative pronouns	dem.	aanwijzend voornaamwoord	aanwijzende voornaamwoorden	aanw. vnw.	δεικτική αντωνυμία	δεικτικές αντωνυμίες	δεικτ. αντων.
+	Q1050744	pron	rel.pro	Re	PRON	PRP	relative pronoun	relative pronouns	rel.	betrekkelijk voornaamwoord	betrekkelijke voornaamwoorden	betr. vnw.	αναφορική αντωνυμία	αναφορικές αντωνυμίες	αναφ. αντων.
+	Q953129	pron	refl.pro	Pn	PRON	PRP	reflexive pronoun	reflexive pronouns	refl.	wederkerig voornaamwoord	wederkerige voornaamwoorden	wederk. vnw.	αυτοπαθής αντωνυμία	αυτοπαθείς αντωνυμίες	αυτοπ. αντων.
+	Q956030	pron	ind.pro	Id	PRON	PRP	indefinite pronoun	indefinite pronouns	indef.	onbepaald voornaamwoord	onbepaalde voornaamwoorden	onbep. vnw.	αόριστη αντωνυμία	αόριστες αντωνυμίες	αόρ. αντων.
+	Q1050744	pron	rel.ind.pro	Ri			relative indefinite pronoun	relative indefinite pronouns	relind.	onbepaald betrekkelijk voornaamwoord	onbepaalde betrekkelijke voornaamwoorden	onbep. betr. vnw.	αόριστη αναφορική αντωνυμία	αόριστες αναφορικές αντωνυμίες	αόρ. αναφ. αντων.
+tsw.	Q83034		interj	Ij	INTJ	UH	interjection	interjections	intj.	tussenwerpsel	tussenwerpsels	tsw.	επιφώνημα	επιφωνήματα	επιφ.
+part.	Q184943		ptcl	Pt	PART	RP	particle	particles	ptcl.	grammaticaal partikel	grammaticale partikels	part.	μόριο	μόρια	μόρ.
+		ptcl	fut.ptcl	Fu	PART	RP	future particle	future particles							
+		ptcl	neg.ptcl	Ng	PART	RP	negative particle	negative particles						αρνητικό μόριο	
+		ptcl	sub.ptcl	Sj	PART	RP	subjunctive particle	subjunctive particles						μόριο υποτακτικής	
+				Rg			morpheme						υπόλοιπο	υπόλοιπα	
+morfeem	Q43249		morph				morpheme	morphemes		morfeem	morfemen	morf.	μορφή	μορφές;	
+afkorting	Q102786		abbr	Ab	X		abbreviation	abbreviations	abbr.	afkorting	afkortingen	afk.	συντομογραφία	συντομογραφίες	συντμ.
+		abbr	n.abbr	ΝΒΑΒΒR			not-breaking abbreviation	not-breaking abbreviations						μη διασπώμενη συντομογραφία	
+	https://en.wikipedia.org/wiki/Given_name#Initials	abbr	init	ΙΝΙΤ			initials (plural)	initials		inititalen	inititalen		αρχικό	αρχικά	
+	Q101244	abbr	acro	ACRO			acronym	acronyms		acroniem	acroniemen		αρκτικόλεξο		
+				Or			foreign word			–	–	–	–	–	–
+	Q2530613			Fw			transliteration			vreemd woord	vreemde woorden		ξένη λέξη	ξένες λέξεις	
+	Q103808		prest				loanword	loanwords		leenwoord	leenwoorden		δάνειο	δάνεια	
+	Q134550		transl	Tr			transliteration	transliterations		transliteratie	transliteraties		μεταγραφή	μεταγραφές	
+	Q80071		symb	Sy		SYM	symbol	symbols		symbool	symbolen		σύμβολο	σύμβολα	
+	Q82990	symb	dig	DIG			digit	digits		cijfer	cijfers		ψηφίο	ψηφία	
+	Q82622	symb	punct	PUNCT			punctuation mark	punctuation		interpunctie	interpunctie		σημείο στίξης	σημεία στίξης	
+	Q7702742	punct	term.punct	P_TERM_P			terminal punctuation mark	terminal punctuation marks					τελικό σημείο στίξης	τελικά σημεία στίξης	
+	https://commons.wikimedia.org/wiki/Category:Opening_punctuation	punct	op.punct	O_PUNCT			open punctuation mark	open punctuation marks					σημείο έναρξης	σημεία έναρξης	
+	https://commons.wikimedia.org/wiki/Category:Closing_punctuation	punct	cl.punct	C_PUNCT			close punctuation mark	close punctuation marks					σημείο λήξης	σημεία λήξης	
+	Q2704791		enum	ENUM			enumeration	enumerations		opsomming	opsommingen		αρίθμηση	αριθμήσεις	
+	Q205892		datum	DATE			date	dates		datum	data, datums		ημερομηνία	ημερομηνίες	
+	Q19798647			Xx						–	–	–	–		

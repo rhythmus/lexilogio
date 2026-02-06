@@ -41,22 +41,8 @@ Here are the rules for each column
     - synonyms are listed alphabetically, and separated with a comma, e.g. "άσπρος -η -ο, λευκός -ή -ό"
 
 ### 5. **PoS** (Part of Speech)
-- Standardized using Dutch abbreviations:
-  - bijw. = bijwoord (adverb)
-  - bnw. = bijvoeglijk naamwoord (adjective)
-  - eigennaam
-  - groep = group (for grouped words/phrases)
-  - tsw. = tussenwerpsel
-  - tw. = telwoord (numeral)
-  - uitdr. = uitdrukking (expression)
-  - vnw. = voornaamwoord (pronoun)
-  - vraagzin = question
-  - vw. = voegwoord (conjunction)
-  - vz. = voorzetsel (preposition)
-  - ww. = werkwoord (verb)
-  - zin = sentence
-  - znw. = zelfstandig naamwoord (noun)
-- If the source has a more complex or non-standard PoS, it is mapped to the closest Dutch abbreviation.
+- The canonical list of allowed Part of Speech tags is defined in **`PoS.tsv`**.
+- Refer to the `nl` (Dutch) and `nl_abbr` columns in that file for valid values (e.g., `bnw.`, `ww.`, `znw.`, `znw. groep`, `plaatsnaam`).
 
 ### 6. **comment**
 - Any extra information, clarifications, or context from the source that does not belong in the main translation.
