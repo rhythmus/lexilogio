@@ -61,3 +61,54 @@ Our taxonomy validation relies on:
 -   **Stanford CoreNLP**: [POS Tagger](https://stanfordnlp.github.io/CoreNLP/pos.html)
 -   **Universal Dependencies**: [Feature List](https://en.wikipedia.org/wiki/Universal_Dependencies)
 -   **ILSP**: [Greek NLP Resources](https://nlp.ilsp.gr/setn-2020/3411408.3411430.pdf)
+
+## 📊 Frequency Data Normalization
+
+In February 2026, we consolidated our approach to handling frequency data from multiple heterogeneous corpora. This ensures that data from different sources (e.g., educational word lists vs. subtitle analysis) is mathematically commensurable within the client application.
+
+### 1. Methodology & Design Choices
+We store **Raw Frequency Counts** only. We explicitly avoid storing derived or pre-normalized values (like percents or permilles) in the source files. This prevents redundancy and loss of precision.
+
+Instead, we store the **Total Corpus Size** for each dataset in the `dataset.manifest.json`. This "magic number" allows the client to dynamically calculate normalized frequencies (such as *Frequency Per Million*) or apply transformations (such as *log10 normalization*) on the fly.
+
+### 2. Available Datasets & Constants
+
+#### A. **CEFR (CLARIN-EL/Kelly)**
+*   **File**: `CEFR__CLARINEL_KELLY_word-list_Greek.tsv`
+*   **Nature**: A balanced, educational corpus containing both lemmas and expressions.
+*   **Corpus Size**: `57,446,651` (Reverse-engineered from original permille data).
+*   **Structure**: PARENT LEMMA, Lemma, CEF Level, **Raw Frequency**, PoS.
+
+#### B. **OpenSubtitles (Top 5000)**
+*   **File**: `subtitles-top-5000.tsv`
+*   **Nature**: A spoken/colloquial corpus containing specific inflected word forms.
+*   **Corpus Size**: `111,940,212` (Note: This is the sum of frequencies of the top 5,000 items only, serving as the normalization baseline for this specific subset).
+*   **Structure**: Legomenon, **Raw Frequency**.
+
+### 3. Client Implementation Specs
+
+The client application **MUST** consume the `corpus_size` property from the manifest to compute compatible values.
+
+#### Normalization Formula (Per Million)
+To compare word A (from CEFR) with word B (from Subtitles):
+$$ \text{Frequency}_{pm} = \left( \frac{\text{Raw Count}}{\text{Corpus Size}} \right) \times 1,000,000 $$
+
+#### Weighted Scoring Formula
+When merging data for a single word appearing in multiple lists, the application should apply a weighted average based on the preferred bias (e.g., favoring colloquial usage):
+
+$$ \text{Score}_{final} = (w_{sub} \times \text{Freq}_{sub\_pm}) + (w_{cefr} \times \text{Freq}_{cefr\_pm}) $$
+
+*Recommended Weights*: $w_{sub} = 0.6$ (favoring spoken subtitles), $w_{cefr} = 0.4$.
+
+#### Logarithmic Scaling (Zipf's Law)
+For UI visualization (e.g., progress bars or heatmaps), use Log10 to handle the power-law distribution of natural language:
+$$ \text{Value}_{ui} = \log_{10}(1 + \text{Raw Count}) $$
+*Note: Always normalize to a common corpus baseline before applying log if comparing absolute "popularity".*
+
+### 4. Instructions for New Datasets
+When adding a new frequency list:
+1.  **Store Raw Data**: Do not normalize the counts in the TSV/CSV file.
+2.  **Calculate Corpus Size**:
+    *   If the source provides the total token count, use it.
+    *   If not, sum the frequencies of all items in the list to establish a "Sample Total" baseline.
+3.  **Update Manifest**: Add a `"corpus_size": [INTEGER]` field to the dataset's entry in `dataset.manifest.json`.

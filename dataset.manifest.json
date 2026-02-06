@@ -99,14 +99,19 @@
       "path": "subtitles-top-5000.tsv",
       "updated": "2026-01-28T09:04:11Z",
       "type": "frequencylist",
-      "schema": ["legomenon","frequency"],
+      "corpus_size": 111940212,
+      "schema": [
+        "legomenon",
+        "frequency"
+      ],
       "credits": "https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Modern_Greek/5K_Wordlist"
     },
     "CEFR__CLARINEL_KELLY_word-list_Greek": {
       "path": "CEFR__CLARINEL_KELLY_word-list_Greek.tsv",
       "updated": "2026-02-03",
       "type": "CEFR-wordlist",
+      "corpus_size": 57446651,
       "credits": "http://hdl.handle.net/11500/ATHENA-0000-0000-25C1-C"
-    }    
+    }
   }
 }
