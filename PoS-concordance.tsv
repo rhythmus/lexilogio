@@ -34,18 +34,18 @@ bnw.	Q34698		adj	Aj	ADJ	JJ	adjective	adjectives	adj.	bijvoeglijk naamwoord	bijvo
 	Q108709	adj	dim		ADJ	JJ	diminutive	diminutives	dim.	verkleinwoord	verkleinwoorden	dim.	υποκοριστικό	υποκοριστικά	υποκ.
 	Q577714						degree (of comparison)	degrees (of comparison)		trap van vergelijking	trappen van vergelijking		βαθμός	βαθμοί	βαθμ.
 				Ba			numeral			stellende trap	stellende trappen		θετικός		θετ.
-	Q14169499	adj	comp	Cp	Cmp	JJR	comparative (degree)	comparatives, comparative degrees	comp.	vergelijkende trap	vergelijkende trappen	comp.	συγκριτικός βαθμός	συγκριτικοί βαθμοί	συγκρ.
-	Q1817208	adj	sup	Su	Sup	JJS	superlative (degree)	superlatives, superlative degrees	sup.	overtreffende trap	overtreffende trappen	sup.	υπερθετικός βαθμός	υπερθετικοί βαθμοί	υπερθ.
+	Q14169499	adj	adj.comp	Cp	Cmp	JJR	comparative (degree)	comparatives, comparative degrees	comp.	vergelijkende trap	vergelijkende trappen	comp.	συγκριτικός βαθμός	συγκριτικοί βαθμοί	συγκρ.
+	Q1817208	adj	adj.sup	Su	Sup	JJS	superlative (degree)	superlatives, superlative degrees	sup.	overtreffende trap	overtreffende trappen	sup.	υπερθετικός βαθμός	υπερθετικοί βαθμοί	υπερθ.
 telw.	Q63116		num	Nm	NUM	CD	numeral	numerals	num.	telwoord	telwoorden	telw.	αριθμητικό	αριθμητικά	αριθ.
-	Q1329258	num	card	Cd		CD	cardinal (numeral)	cardinals, cardinal numerals		hoofdtelwoord	hoofdtelwoorden		απόλυτος αριθμός	απόλυτο αριθμητικό	απόλ.
-	Q923933	num	ord	Od	NUM	CD	ordinal (numeral)	ordinals, ordinal numerals	ord.	rangtelwoord	rangtelwoorden	rangt.	τακτικό αριθμητικό	τακτικά αριθμητικά	τακτ.
-	Q110063840	num	mult	Ml			multiplicative (numeral)	multiplicatives, multiplicative numerals		vermenigvuldigingsgetal	vermenigvuldigingsgetallen			πολλαπλασιαστικά	
-		num	anal	An			analog numeral	analog numerals		evenredigheidsgetal	evenredigheidsgetallen			αναλογικό	
-	Q115526488	num	sing.num				singulative (numeral)	singulatives, singulative numerals		singulatief	singulatieven		μοναδιαίο	μοναδιαία	
-	Q55093533	num	coll	Ct			collective (numeral)	collectives, collective numerals		verzameltelwoord	verzameltelwoorden			περιληπτικά	περιλ.
-	Q55951821	num	adj.num	Aj			adjectival numeral, numeral adjective	adjectival numerals, numeral adjectives		bijvoeglijk telwoord	bijvoeglijk telwoorden			επιθετικά	επιθ.
-	Q116843701	num	nom.num	No			nominal (numeral)	nominals, nominal numerals		zelfstandig telwoord	zelfstandig telwoorden			ουσιαστικά	
-	https://en.wiktionary.org/wiki/adverbial_number	num	adv.num	Ad			adverbial numeral	adverbial numerals		bijwoordelijk telwoord	bijwoordelijk telwoorden			επιρρηματικό	
+	Q1329258	num	num.card	Cd		CD	cardinal (numeral)	cardinals, cardinal numerals		hoofdtelwoord	hoofdtelwoorden		απόλυτος αριθμός	απόλυτο αριθμητικό	απόλ.
+	Q923933	num	num.ord	Od	NUM	CD	ordinal (numeral)	ordinals, ordinal numerals	ord.	rangtelwoord	rangtelwoorden	rangt.	τακτικό αριθμητικό	τακτικά αριθμητικά	τακτ.
+	Q110063840	num	num.mult	Ml			multiplicative (numeral)	multiplicatives, multiplicative numerals		vermenigvuldigingsgetal	vermenigvuldigingsgetallen			πολλαπλασιαστικά	
+		num	num.anal	An			analog numeral	analog numerals		evenredigheidsgetal	evenredigheidsgetallen			αναλογικό	
+	Q115526488	num	num.sing	No			singulative (numeral)	singulatives, singulative numerals		singulatief	singulatieven		μοναδιαίο	μοναδιαία	
+	Q55093533	num	num.coll	Ct			collective (numeral)	collectives, collective numerals		verzameltelwoord	verzameltelwoorden			περιληπτικά	περιλ.
+	Q55951821	num	num.adj	Aj			adjectival numeral, numeral adjective	adjectival numerals, numeral adjectives		bijvoeglijk telwoord	bijvoeglijk telwoorden			επιθετικά	επιθ.
+	Q116843701	num	num.nom	No			nominal (numeral)	nominals, nominal numerals		zelfstandig telwoord	zelfstandig telwoorden			ουσιαστικά	
+	https://en.wiktionary.org/wiki/adverbial_number	num	num.adv	Ad			adverbial numeral	adverbial numerals		bijwoordelijk telwoord	bijwoordelijk telwoorden			επιρρηματικό	
 ww.	Q24905		v	Vb	VERB	VB	verb	verbs	vb.	werkwoord	werkwoorden	ww.	ρήμα	ρήματα	ρ.
 	Q184932						(grammatical) finiteness/mood	(grammatical) moods		(grammaticale) wijs	(grammaticale) wijzen		έγκλιση	εγκλίσεις	έγκλ.
 	Q179230		inf	Nf		VB	infinitive	infinitives, infinitive moods		onbepaalde wijs	infinitieven		απαρέμφατο	απαρέμφατο	απαρ.
@@ -68,11 +68,12 @@ ww.	Q24905		v	Vb	VERB	VB	verb	verbs	vb.	werkwoord	werkwoorden	ww.	ρήμα	ρή�
 	Q1194697		pass	Pv	Pass		passive (voice)	passive voices		lijdende vorm, passief	lijdende vormen, passieven			παθητική	παθ.
 	Q2517088		impers	Is	Imp		impersonal passive voice	impersonal passive voices		onpersoonlijk passief	onpersoonlijk passieve wijzen			απρόσωπο	
 				Mn			first person			hoofdwerkwoord	hoofdwerkwoorden			κύριο ρήμα	
-	Q163750	v	aux	Vb	AUX		auxiliary (verb)	auxiliary verbs	aux.	hulpwerkwoord	hulpwerkwoorden	hww.	βοηθητικό ρήμα	βοηθητικά ρήματα	βοηθ. ρ.
-		v					third person			koppelwerkwoord	koppelwerkwoorden		συνδετικό ρήμα	συνδετικά ρήματα	
+	Q163750	v	v.aux	Vb	AUX		auxiliary (verb)	auxiliary verbs	aux.	hulpwerkwoord	hulpwerkwoorden	hww.	βοηθητικό ρήμα	βοηθητικά ρήματα	βοηθ. ρ.
+	Q20409038	v					copula, copulative (verb)	copulas		koppelwerkwoord	koppelwerkwoorden		συνδετικό ρήμα	συνδετικά ρήματα	
 ww. groep	Q1778442	v	v.gr	Vb	VERB	VB	verb phrase	verb phrases	VP	werkwoordgroep	werkwoordgroepen	ww. groep	ρηματική φράση	ρηματικές φράσεις	
-	Q814722	v	ptcp	Pp		VBG	participle	participles	ptcp.	deelwoord	deelwoorden	dw.	μετοχή	μετοχές	μτχ.
+	Q814722	v	v.ptcp	Pp		VBG	participle	participles	ptcp.	deelwoord	deelwoorden	dw.	μετοχή	μετοχές	μτχ.
 bijw.	Q380057		adv	Ad	ADV	RB	adverb	adverbs	adv.	bijwoord	bijwoorden	bijw.	επίρρημα	επιρρήματα	επίρρ.
+bijw. groep	Q3734650	adv	adv.gr		ADV	ADVP	adverb phrase	adverb phrases	ADVP	bijwoordgroep	bijwoordgroepen	bijw. groep	επιρρηματική φράση	επιρρηματικές φράσεις	
 	Q2825406	adv	mult.adv				multiplicative adverb	multiplicative adverbs		vermenigvuldigingsbijwoord	vermenigvuldigingsbijwoorden		πολλαπλασιαστικό επίρρημα	πολλαπλασιαστικά επιρρήματα	
 	Q134316		adp	As	ADP	IN	adposition	adpositions	adp.	aanvoegsel	aanvoegsels		πρόθεση	προθέσεις	
 vz.	Q4833830	adp	prep	Pp	ADP	IN	preposition	prepositions	prep.	voorzetsel	voorzetsels	vz.	πρόθεση	προθέσεις	πρόθ.
@@ -80,22 +81,22 @@ vz.	Q4833830	adp	prep	Pp	ADP	IN	preposition	prepositions	prep.	voorzetsel	voorze
 			simp	Sp			simple						απλή		
 				Pa			conjunction								
 vw.	Q36484		conj	Cj	CONJ	CC	conjunction	conjunctions	cnj.	voegwoord	voegwoorden	vw.	σύνδεσμος	σύνδεσμοι	σύνδ.
-	Q28833099	conj	c.conj	Co	CCONJ	CC	coordinative conjunction	coordinative conjunctions	coord.	nevenschikkend voegwoord	nevenschikkende voegwoorden	neven.	συμπλεκτικός σύνδεσμος	συμπλεκτικοί σύνδεσμοι	συμπλ.
-	https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions	conj	s.conj	Sb	SCONJ	IN	subordinative conjunction	subordinative conjunctions	subord.	onderschikkend voegwoord	onderschikkende voegwoorden	onder.	υποτακτικός σύνδεσμος	υποτακτικοί σύνδεσμοι	υποτ.
+	Q28833099	conj	conj.coord	Co	CCONJ	CC	coordinative conjunction	coordinative conjunctions	coord.	nevenschikkend voegwoord	nevenschikkende voegwoorden	neven.	συμπλεκτικός σύνδεσμος	συμπλεκτικοί σύνδεσμοι	συμπλ.
+	https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions	conj	conj.sub	Sb	SCONJ	IN	subordinative conjunction	subordinative conjunctions	subord.	onderschikkend voegwoord	onderschikkende voegwoorden	onder.	υποτακτικός σύνδεσμος	υποτακτικοί σύνδεσμοι	υποτ.
 	Q576271		det		DET	DT	determiner	determiners	det.	determinator	determinatoren	det.	καθοριστικός προσδιοριστής	καθοριστικοί προσδιοριστές	καθ. προσδ.
 vraagw.	Q1306636	det	interr				question word	question words	q. word	vraagwoord	vraagwoord	vraagw.	ερωτηματική λέξη	ερωτηματικές λέξεις	ερ. λέξη
 	Q103184	det	art	At	ART	DT	(grammatical) article	articles	art.	lidwoord	lidwoorden	lidw.	άρθρο	άρθρα	άρθρ.
-	Q2865743	art	def.art	Df	ART	DT	definite article	definite articles	def. art.	bepaald lidwoord	bepaalde lidwoorden	bep. lidw.	οριστικό άρθρο	οριστικά άρθρα	ορισ. άρθρ.
-	Q3813849	art	ind.art	Id	DET	DT	indefinite article	indefinite articles	indef. art.	onbepaald lidwoord	onbepaalde lidwoorden	onbep. lidw.	αόριστο άρθρο	αόριστα άρθρα	αόρ. άρθρ.
+	Q2865743	art	art.def	Df	ART	DT	definite article	definite articles	def. art.	bepaald lidwoord	bepaalde lidwoorden	bep. lidw.	οριστικό άρθρο	οριστικά άρθρα	ορισ. άρθρ.
+	Q3813849	art	art.ind	Id	DET	DT	indefinite article	indefinite articles	indef. art.	onbepaald lidwoord	onbepaalde lidwoorden	onbep. lidw.	αόριστο άρθρο	αόριστα άρθρα	αόρ. άρθρ.
 vnw.	Q36224	det	pron	Pn	PRON	PRP	pronoun	pronouns	pro.	voornaamwoord	voornaamwoorden	vnw.	αντωνυμία	αντωνυμίες	αντων.
-	Q11003	pron	int.pro	Ir	PRON	PRP	interrogative pronoun	interrogative pronouns	int. pro.	vragend voornaamwoord	vragende voornaamwoorden	vvnw.	ερωτηματική αντωνυμία	ερωτηματικές αντωνυμίες	ερ. αντων.
-	Q468801	pron	pers.pro	Pe	PRON	PRP	personal pronoun	personal pronouns	pers.	persoonlijk voornaamwoord	persoonlijke voornaamwoorden	pers. vnw.	προσωπική αντωνυμία	προσωπικές αντωνυμίες	προσ. αντων.
-	Q1502460	pron	poss.pro	Po	PRON	PRP$	possessive pronoun	possessive pronouns	poss.	bezittelijk voornaamwoord	bezittelijke voornaamwoorden	bez. vnw.	κτητική αντωνυμία	κτητικές αντωνυμίες	κτητ. αντων.
-	Q34793275	pron	dem.pro	Dm	PRON	PRP	demonstrative pronoun	demonstrative pronouns	dem.	aanwijzend voornaamwoord	aanwijzende voornaamwoorden	aanw. vnw.	δεικτική αντωνυμία	δεικτικές αντωνυμίες	δεικτ. αντων.
-	Q1050744	pron	rel.pro	Re	PRON	PRP	relative pronoun	relative pronouns	rel.	betrekkelijk voornaamwoord	betrekkelijke voornaamwoorden	betr. vnw.	αναφορική αντωνυμία	αναφορικές αντωνυμίες	αναφ. αντων.
-	Q953129	pron	refl.pro	Pn	PRON	PRP	reflexive pronoun	reflexive pronouns	refl.	wederkerig voornaamwoord	wederkerige voornaamwoorden	wederk. vnw.	αυτοπαθής αντωνυμία	αυτοπαθείς αντωνυμίες	αυτοπ. αντων.
-	Q956030	pron	ind.pro	Id	PRON	PRP	indefinite pronoun	indefinite pronouns	indef.	onbepaald voornaamwoord	onbepaalde voornaamwoorden	onbep. vnw.	αόριστη αντωνυμία	αόριστες αντωνυμίες	αόρ. αντων.
-	Q1050744	pron	rel.ind.pro	Ri			relative indefinite pronoun	relative indefinite pronouns	relind.	onbepaald betrekkelijk voornaamwoord	onbepaalde betrekkelijke voornaamwoorden	onbep. betr. vnw.	αόριστη αναφορική αντωνυμία	αόριστες αναφορικές αντωνυμίες	αόρ. αναφ. αντων.
+	Q11003	pron	pron.int	Ir	PRON	PRP	interrogative pronoun	interrogative pronouns	int. pro.	vragend voornaamwoord	vragende voornaamwoorden	vvnw.	ερωτηματική αντωνυμία	ερωτηματικές αντωνυμίες	ερ. αντων.
+	Q468801	pron	pron.pers	Pe	PRON	PRP	personal pronoun	personal pronouns	pers.	persoonlijk voornaamwoord	persoonlijke voornaamwoorden	pers. vnw.	προσωπική αντωνυμία	προσωπικές αντωνυμίες	προσ. αντων.
+	Q1502460	pron	pron.poss	Po	PRON	PRP$	possessive pronoun	possessive pronouns	poss.	bezittelijk voornaamwoord	bezittelijke voornaamwoorden	bez. vnw.	κτητική αντωνυμία	κτητικές αντωνυμίες	κτητ. αντων.
+	Q34793275	pron	pron.dem	Dm	PRON	PRP	demonstrative pronoun	demonstrative pronouns	dem.	aanwijzend voornaamwoord	aanwijzende voornaamwoorden	aanw. vnw.	δεικτική αντωνυμία	δεικτικές αντωνυμίες	δεικτ. αντων.
+	Q1050744	pron	pron.rel	Re	PRON	PRP	relative pronoun	relative pronouns	rel.	betrekkelijk voornaamwoord	betrekkelijke voornaamwoorden	betr. vnw.	αναφορική αντωνυμία	αναφορικές αντωνυμίες	αναφ. αντων.
+	Q953129	pron	pron.refl	Pn	PRON	PRP	reflexive pronoun	reflexive pronouns	refl.	wederkerig voornaamwoord	wederkerige voornaamwoorden	wederk. vnw.	αυτοπαθής αντωνυμία	αυτοπαθείς αντωνυμίες	αυτοπ. αντων.
+	Q956030	pron	pron.ind	Id	PRON	PRP	indefinite pronoun	indefinite pronouns	indef.	onbepaald voornaamwoord	onbepaalde voornaamwoorden	onbep. vnw.	αόριστη αντωνυμία	αόριστες αντωνυμίες	αόρ. αντων.
+	Q1050744	pron	pron.rel.ind	Ri			relative indefinite pronoun	relative indefinite pronouns	relind.	onbepaald betrekkelijk voornaamwoord	onbepaalde betrekkelijke voornaamwoorden	onbep. betr. vnw.	αόριστη αναφορική αντωνυμία	αόριστες αναφορικές αντωνυμίες	αόρ. αναφ. αντων.
 tsw.	Q83034		interj	Ij	INTJ	UH	interjection	interjections	intj.	tussenwerpsel	tussenwerpsels	tsw.	επιφώνημα	επιφωνήματα	επιφ.
 part.	Q184943		ptcl	Pt	PART	RP	particle	particles	ptcl.	grammaticaal partikel	grammaticale partikels	part.	μόριο	μόρια	μόρ.
 		ptcl	fut.ptcl	Fu	PART	RP	future particle	future particles							
@@ -110,7 +111,7 @@ afkorting	Q102786		abbr	Ab	X		abbreviation	abbreviations	abbr.	afkorting	afkorti
 				Or			foreign word			–	–	–	–	–	–
 	Q2530613			Fw			transliteration			vreemd woord	vreemde woorden		ξένη λέξη	ξένες λέξεις	
 	Q103808		prest				loanword	loanwords		leenwoord	leenwoorden		δάνειο	δάνεια	
-	Q134550		transl	Tr			transliteration	transliterations		transliteratie	transliteraties		μεταγραφή	μεταγραφές	
+	Q134550		translit	Tr			transliteration	transliterations		transliteratie	transliteraties		μεταγραφή	μεταγραφές	
 	Q80071		symb	Sy		SYM	symbol	symbols		symbool	symbolen		σύμβολο	σύμβολα	
 	Q82990	symb	dig	DIG			digit	digits		cijfer	cijfers		ψηφίο	ψηφία	
 	Q82622	symb	punct	PUNCT			punctuation mark	punctuation		interpunctie	interpunctie		σημείο στίξης	σημεία στίξης	
