@@ -112,3 +112,39 @@ When adding a new frequency list:
     *   If the source provides the total token count, use it.
     *   If not, sum the frequencies of all items in the list to establish a "Sample Total" baseline.
 3.  **Update Manifest**: Add a `"corpus_size": [INTEGER]` field to the dataset's entry in `dataset.manifest.json`.
+
+## 🛡️ Lexical Verification & Auditing
+
+As of February 2026, we have introduced automated auditing pipelines to validatethe integrity of our manually curated word lists against external authorities (Wiktionary).
+
+### The Audit Script (`wiktionary_audit.py`)
+This Python script serves as a verification layer for the Part-of-Speech (PoS) tags in `CEFR__CLARINEL_KELLY_word-list_Greek.tsv`.
+
+#### Key Design Choices & Rationale
+1.  **Rate-Limited Scraping**:
+    *   *Mechanism*: Implements a strictly enforced 0.5-second delay between requests.
+    *   *Rationale*: To respect Wiktionary's API usage policies and avoid 403 Forbidden errors/IP bans.
+2.  **Robust HTML Parsing**:
+    *   *Challenge*: Wiktionary's DOM structure varies (older `<h2>` vs newer `<div class="mw-heading">`).
+    *   *Solution*: The script uses a traversal logic that identifies headers regardless of their wrapper, ensuring consistent extraction of "Noun", "Verb", etc. sections.
+3.  **Mapping Strategy**:
+    *   *Source*: Uses `PoS-concordance.tsv` to map English Wiktionary headers (e.g., "Participle") to our specific Greek abbreviations (e.g., "μτχ.").
+    *   *Fallback*: Defaults to `Lexilogio tag` if a specific abbreviation is missing.
+
+#### Usage
+```bash
+python3 wiktionary_audit.py
+```
+This generates `CEFR__CLARINEL_KELLY_word-list_Greek_audited.tsv`, adding a `Wiktionary` column for side-by-side comparison of manual vs. external tags.
+
+## 📱 Application Engineering
+
+Beyond data curation, recent engineering efforts have focused on the stability and UX of the consumer application (`rhythmus/lexilogio`).
+
+### UI/UX Refinements
+*   **Global Scrollbar Resolution**: Fixed vertical scrolling issues in "Settings" and "Progress" views, ensuring scrollbars respect the AppHeader layout and do not overlay content.
+*   **Exercise Composer**: Resolved table overflow issues, ensuring the vocabulary selection table consumes available vertical space without cropping.
+
+### Robustness & Debugging
+*   **React Hydration**: Diagnosed and fixed invalid HTML nesting (specifically `<div>` nested within `<p>` tags) in the `FlashcardView` and `FormattedText` components, resolving critical runtime warnings.
+*   **Codebase Audits**: Conducted structural audits to identify refactoring opportunities, focusing on component modularity and standardizing hook usage.

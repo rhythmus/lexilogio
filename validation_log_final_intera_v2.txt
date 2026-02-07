@@ -1,0 +1,25 @@
+🚀 Starting Data Validation...
+DEBUG: Loaded CEFR dict with 7481 lemmas.
+🔍 Validating 2024-2025-1B (2024-2025-1B.csv)...
+  [Line 264] Noun missing article (or non-standard start): 'αύριο'
+  [Line 675] ⚠️  CEFR PoS Mismatch: 'πριν από' is phraseme (φρασεολογισμός), CEFR says {'έκφραση'}
+  [Line 688] ⚠️  CEFR PoS Mismatch: 'από κοντά' is phraseme (φρασεολογισμός), CEFR says {'έκφραση'}
+  [Line 1059] Noun missing article (or non-standard start): 'κύριε'
+  [Line 1060] Noun missing article (or non-standard start): 'κυρία'
+  [Line 1099] Invalid Theme: 'tellen'
+  [Line 1099] Noun missing article (or non-standard start): 'τρίκλινο'
+  [Line 1110] Invalid Theme: 'tellen'
+  [Line 1281] Noun missing article (or non-standard start): 'ευθεία'
+❌ 2024-2025-1B: 7 errors found
+   (⚠️  2 CEFR PoS mismatches found)
+🔍 Validating 2025-2026-2A (2025-2026-2A.csv)...
+  [Line 13] ⚠️  CEFR PoS Mismatch: 'πιο πολύ' is phraseme (φρασεολογισμός), CEFR says {'έκφραση'}
+  [Line 216] ⚠️  CEFR PoS Mismatch: 'για παράδειγμα' is phraseme (φρασεολογισμός), CEFR says {'έκφραση'}
+  [Line 223] ⚠️  CEFR PoS Mismatch: 'μερικές φορές' is phraseme (φρασεολογισμός), CEFR says {'επίθετο', 'έκφραση'}
+  [Line 250] ⚠️  CEFR PoS Mismatch: 'εκτός από' is phraseme (φρασεολογισμός), CEFR says {'έκφραση'}
+  [Line 447] ⚠️  CEFR PoS Mismatch: 'από κοντά' is phraseme (φρασεολογισμός), CEFR says {'έκφραση'}
+✅ 2025-2026-2A: OK (779 rows)
+   (⚠️  5 CEFR PoS mismatches found)
+----------------------------------------
+DONE. Processed 2233 rows.
+Found 7 total errors.
