@@ -12,6 +12,10 @@ This repository contains the structured data powering the [Lexilogio vocabulary 
   - `Constantinides-proverbs.tsv`: Collection of Greek proverbs with translations.
   - `subtitles-top-5000.tsv`: Frequency list of common Greek words.
   - `CEFR__CLARINEL_KELLY_word-list_Greek.tsv`: CEFR-aligned word list.
+  - `Kapitoolgids.tsv`: Chapter-guide sentences/phrases for course structure.
+  - `Grieks-notas.tsv`: Working vocabulary notes (verb forms, ad-hoc entries).
+  - `interpunctie.tsv`: Greek punctuation reference (name → symbol).
+  - `ww vervoegingen.md`: Reference for common Greek verb conjugations.
 
 - **Configuration:**
   - `dataset.manifest.json`: Registry of datasets, defining schemas, subsets (semesters/lessons), and metadata.
@@ -136,6 +140,31 @@ This Python script serves as a verification layer for the Part-of-Speech (PoS) t
 python3 wiktionary_audit.py
 ```
 This generates `CEFR__CLARINEL_KELLY_word-list_Greek_audited.tsv`, adding a `Wiktionary` column for side-by-side comparison of manual vs. external tags.
+
+## 📋 Recent Changes & Design Choices (2026)
+
+The following updates reflect consolidation of configuration, single-source-of-truth for taxonomies, and the addition of reference and working data used alongside the main vocabulary pipeline.
+
+### Theme Taxonomy (`themes.yaml`)
+
+- **Rationale:** Theme categories were previously duplicated in `rules.md`, making it hard to keep data-entry rules and the actual taxonomy in sync. The hierarchy is also consumed by tooling and the app.
+- **Design:** The canonical theme taxonomy now lives in **`themes.yaml`** only. Each theme has `nl`, `en`, and `el` labels plus optional `emoji` and nested `children` for a single, consistent hierarchy (e.g. `converseren` → `relaties`, `uitdrukkingen`; `dingen` → `kleuren & vormen`, `voedsel`, etc.).
+- **Rules:** `rules.md` no longer inlines the full theme list; it states that themes must match the keys defined in `themes.yaml`, keeping rules short and avoiding drift.
+
+### Dataset Manifest (`dataset.manifest.json`)
+
+- **PoS registry:** The manifest now includes a **`PoS`** dataset entry pointing to `PoS-concordance.tsv`, with schema column names and credits. This makes the PoS concordance discoverable and schema-documented in one place.
+- **Explicit schemas:** Vocabulary datasets (`2024-2025-1B`, `2025-2026-2A`) now list their column schema explicitly (`nr`, `datum`, `Nederlands`, `Grieks`, `woordsoort`, `nota`, `thema`), improving clarity and tooling that relies on the manifest.
+- **Formatting:** JSON has been normalized (consistent spacing, one label/schema item per line) for easier diffs and editing.
+
+### Supplementary & Reference Data
+
+- **`Kapitoolgids.tsv`:** Chapter-guide sentences and phrases (Greek, with Dutch where available) used for course structure and exercises. Replaces the former ad-hoc "Kapitoolgids zinnetjes" resource.
+- **`Grieks-notas.tsv`:** Working notes in vocabulary style (date, Dutch, Greek), including verb principal parts and ad-hoc entries; used for class preparation and later merge into main lists.
+- **`interpunctie.tsv`:** Reference table for Greek punctuation: Greek name → symbol(s) (e.g. τελεία → `.`, ερωτηματικό → `;`). Supports consistent data entry and display.
+- **`ww vervoegingen.md`:** Reference for common Greek verb conjugations (present, past, future, etc.) used during content creation and checking.
+
+These files are supplementary: they are not (yet) registered in the manifest as first-class datasets but support curriculum design and data quality.
 
 ## 📱 Application Engineering
 
