@@ -778,3 +778,229 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0777;2026-01-07;vluchteling;(ο) πρόσφυγας, (οι) πρόσφυγες;znw.;;maatschappij
 0778;2026-01-07;de grenzen;(τα) σύνορα;znw.;;geografie
 0779;2026-01-07;gebruiken;χρησιμοποιώ – χρησιμοποίησα – θα χρησιμοποιήσω;ww.;;routines
+0780;2026-02-04;ontbreken， missen;λείπω;ww.;;emoties
+0781;2026-02-04;Rik en Amalia zijn er niet.;Λείπουν ο Ρικ και η Αμαλία.;zin;;converseren, relaties
+0782;2026-02-04;resultaat;(το) αποτέλεσμα;znw.;;grammatica
+0783;2026-02-04;app， toepassing;(η) εφαρμογή;znw.;;maatschappij, dingen
+0784;2026-02-04;naar de kapper;στο κομμωτήριο;znw. groep;;routines, converseren
+0785;2026-02-04;¹snijden， knippen ²(student) buizen ³‘ermee kappen’， stoppen;κόβω - έκοψα - θα κόψω;ww.;stamtijden;dingen
+0786;2026-02-04;haar knippen;κόβω τα μαλλιά;ww. groep;;dingen, routines
+0787;2026-02-04;stoppen met roken;κόβω το τσιγάρο;ww. groep;;behoeftes
+0788;2026-02-04;vaderland;η πατρίδα;znw.;;cultuur, geografie
+0789;2026-02-04;Thomas;ο Θωμάς;znw.;;cultuur, namen
+0790;2026-02-04;Theano;η Θεανώ;znw.;;cultuur, namen
+0791;2026-02-04;volgende maand;τον άλλο μήνα;bijw.;;tijd, kalender
+0792;2026-02-04;uitgaan， naar buiten gaan;βγαίνω - βγήκα - θα βγω;ww.;stamtijden;reizen, routines
+0793;2026-02-04;binnenkomen;μπαίνω - μπήκα - θα μπω;ww.;stamtijden;converseren
+0794;2026-02-04;omhooggaan， beklimmen;ανεβαίνω - ανέβηκα - θα ανέβω / ανεβώ;ww.;stamtijden;reizen
+0795;2026-02-04;afdalen， naar beneden gaan;κατεβαίνω - κατέβηκα - θα κατεβώ / κατέβω;ww.;stamtijden;reizen
+0796;2026-02-04;vinden;βρίσκω - βρήκα - θα βρω;ww.;stamtijden;converseren
+0797;2026-02-04;tot;έως ， μέχρι ， ως;vz.;;grammatica
+0798;2026-02-04;jogging (kledij);(η) φόρμα;znw.;sportkleding;dingen, kleding
+0799;2026-02-04;¹stilte， rust ²gemak (op je gemak zijn);η ησυχία;znw.;;dingen
+0800;2026-02-04;prachtig;υπέροχος -η -ο;bnw.;;emoties
+0801;2026-02-04;van een eiland;νησιωτικός -ή -ό;bnw.;;geografie, natuur
+0802;2026-02-04;rakomelo (warme raki met honing);το ζεστό ρακόμελο;znw.;;voedsel, cultuur
+0803;2026-02-04;uniek;μοναδικός -ή -ό;bnw.;;emoties
+0804;2026-02-04;watermeloen;(η) καρπούζι;znw.;;voedsel, natuur
+0805;2026-02-04;zand;(η) άμμος;znw.;;natuur
+0806;2026-02-04;gastvrijheid;η φιλοξενία;znw.;;cultuur
+0807;2026-02-04;blij;χαρούμενος -η -ο;bnw.;;emoties
+0808;2026-02-04;gebroken;σπασμένος -η -ο;bnw.;;dingen
+0809;2026-02-04;volgend jaar;τον χρόνο;bijw.;;tijd, kalender
+0810;2026-02-04;huur;(το) ενοίκιο;znw.;;wonen
+0811;2026-02-04;reclamefolder;(το) διαφημιστικό;znw.;;dingen
+0812;2026-02-04;golf;(το) κύμα;znw.;;natuur
+0813;2026-02-04;jeep;(το) τζιπ;znw.;;reizen, dingen
+0814;2026-02-04;handschoen;(το) γάντι;znw.;;kleding, dingen
+0815;2026-02-04;Ik zal een vriend van me zien.;Θα δω έναν φίλο μου.;zin;;relaties, converseren
+0816;2026-02-04;We gaan naar Athene.;Κατεβαίνουμε στην Αθήνα.;zin;;reizen, geografie
+0817;2026-02-04;trouwjurk;(το) νυφικό;znw.;;kleding, relaties
+0818;2026-02-04;bioscoop;(το) σινεμά;znw.;;cultuur, gebouwen
+0819;2026-02-04;leemtes， hiaten;(τα) κενά;znw.;;school, grammatica
+0820;2026-02-04;eindelijk;επιτέλους;bijw.;;emoties
+0821;2026-02-04;Tot snel!;Τα λέμε σύντομα!;uitdr.;;converseren, uitdrukkingen
+0822;2026-02-04;prachtig， geweldig;θαυμάσιος -α -ο;bnw.;;emoties
+0823;2026-02-04;iemand te gast hebben;φιλοξενώ;ww.;;cultuur, relaties
+0824;2026-02-04;rots， rotsblok;(ο) βράχος;znw.;;natuur
+0825;2026-02-04;grot;(η) σπηλιά;znw.;;natuur
+0826;2026-02-04;lolly;(το) γλειφιτζούρι, (τα) γλειφιτζούρια;znw.;;voedsel
+0827;2026-02-04;granita， waterijsdrank;(η) γρανίτα, (οι) γρανίτες;znw.;;voedsel
+0828;2026-02-04;mast;(το) κατάρτι;znw.;;dingen
+0829;2026-02-04;nog maar net;μόλις;bijw.;;tijd
+0830;2026-02-04;werkelijk;πραγματικός -η -ο;bnw.;;dingen
+0831;2026-02-04;schitterend;υπέροχα;bijw.;;emoties
+0832;2026-02-04;in elk geval， absoluut， alleszins;οπωσδήποτε;bijw.;;grammatica
+0833;2026-02-04;manier;(ο) τρόπος;znw.;;grammatica
+0834;2026-02-04;stilte;η ησυχία;znw.;;dingen
+0835;2026-02-04;volgend jaar;του χρόνου;bijw.;;tijd, kalender
+0836;2026-02-04;werkelijk;πραγματικός -ή -ό;bnw.;;dingen
+0837;2026-02-04;omhooggaan， beklimmen;ανεβαίνω - ανέβηκα - θα ανεβώ;ww.;stamtijden;reizen
+0838;2026-02-04;afdalen， naar beneden gaan;κατεβαίνω - κατέβηκα - θα κατεβώ;ww.;stamtijden;reizen
+0839;2026-02-11;lade;(το) συρτάρι;znw.;;dingen, wonen
+0840;2026-02-11;kast;(η) ντουλάπα;znw.;grote kast;dingen, wonen
+0841;2026-02-11;rug;(η) πλάτη;znw.;;lichaam
+0842;2026-02-11;spel;(το) παιχνίδι;znw.;;dingen
+0843;2026-02-11;horizontaal;οριζόντιος -α -ο;bnw.;;meten, kleuren & vormen
+0844;2026-02-11;verticaal;κάθετος -η -ο;bnw.;;meten, kleuren & vormen
+0845;2026-02-11;horizon;(ο) ορίζοντας;znw.;;natuur
+0846;2026-02-11;geërgerd geraken;έχω νεύρα;ww. groep;;emoties
+0847;2026-02-11;beginnen roepen;βάζω τις φωνές;ww. groep;;converseren
+0848;2026-02-11;slecht reageren;μιλάω άσχημα;ww. groep;;converseren
+0849;2026-02-11;Ik kan niet meer!;Δεν μπορώ άλλο!;zin;;emoties
+0850;2026-02-11;Het is jouw schuld!;Εσύ φταις!;zin;;converseren
+0851;2026-02-11;Waar is het ene, waar is het andere?;Πού είναι το ένα, πού είναι το άλλο;;zin;;converseren
+0852;2026-02-11;op;πάνω σε;vz.;+ acc.;grammatica
+0853;2026-02-11;in;μέσα σε;vz.;+ acc.;grammatica
+0854;2026-02-11;dicht bij;κοντά σε;vz.;+ acc.;grammatica
+0855;2026-02-11;voor;μπροστά σε;vz.;+ acc.;grammatica
+0856;2026-02-11;onder;κάτω από;vz.;+ acc.;grammatica
+0857;2026-02-11;buiten;έξω από;vz.;+ acc.;grammatica
+0858;2026-02-11;ver van;μακριά από;vz.;+ acc.;grammatica
+0859;2026-02-11;achter;πίσω από;vz.;+ acc.;grammatica
+0860;2026-02-11;oplossing;(η) λύση;znw.;;grammatica
+0861;2026-02-11;identiteit;(η) ταυτότητα;znw.;;maatschappij
+0862;2026-02-11;buur;(ο) γείτονας;znw.;;relaties, wonen
+0863;2026-02-11;winkel;(το) κατάστημα;znw.;;winkelen
+0864;2026-02-11;Veel plezier ermee!;Με γεια σου!;uitdr.;;converseren, uitdrukkingen
+0865;2026-02-11;circuleren;κυκλοφορώ;ww.;;reizen
+0866;2026-02-11;(al)waar;όπου;bijw.;betrekkelijk;grammatica
+0867;2026-02-11;niet meer;δεν πια;bijw.;;grammatica
+0868;2026-02-11;staken;απεργώ;ww.;;maatschappij
+0869;2026-02-11;korting;(η) έκπτωση;znw.;;winkelen
+0870;2026-02-11;passen (kledij);δοκιμάζω;ww.;;winkelen, kleding
+0871;2026-02-11;procent;τοις εκατό;bijw.;;meten, hoeveelheden
+0872;2026-02-11;ik / mij / me / mijn;εγώ / με / (ε)μένα / μου;vnw.;;grammatica
+0873;2026-02-11;jij / je / jou / jouw;εσύ / σε / (ε)σένα / σου;vnw.;;grammatica
+0874;2026-02-11;hij / hem / hem / zijn;αυτός / τον / αυτόν / του;vnw.;;grammatica
+0875;2026-02-11;zij / haar / haar / haar;αυτή / την / αυτήν / της;vnw.;;grammatica
+0876;2026-02-11;het / het / het / zijn;αυτό / το / αυτό / του;vnw.;;grammatica
+0877;2026-02-11;wij / ons / ons / onze;εμείς / μας / εμάς / μας;vnw.;;grammatica
+0878;2026-02-11;jullie / jullie / jullie / jullie;εσείς / σας / εσάς / σας;vnw.;;grammatica
+0879;2026-02-11;zij (m.) / hen / hen / hun;αυτοί / τους / αυτούς / τους;vnw.;;grammatica
+0880;2026-02-11;zij (v.) / hen / hen / hun;αυτές / τις / αυτές / τους;vnw.;;grammatica
+0881;2026-02-11;zij (o.) / hen / hen / hun;αυτά / τα / αυτά / τους;vnw.;;grammatica
+0882;2026-02-11;Kostas schreef een brief aan mij.;Ο Κώστας έγραψε ένα γράμμα σ’ εμένα.;zin;;grammatica
+0883;2026-02-11;Eleni kocht hem chocolaatjes.;Η Ελένη τού πήρε σοκολατάκια.;zin;;grammatica
+0884;2026-02-11;Eleni kocht chocolaatjes voor hem.;Η Ελένη πήρε σοκολατάκια γι’ αυτόν.;zin;;grammatica
+0885;2026-02-11;Ik praat tegen je, hoor je me?;Σου μιλάω, μ’ ακούς;;vraagzin;;converseren
+0886;2026-02-11;Ik praat tegen jou, hoor je me?;Σε σένα μιλάω, μ’ ακούς;;vraagzin;nadruk;converseren
+0887;2026-02-11;dicht bij mij vs dicht bij mij (nadruk);κοντά μου vs κοντά σ’ εμένα;vnw.;zwakke vs sterke vorm;grammatica
+0888;2026-02-11;met haar vs met haar (nadruk);μαζί της vs μαζί μ’ αυτήν;vnw.;zwakke vs sterke vorm;grammatica
+0889;2026-02-11;Jouw kind praat.;Το παιδί σου μιλάει.;zin;;converseren
+0890;2026-02-11;Het kind praat tegen jou.;Το παιδί σού μιλάει.;zin;;converseren
+0891;2026-02-11;mij + me / jou + je / jullie + jullie;εμένα με / εσένα σε / εσάς σας;vnw.;emphatic doubling;grammatica
+0892;2026-02-11;aan + mij = aan mij;σε + εμένα = σ’ εμένα;uitdr.;contractie;grammatica
+0893;2026-02-11;voor + mij = voor mij;για + εμένα = για μένα;uitdr.;contractie;grammatica
+0894;2026-02-11;banaan;(η) μπανάνα, (οι) μπανάνες;znw.;;voedsel
+0895;2026-02-11;sinaasappel;(το) πορτοκάλι, (τα) πορτοκάλια;znw.;;voedsel
+0896;2026-02-11;druif;(το) σταφύλι, (τα) σταφύλια;znw.;;voedsel
+0897;2026-02-11;mandarijn;(το) μανταρίνι, (τα) μανταρίνια;znw.;;voedsel
+0898;2026-02-11;appel;(το) μήλο, (τα) μήλα;znw.;;voedsel
+0899;2026-02-11;courgette;(το) κολοκυθάκι, (τα) κολοκυθάκια;znw.;;voedsel
+0900;2026-02-11;peer;(το) αχλάδι, (τα) αχλάδια;znw.;;voedsel
+0901;2026-02-11;paprika;(η) πιπεριά, (οι) πιπεριές;znw.;;voedsel
+0902;2026-02-11;lente-ui;(το) κρεμμυδάκι;znw.;;voedsel
+0903;2026-02-11;wortel;(το) καρότο, (τα) καρότα;znw.;;voedsel
+0904;2026-02-11;aubergine;(η) μελιτζάνα;znw.;;voedsel
+0905;2026-02-11;sla;(το) μαρούλι;znw.;;voedsel
+0906;2026-02-11;kool;(το) λάχανο;znw.;;voedsel
+0907;2026-02-11;bloemkool;(το) κουνουπίδι;znw.;;voedsel
+0908;2026-02-11;knoflook;(το) σκόρδο;znw.;;voedsel
+0909;2026-02-11;tomaat;(η) ντομάτα, (οι) ντομάτες;znw.;;voedsel
+0910;2026-02-11;komkommer;(το) αγγουράκι, (τα) αγγουράκια;znw.;;voedsel
+0911;2026-02-11;prei;(το) πράσο;znw.;;voedsel
+0912;2026-02-11;links van;αριστερά από;vz.;;grammatica
+0913;2026-02-11;tussen;ανάμεσα από;vz.;;grammatica
+0914;2026-02-11;boven;πάνω από;vz.;;grammatica
+0915;2026-02-11;op de onderste rij;στην κάτω σειρά;znw. groep;;grammatica
+0916;2026-02-11;rechts van;δεξιά από;vz.;;grammatica
+0917;2026-02-25;botsen (met de auto);τρακάρω;ww.;;reizen, dingen
+0918;2026-02-25;ongeval;(το) δυστύχημα;znw.;;reizen, dingen
+0919;2026-02-25;warming-up;(το) ζέσταμα;znw.;;sport, behoeftes
+0920;2026-02-25;oplader;(ο) φορτιστής;znw.;;dingen
+0921;2026-02-25;vieren;γιορτάζω;ww.;;cultuur, emoties
+0922;2026-02-25;slim， intelligent;έξυπνος -η -ο;bnw.;;emoties, school
+0923;2026-02-25;pumps， hogehakschoenen;(η) γόβα, (οι) γόβες;znw.;;kleding
+0924;2026-02-25;muis;(το) ποντίκι — (τα) ποντίκια;znw.;;dieren
+0925;2026-02-25;oven;(ο) φούρνος;znw.;;dingen, wonen
+0926;2026-02-25;gootsteen;(ο) νεροχύτης;znw.;;dingen, wonen
+0927;2026-02-25;glas;(το) ποτήρι;znw.;;dingen, voedsel
+0928;2026-02-25;halfharde kaas (geel);(το) κασέρι;znw.;;voedsel
+0929;2026-02-25;deur;(η) πόρτα;znw.;;dingen, wonen
+0930;2026-02-25;bord;(το) πιάτο;znw.;;dingen, voedsel
+0931;2026-02-25;stoel;(η) καρέκλα;znw.;;dingen, wonen
+0932;2026-02-25;pan;(το) τηγάνι;znw.;;dingen, voedsel
+0933;2026-02-25;kast;(το) ντουλάπι;znw.;kastje, meubel;dingen, wonen
+0934;2026-02-25;kopje;(το) φλιτζάνι;znw.;;dingen, voedsel
+0935;2026-02-25;zout;(το) αλάτι;znw.;;voedsel
+0936;2026-02-25;kat;(η) γάτα;znw.;;dieren
+0937;2026-02-25;Waar bevindt zich de kat?;Πού βρίσκεται η γάτα;;vraagzin;;dingen, dieren
+0938;2026-02-25;achter de deur;πίσω από την πόρτα;znw. groep;;dingen, wonen
+0939;2026-02-25;tussen het kopje en het bord;ανάμεσα στο φλιτζάνι και στο πιάτο;znw. groep;;dingen
+0940;2026-02-25;op de kast;πάνω στο ντουλάπι;znw. groep;;dingen, wonen
+0941;2026-02-25;in de kast;μέσα στο ντουλάπι;znw. groep;;dingen, wonen
+0942;2026-02-25;naast het zout;δίπλα στο αλάτι;znw. groep;;dingen
+0943;2026-02-25;voor de kat;μπροστά από τη γάτα;znw. groep;;dingen, dieren
+0944;2026-03-04;botsen;τραπάρω;ww.;;dingen
+0945;2026-03-04;noteren;σημειώνω;ww.;;school
+0946;2026-03-04;leeftijd;(η) ηλικία;znw.;;lichaam
+0947;2026-03-04;bruid， schoondochter;(η) νύφη;znw.;;relaties
+0948;2026-03-04;bruidegom， schoonzoon;(ο) γαμπρός;znw.;;relaties
+0949;2026-03-04;schoonouders;(οι) πεθερικοί;znw.;;relaties
+0950;2026-03-04;schoonvader;(ο) πεθερός;znw.;;relaties
+0951;2026-03-04;schoonmoeder;(η) πεθερά;znw.;;relaties
+0952;2026-03-04;kinderen van oom en tante;(τα) ξαδέλφια;znw.;;relaties
+0953;2026-03-04;zoon van oom en tante;(ο) ξάδελφος;znw.;;relaties
+0954;2026-03-04;dochter van oom en tante;(η) ξαδέλφη;znw.;;relaties
+0955;2026-03-04;broers en zussen;(τα) αδέλφια;znw.;;relaties
+0956;2026-03-04;zussen;(οι) αδελφές;znw.;;relaties
+0957;2026-03-04;neef;(ο) ανιψιός;znw.;;relaties
+0958;2026-03-04;nicht;(η) ανιψιά;znw.;;relaties
+0959;2026-03-04;kinderen van broers en zussen;(τα) ανίψια;znw.;;relaties
+0960;2026-03-04;eerste neven， nichten;(τα) πρώτα ξαδέρφια;znw.;;relaties
+0961;2026-03-04;veilig;ασφαλής -ής -ές;bnw.;;dingen
+0962;2026-03-04;is veilig;είναι ασφαλές;ww. groep;;dingen
+0963;2026-03-04;heks;(η) μάγισσα;znw.;;cultuur
+0964;2026-03-04;kleinzoon;(ο) εγγονός;znw.;;relaties
+0965;2026-03-04;kleindochter;(η) εγγονή;znw.;;relaties
+0966;2026-03-04;kleinkind;(το) εγγόνι;znw.;;relaties
+0967;2026-03-04;kleinkinderen;(τα) εγγόνια;znw.;;relaties
+0968;2026-03-04;Wat is hij/zij van jou?;Τι τον/την έχεις;;vraagzin;;relaties
+0969;2026-03-04;haven;(το) λιμάνι;znw.;;reizen, geografie
+0970;2026-03-04;hoe dan ook;πάντως;bijw.;;grammatica
+0971;2026-03-04;aan de kant;άκρη-άκρη;uitdr.;;converseren
+0972;2026-03-04;echt;πραγματικώς;bijw.;;grammatica
+0973;2026-03-04;een tweetal;κανά δυό;telw.;;hoeveelheden
+0974;2026-03-04;een grote zwak(te);(η) μεγάλη αδυναμία;znw.;;emoties
+0975;2026-03-11;waarnemer;(ο) παρατηρητής;znw.;;beroepen
+0976;2026-03-11;rijbewijs;(η) άδεια οδήγησης;znw.;;maatschappij
+0977;2026-03-11;(al)dus， bijgevolg;άρα;bijw.;;grammatica
+0978;2026-03-11;medestudent;(ο) συμφοιτητής;znw.;;school
+0979;2026-03-11;woorden;(τα) λόγια;znw.;;grammatica
+0980;2026-03-11;lid;(το) μέλος;znw.;;maatschappij
+0981;2026-03-11;groep;(η) ομάδα;znw.;;maatschappij
+0982;2026-03-11;beroep;(το) επάγγελμα;znw.;;beroepen
+0983;2026-03-11;onderaan;παρακάτω;bijw.;;meten
+0984;2026-03-11;inlichtingen;(οι) πληροφορίες;znw.;;school
+0985;2026-03-11;hemel;(ο) ουρανός;znw.;;natuur
+0986;2026-03-11;in de armen;στην αγκαλιά;znw. groep;;lichaam
+0987;2026-03-11;belangrijk;σημαντικός -ή -ό;bnw.;;dingen
+0988;2026-03-11;Is er iemand in de klas?;Είναι κανένας στην τάξη;;vraagzin;;school
+0989;2026-03-11;Nee, niemand.;Όχι, δεν είναι κανένας.;zin;;converseren
+0990;2026-03-11;niemand;όχι, κανένας;uitdr.;;grammatica
+0991;2026-03-11;Ja, iemand.;Ναί, κάποιος.;zin;;converseren
+0992;2026-03-11;Zie je iemand in de klas?;Βλέπεις κανέναν στην τάξη;;vraagzin;;school
+0993;2026-03-11;Niemand.;Όχι, κανέναν.;uitdr.;acc.;grammatica
+0994;2026-03-11;Ja, iemand.;Ναί, κάποιον.;zin;;converseren
+0995;2026-03-11;Hoe lang ben je getrouwd?;Πόσο καιρό είσαι παντρεμένος/η;;vraagzin;;relaties
+0996;2026-03-11;Hoeveel jaar ben je getrouwd?;Πόσα χρόνια είσαι παντρεμένος/η;;vraagzin;;relaties
+0997;2026-03-11;Hoe oud ben je?;Ποσών χρονών είσαι;;vraagzin;;converseren
+0998;2026-03-11;Ben je een goede waarnemer?;Είσαι καλός παρατηρητής;;vraagzin;;beroepen
+0999;2026-03-11;Ik zal dronken worden.;Θα μεθύσω.;zin;;cultuur
+1000;2026-03-11;Gooi het mes zodat ik me snij.;Ρίξε μαχαίρι να κοπώ.;zin;;dingen
+1001;2026-03-11;En wanneer het mes me snijdt.;Κι όταν με κόψει το μαχαίρι.;zin;;dingen
+1002;2026-03-11;berouwvol;μετανιωμένος -η -ο;bnw.;;emoties
+1003;2026-03-11;Was je in het bloed.;Από το αίμα να πλυθείς.;zin;;emoties
+1004;2026-03-11;Ik zal het in je haar vastpinnen.;Θα στο καρφώσω στα μαλλιά.;zin;;lichaam
+1005;2026-03-11;gaan liggen， vrijen;πλαγιάζω;ww.;;routines
