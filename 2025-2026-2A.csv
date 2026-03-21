@@ -824,8 +824,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0823;2026-02-04;iemand te gast hebben;φιλοξενώ;ww.;;cultuur, relaties
 0824;2026-02-04;rots， rotsblok;(ο) βράχος;znw.;;natuur
 0825;2026-02-04;grot;(η) σπηλιά;znw.;;natuur
-0826;2026-02-04;lolly;(το) γλειφιτζούρι, (τα) γλειφιτζούρια;znw.;;voedsel
-0827;2026-02-04;granita， waterijsdrank;(η) γρανίτα, (οι) γρανίτες;znw.;;voedsel
+0826;2026-02-04;lolly， lekstok;(το) γλειφιτζούρι, (τα) γλειφιτζούρια;znw.;;voedsel
+0827;2026-02-04;granita (waterijsdrank);(η) γρανίτα, (οι) γρανίτες;znw.;;voedsel
 0828;2026-02-04;mast;(το) κατάρτι;znw.;;dingen
 0829;2026-02-04;nog maar net;μόλις;bijw.;;tijd
 0830;2026-02-04;werkelijk;πραγματικός -η -ο;bnw.;;dingen
@@ -890,8 +890,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0889;2026-02-11;Jouw kind praat.;Το παιδί σου μιλάει.;zin;;converseren
 0890;2026-02-11;Het kind praat tegen jou.;Το παιδί σού μιλάει.;zin;;converseren
 0891;2026-02-11;mij + me / jou + je / jullie + jullie;εμένα με / εσένα σε / εσάς σας;vnw.;emphatic doubling;grammatica
-0892;2026-02-11;aan + mij = aan mij;σε + εμένα = σ’ εμένα;uitdr.;contractie;grammatica
-0893;2026-02-11;voor + mij = voor mij;για + εμένα = για μένα;uitdr.;contractie;grammatica
+0892;2026-02-11;aan mij;σ’ εμένα (< σε + εμένα);uitdr.;contractie;grammatica
+0893;2026-02-11;voor mij;για μένα (< για + εμένα);uitdr.;contractie;grammatica
 0894;2026-02-11;banaan;(η) μπανάνα, (οι) μπανάνες;znw.;;voedsel
 0895;2026-02-11;sinaasappel;(το) πορτοκάλι, (τα) πορτοκάλια;znw.;;voedsel
 0896;2026-02-11;druif;(το) σταφύλι, (τα) σταφύλια;znw.;;voedsel
@@ -960,7 +960,7 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 0959;2026-03-04;kinderen van broers en zussen;(τα) ανίψια;znw.;;relaties
 0960;2026-03-04;eerste neven， nichten;(τα) πρώτα ξαδέρφια;znw.;;relaties
 0961;2026-03-04;veilig;ασφαλής -ής -ές;bnw.;;dingen
-0962;2026-03-04;is veilig;είναι ασφαλές;ww. groep;;dingen
+0962;2026-03-04;ze zijn veilig;είναι ασφαλές;ww. groep;;dingen
 0963;2026-03-04;heks;(η) μάγισσα;znw.;;cultuur
 0964;2026-03-04;kleinzoon;(ο) εγγονός;znw.;;relaties
 0965;2026-03-04;kleindochter;(η) εγγονή;znw.;;relaties
@@ -1004,3 +1004,50 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1003;2026-03-11;Was je in het bloed.;Από το αίμα να πλυθείς.;zin;;emoties
 1004;2026-03-11;Ik zal het in je haar vastpinnen.;Θα στο καρφώσω στα μαλλιά.;zin;;lichaam
 1005;2026-03-11;gaan liggen， vrijen;πλαγιάζω;ww.;;routines
+1006;2026-03-18;ik stond op;σηκώθηκα, σηκώθηκες, σηκώθηκε, σηκωθήκαμε, σηκωθήκατε, σηκώθηκαν;ww.;aoristus van σηκώνομαι;grammatica
+1007;2026-03-18;ik zal opstaan;θα σηκωθώ, θα σηκωθείς, θα σηκωθεί, θα σηκωθούμε, θα σηκωθείτε, θα σηκωθούν;ww.;toekomende tijd van σηκώνομαι;grammatica
+1008;2026-03-18;ik maakte me klaar;ετοιμάστηκα, ετοιμάστηκες, ετοιμάστηκε, ετοιμαστήκαμε, ετοιμαστήκατε, ετοιμάστηκαν;ww.;aoristus van ετοιμάζομαι;routines, grammatica
+1009;2026-03-18;ik zal me klaarmaken;θα ετοιμαστώ;ww.;;routines
+1010;2026-03-18;ik dacht;σκέφτηκα, σκέφτηκες, σκέφτηκε, σκεφτήκαμε, σκεφτήκατε, σκέφτηκαν;ww.;aoristus van σκέφτομαι;grammatica
+1011;2026-03-18;ik zal denken;θα σκεφτώ, θα σκεφτείς, θα σκεφτεί, θα σκεφτούμε, θα σκεφτείτε, θα σκεφτούν;ww.;toekomende tijd van σκέφτομαι;grammatica
+1012;2026-03-18;ik herinnerde me;θυμήθηκα, θυμήθηκες, θυμήθηκε, θυμηθήκαμε, θυμηθήκατε, θυμήθηκαν;ww.;aoristus van θυμάμαι;grammatica
+1013;2026-03-18;ik zal me herinneren;θα θυμηθώ, θα θυμηθείς, θα θυμηθεί, θα θυμηθούμε, θα θυμηθείτε, θα θυμηθούν;ww.;toekomende tijd van θυμάμαι;grammatica
+1014;2026-03-18;ik sliep;κοιμήθηκα, κοιμήθηκες, κοιμήθηκε, κοιμηθήκαμε, κοιμηθήκατε, κοιμήθηκαν;ww.;aoristus van κοιμάμαι;grammatica
+1015;2026-03-18;ik zal slapen;θα κοιμηθώ, θα κοιμηθείς, θα κοιμηθεί, θα κοιμηθούμε, θα κοιμηθείτε, θα κοιμηθούν;ww.;toekomende tijd van κοιμάμαι;grammatica
+1016;2026-03-18;koor;(η) χορωδία;znw.;;muziek
+1017;2026-03-18;zeemeermin;(η) γοργόνα;znw.;;cultuur
+1018;2026-03-18;secretariaat;(η) γραμματεία;znw.;;school, maatschappij
+1019;2026-03-18;wedstrijd;¹(ο) αγώνας ²(ο) διαγωνισμός;znw.;;sport
+1020;2026-03-18;gratis;δωρεάν;bijw.;;winkelen
+1021;2026-03-18;stemmen (op);ψηφίζω;ww.;;maatschappij
+1022;2026-03-18;detail;(η) λεπτομέρεια;znw.;;dingen
+1023;2026-03-18;wachter;(ο) φύλακας;znw.;;beroepen
+1024;2026-03-18;scène;(η) σκηνή;znw.;;cultuur
+1025;2026-03-18;gids;(ο) ξεναγός;znw.;;beroepen, reizen
+1026;2026-03-18;¹stelen ²vals spelen;κλέβω;ww.;;maatschappij
+1027;2026-03-18;trouwen;παντρεύομαι - παντρεύτηκα;ww.;stamtijden;relaties
+1028;2026-03-18;geboren worden;γεννιέμαι - γεννήθηκα;ww.;stamtijden;relaties
+1029;2026-03-18;opgroeien;μεγαλώνω - μεγάλωσα;ww.;stamtijden;relaties
+1030;2026-03-18;huwelijk;(ο) γάμος;znw.;;relaties
+1031;2026-03-18;leden van de groep;(τα) μέλη της ομάδας;znw. groep;;maatschappij
+1032;2026-03-18;alvorens;πριν ξεκινήσουμε;vw.;;grammatica
+1033;2026-03-18;jullie stemmen;ψηφίζετε;ww.;;maatschappij
+1035;2026-03-18;collega;(ο/η) συνάδελφος;znw.;;beroepen
+1036;2026-03-18;Laten we plezier maken!;Πάμε να διασκεδάσουμε!;zin;;converseren, uitdrukkingen
+1037;2026-03-18;Ze lijken erg gelukkig.;Φαίνονται πολύ ευτυχισμένοι.;zin;;emoties
+1038;2026-03-18;Twee broers/zussen spelen samen.;Δύο αδέλφια παίζουν μαζί.;zin;;relaties
+1039;2026-03-18;op de vloer;στο πάτωμα;znw. groep;;dingen
+1040;2026-03-18;beneden， onder;κάτω;bijw.;;grammatica
+1041;2026-03-18;een getrouwd koppel;(το) ζευγάρι που είναι παντρεμένο;znw. groep;;relaties
+1042;2026-03-18;ze trouwen;παντρεύονται;ww.;;relaties
+1043;2026-03-18;geen enkel verband;καμία σχέση;uitdr.;;converseren, uitdrukkingen
+1044;2026-03-18;Morgen zal ik om zes uur ’s ochtends opstaan.;Αύριο θα σηκωθώ στις έξι το πρωί.;zin;;routines, tijd
+1045;2026-03-18;ik kan;μπορώ;ww.;;grammatica
+1046;2026-03-18;ik moet;πρέπει να;ww. groep;;grammatica
+1047;2026-03-18;we gaan zitten;καθίσουμε;ww.;;converseren
+1048;2026-03-18;Sofietje;(το) Σοφάκι;znw.;verkleinwoord;namen
+1049;2026-03-18;uitgang;(η) έξοδος;znw.;;gebouwen
+1050;2026-03-18;stelen;κλέβω - έκλεψα;ww.;stamtijden;maatschappij
+1051;2026-03-18;bijna;παραλίγο;bijw.;;hoeveelheden, tijd
+1052;2026-03-18;hij/zij zal opstaan;θα σηκωθεί;ww.;;grammatica
+1054;2026-03-18;πρέπει να … ≠ έχω να …;πρέπει να … ≠ έχω να …;uitdr.;verschil in betekenis;grammatica
