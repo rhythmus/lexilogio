@@ -1032,7 +1032,8 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1031;2026-03-18;leden van de groep;(τα) μέλη της ομάδας;znw. groep;;maatschappij
 1032;2026-03-18;alvorens;πριν ξεκινήσουμε;vw.;;grammatica
 1033;2026-03-18;jullie stemmen;ψηφίζετε;ww.;;maatschappij
-1035;2026-03-18;collega;(ο/η) συνάδελφος;znw.;;beroepen
+1034;2026-03-18;Laten we aan het werk gaan!;Πάμε να δουλεύουμε!;uitdr.;cfr. nota δουλέψουμε;converseren, uitdrukkingen
+1035;2026-03-18;collega;(ο/η) συνάδελφος;znw.;herhaling;beroepen
 1036;2026-03-18;Laten we plezier maken!;Πάμε να διασκεδάσουμε!;zin;;converseren, uitdrukkingen
 1037;2026-03-18;Ze lijken erg gelukkig.;Φαίνονται πολύ ευτυχισμένοι.;zin;;emoties
 1038;2026-03-18;Twee broers/zussen spelen samen.;Δύο αδέλφια παίζουν μαζί.;zin;;relaties
@@ -1050,4 +1051,374 @@ nr;datum;Nederlands;Grieks;woordsoort;nota;thema
 1050;2026-03-18;stelen;κλέβω - έκλεψα;ww.;stamtijden;maatschappij
 1051;2026-03-18;bijna;παραλίγο;bijw.;;hoeveelheden, tijd
 1052;2026-03-18;hij/zij zal opstaan;θα σηκωθεί;ww.;;grammatica
-1054;2026-03-18;πρέπει να … ≠ έχω να …;πρέπει να … ≠ έχω να …;uitdr.;verschil in betekenis;grammatica
+1053;2026-03-18;tafeldekken;βάζω τραπέζι;ww. groep;;voedsel, routines
+1054;2026-03-18;onderlegger;(το) σουπλά;znw.;;voedsel, dingen
+1055;2026-03-18;Benaki-museum;(το) Μουσείο Μπενάκη;znw.;;cultuur, geografie
+1056;2026-03-18;πρέπει να … ≠ έχω να …;πρέπει να … ≠ έχω να …;uitdr.;verschil in betekenis;grammatica
+1057;2026-03-25;nationale feestdag;η εθνική γιορτή;znw.;herhaling;kalender, cultuur
+1058;2026-03-25;religieuze feestdag;η θρησκευτική γιορτή;znw.;;kalender, cultuur
+1059;2026-03-25;Maria;η Παναγία;eigennaam;;cultuur, namen
+1060;2026-03-25;dubbele feestdag;η διπλή γιορτή;znw.;25 maart;kalender, cultuur
+1061;2026-03-25;Zit!;Κάτσε!;uitdr.;;converseren, uitdrukkingen
+1062;2026-03-25;oorlog;(ο) πόλεμος;znw.;;maatschappij
+1063;2026-03-25;vijand;(ο) εχθρός;znw.;;maatschappij
+1064;2026-03-25;voorzichtig;προσεκτικός -η -ο;bnw.;;emoties
+1065;2026-03-25;eerst en vooral;πρώτ' απ' όλα;uitdr.;;converseren, uitdrukkingen
+1066;2026-03-25;hoop;(η) ελπίδα;znw.;;emoties
+1067;2026-03-25;kabeljauw;(ο) μπακαλιάρος;znw.;traditioneel op 25 maart;voedsel, cultuur
+1068;2026-03-25;skordalia;(η) σκορδαλιά;znw.;aardappelen, look en noten;voedsel, cultuur
+1069;2026-03-25;vasten;(η) νηστεία;znw.;;cultuur, kalender
+1070;2026-03-25;logisch;λογικός -η -ο;bnw.;;grammatica
+1071;2026-03-25;onlogisch;παράλογος -η -ο;bnw.;;grammatica
+1072;2026-03-25;viswinkel;(το) ιχθυοπωλείο;znw.;;winkelen, voedsel
+1073;2026-03-25;staart;(η) ουρά;znw.;;lichaam, dieren
+1074;2026-03-25;geheim;(το) μυστικό;znw.;;dingen
+1075;2026-03-25;feest;(το) γλέντι;znw.;;cultuur
+1076;2026-03-25;veel volk uitnodigen om te eten;κάνω τραπέζι;ww. groep;;voedsel, converseren
+1077;2026-03-25;bouwvakker;(ο) οικοδόμος;znw.;;beroepen, maatschappij
+1078;2026-03-25;rechtbank;(το) δικαστήριο;znw.;;maatschappij
+1079;2026-03-25;verantwoordelijk;υπεύθυνος -η -ο;bnw.;;emoties, maatschappij
+1080;2026-03-25;onbekend;άγνωστος -η -ο;bnw.;;grammatica
+1081;2026-03-25;leeg;άδειος -α -ο;bnw.;cfr. αδειανός in nota;dingen
+1082;2026-03-25;verenigd;ενωμένος -η -ο;bnw.;;maatschappij
+1083;2026-03-25;ongeval;(το) δυστύχημα;znw.;herhaling;dingen
+1084;2026-03-25;eenheid;(η) ενότητα;znw.;;maatschappij
+1085;2026-03-25;verantwoordelijkheid;(η) υπευθυνότητα;znw.;;maatschappij
+1086;2026-03-25;eerste stapjes;(τα) πρώτα βήματα;znw. groep;;school, maatschappij
+1087;2026-03-25;buurt;(η) γειτονιά;znw.;;wonen, routines
+1088;2026-03-25;het bijvoeglijk naamwoord;(το) επίθετο;znw.;;grammatica
+1089;2026-03-25;groot (bnw., verbuiging);μεγάλος, μεγάλη, μεγάλο | μεγάλοι, μεγάλες, μεγάλα | μεγάλου, μεγάλης, μεγάλου | μεγάλων;bnw.;verbuigingstabel;grammatica
+1090;2026-03-25;mooi (bnw. op -ος met geaccentueerde klinker);ωραίος -α -ό;bnw.;cfr. ωραία;grammatica
+1091;2026-03-25;zoet (bnw. op -κός -χός -θός);γλυκός -ιά -ό;bnw.;cfr. γλυκιά;grammatica
+1092;2026-03-25;vers;φρέσκος -ια -ό;bnw.;zelfde verbuiging als γλυκός;grammatica
+1093;2026-03-25;slecht (kort woord);κακός -ιά -ό;bnw.;kort woord: -ιά | -ή;grammatica
+1094;2026-03-25;zacht (kort woord);μαλακός -ιά -ό;bnw.;;grammatica
+1095;2026-03-25;blond (kort woord);ξανθός -ιά -ό;bnw.;;grammatica
+1096;2026-03-25;arm (kort woord);φτωχός -ιά -ό;bnw.;;grammatica
+1097;2026-03-25;¹edel (bnw.-regel) ²vriendelijk;ευγενικός -ή -ό;bnw.;"kort/lang woord; cfr. μου αρέσει + inf.";grammatica
+1098;2026-04-01;kenmerken;(τα) χαρακτηριστικά;znw.;;lichaam
+1099;2026-04-01;haar;(τα) μαλλιά;znw.;herhaling;lichaam
+1100;2026-04-01;wang;(το) μάγουλο;znw.;;lichaam
+1101;2026-04-01;wimper;(η) βλεφαρίδα, (οι) βλεφαρίδες;znw.;;lichaam
+1102;2026-04-01;neusgat;(το) ρουθούνι;znw.;;lichaam
+1103;2026-04-01;neus;(η) μύτη;znw.;;lichaam
+1104;2026-04-01;ruiken;μυρίζω;ww.;;lichaam, behoeftes
+1105;2026-04-01;mond;(το) στόμα;znw.;;lichaam
+1106;2026-04-01;lippen;(τα) χείλια;znw.;ook (τα) χείλη, (το) χείλος;lichaam
+1107;2026-04-01;lip;(το) χείλι;znw.;;lichaam
+1108;2026-04-01;voorhoofd;(το) μέτωπο;znw.;ook het front;lichaam
+1109;2026-04-01;oor;(το) αυτί;znw.;;lichaam
+1110;2026-04-01;oog;(το) μάτι;znw.;herhaling;lichaam
+1111;2026-04-01;wenkbrauwen;(τα) φρύδια;znw.;;lichaam
+1112;2026-04-01;snor;(το) μουστάκι;znw.;;lichaam
+1113;2026-04-01;baard;(τα) γένια;znw.;;lichaam
+1114;2026-04-01;verbeteren;διορθώνω;ww.;;school, maatschappij
+1115;2026-04-01;dobbelsteen;(το) ζάρι;znw.;;dingen
+1116;2026-04-01;in de laatste tijd;τώρα τελευταία;bijw.;;tijd, meten
+1117;2026-04-01;zwart (haar);μαύρα;bnw.;έχω μαύρα μαλλιά;lichaam, kleuren & vormen
+1118;2026-04-01;bruin (haar);καστανά;bnw.;;lichaam, kleuren & vormen
+1119;2026-04-01;rood (haar);κόκκινα;bnw.;;lichaam, kleuren & vormen
+1120;2026-04-01;blond (haar);ξανθά;bnw.;;lichaam, kleuren & vormen
+1121;2026-04-01;grijs (haar);γκρίζα;bnw.;;lichaam, kleuren & vormen
+1122;2026-04-01;wit (haar);άσπρα;bnw.;;lichaam, kleuren & vormen
+1123;2026-04-01;steil (haar);ίσια;bnw.;;lichaam
+1124;2026-04-01;krullend (haar);σγουρά;bnw.;;lichaam
+1125;2026-04-01;golvend (haar);κατσαρά;bnw.;ή κατσαρά;lichaam
+1126;2026-04-01;lang (haar);μακριά;bnw.;;lichaam, hoeveelheden
+1127;2026-04-01;kort (haar);κοντά;bnw.;;lichaam, hoeveelheden
+1128;2026-04-01;kaal;φαλακρός -ή -ό;bnw.;;lichaam
+1129;2026-04-01;groen (ogen);πράσινα;bnw.;έχω … μάτια;lichaam, kleuren & vormen
+1130;2026-04-01;blauw (haar， ogen);γαλανά;bnw.;ή γαλάζια;lichaam, kleuren & vormen
+1131;2026-04-01;lang;ψηλός -ή -ό;bnw.;gestalte;lichaam, hoeveelheden
+1132;2026-04-01;kort;κοντός -ή -ό;bnw.;gestalte;lichaam, hoeveelheden
+1133;2026-04-01;dik;χοντρός -ή -ό;bnw.;;lichaam
+1134;2026-04-01;slank;λεπτός -ή -ό;bnw.;;lichaam
+1135;2026-04-01;mager;αδυνατός -ή -ό;bnw.;;lichaam
+1136;2026-04-01;oud;μεγάλος -η -ο;bnw.;mensen;lichaam, relaties
+1137;2026-04-01;jong;μικρός -ή -ό;bnw.;mensen, ook νέος;lichaam, relaties
+1138;2026-04-01;oud (dingen);παλιός -ιά -ό;bnw.;niet voor mensen;dingen, hoeveelheden
+1139;2026-04-01;nieuw;καινούργιος -ια -ό;bnw.;dingen;dingen
+1140;2026-04-01;vlag;(η) σημαία;znw.;;cultuur, geografie
+1141;2026-04-01;de Griekse vlag;η γαλανόλευκη;znw.;blauwwit;cultuur, geografie
+1142;2026-04-01;bejaard;ηλικιωμένος -η -ο;bnw.;;lichaam, relaties
+1143;2026-04-01;een donker type;μελαχρινός -ή -ό;bnw.;;lichaam
+1144;2026-04-01;een bruin type;καστανός -ή -ό;bnw.;;lichaam
+1145;2026-04-01;een blond type;ξανθός -ή -ό;bnw.;;lichaam
+1146;2026-04-01;Pasen;(το) Πάσχα;znw.;;kalender, cultuur
+1147;2026-04-01;gewoontes;(τα) έθιμα;znw.;;cultuur
+1148;2026-04-01;verbergen;κρύβω;ww.;;converseren
+1149;2026-04-01;de Goede Week;η Μεγάλη Εβδομάδα;znw.;;kalender, cultuur
+1150;2026-04-01;kaars;(το) κερί;znw.;;dingen, cultuur
+1151;2026-04-01;bedoeling;(ο) στόχος;znw.;;converseren
+1152;2026-04-01;de voorkeur geven;προτιμώ;ww.;;converseren
+1153;2026-04-01;proberen;προσπαθώ;ww.;herhaling;converseren
+1154;2026-04-01;Christus is opgestaan!;Χριστός Ανέστη!;uitdr.;op Paasdag;cultuur, uitdrukkingen
+1155;2026-04-01;Waarlijk, Hij is opgestaan!;Αληθώς Ανέστη!;uitdr.;antwoord op Χριστός Ανέστη;cultuur, uitdrukkingen
+1156;2026-04-01;vogel;(το) πουλί;znw.;;dieren, natuur
+1157;2026-04-01;waarom;γιατί;vw.;ook επειδή;grammatica
+1158;2026-04-01;daarom;γι' αυτό;vw.;;grammatica
+1159;2026-04-01;omdat;επειδή;vw.;;grammatica
+1160;2026-04-01;Ik neem een paraplu omdat het regent.;Παίρνω ομπρέλα επειδή βρέχει.;zin;;converseren, grammatica
+1161;2026-04-01;Omdat het regent, neem ik een paraplu.;Επειδή βρέχει, παίρνω ομπρέλα.;zin;;converseren, grammatica
+1162;2026-04-01;Het regent, daarom neem ik een paraplu.;Βρέχει, γι' αυτό παίρνω ομπρέλα.;zin;;converseren, grammatica
+1163;2026-04-01;Ik kan koken.;μπορώ να μαγειρέψω;zin;aoristus conjunctief;grammatica, voedsel
+1164;2026-04-01;Ik weet koken.;ξέρω να μαγειρεύω;zin;tegenwoordige tijd;grammatica, voedsel
+1165;2026-04-01;eerder;μάλλον;bijw.;herhaling;grammatica
+1166;2026-04-01;bijna;σχεδόν;bijw.;herhaling;hoeveelheden, tijd
+1167;2026-04-01;nogal;αρκετά;bijw.;;grammatica
+1168;2026-04-01;charme;(η) γοητεία;znw.;;emoties
+1169;2026-04-01;slaap hebben;νυστάζομαι;ww.;;lichaam, behoeftes
+1170;2026-04-01;staking;(η) απεργία;znw.;;beroepen, maatschappij
+1171;2026-04-01;studeren;(το) διάβασμα;znw.;;school, maatschappij
+1172;2026-04-01;juweel;(το) στολίδι;znw.;;dingen
+1173;2026-04-01;refrein;(ο) επωδός;znw.;;muziek, cultuur
+1174;2026-04-22;bezienswaardigheden;(τα) αξιοθέατα;znw.;;reizen, cultuur
+1175;2026-04-22;begrafenis;(η) κηδεία;znw.;;cultuur, relaties
+1176;2026-04-22;vreugde en verdriet tegelijk;χαρμολύπη;znw.;;emoties
+1177;2026-04-22;knap;κουκλός -ή -ό;bnw.;;emoties, converseren
+1178;2026-04-22;het bevalt me + infinitief;μου αρέσει + inf.;zin;tegenwoordige tijd;grammatica
+1179;2026-04-22;(geld) verdienen;βγάζω λεφτά;ww. groep;;beroepen, winkelen
+1180;2026-04-22;loon;(ο) μισθός;znw.;;beroepen, maatschappij
+1181;2026-04-22;onder ons;μεταξύ μας;uitdr.;;converseren, uitdrukkingen
+1182;2026-04-22;het speelt een rol;παίζει ρόλο;uitdr.;;converseren, uitdrukkingen
+1183;2026-04-22;eruitzien;φαίνεται;ww.;;converseren, lichaam
+1184;2026-04-22;bretellen;(οι) τιράντες;znw.;;kleding
+1185;2026-04-22;vegen;σκουπίζω;ww.;;wonen, routines
+1186;2026-04-22;stofzuiger;(η) ηλεκτρική σκούπα;znw.;;wonen, dingen
+1187;2026-04-22;wassen;πλένω - έπλυνα;ww.;stamtijden;wonen, routines
+1188;2026-04-22;waterverwarmer;(ο) θερμοσίφωνας;znw.;;wonen, dingen
+1189;2026-04-22;mixer;(το) μίξερ;znw.;;wonen, voedsel
+1190;2026-04-22;strijken;σιδερώνω;ww.;herhaling;wonen, routines
+1191;2026-04-22;stoomstrijkijzer;(το) ατμοσίδερο;znw.;;wonen, dingen
+1192;2026-04-29;meubels;(τα) έπιπλα;znw.;;wonen, dingen
+1193;2026-04-29;gemeubeld;επιπλωμένος -η -ο;bnw.;;wonen
+1194;2026-04-29;geschikt;κατάλληλα;bijw.;;dingen
+1195;2026-04-29;gemeenschappelijke kosten;(τα) κοινόχρηστα;znw.;;wonen, winkelen
+1196;2026-04-29;huur;(το) ενοίκιο;znw.;herhaling;wonen, winkelen
+1197;2026-04-29;met open keuken;(η) κουζινοτραπεζαρία;znw.;;wonen, gebouwen
+1198;2026-04-29;rustig;ήσυχος -η -ο;bnw.;;emoties, wonen
+1199;2026-04-29;open haard;(το) τζάκι;znw.;;wonen, gebouwen
+1200;2026-04-29;om precies te zijn;για την ακρίβεια;uitdr.;nauwgezet;converseren, uitdrukkingen
+1201;2026-04-29;studio (appartement);(η) γκαρσονιέρα;znw.;;wonen, gebouwen
+1202;2026-04-29;appartement met 2 kamers;(το) δυάρι;znw.;+ keuken en badkamer;wonen, gebouwen
+1203;2026-04-29;appartement met 3 kamers;(το) τριάρι;znw.;;wonen, gebouwen
+1204;2026-04-29;appartement met 4 kamers;(το) τεσσάρι;znw.;;wonen, gebouwen
+1205;2026-04-29;appartement met 5 kamers;(το) πεντάρι;znw.;+ keuken, badkamer en wc;wonen, gebouwen
+1206;2026-04-29;toilet;(η) τουαλέτα;znw.;;wonen, gebouwen
+1207;2026-04-29;woonkamer;(το) καθιστικό;znw.;de zitplaats;wonen, gebouwen
+1208;2026-04-29;slaapkamer;(η) κρεβατοκάμαρα;znw.;ook (το) υπνοδωμάτιο;wonen, gebouwen
+1209;2026-04-29;hall;(το) χολ;znw.;;wonen, gebouwen
+1210;2026-04-29;binnenkomen;μπαίνω μέσα;ww.;;wonen, converseren
+1211;2026-04-29;keuken;(η) κουζίνα;znw.;;wonen, voedsel
+1212;2026-04-29;badkamer;(το) μπάνιο;znw.;;wonen, gebouwen
+1213;2026-04-29;eetkamer;(η) τραπεζαρία;znw.;;wonen, gebouwen
+1214;2026-04-29;balkon;(το) μπαλκόνι;znw.;het terras;wonen, gebouwen
+1215;2026-04-29;de hoofdkamer;(το) κύριο δωμάτιο;znw.;slaapkamer, living, salon of eetkamer;wonen, gebouwen
+1216;2026-04-29;living;(το) λίβινγκ ρουμ;znw.;;wonen, gebouwen
+1217;2026-04-29;salon;(το) σαλόνι;znw.;;wonen, gebouwen
+1218;2026-04-29;heel slecht;χάλια;bijw.;;emoties, behoeftes
+1219;2026-04-29;sinds;εδώ και;bijw.;;tijd, grammatica
+1220;2026-04-29;procent;τοις εκατό;znw.;ook τα εκατό, herhaling;hoeveelheden, meten
+1221;2026-04-29;tegen;κατά;vz.;herhaling;grammatica
+1222;2026-04-29;voor;υπέρ;vz.;+ genitief;grammatica
+1223;2026-04-29;officiële feestdag;(η) αργία;znw.;;kalender, cultuur
+1224;2026-04-29;driedaagse;(το) τριήμερο;znw.;;kalender, reizen
+1225;2026-04-29;de gebiedende wijs;η επιτακτική;znw.;stam μέλλοντας + ε / τε;grammatica
+1226;2026-04-29;lezen (gebiedende wijs);διάβασε， διαβάστε;zin;διαβάζω → διάβασα → θα διαβάσω;grammatica
+1227;2026-04-29;nemen (gebiedende wijs);πάρε， πάρτε;zin;παίρνω;grammatica, converseren
+1228;2026-04-29;laten;αφήνω;ww.;αφήσε， αφήστε | άσε， άστε;grammatica
+1229;2026-04-29;kijken (gebiedende wijs);δες， δείτε | δέστε;zin;βλέπω → να δω;grammatica
+1230;2026-04-29;zeggen (gebiedende wijs);πες， πείτε | πέστε;zin;λέω → να πω, ook πέστε;grammatica
+1231;2026-04-29;vinden (gebiedende wijs);βρες， βρείτε | βρέστε;zin;βρίσκω → να βρω;grammatica
+1232;2026-04-29;drinken (gebiedende wijs);πιες， πιείτε | πιέστε;zin;πίνω → να πιω;grammatica
+1233;2026-04-29;eten (gebiedende wijs);φάε， φάτε;zin;τρώω → να φάω;grammatica, voedsel
+1234;2026-04-29;gaan (gebiedende wijs);πήγαινε， πηγαίνετε;zin;πηγαίνω → να πάω;grammatica, reizen
+1235;2026-04-29;zitten (gebiedende wijs);κάθισε， καθίστε;zin;κάθομαι, ook κάτσε;grammatica
+1236;2026-04-29;komen (gebiedende wijs);έλα， ελάτε;zin;έρχομαι → να έρθω;grammatica
+1237;2026-04-29;blijven (gebiedende wijs);μείνε， μείνετε;zin;να μείνω;grammatica
+1238;2026-04-29;vervoegen (gebiedende wijs);κλίνε， κλίνετε;zin;να κλίνω;grammatica
+1239;2026-04-29;vertrekken (gebiedende wijs);φύγε， φύγετε;zin;να φύγω;grammatica, reizen
+1240;2026-04-29;leren (gebiedende wijs);μάθε， μάθετε;zin;να μάθω;grammatica, school
+1241;2026-04-29;betalen (gebiedende wijs);πλήρωσε， πληρώστε;zin;πληρώνω;grammatica, winkelen
+1242;2026-04-29;openen (gebiedende wijs);άνοιξε， ανοίξτε;zin;ανοίγω;grammatica
+1243;2026-04-29;schrijven (gebiedende wijs);γράψε， γράψτε;zin;γράφω;grammatica, school
+1244;2026-04-29;Vertel mij!;Πες μου!;uitdr.;zeg mij;converseren, uitdrukkingen
+1245;2026-05-06;regenboog;(το) ουράνιο τόξο;znw.;;natuur, kleuren & vormen
+1246;2026-05-06;eengezinswoning;(η) μονοκατοικία;znw.;;wonen, gebouwen
+1247;2026-05-06;zolder;(η) σοφίτα;znw.;;wonen, gebouwen
+1248;2026-05-06;gelijkvloers;(το) ισόγειο;znw.;;wonen, gebouwen
+1249;2026-05-06;kelder;(το) υπόγειο;znw.;;wonen, gebouwen
+1250;2026-05-06;logeerkamer;(το) πρόχειρο δωμάτιο;znw.;;wonen, gebouwen
+1251;2026-05-06;temperatuur;(η) θερμοκρασία;znw.;;natuur, meten
+1252;2026-05-06;reusachtig;τεράστιος -η -ο;bnw.;;hoeveelheden
+1253;2026-05-06;genie;(η) ιδιοφυΐα;znw.;;cultuur, school
+1254;2026-05-06;dak;(η) σκεπή;znw.;;wonen, gebouwen
+1255;2026-05-06;raam;(το) τζάμι;znw.;;wonen, gebouwen
+1256;2026-05-06;muur;(ο) τοίχος;znw.;;wonen, gebouwen
+1257;2026-05-06;deur;(η) πόρτα;znw.;herhaling;wonen, gebouwen
+1258;2026-05-06;klink;(το) πόμολο;znw.;;wonen, dingen
+1259;2026-05-06;venster;(το) παράθυρο;znw.;;wonen, gebouwen
+1260;2026-05-06;drempel;(το) κατώφλι;znw.;;wonen, gebouwen
+1261;2026-05-06;bloempot;(η) γλάστρα;znw.;;natuur, wonen
+1262;2026-05-06;buis;(ο) σωλήνας;znw.;;dingen
+1263;2026-05-06;vat;(το) βαρέλι;znw.;regenton;wonen, dingen
+1264;2026-05-06;wasmachine;(το) πλυντήριο ρούχων;znw.;;wonen, dingen
+1265;2026-05-06;lavabo;(ο) νιπτήρας;znw.;;wonen, gebouwen
+1266;2026-05-06;berging;(η) αποθήκη;znw.;;wonen, gebouwen
+1267;2026-05-06;zithoek;(το) καθιστικό;znw.;ook (το) σαλόνι;wonen, gebouwen
+1268;2026-05-06;gang;(ο) διάδρομος;znw.;;wonen, gebouwen
+1269;2026-05-06;kastje;(το) ντουλάπι;znw.;herhaling;wonen, dingen
+1270;2026-05-06;lade;(το) συρτάρι;znw.;herhaling;wonen, dingen
+1271;2026-05-06;koelkast;(το) ψυγείο;znw.;;wonen, voedsel
+1272;2026-05-06;gootsteen;(ο) νεροχύτης;znw.;herhaling;wonen, gebouwen
+1273;2026-05-06;kraan;(η) βρύση;znw.;;wonen, dingen
+1274;2026-05-06;bed;(το) κρεβάτι;znw.;;wonen, dingen
+1275;2026-05-06;nachtkastje;(το) κομοδίνο;znw.;;wonen, dingen
+1276;2026-05-06;kledingkast;(η) ντουλάπα;znw.;herhaling;wonen, kleding
+1277;2026-05-06;spiegel;(ο) καθρέφτης;znw.;;wonen, dingen
+1278;2026-05-06;tafel;(το) τραπέζι;znw.;;wonen, dingen
+1279;2026-05-06;stoel;(η) καρέκλα;znw.;herhaling;wonen, dingen
+1280;2026-05-06;bureau;(το) γραφείο;znw.;;wonen, school
+1281;2026-05-06;boekenkast;(η) βιβλιοθήκη;znw.;;wonen, school
+1282;2026-05-06;bank;(ο) καναπές;znw.;;wonen, dingen
+1283;2026-05-06;fauteuil;(η) πολυθρόνα;znw.;;wonen, dingen
+1284;2026-05-06;tapijt;(το) χαλί;znw.;;wonen, dingen
+1285;2026-05-06;gordijnen;(οι) κουρτίνες;znw.;;wonen, kleding
+1286;2026-05-06;bad;(η) μπανιέρα;znw.;;wonen, gebouwen
+1287;2026-05-06;te huur， wordt verhuurd;νοικιάζεται;ww.;;wonen, winkelen
+1288;2026-05-06;starten;ξεκινάω;ww.;;converseren
+1289;2026-05-06;advertentie;(η) αγγελία;znw.;;winkelen, cultuur
+1290;2026-05-06;van wie;ποιανού;vnw.;;grammatica
+1291;2026-05-06;eigenaar;(ο) ιδιοκτήτης;znw.;;wonen, maatschappij
+1292;2026-05-06;zoals u weet;όπως ξέρετε;uitdr.;;converseren, uitdrukkingen
+1293;2026-05-06;verdergaan;προχωρώ;ww.;;converseren
+1294;2026-05-06;afspreken;κανονίζω;ww.;;converseren, relaties
+1295;2026-05-06;richtlijn;(η) οδηγία;znw.;;school, maatschappij
+1296;2026-05-06;diepte;(το) βάθος;znw.;de achtergrond;grammatica, meten
+1297;2026-05-06;duister;σκοτεινός -η -ο;bnw.;donker;wonen, kleuren & vormen
+1298;2026-05-06;verlicht;φωτεινός -ή -ό;bnw.;;wonen, kleuren & vormen
+1299;2026-05-06;storen;ενοχλώ;ww.;;emoties, converseren
+1300;2026-05-06;streek;(η) περιοχή;znw.;;geografie, cultuur
+1301;2026-05-06;gelijk hebben;έχω δίκιο;ww. groep;herhaling;converseren, uitdrukkingen
+1302;2026-05-06;verwarming;(η) θέρμανση;znw.;;wonen, gebouwen
+1303;2026-05-06;bel;(το) κουδούνι;znw.;;wonen, dingen
+1304;2026-05-06;tweede;δεύτερος -η -ο;telw.;2ος;grammatica, hoeveelheden
+1305;2026-05-06;eerste;πρώτο;telw.;1ο;grammatica, hoeveelheden
+1306;2026-05-06;gemeente;(ο) δήμος;znw.;;maatschappij, geografie
+1307;2026-05-06;flatgebouw;(η) πολυκατοικία;znw.;;wonen, gebouwen
+1308;2026-05-06;Hoe komt het?;Πώς από;;vraagzin;;converseren
+1309;2026-05-06;Jij hier op dit uur?;Πώς από 'δώ τέτοια ώρα;;vraagzin;;converseren
+1310;2026-05-06;Mag ik zetten?;Να βάλω;;vraagzin;;converseren
+1311;2026-05-06;Met plezier!;Ευχαρίστως!;uitdr.;;converseren, uitdrukkingen
+1312;2026-05-06;m²;τετραγωνικά μέτρα;znw.;;meten, hoeveelheden
+1313;2026-05-13;vijver;(η) λιμνούλα;znw.;;natuur
+1314;2026-05-13;belangrijk;σημαντικός -η -ό;bnw.;;dingen
+1315;2026-05-13;detail;(η) λεπτομέρεια;znw.;herhaling;dingen
+1316;2026-05-13;vloer;(το) πάτωμα;znw.;;wonen, gebouwen
+1317;2026-05-13;sigaren;(τα) πούρα;znw.;;dingen, cultuur
+1318;2026-05-13;zijde;(το) μετάξι;znw.;;kleding, dingen
+1319;2026-05-13;tulp;(η) τουλίπα;znw.;;natuur
+1320;2026-05-13;kaviaar;(το) χαβιάρι;znw.;;voedsel, dingen
+1321;2026-05-13;onwel;αδιάθετος -η -ο;bnw.;;lichaam, emoties
+1322;2026-05-13;comfortabel;άνετος -η -ο;bnw.;;emoties, wonen
+1323;2026-05-13;achteraan;στο βάθος;znw. groep;in de diepte;wonen, grammatica
+1324;2026-05-13;echter;όμως;bijw.;;grammatica
+1325;2026-05-13;enigszins;κάπως;bijw.;;grammatica
+1326;2026-05-13;Kom binnen! De keuken is hier.;Περάστε! Από 'δώ είναι η κουζίνα.;zin;;converseren, wonen
+1327;2026-05-13;geeft uit op;βλέπει;ww.;το σπίτι βλέπει στο σχολείο;wonen, gebouwen
+1328;2026-05-13;zoals u ziet;όπως βλέπετε;uitdr.;;converseren, uitdrukkingen
+1329;2026-05-13;… is redelijk duur;είναι κάπως ακριβό;zin;;winkelen, converseren
+1330;2026-05-13;zoals u wil;όπως θέλετε;uitdr.;;converseren, uitdrukkingen
+1331;2026-05-13;Ik denk dat u geen gelijk heeft.;Νομίζω ότι δεν έχετε δίκιο.;zin;;converseren
+1332;2026-05-13;Het salon is comfortabeler dan de slaapkamer.;Το σαλόνι είναι πιο άνετο από την κρεβατοκάμαρα.;zin;πιο = meer, από = dan;wonen, grammatica
+1333;2026-05-13;internationale handelsbeurs;Διεθνής εμπορική έκθεση;znw.;;cultuur, maatschappij
+1334;2026-05-13;producten;(τα) προϊόντα;znw.;;winkelen, voedsel
+1335;2026-05-13;Ik zie geen Schotse whisky.;Δεν βλέπω ουίσκι Σκωτίας.;zin;;voedsel, cultuur
+1336;2026-05-13;tulpen;(οι) τουλίπες;znw.;Ολλανδίας;natuur, geografie
+1337;2026-05-13;schoenen;(τα) παπούτσια;znw.;Ιταλίας;kleding, geografie
+1338;2026-05-13;tapijten;(τα) χαλιά;znw.;Περσίας;wonen, geografie
+1339;2026-05-13;bananen;(οι) μπανάνες;znw.;Βραζιλίας;voedsel, geografie
+1340;2026-05-13;wijnen;(τα) κρασιά;znw.;Γαλλίας;voedsel, geografie
+1341;2026-05-13;jeans;(τα) τζιν;znw.;Αμερικής;kleding, geografie
+1342;2026-05-13;koffie;(ο) καφές;znw.;Κολομβίας;voedsel, geografie
+1343;2026-05-13;wodka;(η) βότκα;znw.;Ρωσίας;voedsel, geografie
+1344;2026-05-13;We hebben een afspraak voor het appartement.;Έχουμε ραντεβού για το διαμέρισμα.;zin;;wonen, converseren
+1345;2026-05-13;Kom binnen.;Περάστε.;uitdr.;;converseren, uitdrukkingen
+1346;2026-05-13;Uw buurt is mooi.;Ωραία η γειτονιά σας.;zin;;wonen, converseren
+1347;2026-05-13;Het is zeker stiller dan waar ik nu woon.;Σίγουρα πιο ήσυχη από αυτή που μένω τώρα.;zin;;wonen, converseren
+1348;2026-05-13;En heel dicht bij de metro.;Και πολύ κοντά στο μετρό.;zin;;reizen, wonen
+1349;2026-05-13;De slaapkamer is wat klein en donker.;Η κρεβατοκάμαρα είναι λίγο μικρή και σκοτεινή.;zin;;wonen
+1350;2026-05-13;Het salon is ruimer en lichter.;Το σαλόνι είναι πιο άνετο και πιο φωτεινό.;zin;;wonen
+1351;2026-05-13;Het heeft een groot balkon.;Έχει και μεγάλη βεράντα.;zin;;wonen, gebouwen
+1352;2026-05-13;Geeft het uit op de school?;Βλέπει στο σχολείο;;vraagzin;;wonen, school
+1353;2026-05-13;Redelijk.;Αρκετά.;uitdr.;;converseren
+1354;2026-05-13;Als de stemmen van de kinderen u niet storen.;Αν δε σας ενοχλούν οι φωνές των παιδιών.;zin;tijdens de pauze;school, wonen
+1355;2026-05-13;En de huur?;Και το ενοίκιο;;vraagzin;;winkelen, wonen
+1356;2026-05-13;Redelijk duur voor mij.;Κάπως ακριβό για μένα.;zin;;winkelen
+1357;2026-05-13;Zoals u ziet, alle vloeren zijn nieuw.;Όπως βλέπετε, όλα τα πατώματα είναι καινούρια.;zin;;wonen
+1358;2026-05-13;Bovendien heeft het telefoon en twee airco's.;Ακόμη, έχει τηλέφωνο και δύο κλιματιστικά.;zin;ακόμη = bovendien;wonen, dingen
+1359;2026-05-13;In andere appartementen van de streek is de huur goedkoper.;Στα άλλα διαμερίσματα της περιοχής το ενοίκιο είναι πιο φτηνό.;zin;;wonen, winkelen
+1360;2026-05-13;De andere flats zijn ouder dan deze.;Οι άλλες πολυκατοικίες είναι πιο παλιές από αυτή.;zin;;wonen, gebouwen
+1361;2026-05-13;correspondentie van vrienden;Αλληλογραφία φίλων;znw.;;converseren, school
+1362;2026-05-13;zich verbeelden;φανταστείτε;ww.;;grammatica
+1363;2026-05-13;voorafgaand;προηγουμένως;bijw.;;grammatica
+1364;2026-05-13;ik leefde;έζησα;ww.;aoristus;grammatica
+1365;2026-05-13;ik werd geboren;γεννήθηκα;ww.;aoristus;grammatica
+1366;2026-05-13;ik ging;πήγα;ww.;aoristus, herhaling;grammatica
+1367;2026-05-13;ik groeide op;μεγάλωσα;ww.;aoristus;grammatica
+1368;2026-05-13;het beviel me;άρεσε;ww.;aoristus;grammatica
+1369;2026-05-13;wij kwamen;ήρθαμε;ww.;aoristus;grammatica
+1370;2026-05-13;ik maakte af;τελείωσα;ww.;aoristus, herhaling;grammatica
+1371;2026-05-13;hij stierf;πέθανε;ww.;aoristus;grammatica
+1372;2026-05-13;ik had;είχα;ww.;aoristus, herhaling;grammatica
+1373;2026-05-13;ik haalde (een examen);πέρασα;ww.;aoristus;grammatica
+1374;2026-05-13;zij hadden;είχαν;ww.;aoristus;grammatica
+1375;2026-05-13;Mijn droom;Όνειρό μου;znw.;;emoties
+1376;2026-05-13;op reis gaan;πάω ταξίδι;ww. groep;;reizen, routines
+1377;2026-05-13;er is (iemand);υπάρχει;ww.;cfr. έχει;grammatica
+1378;2026-05-13;het heeft (iemand);έχει;ww.;cfr. υπάρχει;grammatica
+1379;2026-05-13;Kunt u mij een betere prijs geven?;Μπορείτε να μου κάνετε καλύτερη τιμή;;vraagzin;;winkelen, converseren
+1380;2026-05-13;Ik wil tv kijken.;Θέλω να δω τηλεόραση.;zin;;converseren
+1381;2026-05-13;Je moet eerst de hond uitlaten.;Πρέπει πρώτα να βγάλεις τον σκύλο βόλτα.;zin;;routines, dieren
+1382;2026-05-13;Mag ik roken?;Μπορώ να καπνίσω;;vraagzin;oefening 10.1;converseren
+1383;2026-03-18;we vervoegen (werkwoorden);κλίνουμε;ww.;cfr. nota κλείνουμε;grammatica
+1384;2026-04-29;niet (gebiedende wijs);μην;bijw.;cfr. (να) μην …;grammatica
+1385;2026-04-29;schrijven (ontkennend);γράψε = (να) μην γράφεις;zin;cfr. γράφετε = (να) μην γράφετε;grammatica
+1386;2026-05-13;zijden stoffen;(τα) μεταξωτά;znw.;Κίνας;kleding, geografie
+1387;2026-05-13;kaviaar (uit Finland);(το) χαβιάρι της Φινλανδίας;znw. groep;;voedsel, geografie
+1388;2026-05-13;het paspoortnummer;(ο) αριθμός (του) διαβατηρίου;znw.;Το λέμε κι έτσι;grammatica, maatschappij
+1389;2026-05-13;postzegels voor het buitenland;(τα) γραμματόσημα (του) εξωτερικού;znw. groep;;grammatica, maatschappij
+1390;2026-05-13;de musea van Thessaloniki;(τα) μουσεία της Θεσσαλονίκης;znw. groep;;geografie, cultuur
+1391;2026-05-13;het lesuur;(η) ώρα του μαθήματος;znw.;;school, tijd
+1392;2026-05-13;de Griekse les;(το) μάθημα των ελληνικών;znw.;;school, grammatica
+1393;2026-05-13;de borden van de vaatwasser;(τα) πιάτα (του πλυντηρίου);znw. groep;;wonen, voedsel
+1394;2026-05-13;de wijnglazen;(τα) ποτήρια (του κρασιού);znw. groep;;voedsel, dingen
+1395;2026-05-13;de ingang van het appartement;(η) είσοδος (του διαμερίσματος);znw.;;wonen, gebouwen
+1396;2026-05-13;correspondentie voeren;αλληλογραφώ;ww.;αλληλογραφία φίλων;converseren, school
+1397;2026-05-13;Het bevalt me dit appartement, maar ik wil even tijd.;Μου αρέσει το διαμέρισμα, αλλά θα ήθελα λίγο χρόνο.;zin;;wonen, converseren
+1398;2026-05-13;Mag ik vertrekken om twee uur vandaag?;Μπορώ να φύγω στις 2:00 σήμερα;;vraagzin;oefening 10.2;converseren, school
+1399;2026-05-13;Mag ik even telefoneren?;Μπορώ να πάρω ένα τηλέφωνο;;vraagzin;oefening 10.3;converseren
+1400;2026-05-13;Mag ik de airco uitzetten?;Μπορώ να κλείσω το κλιματιστικό;;vraagzin;oefening 10.4;wonen, converseren
+1401;2026-05-13;Ik wil tv kijken, maar je moet eerst de hond uitlaten.;Θέλω να δω τηλεόραση, αλλά πρέπει πρώτα να βγάλεις τον σκύλο βόλτα.;zin;oefening 9.2;converseren, dieren
+1402;2026-05-13;de kaart van Azië;Είναι ο χάρτης της Ασίας.;zin;παράδειγμα, oefening 2;grammatica, geografie
+1403;2026-05-13;de schrijfster van kinderboeken;Είναι η συγγραφέας των παιδικών βιβλίων.;zin;oefening 2.3;grammatica, school
+1404;2026-05-13;Dit nummer staat in het paspoort.;Αυτός ο αριθμός υπάρχει στο διαβατήριο.;zin;→ Είναι ο αριθμός (του) διαβατηρίου;grammatica
+1405;2026-05-13;Deze postzegels gebruiken we voor post naar het buitenland.;Αυτά τα γραμματόσημα χρησιμοποιούμε όταν στέλνουμε γράμμα στο εξωτερικό.;zin;→ Είναι τα γραμματόσημα (του) εξωτερικού;grammatica
+1406;2026-05-13;Deze schrijfster schrijft kinderboeken.;Αυτή η συγγραφέας γράφει παιδικά βιβλία.;zin;→ των παιδικών βιβλίων;grammatica, school
+1407;2026-05-13;Deze musea liggen in Thessaloniki.;Αυτά τα μουσεία βρίσκονται στη Θεσσαλονίκη.;zin;→ της Θεσσαλονίκης;geografie, cultuur
+1408;2026-05-13;Op dit uur hebben we les.;Αυτή την ώρα κάνουμε μάθημα.;zin;→ του μαθήματος;school, tijd
+1409;2026-05-13;In deze les leren we Grieks.;Σ' αυτό το μάθημα μαθαίνουμε ελληνικά.;zin;→ των ελληνικών;school, grammatica
+1410;2026-05-13;Deze vaatwasser wast de borden.;Αυτό το πλυντήριο πλένει πιάτα.;zin;→ των πιάτων;wonen, grammatica
+1411;2026-05-13;Met deze glazen drinken we wijn.;Μ' αυτά τα ποτήρια πίνουμε κρασί.;zin;→ του κρασιού;voedsel, grammatica
+1412;2026-05-13;Deze ingang hoort bij het appartement.;Αυτή η είσοδος ανήκει στο διαμέρισμα.;zin;→ του διαμερίσματος;wonen, grammatica
+1413;2026-05-13;Ik wil gaan slapen, maar je moet eerst je studie afmaken.;Θέλω να πάω για ύπνο, αλλά πρέπει πρώτα να τελειώσεις το διάβασμα.;zin;oefening 9.1;converseren, school
+1414;2026-05-13;Ik wil de krant lezen, maar je moet eerst koken.;Θέλω να διαβάσω εφημερίδα, αλλά πρέπει πρώτα να μαγειρέψεις.;zin;oefening 9.3;converseren, voedsel
+1415;2026-05-13;Ik wil koffie drinken, maar je moet eerst boodschappen doen.;Θέλω να πιω καφέ, αλλά πρέπει πρώτα να ψωνίσεις από το σούπερ μάρκετ.;zin;oefening 9.4;converseren, voedsel
+1416;2026-05-13;Ik wil mijn vriendin bellen, maar je moet eerst de borden wassen.;Θέλω να τηλεφωνήσω στη φίλη μου, αλλά πρέπει πρώτα να πλύνεις τα πιάτα.;zin;oefening 9.5;converseren, wonen
+1417;2026-05-13;Ik wil Vasilis en Olga ontmoeten, maar je moet eerst hun telefoon vinden.;Θέλω να συναντήσω τον Βασίλη και την Όλγα, αλλά πρέπει πρώτα να βρεις το τηλέφωνό τους.;zin;oefening 9.6;converseren, relaties
+1418;2026-05-13;Ik wil naar het theater, maar je moet eerst tickets reserveren.;Θέλω να πάω στο θέατρο, αλλά πρέπει πρώτα να κλείσεις εισιτήρια.;zin;oefening 9.7;converseren, cultuur
+1419;2026-05-13;Ik wil op vakantie, maar je moet eerst verlof vragen.;Θέλω να φύγω για διακοπές, αλλά πρέπει πρώτα να ζητήσεις άδεια από τη δουλειά σου.;zin;oefening 9.8;converseren, reizen
+1420;2026-05-13;Mag ik een idee zeggen?;Μπορώ να πω μια ιδέα;;vraagzin;oefening 10.5;converseren, school
+1421;2026-05-13;Mag ik jouw computer gebruiken?;Μπορώ να χρησιμοποιήσω τον υπολογιστή σου;;vraagzin;oefening 10.6;converseren, maatschappij
+1422;2026-05-13;Mag ik nog wat eten?;Μπορώ να φάω λίγο ακόμα;;vraagzin;oefening 10.7;voedsel, converseren
+1423;2026-05-13;Mag ik Fotis uitnodigen voor het feest?;Μπορώ να καλέσω τον Φώτη στο πάρτι;;vraagzin;oefening 10.8;converseren, relaties
